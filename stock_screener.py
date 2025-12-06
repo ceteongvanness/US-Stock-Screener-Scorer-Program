@@ -328,45 +328,27 @@ def get_all_us_stocks():
     # Method 1: Use a predefined list of major US stocks
     # In production, you'd want to use a more comprehensive data source
     
-    # Major indices components
+    # User's stock list from Excel (129 tickers)
     major_tickers = [
-        # FAANG + Microsoft
-        'AAPL', 'MSFT', 'GOOGL', 'AMZN', 'META', 'NVDA', 'TSLA',
+        'ABBV', 'ABM', 'ABT', 'ADM', 'ADP', 'AFL', 'ALB', 'ANDE', 'AOS', 'APD',
+        'ATO', 'ATR', 'AWR', 'BANF', 'BDX', 'BKH', 'BMI', 'BRC', 'BRO', 'CAH',
+        'CAT', 'CATC', 'CB', 'CBSH', 'CBU', 'CDUAF', 'CFR', 'CHD', 'CHRW', 'CINF',
+        'CL', 'CLX', 'CSL', 'CTAS', 'CTBI', 'CVX', 'CWT', 'DCI', 'DOV', 'ECL',
+        'ED', 'EMLAF', 'EMR', 'EPD', 'ERIE', 'ES', 'ESS', 'EXPD', 'FAST', 'FDS',
+        'FELE', 'FMCB', 'FRT', 'FUL', 'GD', 'GGG', 'GPC', 'GRC', 'GWW', 'HRL',
+        'IBM', 'ITW', 'JKHY', 'JNJ', 'KMB', 'KO', 'LANC', 'LECO', 'LEG', 'LOW',
+        'MATW', 'MCD', 'MDT', 'MGEE', 'MGRC', 'MKC', 'MMM', 'MO', 'MSA', 'MSEX',
+        'NDSN', 'NEE', 'NFG', 'NJR', 'NNN', 'NUE', 'NWN', 'O', 'ORI', 'OZK',
+        'PB', 'PEP', 'PG', 'PH', 'PII', 'PPG', 'RBCAA', 'RHHVF', 'RLI', 'RNR',
+        'RPM', 'SBSI', 'SCL', 'SEIC', 'SHW', 'SJM', 'SJW', 'SPGI', 'SRCE', 'SWK',
+        'SYK', 'SYY', 'TDS', 'TGT', 'TMP', 'TNC', 'TROW', 'UBSI', 'UGI', 'UMBF',
+        'UVV', 'WABC', 'WLY', 'WLYB', 'WMT', 'WST', 'WTRG', 'XOM', 'YORW',
         
-        # Blue chips
-        'JNJ', 'JPM', 'V', 'WMT', 'PG', 'UNH', 'HD', 'BAC', 'XOM', 'CVX',
-        'ABBV', 'MA', 'KO', 'PEP', 'COST', 'MRK', 'TMO', 'AVGO', 'ABT', 'LLY',
-        'ORCL', 'ACN', 'NKE', 'CSCO', 'DHR', 'VZ', 'ADBE', 'CRM', 'MCD', 'WFC',
-        
-        # Dividend aristocrats
-        'MMM', 'AFL', 'APD', 'ADM', 'AOS', 'ABT', 'ABBV', 'ADP', 'ALB', 'ARE',
-        'CHRW', 'CAH', 'CAT', 'CB', 'CINF', 'CTAS', 'CLX', 'CL', 'ED', 'ECL',
-        'EMR', 'ESS', 'EXR', 'XOM', 'FRT', 'GD', 'GPC', 'HRL', 'ITW', 'IBM',
-        
-        # Tech
-        'AMD', 'INTC', 'QCOM', 'TXN', 'AMAT', 'LRCX', 'KLAC', 'SNPS', 'CDNS',
-        'NOW', 'PANW', 'CRWD', 'ZS', 'DDOG', 'NET', 'SNOW',
-        
-        # Finance
-        'GS', 'MS', 'C', 'BLK', 'SCHW', 'AXP', 'USB', 'PNC', 'TFC', 'COF',
-        
-        # Healthcare
-        'UNH', 'CVS', 'CI', 'HUM', 'ANTM', 'PFE', 'MRNA', 'BMY', 'GILD', 'AMGN',
-        
-        # Consumer
-        'DIS', 'NFLX', 'SBUX', 'NKE', 'LOW', 'TGT', 'TJX', 'ROST', 'DG', 'DLTR',
-        
-        # Industrials
-        'BA', 'HON', 'UPS', 'RTX', 'LMT', 'GE', 'DE', 'EMR', 'MMM',
-        
-        # Energy
-        'XOM', 'CVX', 'COP', 'SLB', 'EOG', 'MPC', 'PSX', 'VLO',
-        
-        # Telecom & Utilities
-        'T', 'TMUS', 'VZ', 'NEE', 'DUK', 'SO', 'D', 'AEP',
-        
-        # Small caps mentioned in conversation
-        'F', 'SOFI', 'PATH', 'PLTR', 'NIO', 'GME', 'INTC',
+        # Additional major stocks for context
+        'AAPL', 'MSFT', 'GOOGL', 'AMZN', 'META', 'NVDA', 'TSLA', 'JPM', 'V', 
+        'UNH', 'HD', 'BAC', 'MRK', 'TMO', 'AVGO', 'LLY', 'ORCL', 'ACN', 'NKE', 
+        'CSCO', 'DHR', 'VZ', 'ADBE', 'CRM', 'INTC', 'T', 'PFE', 'GILD', 'DIS', 
+        'NFLX', 'F', 'CI', 'D', 'MA', 'AEP',
     ]
     
     stocks.update(major_tickers)
