@@ -424,8 +424,11 @@ def main():
     # Convert to DataFrame
     df = pd.DataFrame(results)
     
-    # Filter to only valid results
-    df_valid = df[~df['ticker'].isin(df[df.get('error').notna()]['ticker'])].copy()
+    # Filter to only valid results (exclude rows with 'error' key)
+    if 'error' in df.columns:
+        df_valid = df[df['error'].isna()].copy()
+    else:
+        df_valid = df.copy()
     
     # Sort by total score
     df_valid = df_valid.sort_values('total_score', ascending=False)
@@ -433,26 +436,50 @@ def main():
     # Save results
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     
-    # Save detailed results to Excel
-    excel_file = f'/mnt/user-data/outputs/stock_scores_{timestamp}.xlsx'
+    # Define summary columns
+    summary_cols = ['ticker', 'company_name', 'sector', 'industry', 'current_price', 
+                   'market_cap', 'financial_score', 'moat_score', 'risk_deduction', 
+                   'total_score', 'passing', 'dividend_yield']
     
-    with pd.ExcelWriter(excel_file, engine='openpyxl') as writer:
-        # Summary sheet
-        summary_cols = ['ticker', 'company_name', 'sector', 'industry', 'current_price', 
-                       'market_cap', 'financial_score', 'moat_score', 'risk_deduction', 
-                       'total_score', 'passing', 'dividend_yield']
-        df_valid[summary_cols].to_excel(writer, sheet_name='Summary', index=False)
-        
-        # Top scorers (>=7 points)
-        top_scorers = df_valid[df_valid['passing'] == True]
-        top_scorers[summary_cols].to_excel(writer, sheet_name='Top Scorers (≥7)', index=False)
-        
-        # By sector
-        for sector in df_valid['sector'].unique():
-            if pd.notna(sector):
-                sector_df = df_valid[df_valid['sector'] == sector]
-                sheet_name = sector[:31]  # Excel sheet name limit
-                sector_df[summary_cols].to_excel(writer, sheet_name=sheet_name, index=False)
+    # Save to CSV files in output folder
+    output_dir = './output'
+    
+    # Create output directory if it doesn't exist
+    import os
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # 1. Save main summary CSV
+    csv_file = f'{output_dir}/stock_scores_{timestamp}.csv'
+    df_valid[summary_cols].to_csv(csv_file, index=False)
+    print(f"\n✓ Saved main results to: {csv_file}")
+    
+    # 2. Save top scorers CSV (>=7 points)
+    top_scorers = df_valid[df_valid['passing'] == True]
+    top_scorers_file = f'{output_dir}/stock_scores_top_scorers_{timestamp}.csv'
+    top_scorers[summary_cols].to_csv(top_scorers_file, index=False)
+    print(f"✓ Saved top scorers to: {top_scorers_file}")
+    
+    # 3. Save budget-friendly stocks CSV
+    budget_stocks = df_valid[
+        (df_valid['passing'] == True) & 
+        (df_valid['current_price'] < 20) &
+        (df_valid['current_price'] > 0)
+    ].sort_values('total_score', ascending=False)
+    
+    if len(budget_stocks) > 0:
+        budget_file = f'{output_dir}/stock_scores_budget_friendly_{timestamp}.csv'
+        budget_stocks[summary_cols].to_csv(budget_file, index=False)
+        print(f"✓ Saved budget-friendly stocks to: {budget_file}")
+    
+    # 4. Save by sector (separate CSV for each sector)
+    for sector in df_valid['sector'].unique():
+        if pd.notna(sector):
+            sector_df = df_valid[df_valid['sector'] == sector]
+            # Clean sector name for filename
+            clean_sector = sector.replace(' ', '_').replace('&', 'and').replace('/', '_')
+            sector_file = f'{output_dir}/stock_scores_sector_{clean_sector}_{timestamp}.csv'
+            sector_df[summary_cols].to_csv(sector_file, index=False)
+            print(f"✓ Saved {sector} sector to: {sector_file}")
     
     # Print summary
     print("\n" + "="*80)
@@ -460,7 +487,8 @@ def main():
     print("="*80)
     print(f"\nTotal stocks analyzed: {len(df_valid)}")
     print(f"Stocks with score ≥7: {len(top_scorers)} ({len(top_scorers)/len(df_valid)*100:.1f}%)")
-    print(f"\nResults saved to: {excel_file}")
+    print(f"\nAll CSV files saved to: {output_dir}")
+    print(f"Main results: stock_scores_{timestamp}.csv")
     
     # Print top 20 scorers
     print("\n" + "="*80)
