@@ -1,0 +1,31 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+ADP,"Automatic Data Processing, Inc.",Technology,Software - Application,261.63,105983565824,4.0,4.5,0,8.5,True,2.6
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,217.58,620275499008,4.0,4.5,0,8.5,True,0.92
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,483.16,3591408713728,4.0,4.5,0,8.5,True,0.75
+ABT,Abbott Laboratories,Healthcare,Medical Devices,125.08,217696616448,4.0,3.5,0,7.5,True,1.89
+BAC,Bank of America Corporation,Financial Services,Banks - Diversified,53.95,399604809728,4.0,3.5,0,7.5,True,2.08
+CB,Chubb Limited,Financial Services,Insurance - Property & Casualty,295.0,117613641728,4.0,3.5,0,7.5,True,1.32
+AEP,"American Electric Power Company, Inc.",Utilities,Utilities - Regulated Electric,117.54,62915121152,4.0,3.5,0,7.5,True,3.23
+LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,1010.31,905699262464,4.0,3.5,0,7.5,True,0.59
+PFE,Pfizer Inc.,Healthcare,Drug Manufacturers - General,26.03,147998982144,4.0,3.5,0,7.5,True,6.61
+TMO,Thermo Fisher Scientific Inc.,Healthcare,Diagnostics & Research,572.77,215194320896,4.0,3.5,0,7.5,True,0.3
+NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,83.13,173127335936,4.0,3.5,0,7.5,True,2.73
+MRK,"Merck & Co., Inc.",Healthcare,Drug Manufacturers - General,99.72,249078956032,4.0,3.5,0,7.5,True,3.41
+GILD,"Gilead Sciences, Inc.",Healthcare,Drug Manufacturers - General,121.22,150410608640,4.0,3.5,0,7.5,True,2.61
+JPM,JPMorgan Chase & Co.,Financial Services,Banks - Diversified,315.04,866282504192,4.0,3.5,0,7.5,True,1.9
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,201.93,486508953600,4.0,3.5,0,7.5,True,2.58
+AFL,Aflac Incorporated,Financial Services,Insurance - Life,109.28,58446385152,4.0,3.5,0,7.5,True,2.23
+CRM,"Salesforce, Inc.",Technology,Software - Application,260.57,249104924672,3.5,4.0,0,7.5,True,0.64
+CSCO,"Cisco Systems, Inc.",Technology,Communication Equipment,77.97,308066844672,4.0,3.5,0,7.5,True,2.1
+ADBE,Adobe Inc.,Technology,Software - Application,346.26,146883493888,3.0,4.5,0,7.5,True,0.0
+BRO,"Brown & Brown, Inc.",Financial Services,Insurance Brokers,78.37,26757148672,4.0,3.0,0,7.0,True,0.84
+D,"Dominion Energy, Inc.",Utilities,Utilities - Regulated Electric,58.49,49945391104,4.0,3.0,0,7.0,True,4.56
+CINF,Cincinnati Financial Corporation,Financial Services,Insurance - Property & Casualty,162.3,25379893248,4.0,3.0,0,7.0,True,2.14
+KO,The Coca-Cola Company,Consumer Defensive,Beverages - Non-Alcoholic,70.0,301256704000,4.0,3.0,0,7.0,True,2.91
+ERIE,Erie Indemnity Company,Financial Services,Insurance Brokers,296.46,15501853696,4.0,3.0,0,7.0,True,1.84
+ATO,Atmos Energy Corporation,Utilities,Utilities - Regulated Gas,171.29,27696451584,4.0,3.0,0,7.0,True,2.34
+JKHY,"Jack Henry & Associates, Inc.",Technology,Information Technology Services,181.71,13203993600,4.0,3.0,0,7.0,True,1.28
+T,AT&T Inc.,Communication Services,Telecom Services,25.28,180761755648,4.0,3.0,0,7.0,True,4.39
+PG,The Procter & Gamble Company,Consumer Defensive,Household & Personal Products,143.45,335742631936,4.0,3.0,0,7.0,True,2.95
+WST,"West Pharmaceutical Services, Inc.",Healthcare,Medical Instruments & Supplies,280.23,20160702464,4.0,3.0,0,7.0,True,0.31
+WTRG,"Essential Utilities, Inc.",Utilities,Utilities - Regulated Water,38.0,10753070080,4.0,3.0,0,7.0,True,3.61
