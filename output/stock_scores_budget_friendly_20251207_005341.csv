@@ -1,3 +1,0 @@
-ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
-HBAN,Huntington Bancshares Incorporated,Financial Services,Banks - Regional,16.9,26614173696,4.0,3.0,0,7.0,True,3.67
-KEY,KeyCorp,Financial Services,Banks - Regional,19.26,21118896128,4.0,3.0,0,7.0,True,4.26
