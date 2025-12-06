@@ -1,8 +1,8 @@
 ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
 T,AT&T Inc.,Communication Services,Telecom Services,25.28,180761755648,4.0,3.0,0,7.0,True,4.39
-DIS,The Walt Disney Company,Communication Services,Entertainment,105.3,189322444800,4.0,2.0,0,6.0,False,1.42
-META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,673.42,1697373618176,3.5,3.5,-1,6.0,False,0.31
 VZ,Verizon Communications Inc.,Communication Services,Telecom Services,41.69,175782772736,4.0,2.0,0,6.0,False,6.62
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,673.42,1697373618176,3.5,3.5,-1,6.0,False,0.31
 GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,321.27,3891261341696,3.5,3.5,-1,6.0,False,0.26
+DIS,The Walt Disney Company,Communication Services,Entertainment,105.3,189322444800,4.0,2.0,0,6.0,False,1.42
+TDS,"Telephone and Data Systems, Inc.",Communication Services,Telecom Services,39.4,4552433664,4.0,1.5,0,5.5,False,0.41
 NFLX,"Netflix, Inc.",Communication Services,Entertainment,100.24,424749268992,3.0,2.5,0,5.5,False,0.0
-TMUS,"T-Mobile US, Inc.",Communication Services,Telecom Services,209.63,235921588224,3.5,1.5,0,5.0,False,1.95

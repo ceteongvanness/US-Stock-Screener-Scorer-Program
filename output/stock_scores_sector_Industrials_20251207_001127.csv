@@ -1,0 +1,24 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+CTAS,Cintas Corporation,Industrials,Specialty Business Services,186.75,75251007488,4.0,2.5,0,6.5,False,0.96
+ITW,Illinois Tool Works Inc.,Industrials,Specialty Industrial Machinery,249.7,72787550208,4.0,2.5,0,6.5,False,2.58
+PH,Parker-Hannifin Corporation,Industrials,Specialty Industrial Machinery,880.0,111358779392,4.0,2.5,0,6.5,False,0.82
+GGG,Graco Inc.,Industrials,Specialty Industrial Machinery,83.47,13838834688,4.0,2.0,0,6.0,False,1.41
+DOV,Dover Corporation,Industrials,Specialty Industrial Machinery,191.09,26208608256,4.0,2.0,0,6.0,False,1.09
+CSL,Carlisle Companies Incorporated,Industrials,Building Products & Equipment,323.68,13837557760,4.0,2.0,0,6.0,False,1.36
+FAST,Fastenal Company,Industrials,Industrial Distribution,41.5,47643480064,4.0,2.0,0,6.0,False,2.12
+ABM,ABM Industries Incorporated,Industrials,Specialty Business Services,44.63,2778575616,4.0,1.5,0,5.5,False,2.38
+BRC,Brady Corporation,Industrials,Security & Protection Services,77.84,3672236032,4.0,1.5,0,5.5,False,1.25
+MSA,MSA Safety Incorporated,Industrials,Security & Protection Services,162.33,6355553792,4.0,1.5,0,5.5,False,1.31
+TNC,Tennant Company,Industrials,Specialty Industrial Machinery,74.5,1375950080,4.0,1.5,0,5.5,False,1.66
+AOS,A. O. Smith Corporation,Industrials,Specialty Industrial Machinery,68.03,9533015040,4.0,1.5,0,5.5,False,2.03
+CAT,Caterpillar Inc.,Industrials,Farm & Heavy Construction Machinery,603.17,282572423168,4.0,1.5,0,5.5,False,1.0
+EMR,Emerson Electric Co.,Industrials,Specialty Industrial Machinery,137.39,77323091968,4.0,1.5,0,5.5,False,1.62
+GRC,The Gorman-Rupp Company,Industrials,Specialty Industrial Machinery,46.25,1216968960,4.0,1.5,0,5.5,False,1.64
+MMM,3M Company,Industrials,Conglomerates,167.48,89204817920,4.0,1.5,0,5.5,False,1.74
+CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,Integrated Freight & Logistics,157.22,18573527040,4.0,1.0,0,5.0,False,1.6
+GWW,"W.W. Grainger, Inc.",Industrials,Industrial Distribution,975.54,46662266880,4.0,1.0,0,5.0,False,0.93
+SWK,"Stanley Black & Decker, Inc.",Industrials,Tools & Accessories,72.47,11224513536,4.0,1.0,0,5.0,False,4.58
+SB,"Safe Bulkers, Inc.",Industrials,Marine Shipping,5.31,543363776,4.0,1.0,0,5.0,False,3.77
+GD,General Dynamics Corporation,Industrials,Aerospace & Defense,337.31,91114323968,4.0,1.5,-1,4.5,False,1.78
+RBC,RBC Bearings Incorporated,Industrials,Tools & Accessories,443.44,14017777664,3.0,1.0,0,4.0,False,0.0
+GXO,"GXO Logistics, Inc.",Industrials,Integrated Freight & Logistics,52.54,6015477760,3.0,0.5,0,3.5,False,0.0

@@ -1,5 +1,5 @@
 ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
-EXR,Extra Space Storage Inc.,Real Estate,REIT - Industrial,129.56,28710684672,4.0,2.0,0,6.0,False,5.0
+SPG,"Simon Property Group, Inc.",Real Estate,REIT - Retail,182.56,68862910464,4.0,2.5,0,6.5,False,4.82
 ESS,"Essex Property Trust, Inc.",Real Estate,REIT - Residential,255.37,17638014976,4.0,2.0,0,6.0,False,4.03
-ARE,"Alexandria Real Estate Equities, Inc.",Real Estate,REIT - Office,45.48,7860083712,4.0,1.5,0,5.5,False,10.29
 FRT,Federal Realty Investment Trust,Real Estate,REIT - Retail,97.2,8436886016,4.0,1.5,0,5.5,False,4.65
+NNN,"NNN REIT, Inc.",Real Estate,REIT - Retail,40.21,7636716032,4.0,1.5,0,5.5,False,5.97
