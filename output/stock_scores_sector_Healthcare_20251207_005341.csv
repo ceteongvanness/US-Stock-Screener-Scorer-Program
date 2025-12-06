@@ -1,0 +1,63 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,201.93,486508953600,4.0,3.5,0,7.5,True,2.58
+ZTS,Zoetis Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,118.65,52583723008,4.0,3.5,0,7.5,True,1.69
+ABT,Abbott Laboratories,Healthcare,Medical Devices,125.08,217696616448,4.0,3.5,0,7.5,True,1.89
+PFE,Pfizer Inc.,Healthcare,Drug Manufacturers - General,26.03,147998982144,4.0,3.5,0,7.5,True,6.61
+GILD,"Gilead Sciences, Inc.",Healthcare,Drug Manufacturers - General,121.22,150410608640,4.0,3.5,0,7.5,True,2.61
+TMO,Thermo Fisher Scientific Inc.,Healthcare,Diagnostics & Research,572.77,215194320896,4.0,3.5,0,7.5,True,0.3
+LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,1010.31,905699262464,4.0,3.5,0,7.5,True,0.59
+MRK,"Merck & Co., Inc.",Healthcare,Drug Manufacturers - General,99.72,249078956032,4.0,3.5,0,7.5,True,3.41
+AMGN,Amgen Inc.,Healthcare,Drug Manufacturers - General,329.89,177639391232,4.0,3.5,0,7.5,True,2.89
+WST,"West Pharmaceutical Services, Inc.",Healthcare,Medical Instruments & Supplies,280.23,20160702464,4.0,3.0,0,7.0,True,0.31
+A,"Agilent Technologies, Inc.",Healthcare,Diagnostics & Research,145.49,41246478336,4.0,3.0,0,7.0,True,0.7
+RMD,ResMed Inc.,Healthcare,Medical Instruments & Supplies,256.55,37447651328,4.0,3.0,0,7.0,True,0.94
+TECH,Bio-Techne Corporation,Healthcare,Biotechnology,61.68,9610527744,4.0,2.5,0,6.5,False,0.52
+SYK,Stryker Corporation,Healthcare,Medical Devices,364.02,139209850880,4.0,2.5,0,6.5,False,0.92
+UNH,UnitedHealth Group Incorporated,Healthcare,Healthcare Plans,330.91,299751047168,4.0,2.5,0,6.5,False,2.67
+BAX,Baxter International Inc.,Healthcare,Medical Instruments & Supplies,18.54,9530595328,4.0,2.5,0,6.5,False,2.8
+BDX,"Becton, Dickinson and Company",Healthcare,Medical Instruments & Supplies,193.96,55594262528,4.0,2.5,0,6.5,False,2.17
+ATR,"AptarGroup, Inc.",Healthcare,Medical Instruments & Supplies,121.91,8031494656,4.0,2.5,0,6.5,False,1.57
+TFX,Teleflex Incorporated,Healthcare,Medical Instruments & Supplies,120.5,5325426176,4.0,2.5,0,6.5,False,1.13
+CVS,CVS Health Corporation,Healthcare,Healthcare Plans,75.63,96007176192,4.0,2.5,0,6.5,False,3.52
+MDT,Medtronic plc,Healthcare,Medical Devices,101.36,130005966848,4.0,2.5,0,6.5,False,2.8
+CI,The Cigna Group,Healthcare,Healthcare Plans,265.44,70905880576,4.0,2.5,0,6.5,False,2.28
+BMY,Bristol-Myers Squibb Company,Healthcare,Drug Manufacturers - General,52.15,106164527104,4.0,2.5,0,6.5,False,4.76
+ELV,"Elevance Health, Inc.",Healthcare,Healthcare Plans,330.75,74477723648,4.0,2.5,0,6.5,False,2.07
+COR,"Cencora, Inc.",Healthcare,Medical Distribution,339.66,65891811328,4.0,2.5,0,6.5,False,0.71
+DHR,Danaher Corporation,Healthcare,Diagnostics & Research,226.25,162006663168,4.0,2.5,0,6.5,False,0.57
+ZBH,"Zimmer Biomet Holdings, Inc.",Healthcare,Medical Devices,94.28,18684557312,4.0,2.0,0,6.0,False,1.02
+ABBV,AbbVie Inc.,Healthcare,Drug Manufacturers - General,226.08,399570305024,3.5,2.5,0,6.0,False,3.06
+VTRS,Viatris Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,10.93,12618327040,4.0,2.0,0,6.0,False,4.39
+VRTX,Vertex Pharmaceuticals Incorporated,Healthcare,Biotechnology,455.48,116780818432,3.0,3.0,0,6.0,False,0.0
+DGX,Quest Diagnostics Incorporated,Healthcare,Diagnostics & Research,182.51,20408895488,4.0,2.0,0,6.0,False,1.75
+HCA,"HCA Healthcare, Inc.",Healthcare,Medical Care Facilities,486.7,113884643328,3.5,2.5,0,6.0,False,0.59
+RVTY,"Revvity, Inc.",Healthcare,Diagnostics & Research,100.79,11698955264,4.0,2.0,0,6.0,False,0.28
+RHHVF,Roche Holding AG,Healthcare,Drug Manufacturers - General,383.46,306717818880,3.5,2.5,0,6.0,False,2.87
+REGN,"Regeneron Pharmaceuticals, Inc.",Healthcare,Biotechnology,718.36,76137136128,3.5,2.5,0,6.0,False,0.49
+HUM,Humana Inc.,Healthcare,Healthcare Plans,257.85,31012411392,4.0,2.0,0,6.0,False,1.37
+STE,STERIS plc,Healthcare,Medical Devices,263.28,25930606592,4.0,2.0,0,6.0,False,0.96
+MCK,McKesson Corporation,Healthcare,Medical Distribution,808.62,100579704832,3.5,2.5,0,6.0,False,0.41
+UHS,"Universal Health Services, Inc.",Healthcare,Medical Care Facilities,231.08,14705629184,4.0,2.0,0,6.0,False,0.35
+ISRG,"Intuitive Surgical, Inc.",Healthcare,Medical Instruments & Supplies,575.34,206245888000,3.0,3.0,0,6.0,False,0.0
+IDXX,"IDEXX Laboratories, Inc.",Healthcare,Diagnostics & Research,714.1,57131352064,3.0,2.5,0,5.5,False,0.0
+CAH,"Cardinal Health, Inc.",Healthcare,Medical Distribution,198.83,47241023488,3.5,2.0,0,5.5,False,1.03
+EW,Edwards Lifesciences Corporation,Healthcare,Medical Devices,86.19,50602151936,3.0,2.5,0,5.5,False,0.0
+BIIB,Biogen Inc.,Healthcare,Drug Manufacturers - General,181.3,26597122048,3.0,2.0,0,5.0,False,0.0
+INCY,Incyte Corporation,Healthcare,Biotechnology,102.52,20127002624,3.0,2.0,0,5.0,False,0.0
+DXCM,"DexCom, Inc.",Healthcare,Medical Devices,65.49,25682247680,3.0,2.0,0,5.0,False,0.0
+BSX,Boston Scientific Corporation,Healthcare,Medical Devices,97.52,144567730176,3.0,2.0,0,5.0,False,0.0
+WAT,Waters Corporation,Healthcare,Diagnostics & Research,394.81,23504910336,3.0,2.0,0,5.0,False,0.0
+CRL,"Charles River Laboratories International, Inc.",Healthcare,Diagnostics & Research,184.31,9070903296,3.0,1.5,0,4.5,False,0.0
+LH,Labcorp Holdings Inc.,Healthcare,Diagnostics & Research,258.39,21472210944,3.5,1.0,0,4.5,False,1.11
+MOH,"Molina Healthcare, Inc.",Healthcare,Healthcare Plans,151.86,8230812160,3.0,1.5,0,4.5,False,0.0
+HSIC,"Henry Schein, Inc.",Healthcare,Medical Distribution,73.62,8927779840,3.0,1.5,0,4.5,False,0.0
+BIO,"Bio-Rad Laboratories, Inc.",Healthcare,Medical Devices,317.69,8569635840,3.0,1.5,0,4.5,False,0.0
+GEHC,GE HealthCare Technologies Inc.,Healthcare,Health Information Services,85.46,39017791488,3.5,1.0,0,4.5,False,0.16
+MTD,Mettler-Toledo International Inc.,Healthcare,Diagnostics & Research,1414.86,29144758272,2.5,2.0,0,4.5,False,0.0
+ALGN,"Align Technology, Inc.",Healthcare,Medical Instruments & Supplies,157.21,11395581952,3.0,1.0,0,4.0,False,0.0
+MRNA,"Moderna, Inc.",Healthcare,Biotechnology,27.7,10823321600,3.0,1.0,0,4.0,False,0.0
+CNC,Centene Corporation,Healthcare,Healthcare Plans,38.34,18844801024,3.0,1.0,0,4.0,False,0.0
+PODD,Insulet Corporation,Healthcare,Medical Devices,304.49,21433823232,3.0,1.0,0,4.0,False,0.0
+IQV,IQVIA Holdings Inc.,Healthcare,Diagnostics & Research,225.85,38462255104,3.0,1.0,0,4.0,False,0.0
+HOLX,"Hologic, Inc.",Healthcare,Medical Instruments & Supplies,74.97,16711205888,3.0,1.0,0,4.0,False,0.0
+DVA,DaVita Inc.,Healthcare,Medical Care Facilities,117.39,8393384960,2.5,1.5,0,4.0,False,0.0

@@ -1,0 +1,43 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+SO,The Southern Company,Utilities,Utilities - Regulated Electric,86.28,95003328512,4.0,3.5,0,7.5,True,3.43
+AEP,"American Electric Power Company, Inc.",Utilities,Utilities - Regulated Electric,117.54,62915121152,4.0,3.5,0,7.5,True,3.23
+DUK,Duke Energy Corporation,Utilities,Utilities - Regulated Electric,116.52,90613088256,4.0,3.5,0,7.5,True,3.66
+SRE,Sempra,Utilities,Utilities - Diversified,90.66,59172110336,4.0,3.5,0,7.5,True,2.85
+NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,83.13,173127335936,4.0,3.5,0,7.5,True,2.73
+PEG,Public Service Enterprise Group Incorporated,Utilities,Utilities - Regulated Electric,79.57,39717683200,4.0,3.0,0,7.0,True,3.17
+WEC,"WEC Energy Group, Inc.",Utilities,Utilities - Regulated Electric,105.71,34386853888,4.0,3.0,0,7.0,True,3.6
+EIX,Edison International,Utilities,Utilities - Regulated Electric,58.09,22355007488,4.0,3.0,0,7.0,True,5.7
+AEE,Ameren Corporation,Utilities,Utilities - Regulated Electric,99.86,27011622912,4.0,3.0,0,7.0,True,2.84
+LNT,Alliant Energy Corporation,Utilities,Utilities - Regulated Electric,65.5,16837017600,4.0,3.0,0,7.0,True,3.1
+D,"Dominion Energy, Inc.",Utilities,Utilities - Regulated Electric,58.49,49945391104,4.0,3.0,0,7.0,True,4.56
+ATO,Atmos Energy Corporation,Utilities,Utilities - Regulated Gas,171.29,27696451584,4.0,3.0,0,7.0,True,2.34
+AWK,"American Water Works Company, Inc.",Utilities,Utilities - Regulated Water,129.5,25268502528,4.0,3.0,0,7.0,True,2.56
+WTRG,"Essential Utilities, Inc.",Utilities,Utilities - Regulated Water,38.0,10753070080,4.0,3.0,0,7.0,True,3.61
+BKH,Black Hills Corporation,Utilities,Utilities - Regulated Gas,69.94,5278609408,4.0,2.5,0,6.5,False,3.87
+UGI,UGI Corporation,Utilities,Utilities - Regulated Gas,37.51,8061806592,4.0,2.5,0,6.5,False,3.99
+AWR,American States Water Company,Utilities,Utilities - Regulated Water,73.17,2832734208,4.0,2.5,0,6.5,False,2.76
+CWT,California Water Service Group,Utilities,Utilities - Regulated Water,44.88,2674459392,4.0,2.5,0,6.5,False,2.67
+MGEE,"MGE Energy, Inc.",Utilities,Utilities - Regulated Electric,78.66,2874381824,4.0,2.5,0,6.5,False,2.42
+NJR,New Jersey Resources Corporation,Utilities,Utilities - Regulated Gas,45.08,4541532672,4.0,2.5,0,6.5,False,4.21
+NWN,Northwest Natural Holding Company,Utilities,Utilities - Regulated Gas,46.24,1919285632,4.0,2.5,0,6.5,False,4.26
+AES,The AES Corporation,Utilities,Utilities - Diversified,13.92,9912723456,4.0,2.5,0,6.5,False,5.06
+VST,Vistra Corp.,Utilities,Utilities - Independent Power Producers,167.17,56641458176,4.0,2.5,0,6.5,False,0.54
+YORW,The York Water Company,Utilities,Utilities - Regulated Water,33.135,478293088,4.0,2.0,0,6.0,False,2.75
+ED,"Consolidated Edison, Inc.",Utilities,Utilities - Regulated Electric,96.6,34866380800,4.0,2.0,0,6.0,False,3.52
+EXC,Exelon Corporation,Utilities,Utilities - Regulated Electric,43.81,44247543808,4.0,2.0,0,6.0,False,3.65
+EVRG,"Evergy, Inc.",Utilities,Utilities - Regulated Electric,73.28,16870091776,4.0,2.0,0,6.0,False,3.79
+PCG,PG&E Corporation,Utilities,Utilities - Regulated Electric,15.16,33320323072,4.0,2.0,0,6.0,False,0.66
+ETR,Entergy Corporation,Utilities,Utilities - Regulated Electric,94.22,42078359552,4.0,2.0,0,6.0,False,2.72
+ES,Eversource Energy,Utilities,Utilities - Regulated Electric,66.74,25040123904,4.0,2.0,0,6.0,False,4.51
+NRG,"NRG Energy, Inc.",Utilities,Utilities - Independent Power Producers,163.0,31529220096,4.0,2.0,0,6.0,False,1.08
+NI,NiSource Inc.,Utilities,Utilities - Regulated Gas,42.0,19875766272,4.0,2.0,0,6.0,False,2.67
+PPL,PPL Corporation,Utilities,Utilities - Regulated Electric,33.86,25047570432,4.0,2.0,0,6.0,False,3.22
+PNW,Pinnacle West Capital Corporation,Utilities,Utilities - Regulated Electric,88.17,10553102336,4.0,2.0,0,6.0,False,4.13
+DTE,DTE Energy Company,Utilities,Utilities - Regulated Electric,131.23,27254239232,4.0,2.0,0,6.0,False,3.38
+FE,FirstEnergy Corp.,Utilities,Utilities - Regulated Electric,44.91,25942960128,4.0,2.0,0,6.0,False,3.96
+MSEX,Middlesex Water Company,Utilities,Utilities - Regulated Water,51.91,951916224,4.0,2.0,0,6.0,False,2.66
+CDUAF,Canadian Utilities Limited,Utilities,Utilities - Diversified,30.08,8179247616,3.5,2.5,0,6.0,False,4.36
+CNP,"CenterPoint Energy, Inc.",Utilities,Utilities - Regulated Electric,38.43,25089728512,4.0,2.0,0,6.0,False,2.29
+CMS,CMS Energy Corporation,Utilities,Utilities - Regulated Electric,71.09,21634091008,4.0,2.0,0,6.0,False,3.05
+XEL,Xcel Energy Inc.,Utilities,Utilities - Regulated Electric,77.18,45655040000,4.0,2.0,0,6.0,False,2.95
+CEG,Constellation Energy Corporation,Utilities,Utilities - Independent Power Producers,359.82,112409772032,3.5,2.0,0,5.5,False,0.43

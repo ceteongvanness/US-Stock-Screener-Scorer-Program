@@ -1,0 +1,33 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+AMT,American Tower Corporation,Real Estate,REIT - Specialty,178.86,83751411712,4.0,2.5,0,6.5,False,3.8
+SPG,"Simon Property Group, Inc.",Real Estate,REIT - Retail,182.56,68862910464,4.0,2.5,0,6.5,False,4.82
+PLD,"Prologis, Inc.",Real Estate,REIT - Industrial,127.98,118876405760,4.0,2.5,0,6.5,False,3.16
+DLR,"Digital Realty Trust, Inc.",Real Estate,REIT - Specialty,164.73,57606828032,4.0,2.5,0,6.5,False,2.96
+O,Realty Income Corporation,Real Estate,REIT - Retail,58.48,53796089856,4.0,2.5,0,6.5,False,5.53
+EXR,Extra Space Storage Inc.,Real Estate,REIT - Industrial,129.56,28710684672,4.0,2.0,0,6.0,False,5.0
+EQR,Equity Residential,Real Estate,REIT - Residential,61.06,24030889984,4.0,2.0,0,6.0,False,4.54
+ESS,"Essex Property Trust, Inc.",Real Estate,REIT - Residential,255.37,17638014976,4.0,2.0,0,6.0,False,4.03
+PSA,Public Storage,Real Estate,REIT - Industrial,272.06,47736467456,4.0,2.0,0,6.0,False,4.41
+CPT,Camden Property Trust,Real Estate,REIT - Residential,103.88,11099860992,4.0,2.0,0,6.0,False,4.04
+REG,Regency Centers Corporation,Real Estate,REIT - Retail,68.7,12640636928,4.0,2.0,0,6.0,False,4.4
+MAA,"Mid-America Apartment Communities, Inc.",Real Estate,REIT - Residential,131.67,15804533760,4.0,2.0,0,6.0,False,4.6
+AVB,"AvalonBay Communities, Inc.",Real Estate,REIT - Residential,178.02,25347026944,4.0,2.0,0,6.0,False,3.93
+VICI,VICI Properties Inc.,Real Estate,REIT - Diversified,27.73,29638139904,4.0,2.0,0,6.0,False,6.36
+INVH,Invitation Homes Inc.,Real Estate,REIT - Residential,27.14,16637378560,4.0,2.0,0,6.0,False,4.27
+KIM,Kimco Realty Corporation,Real Estate,REIT - Retail,20.13,13631937536,4.0,2.0,0,6.0,False,5.17
+WELL,Welltower Inc.,Real Estate,REIT - Healthcare Facilities,204.31,140223692800,4.0,1.5,0,5.5,False,1.45
+ARE,"Alexandria Real Estate Equities, Inc.",Real Estate,REIT - Office,45.48,7860083712,4.0,1.5,0,5.5,False,10.29
+EQIX,"Equinix, Inc.",Real Estate,REIT - Specialty,741.58,72812838912,4.0,1.5,0,5.5,False,2.53
+FRT,Federal Realty Investment Trust,Real Estate,REIT - Retail,97.2,8436886016,4.0,1.5,0,5.5,False,4.65
+NNN,"NNN REIT, Inc.",Real Estate,REIT - Retail,40.21,7636716032,4.0,1.5,0,5.5,False,5.97
+SBAC,SBA Communications Corporation,Real Estate,REIT - Specialty,189.58,20202213376,3.5,2.0,0,5.5,False,2.34
+UDR,"UDR, Inc.",Real Estate,REIT - Residential,35.2,13252415488,4.0,1.0,0,5.0,False,4.89
+HST,"Host Hotels & Resorts, Inc.",Real Estate,REIT - Hotel & Motel,17.26,12022909952,4.0,1.0,0,5.0,False,4.63
+WY,Weyerhaeuser Company,Real Estate,REIT - Specialty,21.69,15649573888,4.0,1.0,0,5.0,False,3.87
+DOC,"Healthpeak Properties, Inc.",Real Estate,REIT - Healthcare Facilities,17.02,11828045824,4.0,1.0,0,5.0,False,7.17
+BXP,"BXP, Inc.",Real Estate,REIT - Office,69.28,12255392768,4.0,1.0,0,5.0,False,4.04
+VTR,"Ventas, Inc.",Real Estate,REIT - Healthcare Facilities,80.61,37865164800,4.0,1.0,0,5.0,False,2.38
+IRM,Iron Mountain Incorporated,Real Estate,REIT - Specialty,84.31,24921149440,3.5,1.0,0,4.5,False,4.1
+CCI,Crown Castle Inc.,Real Estate,REIT - Specialty,89.28,38879563776,3.5,1.0,0,4.5,False,4.76
+CSGP,"CoStar Group, Inc.",Real Estate,Real Estate Services,68.01,28824188928,3.0,0.0,0,3.0,False,0.0
+CBRE,"CBRE Group, Inc.",Real Estate,Real Estate Services,160.86,47870808064,3.0,0.0,0,3.0,False,0.0

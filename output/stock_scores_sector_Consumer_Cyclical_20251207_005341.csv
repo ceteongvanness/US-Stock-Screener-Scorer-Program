@@ -1,0 +1,58 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+RCL,Royal Caribbean Cruises Ltd.,Consumer Cyclical,Travel Services,257.66,70267224064,4.0,3.0,0,7.0,True,1.55
+EBAY,eBay Inc.,Consumer Cyclical,Internet Retail,82.47,37688791040,4.0,3.0,0,7.0,True,1.41
+MCD,McDonald's Corporation,Consumer Cyclical,Restaurants,311.23,222095114240,3.5,3.0,0,6.5,False,2.39
+HLT,Hilton Worldwide Holdings Inc.,Consumer Cyclical,Lodging,272.25,64031502336,3.5,3.0,0,6.5,False,0.22
+MAR,"Marriott International, Inc.",Consumer Cyclical,Lodging,292.59,79425847296,3.5,3.0,0,6.5,False,0.92
+F,Ford Motor Company,Consumer Cyclical,Auto Manufacturers,13.03,51918016512,4.0,2.0,0,6.0,False,4.6
+NKE,"NIKE, Inc.",Consumer Cyclical,Footwear & Accessories,65.86,97354342400,4.0,2.0,0,6.0,False,2.49
+GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,76.05,72405524480,4.0,2.0,0,6.0,False,0.79
+HD,"The Home Depot, Inc.",Consumer Cyclical,Home Improvement Retail,354.61,353018314752,4.0,2.0,0,6.0,False,2.59
+ROST,"Ross Stores, Inc.",Consumer Cyclical,Apparel Retail,177.87,58176032768,4.0,2.0,0,6.0,False,0.91
+TJX,"The TJX Companies, Inc.",Consumer Cyclical,Apparel Retail,153.28,170591256576,4.0,2.0,0,6.0,False,1.11
+BKNG,Booking Holdings Inc.,Consumer Cyclical,Travel Services,5197.04,168435482624,3.0,2.5,0,5.5,False,0.74
+LEG,"Leggett & Platt, Incorporated",Consumer Cyclical,"Furnishings, Fixtures & Appliances",11.17,1512823296,4.0,1.5,0,5.5,False,1.79
+LOW,"Lowe's Companies, Inc.",Consumer Cyclical,Home Improvement Retail,248.47,139379621888,3.5,2.0,0,5.5,False,1.93
+SBUX,Starbucks Corporation,Consumer Cyclical,Restaurants,85.12,96789954560,3.5,2.0,0,5.5,False,2.91
+YUM,"Yum! Brands, Inc.",Consumer Cyclical,Restaurants,144.96,40248557568,3.5,2.0,0,5.5,False,1.96
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,229.53,2453725249536,3.0,2.5,0,5.5,False,0.0
+PII,Polaris Inc.,Consumer Cyclical,Recreational Vehicles,67.45,3793949696,4.0,1.5,0,5.5,False,3.97
+BWA,BorgWarner Inc.,Consumer Cyclical,Auto Parts,43.3,9369811968,4.0,1.5,0,5.5,False,1.57
+AVY,Avery Dennison Corporation,Consumer Cyclical,Packaging & Containers,179.33,13861383168,4.0,1.0,0,5.0,False,2.1
+HAS,"Hasbro, Inc.",Consumer Cyclical,Leisure,81.1,11381331968,4.0,1.0,0,5.0,False,3.45
+BALL,Ball Corporation,Consumer Cyclical,Packaging & Containers,49.03,13343460352,4.0,1.0,0,5.0,False,1.63
+BBY,"Best Buy Co., Inc.",Consumer Cyclical,Specialty Retail,74.17,15675583488,4.0,1.0,0,5.0,False,5.12
+BBWI,"Bath & Body Works, Inc.",Consumer Cyclical,Specialty Retail,18.83,3882512128,3.5,1.5,0,5.0,False,4.25
+LVS,Las Vegas Sands Corp.,Consumer Cyclical,Resorts & Casinos,66.25,45477552128,4.0,1.0,0,5.0,False,1.51
+LEN,Lennar Corporation,Consumer Cyclical,Residential Construction,123.91,30602170368,4.0,1.0,0,5.0,False,1.61
+EXPE,"Expedia Group, Inc.",Consumer Cyclical,Travel Services,263.43,32590395392,4.0,1.0,0,5.0,False,0.61
+GPC,Genuine Parts Company,Consumer Cyclical,Auto Parts,130.24,18117750784,4.0,1.0,0,5.0,False,3.16
+DRI,"Darden Restaurants, Inc.",Consumer Cyclical,Restaurants,177.72,20721246208,4.0,1.0,0,5.0,False,3.38
+PHM,"PulteGroup, Inc.",Consumer Cyclical,Residential Construction,126.99,25054818304,4.0,1.0,0,5.0,False,0.82
+TSCO,Tractor Supply Company,Consumer Cyclical,Specialty Retail,54.08,28576067584,4.0,1.0,0,5.0,False,1.7
+TPR,"Tapestry, Inc.",Consumer Cyclical,Luxury Goods,116.3,24074741760,4.0,1.0,0,5.0,False,1.38
+DHI,"D.R. Horton, Inc.",Consumer Cyclical,Residential Construction,158.62,47288352768,4.0,1.0,0,5.0,False,1.13
+RL,Ralph Lauren Corporation,Consumer Cyclical,Apparel Manufacturing,368.42,22341230592,4.0,1.0,0,5.0,False,0.99
+ROL,"Rollins, Inc.",Consumer Cyclical,Personal Services,61.4,29542645760,4.0,1.0,0,5.0,False,1.19
+PKG,Packaging Corporation of America,Consumer Cyclical,Packaging & Containers,198.48,17858988032,4.0,1.0,0,5.0,False,2.52
+ABNB,"Airbnb, Inc.",Consumer Cyclical,Travel Services,124.32,76113133568,3.0,2.0,0,5.0,False,0.0
+IP,International Paper Company,Consumer Cyclical,Packaging & Containers,39.06,20625176576,4.0,1.0,0,5.0,False,4.74
+AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,8.3,19159388160,4.0,1.0,0,5.0,False,6.27
+WYNN,"Wynn Resorts, Limited",Consumer Cyclical,Resorts & Casinos,125.51,13050094592,3.5,1.0,0,4.5,False,0.8
+MGM,MGM Resorts International,Consumer Cyclical,Resorts & Casinos,36.07,9865376768,3.0,1.5,0,4.5,False,0.0
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,455.0,1513247735808,3.0,1.5,0,4.5,False,0.0
+DPZ,"Domino's Pizza, Inc.",Consumer Cyclical,Restaurants,416.55,14141422592,3.5,1.0,0,4.5,False,1.67
+APTV,Aptiv PLC,Consumer Cyclical,Auto Parts,76.37,16630317056,3.0,1.0,0,4.0,False,0.0
+LKQ,LKQ Corporation,Consumer Cyclical,Auto Parts,29.45,7577284608,3.5,0.5,0,4.0,False,4.07
+DECK,Deckers Outdoor Corporation,Consumer Cyclical,Footwear & Accessories,99.7,14789832704,3.0,1.0,0,4.0,False,0.0
+LULU,lululemon athletica inc.,Consumer Cyclical,Apparel Retail,190.01,22772793344,3.0,1.0,0,4.0,False,0.0
+CCL,Carnival Corporation & plc,Consumer Cyclical,Travel Services,25.87,35076669440,3.0,1.0,0,4.0,False,0.0
+KMX,"CarMax, Inc.",Consumer Cyclical,Auto & Truck Dealerships,38.82,5825801216,3.0,0.5,0,3.5,False,0.0
+CZR,"Caesars Entertainment, Inc.",Consumer Cyclical,Resorts & Casinos,23.24,4833723392,3.0,0.5,0,3.5,False,0.0
+MHK,"Mohawk Industries, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",110.69,6877381632,3.0,0.5,0,3.5,False,0.0
+NCLH,Norwegian Cruise Line Holdings Ltd.,Consumer Cyclical,Travel Services,18.92,8613472256,3.0,0.5,0,3.5,False,0.0
+ORLY,"O'Reilly Automotive, Inc.",Consumer Cyclical,Auto Parts,98.89,83664134144,2.5,1.0,0,3.5,False,0.0
+AZO,"AutoZone, Inc.",Consumer Cyclical,Auto Parts,3822.66,63704629248,2.5,1.0,0,3.5,False,0.0
+CMG,"Chipotle Mexican Grill, Inc.",Consumer Cyclical,Restaurants,33.94,45509636096,3.0,0.0,0,3.0,False,0.0
+ULTA,"Ulta Beauty, Inc.",Consumer Cyclical,Specialty Retail,601.5,27034783744,3.0,0.0,0,3.0,False,0.0
+NVR,"NVR, Inc.",Consumer Cyclical,Residential Construction,7538.08,20828499968,3.0,0.0,0,3.0,False,0.0
