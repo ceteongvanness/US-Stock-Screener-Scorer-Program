@@ -433,7 +433,7 @@ def main():
                 print(f"{status} (Score: {result['total_score']}/16)")
             
             # Rate limiting - be nice to Yahoo Finance
-            time.sleep(0.5)
+            time.sleep(1.0)
             
         except Exception as e:
             print(f"✗ Failed: {e}")
