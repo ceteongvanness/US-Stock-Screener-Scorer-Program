@@ -1,0 +1,30 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,217.58,620275499008,4.0,4.5,0,8.5,True,0.92
+ADP,"Automatic Data Processing, Inc.",Technology,Software - Application,261.63,105983565824,4.0,4.5,0,8.5,True,2.6
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,483.16,3591408713728,4.0,4.5,0,8.5,True,0.75
+ADBE,Adobe Inc.,Technology,Software - Application,346.26,146883493888,3.0,4.5,0,7.5,True,0.0
+CRM,"Salesforce, Inc.",Technology,Software - Application,260.57,249104924672,3.5,4.0,0,7.5,True,0.64
+CSCO,"Cisco Systems, Inc.",Technology,Communication Equipment,77.97,308066844672,4.0,3.5,0,7.5,True,2.1
+PLTR,Palantir Technologies Inc.,Technology,Software - Infrastructure,181.76,433213374464,3.0,4.0,0,7.0,True,0.0
+ACN,Accenture plc,Technology,Information Technology Services,266.59,166046285824,4.0,2.5,0,6.5,False,2.45
+KLAC,KLA Corporation,Technology,Semiconductor Equipment & Materials,1214.46,159925583872,4.0,3.5,-1,6.5,False,0.63
+AAPL,Apple Inc.,Technology,Consumer Electronics,278.78,4137203793920,4.0,3.5,-1,6.5,False,0.37
+AVGO,Broadcom Inc.,Technology,Semiconductors,390.24,1842855673856,4.0,3.5,-1,6.5,False,0.6
+IBM,International Business Machines Corporation,Technology,Information Technology Services,307.94,287842369536,4.0,2.5,0,6.5,False,2.18
+LRCX,Lam Research Corporation,Technology,Semiconductor Equipment & Materials,158.7,200125825024,4.0,3.5,-1,6.5,False,0.66
+NVDA,NVIDIA Corporation,Technology,Semiconductors,182.41,4441136693248,4.0,3.5,-1,6.5,False,0.02
+TXN,Texas Instruments Incorporated,Technology,Semiconductors,182.54,165953896448,4.0,3.5,-1,6.5,False,3.11
+SNPS,"Synopsys, Inc.",Technology,Software - Infrastructure,466.76,88950636544,3.0,3.5,0,6.5,False,0.0
+CDNS,"Cadence Design Systems, Inc.",Technology,Software - Application,337.53,91973541888,3.0,3.5,0,6.5,False,0.0
+AMAT,"Applied Materials, Inc.",Technology,Semiconductor Equipment & Materials,268.0,213500166144,4.0,3.5,-1,6.5,False,0.69
+NOW,"ServiceNow, Inc.",Technology,Software - Application,854.36,177835884544,3.0,3.0,0,6.0,False,0.0
+PANW,"Palo Alto Networks, Inc.",Technology,Software - Infrastructure,198.84,138591469568,3.0,3.0,0,6.0,False,0.0
+CRWD,"CrowdStrike Holdings, Inc.",Technology,Software - Infrastructure,512.03,128496566272,3.0,3.0,0,6.0,False,0.0
+DDOG,"Datadog, Inc.",Technology,Software - Application,151.41,53095059456,3.0,2.5,0,5.5,False,0.0
+SNOW,Snowflake Inc.,Technology,Software - Application,228.79,77514047488,3.0,2.5,0,5.5,False,0.0
+QCOM,QUALCOMM Incorporated,Technology,Semiconductors,174.81,188619997184,4.0,2.5,-1,5.5,False,2.04
+PATH,UiPath Inc.,Technology,Software - Infrastructure,18.67,9989175296,3.0,2.5,0,5.5,False,0.0
+NET,"Cloudflare, Inc.",Technology,Software - Infrastructure,200.95,70388998144,3.0,2.5,0,5.5,False,0.0
+ZS,"Zscaler, Inc.",Technology,Software - Infrastructure,242.68,38700470272,3.0,2.0,0,5.0,False,0.0
+INTC,Intel Corporation,Technology,Semiconductors,41.41,197525700608,3.0,2.5,-1,4.5,False,0.0
+AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,217.97,354864234496,3.0,2.0,-1,4.0,False,0.0

@@ -1,0 +1,13 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+KO,The Coca-Cola Company,Consumer Defensive,Beverages - Non-Alcoholic,70.0,301256704000,4.0,3.0,0,7.0,True,2.91
+PG,The Procter & Gamble Company,Consumer Defensive,Household & Personal Products,143.45,335742631936,4.0,3.0,0,7.0,True,2.95
+WMT,Walmart Inc.,Consumer Defensive,Discount Stores,115.11,917754937344,4.0,2.0,0,6.0,False,0.82
+COST,Costco Wholesale Corporation,Consumer Defensive,Discount Stores,894.68,396770082816,4.0,2.0,0,6.0,False,0.58
+CL,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products,78.07,63097798656,4.0,2.0,0,6.0,False,2.66
+PEP,"PepsiCo, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,145.02,198543589376,4.0,2.0,0,6.0,False,3.92
+ADM,Archer-Daniels-Midland Company,Consumer Defensive,Farm Products,59.01,28358418432,4.0,1.0,0,5.0,False,3.46
+DG,Dollar General Corporation,Consumer Defensive,Discount Stores,132.37,29135433728,4.0,1.0,0,5.0,False,1.78
+HRL,Hormel Foods Corporation,Consumer Defensive,Packaged Foods,24.34,13386962944,4.0,1.0,0,5.0,False,4.81
+TGT,Target Corporation,Consumer Defensive,Discount Stores,92.19,41891057664,4.0,1.0,0,5.0,False,4.95
+CLX,The Clorox Company,Consumer Defensive,Household & Personal Products,104.9,12795741184,3.5,1.0,0,4.5,False,4.73
+DLTR,"Dollar Tree, Inc.",Consumer Defensive,Discount Stores,122.44,24973821952,3.0,0.0,0,3.0,False,0.0

@@ -1,0 +1,2 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+ANTM,ANTM,N/A,N/A,0.0,0,2.0,0.0,0,2.0,False,0.0

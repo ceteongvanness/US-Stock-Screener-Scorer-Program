@@ -1,0 +1,135 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,217.58,620275499008,4.0,4.5,0,8.5,True,0.92
+ADP,"Automatic Data Processing, Inc.",Technology,Software - Application,261.63,105983565824,4.0,4.5,0,8.5,True,2.6
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,483.16,3591408713728,4.0,4.5,0,8.5,True,0.75
+AEP,"American Electric Power Company, Inc.",Utilities,Utilities - Regulated Electric,117.54,62915121152,4.0,3.5,0,7.5,True,3.23
+ADBE,Adobe Inc.,Technology,Software - Application,346.26,146883493888,3.0,4.5,0,7.5,True,0.0
+ABT,Abbott Laboratories,Healthcare,Medical Devices,125.08,217696616448,4.0,3.5,0,7.5,True,1.89
+PFE,Pfizer Inc.,Healthcare,Drug Manufacturers - General,26.03,147998982144,4.0,3.5,0,7.5,True,6.61
+LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,1010.31,905699262464,4.0,3.5,0,7.5,True,0.59
+PNC,"The PNC Financial Services Group, Inc.",Financial Services,Banks - Regional,197.86,77746511872,4.0,3.5,0,7.5,True,3.44
+TFC,Truist Financial Corporation,Financial Services,Banks - Regional,47.53,61286850560,4.0,3.5,0,7.5,True,4.38
+BAC,Bank of America Corporation,Financial Services,Banks - Diversified,53.95,399604809728,4.0,3.5,0,7.5,True,2.08
+CRM,"Salesforce, Inc.",Technology,Software - Application,260.57,249104924672,3.5,4.0,0,7.5,True,0.64
+AFL,Aflac Incorporated,Financial Services,Insurance - Life,109.28,58446385152,4.0,3.5,0,7.5,True,2.23
+AMGN,Amgen Inc.,Healthcare,Drug Manufacturers - General,329.89,177639391232,4.0,3.5,0,7.5,True,2.89
+DUK,Duke Energy Corporation,Utilities,Utilities - Regulated Electric,116.52,90613088256,4.0,3.5,0,7.5,True,3.66
+GILD,"Gilead Sciences, Inc.",Healthcare,Drug Manufacturers - General,121.22,150410608640,4.0,3.5,0,7.5,True,2.61
+CSCO,"Cisco Systems, Inc.",Technology,Communication Equipment,77.97,308066844672,4.0,3.5,0,7.5,True,2.1
+MRK,"Merck & Co., Inc.",Healthcare,Drug Manufacturers - General,99.72,249078956032,4.0,3.5,0,7.5,True,3.41
+JPM,JPMorgan Chase & Co.,Financial Services,Banks - Diversified,315.04,866282504192,4.0,3.5,0,7.5,True,1.9
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,201.93,486508953600,4.0,3.5,0,7.5,True,2.58
+CB,Chubb Limited,Financial Services,Insurance - Property & Casualty,295.0,117613641728,4.0,3.5,0,7.5,True,1.32
+C,Citigroup Inc.,Financial Services,Banks - Diversified,108.88,200436957184,4.0,3.5,0,7.5,True,2.2
+NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,83.13,173127335936,4.0,3.5,0,7.5,True,2.73
+WFC,Wells Fargo & Company,Financial Services,Banks - Diversified,89.83,287765135360,4.0,3.5,0,7.5,True,2.0
+SO,The Southern Company,Utilities,Utilities - Regulated Electric,86.28,95003328512,4.0,3.5,0,7.5,True,3.43
+TMO,Thermo Fisher Scientific Inc.,Healthcare,Diagnostics & Research,572.77,215194320896,4.0,3.5,0,7.5,True,0.3
+USB,U.S. Bancorp,Financial Services,Banks - Regional,51.26,79770271744,4.0,3.5,0,7.5,True,4.06
+KO,The Coca-Cola Company,Consumer Defensive,Beverages - Non-Alcoholic,70.0,301256704000,4.0,3.0,0,7.0,True,2.91
+PLTR,Palantir Technologies Inc.,Technology,Software - Infrastructure,181.76,433213374464,3.0,4.0,0,7.0,True,0.0
+CINF,Cincinnati Financial Corporation,Financial Services,Insurance - Property & Casualty,162.3,25379893248,4.0,3.0,0,7.0,True,2.14
+D,"Dominion Energy, Inc.",Utilities,Utilities - Regulated Electric,58.49,49945391104,4.0,3.0,0,7.0,True,4.56
+PG,The Procter & Gamble Company,Consumer Defensive,Household & Personal Products,143.45,335742631936,4.0,3.0,0,7.0,True,2.95
+T,AT&T Inc.,Communication Services,Telecom Services,25.28,180761755648,4.0,3.0,0,7.0,True,4.39
+ACN,Accenture plc,Technology,Information Technology Services,266.59,166046285824,4.0,2.5,0,6.5,False,2.45
+CVS,CVS Health Corporation,Healthcare,Healthcare Plans,75.63,96007176192,4.0,2.5,0,6.5,False,3.52
+KLAC,KLA Corporation,Technology,Semiconductor Equipment & Materials,1214.46,159925583872,4.0,3.5,-1,6.5,False,0.63
+AAPL,Apple Inc.,Technology,Consumer Electronics,278.78,4137203793920,4.0,3.5,-1,6.5,False,0.37
+BMY,Bristol-Myers Squibb Company,Healthcare,Drug Manufacturers - General,52.15,106164527104,4.0,2.5,0,6.5,False,4.76
+AVGO,Broadcom Inc.,Technology,Semiconductors,390.24,1842855673856,4.0,3.5,-1,6.5,False,0.6
+EOG,"EOG Resources, Inc.",Energy,Oil & Gas E&P,112.17,61244080128,4.0,2.5,0,6.5,False,3.64
+MA,Mastercard Incorporated,Financial Services,Credit Services,545.52,493156564992,4.0,2.5,0,6.5,False,0.56
+IBM,International Business Machines Corporation,Technology,Information Technology Services,307.94,287842369536,4.0,2.5,0,6.5,False,2.18
+LRCX,Lam Research Corporation,Technology,Semiconductor Equipment & Materials,158.7,200125825024,4.0,3.5,-1,6.5,False,0.66
+NVDA,NVIDIA Corporation,Technology,Semiconductors,182.41,4441136693248,4.0,3.5,-1,6.5,False,0.02
+ITW,Illinois Tool Works Inc.,Industrials,Specialty Industrial Machinery,249.7,72787550208,4.0,2.5,0,6.5,False,2.58
+MS,Morgan Stanley,Financial Services,Capital Markets,176.51,281769213952,4.0,2.5,0,6.5,False,2.27
+SCHW,The Charles Schwab Corporation,Financial Services,Capital Markets,93.82,170303881216,4.0,2.5,0,6.5,False,1.15
+TXN,Texas Instruments Incorporated,Technology,Semiconductors,182.54,165953896448,4.0,3.5,-1,6.5,False,3.11
+V,Visa Inc.,Financial Services,Credit Services,331.24,642917597184,4.0,2.5,0,6.5,False,0.81
+UNH,UnitedHealth Group Incorporated,Healthcare,Healthcare Plans,330.91,299751047168,4.0,2.5,0,6.5,False,2.67
+MCD,McDonald's Corporation,Consumer Cyclical,Restaurants,311.23,222095114240,3.5,3.0,0,6.5,False,2.39
+SNPS,"Synopsys, Inc.",Technology,Software - Infrastructure,466.76,88950636544,3.0,3.5,0,6.5,False,0.0
+CI,The Cigna Group,Healthcare,Healthcare Plans,265.44,70905880576,4.0,2.5,0,6.5,False,2.28
+CDNS,"Cadence Design Systems, Inc.",Technology,Software - Application,337.53,91973541888,3.0,3.5,0,6.5,False,0.0
+AXP,American Express Company,Financial Services,Credit Services,370.35,257719992320,4.0,2.5,0,6.5,False,0.85
+AMAT,"Applied Materials, Inc.",Technology,Semiconductor Equipment & Materials,268.0,213500166144,4.0,3.5,-1,6.5,False,0.69
+CTAS,Cintas Corporation,Industrials,Specialty Business Services,186.75,75251007488,4.0,2.5,0,6.5,False,0.96
+DHR,Danaher Corporation,Healthcare,Diagnostics & Research,226.25,162006663168,4.0,2.5,0,6.5,False,0.57
+BLK,"BlackRock, Inc.",Financial Services,Asset Management,1072.16,166346604544,4.0,2.5,0,6.5,False,1.94
+GS,"The Goldman Sachs Group, Inc.",Financial Services,Capital Markets,854.56,258693332992,4.0,2.5,0,6.5,False,1.87
+HON,Honeywell International Inc.,Industrials,Conglomerates,191.33,128931487744,4.0,2.5,0,6.5,False,2.39
+ABBV,AbbVie Inc.,Healthcare,Drug Manufacturers - General,226.08,399570305024,3.5,2.5,0,6.0,False,3.06
+WMT,Walmart Inc.,Consumer Defensive,Discount Stores,115.11,917754937344,4.0,2.0,0,6.0,False,0.82
+HUM,Humana Inc.,Healthcare,Healthcare Plans,257.85,31012411392,4.0,2.0,0,6.0,False,1.37
+COST,Costco Wholesale Corporation,Consumer Defensive,Discount Stores,894.68,396770082816,4.0,2.0,0,6.0,False,0.58
+CL,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products,78.07,63097798656,4.0,2.0,0,6.0,False,2.66
+F,Ford Motor Company,Consumer Cyclical,Auto Manufacturers,13.03,51918016512,4.0,2.0,0,6.0,False,4.6
+HD,"The Home Depot, Inc.",Consumer Cyclical,Home Improvement Retail,354.61,353018314752,4.0,2.0,0,6.0,False,2.59
+EXR,Extra Space Storage Inc.,Real Estate,REIT - Industrial,129.56,28710684672,4.0,2.0,0,6.0,False,5.0
+DIS,The Walt Disney Company,Communication Services,Entertainment,105.3,189322444800,4.0,2.0,0,6.0,False,1.42
+ED,"Consolidated Edison, Inc.",Utilities,Utilities - Regulated Electric,96.6,34866380800,4.0,2.0,0,6.0,False,3.52
+TJX,"The TJX Companies, Inc.",Consumer Cyclical,Apparel Retail,153.28,170591256576,4.0,2.0,0,6.0,False,1.11
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,673.42,1697373618176,3.5,3.5,-1,6.0,False,0.31
+PEP,"PepsiCo, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,145.02,198543589376,4.0,2.0,0,6.0,False,3.92
+NOW,"ServiceNow, Inc.",Technology,Software - Application,854.36,177835884544,3.0,3.0,0,6.0,False,0.0
+NKE,"NIKE, Inc.",Consumer Cyclical,Footwear & Accessories,65.86,97354342400,4.0,2.0,0,6.0,False,2.49
+ROST,"Ross Stores, Inc.",Consumer Cyclical,Apparel Retail,177.87,58176032768,4.0,2.0,0,6.0,False,0.91
+VZ,Verizon Communications Inc.,Communication Services,Telecom Services,41.69,175782772736,4.0,2.0,0,6.0,False,6.62
+PANW,"Palo Alto Networks, Inc.",Technology,Software - Infrastructure,198.84,138591469568,3.0,3.0,0,6.0,False,0.0
+ESS,"Essex Property Trust, Inc.",Real Estate,REIT - Residential,255.37,17638014976,4.0,2.0,0,6.0,False,4.03
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,321.27,3891261341696,3.5,3.5,-1,6.0,False,0.26
+CRWD,"CrowdStrike Holdings, Inc.",Technology,Software - Infrastructure,512.03,128496566272,3.0,3.0,0,6.0,False,0.0
+XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated,116.54,496838836224,4.0,1.5,0,5.5,False,3.54
+MPC,Marathon Petroleum Corporation,Energy,Oil & Gas Refining & Marketing,190.53,57924993024,4.0,1.5,0,5.5,False,2.1
+SLB,SLB N.V.,Energy,Oil & Gas Equipment & Services,38.46,57456300032,4.0,1.5,0,5.5,False,2.96
+MMM,3M Company,Industrials,Conglomerates,167.48,89204817920,4.0,1.5,0,5.5,False,1.74
+COF,Capital One Financial Corporation,Financial Services,Credit Services,230.68,147523846144,4.0,1.5,0,5.5,False,1.39
+COP,ConocoPhillips,Energy,Oil & Gas E&P,93.69,117013413888,4.0,1.5,0,5.5,False,3.59
+CAH,"Cardinal Health, Inc.",Healthcare,Medical Distribution,198.83,47241023488,3.5,2.0,0,5.5,False,1.03
+CAT,Caterpillar Inc.,Industrials,Farm & Heavy Construction Machinery,603.17,282572423168,4.0,1.5,0,5.5,False,1.0
+AOS,A. O. Smith Corporation,Industrials,Specialty Industrial Machinery,68.03,9533015040,4.0,1.5,0,5.5,False,2.03
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,229.53,2453725249536,3.0,2.5,0,5.5,False,0.0
+ARE,"Alexandria Real Estate Equities, Inc.",Real Estate,REIT - Office,45.48,7860083712,4.0,1.5,0,5.5,False,10.29
+APD,"Air Products and Chemicals, Inc.",Basic Materials,Specialty Chemicals,260.69,58027048960,4.0,1.5,0,5.5,False,2.75
+EMR,Emerson Electric Co.,Industrials,Specialty Industrial Machinery,137.39,77323091968,4.0,1.5,0,5.5,False,1.62
+DDOG,"Datadog, Inc.",Technology,Software - Application,151.41,53095059456,3.0,2.5,0,5.5,False,0.0
+CVX,Chevron Corporation,Energy,Oil & Gas Integrated,150.0,302223360000,4.0,1.5,0,5.5,False,4.56
+VLO,Valero Energy Corporation,Energy,Oil & Gas Refining & Marketing,174.14,54096896000,4.0,1.5,0,5.5,False,2.6
+ECL,Ecolab Inc.,Basic Materials,Specialty Chemicals,259.69,73654550528,4.0,1.5,0,5.5,False,1.12
+DE,Deere & Company,Industrials,Farm & Heavy Construction Machinery,475.11,128436199424,4.0,1.5,0,5.5,False,1.36
+GE,GE Aerospace,Industrials,Aerospace & Defense,283.94,301101154304,4.0,2.5,-1,5.5,False,0.51
+FRT,Federal Realty Investment Trust,Real Estate,REIT - Retail,97.2,8436886016,4.0,1.5,0,5.5,False,4.65
+NFLX,"Netflix, Inc.",Communication Services,Entertainment,100.24,424749268992,3.0,2.5,0,5.5,False,0.0
+UPS,"United Parcel Service, Inc.",Industrials,Integrated Freight & Logistics,94.87,80486342656,4.0,1.5,0,5.5,False,6.91
+SBUX,Starbucks Corporation,Consumer Cyclical,Restaurants,85.12,96789954560,3.5,2.0,0,5.5,False,2.91
+SNOW,Snowflake Inc.,Technology,Software - Application,228.79,77514047488,3.0,2.5,0,5.5,False,0.0
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,139.36,56318754816,4.0,1.5,0,5.5,False,3.44
+QCOM,QUALCOMM Incorporated,Technology,Semiconductors,174.81,188619997184,4.0,2.5,-1,5.5,False,2.04
+PATH,UiPath Inc.,Technology,Software - Infrastructure,18.67,9989175296,3.0,2.5,0,5.5,False,0.0
+NET,"Cloudflare, Inc.",Technology,Software - Infrastructure,200.95,70388998144,3.0,2.5,0,5.5,False,0.0
+LOW,"Lowe's Companies, Inc.",Consumer Cyclical,Home Improvement Retail,248.47,139379621888,3.5,2.0,0,5.5,False,1.93
+ADM,Archer-Daniels-Midland Company,Consumer Defensive,Farm Products,59.01,28358418432,4.0,1.0,0,5.0,False,3.46
+CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,Integrated Freight & Logistics,157.22,18573527040,4.0,1.0,0,5.0,False,1.6
+ALB,Albemarle Corporation,Basic Materials,Specialty Chemicals,125.19,14734555136,4.0,1.0,0,5.0,False,1.29
+DG,Dollar General Corporation,Consumer Defensive,Discount Stores,132.37,29135433728,4.0,1.0,0,5.0,False,1.78
+HRL,Hormel Foods Corporation,Consumer Defensive,Packaged Foods,24.34,13386962944,4.0,1.0,0,5.0,False,4.81
+TGT,Target Corporation,Consumer Defensive,Discount Stores,92.19,41891057664,4.0,1.0,0,5.0,False,4.95
+GPC,Genuine Parts Company,Consumer Cyclical,Auto Parts,130.24,18117750784,4.0,1.0,0,5.0,False,3.16
+ZS,"Zscaler, Inc.",Technology,Software - Infrastructure,242.68,38700470272,3.0,2.0,0,5.0,False,0.0
+TMUS,"T-Mobile US, Inc.",Communication Services,Telecom Services,209.63,235921588224,3.5,1.5,0,5.0,False,1.95
+INTC,Intel Corporation,Technology,Semiconductors,41.41,197525700608,3.0,2.5,-1,4.5,False,0.0
+RTX,RTX Corporation,Industrials,Aerospace & Defense,171.1,229406097408,4.0,1.5,-1,4.5,False,1.59
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,455.0,1513247735808,3.0,1.5,0,4.5,False,0.0
+CLX,The Clorox Company,Consumer Defensive,Household & Personal Products,104.9,12795741184,3.5,1.0,0,4.5,False,4.73
+GD,General Dynamics Corporation,Industrials,Aerospace & Defense,337.31,91114323968,4.0,1.5,-1,4.5,False,1.78
+LMT,Lockheed Martin Corporation,Industrials,Aerospace & Defense,452.2,105572900864,4.0,1.5,-1,4.5,False,3.05
+AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,217.97,354864234496,3.0,2.0,-1,4.0,False,0.0
+MRNA,"Moderna, Inc.",Healthcare,Biotechnology,27.7,10823321600,3.0,1.0,0,4.0,False,0.0
+SOFI,"SoFi Technologies, Inc.",Financial Services,Credit Services,27.78,33499990016,3.0,1.0,0,4.0,False,0.0
+GME,GameStop Corp.,Consumer Cyclical,Specialty Retail,23.0,10301899776,3.0,1.0,0,4.0,False,0.0
+BA,The Boeing Company,Industrials,Aerospace & Defense,201.89,153455673344,2.5,1.5,-1,3.0,False,0.0
+DLTR,"Dollar Tree, Inc.",Consumer Defensive,Discount Stores,122.44,24973821952,3.0,0.0,0,3.0,False,0.0
+ANTM,ANTM,N/A,N/A,0.0,0,2.0,0.0,0,2.0,False,0.0
+NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,5.04,12744441856,3.0,0.0,-1,2.0,False,0.0

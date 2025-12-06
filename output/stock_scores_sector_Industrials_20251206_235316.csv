@@ -1,0 +1,16 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+ITW,Illinois Tool Works Inc.,Industrials,Specialty Industrial Machinery,249.7,72787550208,4.0,2.5,0,6.5,False,2.58
+CTAS,Cintas Corporation,Industrials,Specialty Business Services,186.75,75251007488,4.0,2.5,0,6.5,False,0.96
+HON,Honeywell International Inc.,Industrials,Conglomerates,191.33,128931487744,4.0,2.5,0,6.5,False,2.39
+MMM,3M Company,Industrials,Conglomerates,167.48,89204817920,4.0,1.5,0,5.5,False,1.74
+CAT,Caterpillar Inc.,Industrials,Farm & Heavy Construction Machinery,603.17,282572423168,4.0,1.5,0,5.5,False,1.0
+AOS,A. O. Smith Corporation,Industrials,Specialty Industrial Machinery,68.03,9533015040,4.0,1.5,0,5.5,False,2.03
+EMR,Emerson Electric Co.,Industrials,Specialty Industrial Machinery,137.39,77323091968,4.0,1.5,0,5.5,False,1.62
+DE,Deere & Company,Industrials,Farm & Heavy Construction Machinery,475.11,128436199424,4.0,1.5,0,5.5,False,1.36
+GE,GE Aerospace,Industrials,Aerospace & Defense,283.94,301101154304,4.0,2.5,-1,5.5,False,0.51
+UPS,"United Parcel Service, Inc.",Industrials,Integrated Freight & Logistics,94.87,80486342656,4.0,1.5,0,5.5,False,6.91
+CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,Integrated Freight & Logistics,157.22,18573527040,4.0,1.0,0,5.0,False,1.6
+RTX,RTX Corporation,Industrials,Aerospace & Defense,171.1,229406097408,4.0,1.5,-1,4.5,False,1.59
+GD,General Dynamics Corporation,Industrials,Aerospace & Defense,337.31,91114323968,4.0,1.5,-1,4.5,False,1.78
+LMT,Lockheed Martin Corporation,Industrials,Aerospace & Defense,452.2,105572900864,4.0,1.5,-1,4.5,False,3.05
+BA,The Boeing Company,Industrials,Aerospace & Defense,201.89,153455673344,2.5,1.5,-1,3.0,False,0.0

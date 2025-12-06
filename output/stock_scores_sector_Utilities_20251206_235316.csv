@@ -1,0 +1,7 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+AEP,"American Electric Power Company, Inc.",Utilities,Utilities - Regulated Electric,117.54,62915121152,4.0,3.5,0,7.5,True,3.23
+DUK,Duke Energy Corporation,Utilities,Utilities - Regulated Electric,116.52,90613088256,4.0,3.5,0,7.5,True,3.66
+NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,83.13,173127335936,4.0,3.5,0,7.5,True,2.73
+SO,The Southern Company,Utilities,Utilities - Regulated Electric,86.28,95003328512,4.0,3.5,0,7.5,True,3.43
+D,"Dominion Energy, Inc.",Utilities,Utilities - Regulated Electric,58.49,49945391104,4.0,3.0,0,7.0,True,4.56
+ED,"Consolidated Edison, Inc.",Utilities,Utilities - Regulated Electric,96.6,34866380800,4.0,2.0,0,6.0,False,3.52

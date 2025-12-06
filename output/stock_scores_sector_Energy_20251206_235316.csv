@@ -1,0 +1,9 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+EOG,"EOG Resources, Inc.",Energy,Oil & Gas E&P,112.17,61244080128,4.0,2.5,0,6.5,False,3.64
+XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated,116.54,496838836224,4.0,1.5,0,5.5,False,3.54
+MPC,Marathon Petroleum Corporation,Energy,Oil & Gas Refining & Marketing,190.53,57924993024,4.0,1.5,0,5.5,False,2.1
+SLB,SLB N.V.,Energy,Oil & Gas Equipment & Services,38.46,57456300032,4.0,1.5,0,5.5,False,2.96
+COP,ConocoPhillips,Energy,Oil & Gas E&P,93.69,117013413888,4.0,1.5,0,5.5,False,3.59
+CVX,Chevron Corporation,Energy,Oil & Gas Integrated,150.0,302223360000,4.0,1.5,0,5.5,False,4.56
+VLO,Valero Energy Corporation,Energy,Oil & Gas Refining & Marketing,174.14,54096896000,4.0,1.5,0,5.5,False,2.6
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,139.36,56318754816,4.0,1.5,0,5.5,False,3.44

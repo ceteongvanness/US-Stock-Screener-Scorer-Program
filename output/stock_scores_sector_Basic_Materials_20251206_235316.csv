@@ -1,0 +1,4 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+APD,"Air Products and Chemicals, Inc.",Basic Materials,Specialty Chemicals,260.69,58027048960,4.0,1.5,0,5.5,False,2.75
+ECL,Ecolab Inc.,Basic Materials,Specialty Chemicals,259.69,73654550528,4.0,1.5,0,5.5,False,1.12
+ALB,Albemarle Corporation,Basic Materials,Specialty Chemicals,125.19,14734555136,4.0,1.0,0,5.0,False,1.29
