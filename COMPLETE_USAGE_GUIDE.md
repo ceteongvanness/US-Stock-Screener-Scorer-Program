@@ -306,7 +306,7 @@ If you traded F:
 
 ## 🎯 Next Steps
 
-1. **Download the Excel file** from `/mnt/user-data/outputs/`
+1. **Download the Excel file** from `/output`
 
 2. **Study the results** 
    - See which stocks you know scored well
