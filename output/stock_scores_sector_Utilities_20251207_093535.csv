@@ -1,0 +1,115 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+NGG,National Grid plc,Utilities,Utilities - Regulated Electric,75.41,74830028800.0,4.0,3.5,0.0,7.5,True,4.14
+SO,The Southern Company,Utilities,Utilities - Regulated Electric,86.28,95003328512.0,4.0,3.5,0.0,7.5,True,3.43
+SRE,Sempra,Utilities,Utilities - Diversified,90.66,59172110336.0,4.0,3.5,0.0,7.5,True,2.85
+DUK,Duke Energy Corporation,Utilities,Utilities - Regulated Electric,116.52,90613088256.0,4.0,3.5,0.0,7.5,True,3.66
+AEP,"American Electric Power Company, Inc.",Utilities,Utilities - Regulated Electric,117.54,62915121152.0,4.0,3.5,0.0,7.5,True,3.23
+NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,83.13,173127335936.0,4.0,3.5,0.0,7.5,True,2.73
+D,"Dominion Energy, Inc.",Utilities,Utilities - Regulated Electric,58.49,49945391104.0,4.0,3.0,0.0,7.0,True,4.56
+AWK,"American Water Works Company, Inc.",Utilities,Utilities - Regulated Water,129.5,25268502528.0,4.0,3.0,0.0,7.0,True,2.56
+PEG,Public Service Enterprise Group Incorporated,Utilities,Utilities - Regulated Electric,79.57,39717683200.0,4.0,3.0,0.0,7.0,True,3.17
+SBS,Companhia de Saneamento Básico do Estado de São Paulo - SABESP,Utilities,Utilities - Regulated Water,25.06,17116014592.0,4.0,3.0,0.0,7.0,True,2.62
+ATO,Atmos Energy Corporation,Utilities,Utilities - Regulated Gas,171.29,27696451584.0,4.0,3.0,0.0,7.0,True,2.34
+WEC,"WEC Energy Group, Inc.",Utilities,Utilities - Regulated Electric,105.71,34386853888.0,4.0,3.0,0.0,7.0,True,3.6
+AEE,Ameren Corporation,Utilities,Utilities - Regulated Electric,99.86,27011622912.0,4.0,3.0,0.0,7.0,True,2.84
+EIX,Edison International,Utilities,Utilities - Regulated Electric,58.09,22355007488.0,4.0,3.0,0.0,7.0,True,5.7
+LNT,Alliant Energy Corporation,Utilities,Utilities - Regulated Electric,65.5,16837017600.0,4.0,3.0,0.0,7.0,True,3.1
+WTRG,"Essential Utilities, Inc.",Utilities,Utilities - Regulated Water,38.0,10753070080.0,4.0,3.0,0.0,7.0,True,3.61
+MGEE,"MGE Energy, Inc.",Utilities,Utilities - Regulated Electric,78.66,2874381824.0,4.0,2.5,0.0,6.5,False,2.42
+CIG,Companhia Energética de Minas Gerais - CEMIG,Utilities,Utilities - Diversified,2.02,6614716416.0,4.0,2.5,0.0,6.5,False,11.35
+POR,Portland General Electric Company,Utilities,Utilities - Regulated Electric,48.57,5463588352.0,4.0,2.5,0.0,6.5,False,4.32
+ENIC,Enel Chile S.A.,Utilities,Utilities - Regulated Electric,3.85,5325825024.0,4.0,2.5,0.0,6.5,False,1.18
+ELP,Companhia Paranaense de Energia - COPEL,Utilities,Utilities - Regulated Electric,10.19,7565138432.0,4.0,2.5,0.0,6.5,False,4.15
+MDU,"MDU Resources Group, Inc.",Utilities,Utilities - Regulated Gas,19.26,3936413184.0,4.0,2.5,0.0,6.5,False,2.91
+VST,Vistra Corp.,Utilities,Utilities - Independent Power Producers,167.17,56641458176.0,4.0,2.5,0.0,6.5,False,0.54
+IDA,"IDACORP, Inc.",Utilities,Utilities - Regulated Electric,126.81,6853474816.0,4.0,2.5,0.0,6.5,False,2.78
+CWEN,"Clearway Energy, Inc.",Utilities,Utilities - Renewable,34.01,6930342400.0,4.0,2.5,0.0,6.5,False,5.33
+CWT,California Water Service Group,Utilities,Utilities - Regulated Water,44.88,2674459392.0,4.0,2.5,0.0,6.5,False,2.67
+BKH,Black Hills Corporation,Utilities,Utilities - Regulated Gas,69.94,5278609408.0,4.0,2.5,0.0,6.5,False,3.87
+AWR,American States Water Company,Utilities,Utilities - Regulated Water,73.17,2832734208.0,4.0,2.5,0.0,6.5,False,2.76
+UGI,UGI Corporation,Utilities,Utilities - Regulated Gas,37.51,8061806592.0,4.0,2.5,0.0,6.5,False,3.99
+ALE,"ALLETE, Inc.",Utilities,Utilities - Diversified,67.61,3928032768.0,4.0,2.5,0.0,6.5,False,4.32
+TXNM,"TXNM Energy, Inc.",Utilities,Utilities - Regulated Electric,58.23,6342490624.0,4.0,2.5,0.0,6.5,False,2.83
+AVA,Avista Corporation,Utilities,Utilities - Diversified,38.71,3149900032.0,4.0,2.5,0.0,6.5,False,5.06
+NJR,New Jersey Resources Corporation,Utilities,Utilities - Regulated Gas,45.08,4541532672.0,4.0,2.5,0.0,6.5,False,4.21
+AES,The AES Corporation,Utilities,Utilities - Diversified,13.92,9912723456.0,4.0,2.5,0.0,6.5,False,5.06
+SPH,"Suburban Propane Partners, L.P.",Utilities,Utilities - Regulated Gas,19.3,1276836096.0,4.0,2.5,0.0,6.5,False,6.74
+SR,Spire Inc.,Utilities,Utilities - Regulated Gas,82.43,4866512896.0,4.0,2.5,0.0,6.5,False,4.0
+ORA,"Ormat Technologies, Inc.",Utilities,Utilities - Renewable,112.64,6846460928.0,4.0,2.5,0.0,6.5,False,0.43
+OGE,OGE Energy Corp.,Utilities,Utilities - Regulated Electric,43.38,8942160896.0,4.0,2.5,0.0,6.5,False,3.92
+OGS,"ONE Gas, Inc.",Utilities,Utilities - Regulated Gas,78.75,4724924416.0,4.0,2.5,0.0,6.5,False,3.4
+AQN,Algonquin Power & Utilities Corp.,Utilities,Utilities - Diversified,5.86,4504421888.0,4.0,2.5,0.0,6.5,False,4.44
+NWE,"NorthWestern Energy Group, Inc.",Utilities,Utilities - Regulated Electric,65.57,4026458880.0,4.0,2.5,0.0,6.5,False,4.03
+NWN,Northwest Natural Holding Company,Utilities,Utilities - Regulated Gas,46.24,1919285632.0,4.0,2.5,0.0,6.5,False,4.26
+SWX,"Southwest Gas Holdings, Inc.",Utilities,Utilities - Regulated Gas,79.08,5708303360.0,4.0,2.5,0.0,6.5,False,3.14
+TAC,TransAlta Corporation,Utilities,Utilities - Independent Power Producers,14.06,4171602176.0,4.0,2.5,0.0,6.5,False,1.32
+CPK,Chesapeake Utilities Corporation,Utilities,Utilities - Regulated Gas,129.14,3054249216.0,4.0,2.5,0.0,6.5,False,2.12
+HTO,H2O America,Utilities,Utilities - Regulated Water,47.91,1715421824.0,4.0,2.5,0.0,6.5,False,3.51
+BEPC,Brookfield Renewable Corporation,Utilities,Utilities - Renewable,39.71,7133013504.0,3.5,2.5,0.0,6.0,False,3.76
+YORW,The York Water Company,Utilities,Utilities - Regulated Water,33.135,478293088.0,4.0,2.0,0.0,6.0,False,2.75
+ETR,Entergy Corporation,Utilities,Utilities - Regulated Electric,94.22,42078359552.0,4.0,2.0,0.0,6.0,False,2.72
+MSEX,Middlesex Water Company,Utilities,Utilities - Regulated Water,51.91,951916224.0,4.0,2.0,0.0,6.0,False,2.66
+FE,FirstEnergy Corp.,Utilities,Utilities - Regulated Electric,44.91,25942960128.0,4.0,2.0,0.0,6.0,False,3.96
+KEP,Korea Electric Power Corporation,Utilities,Utilities - Regulated Electric,17.52,22494423040.0,4.0,2.0,0.0,6.0,False,0.43
+FTS,Fortis Inc.,Utilities,Utilities - Regulated Electric,51.1,25825939456.0,4.0,2.0,0.0,6.0,False,3.55
+ED,"Consolidated Edison, Inc.",Utilities,Utilities - Regulated Electric,96.6,34866380800.0,4.0,2.0,0.0,6.0,False,3.52
+NRG,"NRG Energy, Inc.",Utilities,Utilities - Independent Power Producers,163.0,31529220096.0,4.0,2.0,0.0,6.0,False,1.08
+ARTNA,Artesian Resources Corporation,Utilities,Utilities - Regulated Water,31.56,326258272.0,4.0,2.0,0.0,6.0,False,3.9
+GNE,Genie Energy Ltd.,Utilities,Utilities - Regulated Electric,14.16,378198176.0,4.0,2.0,0.0,6.0,False,2.12
+DTE,DTE Energy Company,Utilities,Utilities - Regulated Electric,131.23,27254239232.0,4.0,2.0,0.0,6.0,False,3.38
+PCG,PG&E Corporation,Utilities,Utilities - Regulated Electric,15.16,33320323072.0,4.0,2.0,0.0,6.0,False,0.66
+NI,NiSource Inc.,Utilities,Utilities - Regulated Gas,42.0,19875766272.0,4.0,2.0,0.0,6.0,False,2.67
+AXIA,Centrais Elétricas Brasileiras S.A. - Eletrobrás,Utilities,Utilities - Renewable,11.54,26148433920.0,4.0,2.0,0.0,6.0,False,5.87
+GWRS,"Global Water Resources, Inc.",Utilities,Utilities - Regulated Water,8.68,249552304.0,4.0,2.0,0.0,6.0,False,3.5
+CNP,"CenterPoint Energy, Inc.",Utilities,Utilities - Regulated Electric,38.43,25089728512.0,4.0,2.0,0.0,6.0,False,2.29
+BIP,Brookfield Infrastructure Partners L.P.,Utilities,Utilities - Diversified,35.6,16505617408.0,4.0,2.0,0.0,6.0,False,4.83
+BIPC,Brookfield Infrastructure Corporation,Utilities,Utilities - Regulated Gas,46.86,5610382336.0,3.5,2.5,0.0,6.0,False,3.67
+UTL,Unitil Corporation,Utilities,Utilities - Diversified,47.87,857581056.0,4.0,2.0,0.0,6.0,False,3.76
+CWCO,Consolidated Water Co. Ltd.,Utilities,Utilities - Regulated Water,34.12,543577152.0,4.0,2.0,0.0,6.0,False,1.64
+EMA,Emera Incorporated,Utilities,Utilities - Regulated Electric,47.47,14274229248.0,4.0,2.0,0.0,6.0,False,4.37
+PPL,PPL Corporation,Utilities,Utilities - Regulated Electric,33.86,25047570432.0,4.0,2.0,0.0,6.0,False,3.22
+RGCO,"RGC Resources, Inc.",Utilities,Utilities - Regulated Gas,22.03,228022208.0,4.0,2.0,0.0,6.0,False,3.81
+CMS,CMS Energy Corporation,Utilities,Utilities - Regulated Electric,71.09,21634091008.0,4.0,2.0,0.0,6.0,False,3.05
+XEL,Xcel Energy Inc.,Utilities,Utilities - Regulated Electric,77.18,45655040000.0,4.0,2.0,0.0,6.0,False,2.95
+EXC,Exelon Corporation,Utilities,Utilities - Regulated Electric,43.81,44247543808.0,4.0,2.0,0.0,6.0,False,3.65
+ES,Eversource Energy,Utilities,Utilities - Regulated Electric,66.74,25040123904.0,4.0,2.0,0.0,6.0,False,4.51
+XIFR,"XPLR Infrastructure, LP",Utilities,Utilities - Renewable,8.92,838179776.0,4.0,2.0,0.0,6.0,False,39.72
+BEP,Brookfield Renewable Partners L.P.,Utilities,Utilities - Renewable,28.37,18667372544.0,4.0,2.0,0.0,6.0,False,5.26
+PNW,Pinnacle West Capital Corporation,Utilities,Utilities - Regulated Electric,88.17,10553102336.0,4.0,2.0,0.0,6.0,False,4.13
+EVRG,"Evergy, Inc.",Utilities,Utilities - Regulated Electric,73.28,16870091776.0,4.0,2.0,0.0,6.0,False,3.79
+HE,"Hawaiian Electric Industries, Inc.",Utilities,Utilities - Regulated Electric,11.25,1941980416.0,3.0,2.5,0.0,5.5,False,0.0
+CEG,Constellation Energy Corporation,Utilities,Utilities - Independent Power Producers,359.82,112409772032.0,3.5,2.0,0.0,5.5,False,0.43
+VIASP,"Via Renewables, Inc.",Utilities,Utilities - Regulated Electric,25.49,0.0,3.5,2.0,0.0,5.5,False,10.82
+KEN,Kenon Holdings Ltd.,Utilities,Utilities - Independent Power Producers,61.35,3199417088.0,3.5,1.5,0.0,5.0,False,7.82
+ELPC,ELPC,Utilities,Utilities - Regulated Electric,9.63,7215596544.0,3.5,1.5,0.0,5.0,False,4.3
+ENLT,Enlight Renewable Energy Ltd,Utilities,Utilities - Renewable,41.28,5445467648.0,3.0,1.5,0.0,4.5,False,0.0
+RNW,ReNew Energy Global Plc,Utilities,Utilities - Renewable,7.55,2749692160.0,3.0,1.5,0.0,4.5,False,0.0
+FLNC,"Fluence Energy, Inc.",Utilities,Utilities - Renewable,23.96,4381532672.0,3.0,1.5,0.0,4.5,False,0.0
+CEPU,Central Puerto S.A.,Utilities,Utilities - Regulated Electric,17.1,2919607808.0,3.0,1.5,0.0,4.5,False,0.0
+CTRI,"Centuri Holdings, Inc.",Utilities,Utilities - Regulated Gas,25.58,2547240704.0,3.0,1.5,0.0,4.5,False,0.0
+EDN,Empresa Distribuidora y Comercializadora Norte Sociedad Anónima,Utilities,Utilities - Regulated Electric,32.86,1621847680.0,3.0,1.5,0.0,4.5,False,0.0
+PAM,Pampa Energía S.A.,Utilities,Utilities - Independent Power Producers,90.46,5187879424.0,3.0,1.5,0.0,4.5,False,0.0
+OPAL,OPAL Fuels Inc.,Utilities,Utilities - Regulated Gas,2.63,456029440.0,3.0,1.0,0.0,4.0,False,0.0
+OKLO,Oklo Inc.,Utilities,Utilities - Independent Power Producers,104.67,16354380800.0,3.0,1.0,0.0,4.0,False,0.0
+WAVE,Eco Wave Power Global AB (publ),Utilities,Utilities - Renewable,6.652,38859200.0,3.0,1.0,0.0,4.0,False,0.0
+BNRG,Brenmiller Energy Ltd,Utilities,Utilities - Renewable,1.15,4438770.0,3.0,1.0,0.0,4.0,False,0.0
+VGAS,"Verde Clean Fuels, Inc.",Utilities,Utilities - Renewable,2.61,116274504.0,3.0,1.0,0.0,4.0,False,0.0
+PCYO,Pure Cycle Corporation,Utilities,Utilities - Regulated Water,11.39,274278080.0,3.0,1.0,0.0,4.0,False,0.0
+DGXX,Digi Power X Inc.,Utilities,Utilities - Independent Power Producers,3.61,235790000.0,3.0,1.0,0.0,4.0,False,0.0
+NRGV,"Energy Vault Holdings, Inc.",Utilities,Utilities - Renewable,4.26,714785408.0,3.0,1.0,0.0,4.0,False,0.0
+HTOO,Fusion Fuel Green PLC,Utilities,Utilities - Renewable,4.14,8335488.0,3.0,1.0,0.0,4.0,False,0.0
+SAFX,"XCF Global, Inc.",Utilities,Utilities - Renewable,0.7777,162013232.0,3.0,1.0,0.0,4.0,False,0.0
+CDZI,Cadiz Inc.,Utilities,Utilities - Regulated Water,5.7,478572448.0,3.0,1.0,0.0,4.0,False,0.0
+CDZIP,Cadiz Inc.,Utilities,Utilities - Regulated Water,19.6,0.0,3.0,1.0,0.0,4.0,False,11.33
+ELLO,Ellomay Capital Ltd.,Utilities,Utilities - Renewable,21.58,297363456.0,3.0,1.0,0.0,4.0,False,0.0
+SUUN,PowerBank Corporation,Utilities,Utilities - Renewable,1.59,58258376.0,3.0,1.0,0.0,4.0,False,0.0
+TLN,Talen Energy Corporation,Utilities,Utilities - Independent Power Producers,354.24,16184456192.0,3.0,1.0,0.0,4.0,False,0.0
+RNWWW,ReNew Energy Global Plc,Utilities,Utilities - Renewable,0.0089,0.0,2.5,1.0,0.0,3.5,False,0.0
+STEM,"Stem, Inc.",Utilities,Utilities - Renewable,18.3,153540800.0,2.5,1.0,0.0,3.5,False,0.0
+NXXT,NextNRG Inc.,Utilities,Utilities - Renewable,1.27,171966048.0,2.5,1.0,0.0,3.5,False,0.0
+NKLR,Terra Innovatum Global N.V.,Utilities,Utilities - Regulated Electric,5.9,414775616.0,2.5,1.0,0.0,3.5,False,0.0
+SOMN,The Southern Company,Utilities,Utilities - Regulated Electric,49.25,0.0,2.5,1.0,0.0,3.5,False,0.0
+IMSR,Terrestrial Energy Inc.,Utilities,Utilities - Regulated Electric,9.31,761291968.0,2.5,1.0,0.0,3.5,False,0.0
+HTOOW,Fusion Fuel Green PLC,Utilities,Utilities - Renewable,0.0084,0.0,2.5,1.0,0.0,3.5,False,0.0
+IMSRW,Terrestrial Energy Inc.,Utilities,Utilities - Regulated Electric,4.04,0.0,2.0,1.0,0.0,3.0,False,0.0
+CREG,Smart Powerr Corp.,Utilities,Utilities - Renewable,1.14,23722402.0,3.0,1.0,-1.0,3.0,False,0.0

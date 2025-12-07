@@ -1,0 +1,723 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+HON,Honeywell International Inc.,Industrials,Conglomerates,191.33,128931487744.0,4.0,2.5,0.0,6.5,False,2.39
+RELX,RELX PLC,Industrials,Specialty Business Services,40.32,73324773376.0,4.0,2.5,0.0,6.5,False,2.15
+CNI,Canadian National Railway Company,Industrials,Railroads,98.16,61492076544.0,4.0,2.5,0.0,6.5,False,2.59
+UNP,Union Pacific Corporation,Industrials,Railroads,235.31,139576688640.0,4.0,2.5,0.0,6.5,False,2.35
+PH,Parker-Hannifin Corporation,Industrials,Specialty Industrial Machinery,880.0,111358779392.0,4.0,2.5,0.0,6.5,False,0.82
+TRI,Thomson Reuters Corporation,Industrials,Specialty Business Services,133.42,60309929984.0,4.0,2.5,0.0,6.5,False,1.78
+CSX,CSX Corporation,Industrials,Railroads,36.3,67673251840.0,4.0,2.5,0.0,6.5,False,1.43
+CTAS,Cintas Corporation,Industrials,Specialty Business Services,186.75,75251007488.0,4.0,2.5,0.0,6.5,False,0.96
+ITW,Illinois Tool Works Inc.,Industrials,Specialty Industrial Machinery,249.7,72787550208.0,4.0,2.5,0.0,6.5,False,2.58
+CP,Canadian Pacific Kansas City Limited,Industrials,Railroads,73.76,67477864448.0,4.0,2.5,0.0,6.5,False,0.89
+NSC,Norfolk Southern Corporation,Industrials,Railroads,294.19,66012303360.0,4.0,2.5,0.0,6.5,False,1.84
+FER,Ferrovial SE,Industrials,Engineering & Construction,66.03,47296167936.0,4.0,2.0,0.0,6.0,False,1.58
+CR,Crane Company,Industrials,Specialty Industrial Machinery,187.79,10816118784.0,4.0,2.0,0.0,6.0,False,0.49
+NVT,nVent Electric plc,Industrials,Electrical Equipment & Parts,107.72,17381650432.0,4.0,2.0,0.0,6.0,False,0.74
+GGG,Graco Inc.,Industrials,Specialty Industrial Machinery,83.47,13838834688.0,4.0,2.0,0.0,6.0,False,1.41
+FTAI,FTAI Aviation Ltd.,Industrials,Rental & Leasing Services,177.02,18157459456.0,4.0,2.0,0.0,6.0,False,0.71
+ODFL,"Old Dominion Freight Line, Inc.",Industrials,Trucking,155.15,32607586304.0,4.0,2.0,0.0,6.0,False,0.72
+GFL,GFL Environmental Inc.,Industrials,Waste Management,44.72,16088538112.0,4.0,2.0,0.0,6.0,False,0.14
+SNA,Snap-on Incorporated,Industrials,Tools & Accessories,347.21,18111643648.0,4.0,2.0,0.0,6.0,False,2.81
+CSL,Carlisle Companies Incorporated,Industrials,Building Products & Equipment,323.68,13837557760.0,4.0,2.0,0.0,6.0,False,1.36
+PAC,"Grupo Aeroportuario del Pacífico, S.A.B. de C.V.",Industrials,Airports & Air Services,227.18,11498761216.0,4.0,2.0,0.0,6.0,False,3.88
+AME,"AMETEK, Inc.",Industrials,Specialty Industrial Machinery,199.8,46144602112.0,4.0,2.0,0.0,6.0,False,0.62
+GPN,Global Payments Inc.,Industrials,Specialty Business Services,78.85,19129569280.0,4.0,2.0,0.0,6.0,False,1.27
+DOV,Dover Corporation,Industrials,Specialty Industrial Machinery,191.09,26208608256.0,4.0,2.0,0.0,6.0,False,1.09
+CARR,Carrier Global Corporation,Industrials,Building Products & Equipment,54.29,46202032128.0,4.0,2.0,0.0,6.0,False,1.77
+ALLE,Allegion plc,Industrials,Security & Protection Services,159.08,13685962752.0,4.0,2.0,0.0,6.0,False,1.28
+FAST,Fastenal Company,Industrials,Industrial Distribution,41.5,47643480064.0,4.0,2.0,0.0,6.0,False,2.12
+MLI,"Mueller Industries, Inc.",Industrials,Metal Fabrication,113.49,12598936576.0,4.0,2.0,0.0,6.0,False,0.88
+LII,Lennox International Inc.,Industrials,Building Products & Equipment,511.63,17970634752.0,4.0,2.0,0.0,6.0,False,1.02
+WMS,"Advanced Drainage Systems, Inc.",Industrials,Building Products & Equipment,148.92,11580687360.0,4.0,2.0,0.0,6.0,False,0.48
+VRSK,"Verisk Analytics, Inc.",Industrials,Consulting Services,221.24,30910541824.0,4.0,2.0,0.0,6.0,False,0.81
+NDSN,Nordson Corporation,Industrials,Specialty Industrial Machinery,238.93,13501682688.0,4.0,2.0,0.0,6.0,False,1.37
+PNR,Pentair plc,Industrials,Specialty Industrial Machinery,104.25,17089833984.0,4.0,2.0,0.0,6.0,False,0.96
+HUBB,Hubbell Incorporated,Industrials,Electrical Equipment & Parts,440.53,23411857408.0,4.0,2.0,0.0,6.0,False,1.29
+ABM,ABM Industries Incorporated,Industrials,Specialty Business Services,44.63,2778575616.0,4.0,1.5,0.0,5.5,False,2.38
+ZWS,Zurn Elkay Water Solutions Corporation,Industrials,Pollution & Treatment Controls,46.86,7851510784.0,4.0,1.5,0.0,5.5,False,0.81
+ETN,Eaton Corporation plc,Industrials,Specialty Industrial Machinery,337.66,131451035648.0,4.0,1.5,0.0,5.5,False,1.23
+ACA,"Arcosa, Inc.",Industrials,Engineering & Construction,107.29,5262040576.0,4.0,1.5,0.0,5.5,False,0.19
+MGRC,McGrath RentCorp,Industrials,Rental & Leasing Services,103.11,2537707776.0,4.0,1.5,0.0,5.5,False,1.88
+WM,"Waste Management, Inc.",Industrials,Waste Management,213.58,86044344320.0,4.0,1.5,0.0,5.5,False,1.55
+DE,Deere & Company,Industrials,Farm & Heavy Construction Machinery,475.11,128436199424.0,4.0,1.5,0.0,5.5,False,1.36
+PRG,"PROG Holdings, Inc.",Industrials,Rental & Leasing Services,29.56,1168967680.0,4.0,1.5,0.0,5.5,False,1.76
+BCO,The Brink's Company,Industrials,Security & Protection Services,116.69,4861572608.0,4.0,1.5,0.0,5.5,False,0.87
+R,"Ryder System, Inc.",Industrials,Rental & Leasing Services,186.39,7602966528.0,4.0,1.5,0.0,5.5,False,1.85
+BBU,Brookfield Business Partners L.P.,Industrials,Conglomerates,35.62,3158636544.0,4.0,1.5,0.0,5.5,False,0.7
+POWL,"Powell Industries, Inc.",Industrials,Electrical Equipment & Parts,342.13,4137064448.0,4.0,1.5,0.0,5.5,False,0.31
+POOL,Pool Corporation,Industrials,Industrial Distribution,239.52,8938408960.0,4.0,1.5,0.0,5.5,False,2.09
+PRIM,Primoris Services Corporation,Industrials,Engineering & Construction,125.66,6789705728.0,4.0,1.5,0.0,5.5,False,0.25
+PWR,"Quanta Services, Inc.",Industrials,Engineering & Construction,460.64,68688744448.0,4.0,1.5,0.0,5.5,False,0.1
+HI,"Hillenbrand, Inc.",Industrials,Specialty Industrial Machinery,31.84,2244936960.0,4.0,1.5,0.0,5.5,False,2.86
+PLPC,Preformed Line Products Company,Industrials,Electrical Equipment & Parts,217.27,1070023040.0,4.0,1.5,0.0,5.5,False,0.37
+REVG,"REV Group, Inc.",Industrials,Farm & Heavy Construction Machinery,56.39,2752178432.0,4.0,1.5,0.0,5.5,False,0.43
+HLIO,"Helios Technologies, Inc.",Industrials,Specialty Industrial Machinery,54.19,1796606592.0,4.0,1.5,0.0,5.5,False,0.66
+AZZ,AZZ Inc.,Industrials,Specialty Business Services,105.15,3160502272.0,4.0,1.5,0.0,5.5,False,0.7
+ICFI,"ICF International, Inc.",Industrials,Consulting Services,85.06,1568160384.0,4.0,1.5,0.0,5.5,False,0.66
+RHI,Robert Half Inc.,Industrials,Staffing & Employment Services,26.8,2726596096.0,4.0,1.5,0.0,5.5,False,8.81
+DLB,"Dolby Laboratories, Inc.",Industrials,Specialty Business Services,67.0,6421560320.0,4.0,1.5,0.0,5.5,False,2.15
+RRX,Regal Rexnord Corporation,Industrials,Specialty Industrial Machinery,145.63,9668328448.0,4.0,1.5,0.0,5.5,False,0.96
+RSG,"Republic Services, Inc.",Industrials,Waste Management,216.53,67604086784.0,4.0,1.5,0.0,5.5,False,1.15
+AWI,"Armstrong World Industries, Inc.",Industrials,Building Products & Equipment,183.87,7953909248.0,4.0,1.5,0.0,5.5,False,0.69
+SBLK,Star Bulk Carriers Corp.,Industrials,Marine Shipping,20.45,2337690368.0,4.0,1.5,0.0,5.5,False,1.47
+SEB,Seaboard Corporation,Industrials,Conglomerates,4400.84,4221259264.0,4.0,1.5,0.0,5.5,False,0.2
+GRC,The Gorman-Rupp Company,Industrials,Specialty Industrial Machinery,46.25,1216968960.0,4.0,1.5,0.0,5.5,False,1.64
+SFL,SFL Corporation Ltd.,Industrials,Marine Shipping,8.31,1201318016.0,4.0,1.5,0.0,5.5,False,9.63
+GVA,Granite Construction Incorporated,Industrials,Engineering & Construction,108.08,4732407808.0,4.0,1.5,0.0,5.5,False,0.48
+PCAR,PACCAR Inc,Industrials,Farm & Heavy Construction Machinery,110.33,57945796608.0,4.0,1.5,0.0,5.5,False,1.2
+CSW,"CSW Industrials, Inc.",Industrials,Specialty Industrial Machinery,304.27,5112486912.0,4.0,1.5,0.0,5.5,False,0.35
+ASTE,"Astec Industries, Inc.",Industrials,Farm & Heavy Construction Machinery,45.22,1034445504.0,4.0,1.5,0.0,5.5,False,1.15
+OTTR,Otter Tail Corporation,Industrials,Conglomerates,82.13,3441700352.0,4.0,1.5,0.0,5.5,False,2.56
+OSK,Oshkosh Corporation,Industrials,Farm & Heavy Construction Machinery,129.43,8283559936.0,4.0,1.5,0.0,5.5,False,1.58
+GIC,Global Industrial Company,Industrials,Industrial Distribution,28.12,1082450688.0,4.0,1.5,0.0,5.5,False,3.7
+BRC,Brady Corporation,Industrials,Security & Protection Services,77.84,3672236032.0,4.0,1.5,0.0,5.5,False,1.25
+ASR,"Grupo Aeroportuario del Sureste, S. A. B. de C. V.",Industrials,Airports & Air Services,301.05,9083062272.0,4.0,1.5,0.0,5.5,False,8.54
+SNDR,"Schneider National, Inc.",Industrials,Trucking,25.95,4549024768.0,4.0,1.5,0.0,5.5,False,1.46
+OMAB,"Grupo Aeroportuario del Centro Norte, S.A.B. de C.V.",Industrials,Airports & Air Services,101.76,4912074752.0,4.0,1.5,0.0,5.5,False,4.82
+ARMK,Aramark,Industrials,Specialty Business Services,37.95,9978349568.0,4.0,1.5,0.0,5.5,False,1.26
+ARCB,ArcBest Corporation,Industrials,Trucking,71.19,1617926656.0,4.0,1.5,0.0,5.5,False,0.67
+JCI,Johnson Controls International plc,Industrials,Building Products & Equipment,114.23,74750451712.0,4.0,1.5,0.0,5.5,False,1.4
+JBTM,JBT Marel Corporation,Industrials,Specialty Industrial Machinery,141.0,7327963648.0,4.0,1.5,0.0,5.5,False,0.28
+GFF,Griffon Corporation,Industrials,Building Products & Equipment,73.9,3440684032.0,4.0,1.5,0.0,5.5,False,1.19
+OC,Owens Corning,Industrials,Building Products & Equipment,113.63,9502599168.0,4.0,1.5,0.0,5.5,False,2.52
+GE,GE Aerospace,Industrials,Aerospace & Defense,283.94,301101154304.0,4.0,2.5,-1.0,5.5,False,0.51
+GBX,"The Greenbrier Companies, Inc.",Industrials,Railroads,46.22,1441642496.0,4.0,1.5,0.0,5.5,False,2.73
+CRAI,"CRA International, Inc.",Industrials,Consulting Services,189.31,1246434688.0,4.0,1.5,0.0,5.5,False,1.2
+KBR,"KBR, Inc.",Industrials,Engineering & Construction,44.3,5707684352.0,4.0,1.5,0.0,5.5,False,1.49
+KAI,Kadant Inc.,Industrials,Specialty Industrial Machinery,288.03,3392456192.0,4.0,1.5,0.0,5.5,False,0.47
+SXI,Standex International Corporation,Industrials,Specialty Industrial Machinery,242.08,2933283072.0,4.0,1.5,0.0,5.5,False,0.56
+GATX,GATX Corporation,Industrials,Rental & Leasing Services,167.3,5969063936.0,4.0,1.5,0.0,5.5,False,1.46
+KFY,Korn Ferry,Industrials,Staffing & Employment Services,66.07,3461472256.0,4.0,1.5,0.0,5.5,False,2.74
+TEX,Terex Corporation,Industrials,Farm & Heavy Construction Machinery,49.83,3268106752.0,4.0,1.5,0.0,5.5,False,1.36
+AOS,A. O. Smith Corporation,Industrials,Specialty Industrial Machinery,68.03,9533015040.0,4.0,1.5,0.0,5.5,False,2.03
+FSS,Federal Signal Corporation,Industrials,Pollution & Treatment Controls,110.84,6740022272.0,4.0,1.5,0.0,5.5,False,0.51
+TKR,The Timken Company,Industrials,Tools & Accessories,83.21,5796041216.0,4.0,1.5,0.0,5.5,False,1.68
+CPA,"Copa Holdings, S.A.",Industrials,Airlines,118.99,4895021056.0,4.0,1.5,0.0,5.5,False,5.41
+KMT,Kennametal Inc.,Industrials,Tools & Accessories,27.85,2123104896.0,4.0,1.5,0.0,5.5,False,2.87
+TFII,TFI International Inc.,Industrials,Trucking,97.26,8057673728.0,4.0,1.5,0.0,5.5,False,1.93
+TPC,Tutor Perini Corporation,Industrials,Engineering & Construction,67.82,3577047040.0,4.0,1.5,0.0,5.5,False,0.35
+TNC,Tennant Company,Industrials,Specialty Industrial Machinery,74.5,1375950080.0,4.0,1.5,0.0,5.5,False,1.66
+NSP,"Insperity, Inc.",Industrials,Staffing & Employment Services,35.14,1324923904.0,4.0,1.5,0.0,5.5,False,6.83
+BWLP,BW LPG Limited,Industrials,Marine Shipping,12.3,1862425472.0,4.0,1.5,0.0,5.5,False,10.73
+KNX,Knight-Swift Transportation Holdings Inc.,Industrials,Trucking,51.3,8327990784.0,4.0,1.5,0.0,5.5,False,1.4
+TTEK,"Tetra Tech, Inc.",Industrials,Engineering & Construction,34.14,8971083776.0,4.0,1.5,0.0,5.5,False,0.76
+NMM,Navios Maritime Partners L.P.,Industrials,Marine Shipping,55.51,1614959872.0,4.0,1.5,0.0,5.5,False,0.36
+NPO,Enpro Inc.,Industrials,Specialty Industrial Machinery,226.64,4774336512.0,4.0,1.5,0.0,5.5,False,0.55
+TRN,"Trinity Industries, Inc.",Industrials,Railroads,27.65,2235152896.0,4.0,1.5,0.0,5.5,False,4.48
+CAT,Caterpillar Inc.,Industrials,Farm & Heavy Construction Machinery,603.17,282572423168.0,4.0,1.5,0.0,5.5,False,1.0
+TTC,The Toro Company,Industrials,Tools & Accessories,71.19,7025404928.0,4.0,1.5,0.0,5.5,False,2.14
+TT,Trane Technologies plc,Industrials,Building Products & Equipment,401.43,89324339200.0,4.0,1.5,0.0,5.5,False,0.94
+FLS,Flowserve Corporation,Industrials,Specialty Industrial Machinery,72.04,9421552640.0,4.0,1.5,0.0,5.5,False,1.17
+AL,Air Lease Corporation,Industrials,Rental & Leasing Services,63.93,7145138688.0,4.0,1.5,0.0,5.5,False,1.38
+UPS,"United Parcel Service, Inc.",Industrials,Integrated Freight & Logistics,94.87,80486342656.0,4.0,1.5,0.0,5.5,False,6.91
+ALG,Alamo Group Inc.,Industrials,Farm & Heavy Construction Machinery,164.86,1997349504.0,4.0,1.5,0.0,5.5,False,0.73
+CCEC,Capital Clean Energy Carriers Corp.,Industrials,Marine Shipping,20.75,1225958144.0,4.0,1.5,0.0,5.5,False,2.89
+UNF,UniFirst Corporation,Industrials,Specialty Business Services,181.22,3283149056.0,4.0,1.5,0.0,5.5,False,0.81
+AIT,"Applied Industrial Technologies, Inc.",Industrials,Industrial Distribution,257.91,9736379392.0,4.0,1.5,0.0,5.5,False,0.71
+MWA,"Mueller Water Products, Inc.",Industrials,Specialty Industrial Machinery,24.57,3841498624.0,4.0,1.5,0.0,5.5,False,1.1
+LNN,Lindsay Corporation,Industrials,Farm & Heavy Construction Machinery,118.88,1284405632.0,4.0,1.5,0.0,5.5,False,1.24
+AGX,"Argan, Inc.",Industrials,Engineering & Construction,313.7,4332691456.0,4.0,1.5,0.0,5.5,False,0.64
+CMRE,Costamare Inc.,Industrials,Marine Shipping,16.13,1942493696.0,4.0,1.5,0.0,5.5,False,2.85
+LSTR,"Landstar System, Inc.",Industrials,Integrated Freight & Logistics,142.04,4922187776.0,4.0,1.5,0.0,5.5,False,1.13
+LPX,Louisiana-Pacific Corporation,Industrials,Building Products & Equipment,84.21,5864675840.0,4.0,1.5,0.0,5.5,False,1.33
+FELE,"Franklin Electric Co., Inc.",Industrials,Specialty Industrial Machinery,94.12,4189317120.0,4.0,1.5,0.0,5.5,False,1.13
+AGCO,AGCO Corporation,Industrials,Farm & Heavy Construction Machinery,105.26,7854876672.0,4.0,1.5,0.0,5.5,False,1.1
+MSM,"MSC Industrial Direct Co., Inc.",Industrials,Industrial Distribution,82.93,4626677248.0,4.0,1.5,0.0,5.5,False,4.2
+VRT,Vertiv Holdings Co,Industrials,Electrical Equipment & Parts,189.02,72269586432.0,4.0,1.5,0.0,5.5,False,0.13
+MSA,MSA Safety Incorporated,Industrials,Security & Protection Services,162.33,6355553792.0,4.0,1.5,0.0,5.5,False,1.31
+ENS,EnerSys,Industrials,Electrical Equipment & Parts,147.65,5531991552.0,4.0,1.5,0.0,5.5,False,0.71
+ENR,"Energizer Holdings, Inc.",Industrials,Electrical Equipment & Parts,18.21,1246104832.0,4.0,1.5,0.0,5.5,False,6.59
+EMR,Emerson Electric Co.,Industrials,Specialty Industrial Machinery,137.39,77323091968.0,4.0,1.5,0.0,5.5,False,1.62
+VMI,"Valmont Industries, Inc.",Industrials,Conglomerates,414.89,8189304320.0,4.0,1.5,0.0,5.5,False,0.66
+MATX,"Matson, Inc.",Industrials,Marine Shipping,116.39,3699923968.0,4.0,1.5,0.0,5.5,False,1.24
+MAN,ManpowerGroup Inc.,Industrials,Staffing & Employment Services,27.89,1291228288.0,4.0,1.5,0.0,5.5,False,5.16
+CMI,Cummins Inc.,Industrials,Specialty Industrial Machinery,510.65,70488211456.0,4.0,1.5,0.0,5.5,False,1.57
+FDX,FedEx Corporation,Industrials,Integrated Freight & Logistics,274.29,64720224256.0,4.0,1.5,0.0,5.5,False,2.11
+ADT,ADT Inc.,Industrials,Security & Protection Services,8.18,6708259840.0,4.0,1.5,0.0,5.5,False,2.69
+WERN,"Werner Enterprises, Inc.",Industrials,Trucking,29.57,1769182464.0,4.0,1.5,0.0,5.5,False,1.89
+MMS,"Maximus, Inc.",Industrials,Specialty Business Services,84.67,4771122688.0,4.0,1.5,0.0,5.5,False,1.42
+MMM,3M Company,Industrials,Conglomerates,167.48,89204817920.0,4.0,1.5,0.0,5.5,False,1.74
+FBIN,"Fortune Brands Innovations, Inc.",Industrials,Building Products & Equipment,50.22,6033348608.0,4.0,1.5,0.0,5.5,False,1.99
+EXPO,"Exponent, Inc.",Industrials,Engineering & Construction,73.22,3697693184.0,4.0,1.5,0.0,5.5,False,1.64
+WOR,"Worthington Enterprises, Inc.",Industrials,Metal Fabrication,55.25,2751092480.0,4.0,1.5,0.0,5.5,False,1.38
+EPAC,Enerpac Tool Group Corp.,Industrials,Specialty Industrial Machinery,37.18,2005389824.0,4.0,1.5,0.0,5.5,False,0.11
+AAON,"AAON, Inc.",Industrials,Building Products & Equipment,87.53,7145428992.0,4.0,1.5,0.0,5.5,False,0.46
+WTS,"Watts Water Technologies, Inc.",Industrials,Specialty Industrial Machinery,272.66,9094006784.0,4.0,1.5,0.0,5.5,False,0.76
+HSII,"Heidrick & Struggles International, Inc.",Industrials,Staffing & Employment Services,58.97,1226277632.0,4.0,1.5,0.0,5.5,False,1.02
+ACCO,ACCO Brands Corporation,Industrials,Business Equipment & Supplies,3.59,323588736.0,4.0,1.0,0.0,5.0,False,8.36
+ESEA,Euroseas Ltd.,Industrials,Marine Shipping,61.78,432868480.0,4.0,1.0,0.0,5.0,False,4.53
+EXPD,"Expeditors International of Washington, Inc.",Industrials,Integrated Freight & Logistics,151.47,20557285376.0,4.0,1.0,0.0,5.0,False,1.02
+WSO,"Watsco, Inc.",Industrials,Industrial Distribution,347.77,14143699968.0,4.0,1.0,0.0,5.0,False,3.45
+CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,Integrated Freight & Logistics,157.22,18573527040.0,4.0,1.0,0.0,5.0,False,1.6
+CIX,CompX International Inc.,Industrials,Security & Protection Services,21.67,267040672.0,4.0,1.0,0.0,5.0,False,5.54
+MRTN,"Marten Transport, Ltd.",Industrials,Trucking,11.24,916289536.0,4.0,1.0,0.0,5.0,False,2.14
+MATW,Matthews International Corporation,Industrials,Conglomerates,24.51,754806144.0,4.0,1.0,0.0,5.0,False,4.16
+LXFR,Luxfer Holdings PLC,Industrials,Specialty Industrial Machinery,12.9,344707456.0,4.0,1.0,0.0,5.0,False,4.03
+CMCO,Columbus McKinnon Corporation,Industrials,Farm & Heavy Construction Machinery,17.15,492689664.0,4.0,1.0,0.0,5.0,False,1.63
+LTM,LTM,Industrials,Airlines,50.83,15549947904.0,4.0,1.0,0.0,5.0,False,1.99
+LUV,Southwest Airlines Co.,Industrials,Airlines,37.85,19878354944.0,4.0,1.0,0.0,5.0,False,1.9
+CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,9.44,11807740928.0,4.0,1.0,0.0,5.0,False,2.65
+LECO,"Lincoln Electric Holdings, Inc.",Industrials,Tools & Accessories,245.41,13543258112.0,4.0,1.0,0.0,5.0,False,1.29
+CODI,Compass Diversified,Industrials,Conglomerates,5.73,431102112.0,4.0,1.0,0.0,5.0,False,17.45
+CASS,"Cass Information Systems, Inc.",Industrials,Specialty Business Services,43.13,570006336.0,4.0,1.0,0.0,5.0,False,2.97
+NL,"NL Industries, Inc.",Industrials,Security & Protection Services,5.44,265813280.0,4.0,1.0,0.0,5.0,False,6.62
+NTIP,"Network-1 Technologies, Inc.",Industrials,Specialty Business Services,1.43,32632112.0,4.0,1.0,0.0,5.0,False,6.99
+KFRC,Kforce Inc.,Industrials,Staffing & Employment Services,29.86,555366144.0,4.0,1.0,0.0,5.0,False,5.22
+KELYA,"Kelly Services, Inc.",Industrials,Staffing & Employment Services,8.5,300381568.0,4.0,1.0,0.0,5.0,False,3.53
+KELYB,"Kelly Services, Inc.",Industrials,Staffing & Employment Services,8.79,310629888.0,4.0,1.0,0.0,5.0,False,3.41
+NX,Quanex Building Products Corporation,Industrials,Building Products & Equipment,13.85,635394240.0,4.0,1.0,0.0,5.0,False,2.31
+CRS,Carpenter Technology Corporation,Industrials,Metal Fabrication,307.12,15309961216.0,4.0,1.0,0.0,5.0,False,0.26
+CRESY,"Cresud Sociedad Anónima, Comercial, Inmobiliaria, Financiera y Agropecuaria",Industrials,Conglomerates,11.49,802154496.0,4.0,1.0,0.0,5.0,False,5.48
+OFLX,"Omega Flex, Inc.",Industrials,Specialty Industrial Machinery,27.77,280319328.0,4.0,1.0,0.0,5.0,False,4.9
+J,Jacobs Solutions Inc.,Industrials,Engineering & Construction,140.22,16761404416.0,4.0,1.0,0.0,5.0,False,0.91
+JBHT,"J.B. Hunt Transport Services, Inc.",Industrials,Integrated Freight & Logistics,188.41,18237952000.0,4.0,1.0,0.0,5.0,False,0.93
+ITT,ITT Inc.,Industrials,Specialty Industrial Machinery,180.99,14117220352.0,4.0,1.0,0.0,5.0,False,0.78
+PBI,Pitney Bowes Inc.,Industrials,Integrated Freight & Logistics,9.77,1681641728.0,3.5,1.5,0.0,5.0,False,3.68
+IIIN,Insteel Industries Inc.,Industrials,Metal Fabrication,31.67,614919360.0,4.0,1.0,0.0,5.0,False,0.38
+IEX,IDEX Corporation,Industrials,Specialty Industrial Machinery,177.54,13366504448.0,4.0,1.0,0.0,5.0,False,1.6
+CVR,Chicago Rivet & Machine Co.,Industrials,Tools & Accessories,11.0,10627452.0,4.0,1.0,0.0,5.0,False,1.09
+DAL,"Delta Air Lines, Inc.",Industrials,Airlines,67.1,43813797888.0,4.0,1.0,0.0,5.0,False,1.12
+HY,"Hyster-Yale, Inc.",Industrials,Farm & Heavy Construction Machinery,33.82,599756928.0,4.0,1.0,0.0,5.0,False,4.26
+PKOH,Park-Ohio Holdings Corp.,Industrials,Specialty Industrial Machinery,21.7,312571296.0,4.0,1.0,0.0,5.0,False,2.3
+HTLD,"Heartland Express, Inc.",Industrials,Trucking,9.07,702449152.0,4.0,1.0,0.0,5.0,False,0.88
+DCI,"Donaldson Company, Inc.",Industrials,Specialty Industrial Machinery,92.44,10771103744.0,4.0,1.0,0.0,5.0,False,1.3
+QUAD,"Quad/Graphics, Inc.",Industrials,Specialty Business Services,6.04,307323520.0,4.0,1.0,0.0,5.0,False,4.97
+HQI,"HireQuest, Inc.",Industrials,Staffing & Employment Services,7.9,111390000.0,4.0,1.0,0.0,5.0,False,3.04
+RBA,"RB Global, Inc.",Industrials,Specialty Business Services,99.63,18548260864.0,4.0,1.0,0.0,5.0,False,1.24
+BAH,Booz Allen Hamilton Holding Corporation,Industrials,Consulting Services,88.01,10847117312.0,4.0,1.0,0.0,5.0,False,2.5
+BBSI,"Barrett Business Services, Inc.",Industrials,Staffing & Employment Services,34.53,887060608.0,4.0,1.0,0.0,5.0,False,0.93
+RGP,"Resources Connection, Inc.",Industrials,Consulting Services,4.86,162277808.0,4.0,1.0,0.0,5.0,False,7.2
+ROK,"Rockwell Automation, Inc.",Industrials,Specialty Industrial Machinery,404.29,45456105472.0,4.0,1.0,0.0,5.0,False,1.37
+RTO,Rentokil Initial plc,Industrials,Specialty Business Services,28.43,14388702208.0,4.0,1.0,0.0,5.0,False,2.31
+DLX,Deluxe Corporation,Industrials,Conglomerates,20.89,940210048.0,4.0,1.0,0.0,5.0,False,5.74
+AYI,Acuity Inc.,Industrials,Electrical Equipment & Parts,371.99,11399570432.0,4.0,1.0,0.0,5.0,False,0.18
+GWW,"W.W. Grainger, Inc.",Industrials,Industrial Distribution,975.54,46662266880.0,4.0,1.0,0.0,5.0,False,0.93
+SB,"Safe Bulkers, Inc.",Industrials,Marine Shipping,5.31,543363776.0,4.0,1.0,0.0,5.0,False,3.77
+GNK,Genco Shipping & Trading Limited,Industrials,Marine Shipping,19.32,835457920.0,4.0,1.0,0.0,5.0,False,3.11
+STN,Stantec Inc.,Industrials,Engineering & Construction,95.01,10852275200.0,4.0,1.0,0.0,5.0,False,0.68
+APOG,"Apogee Enterprises, Inc.",Industrials,Building Products & Equipment,37.65,810588352.0,4.0,1.0,0.0,5.0,False,2.76
+EBF,"Ennis, Inc.",Industrials,Business Equipment & Supplies,17.79,458166560.0,4.0,1.0,0.0,5.0,False,5.62
+SWK,"Stanley Black & Decker, Inc.",Industrials,Tools & Accessories,72.47,11224513536.0,4.0,1.0,0.0,5.0,False,4.58
+EFX,Equifax Inc.,Industrials,Consulting Services,211.51,26057476096.0,4.0,1.0,0.0,5.0,False,0.95
+TWIN,"Twin Disc, Incorporated",Industrials,Specialty Industrial Machinery,15.77,226933872.0,4.0,1.0,0.0,5.0,False,1.01
+FIX,"Comfort Systems USA, Inc.",Industrials,Engineering & Construction,1001.48,35333668864.0,4.0,1.0,0.0,5.0,False,0.19
+ULH,"Universal Logistics Holdings, Inc.",Industrials,Trucking,15.92,419174528.0,4.0,1.0,0.0,5.0,False,2.64
+URI,"United Rentals, Inc.",Industrials,Rental & Leasing Services,796.91,51274162176.0,3.5,1.5,0.0,5.0,False,0.9
+AIRTP,"Air T, Inc.",Industrials,Conglomerates,19.73,475277920.0,4.0,1.0,0.0,5.0,False,10.14
+EME,"EMCOR Group, Inc.",Industrials,Engineering & Construction,623.62,27916888064.0,4.0,1.0,0.0,5.0,False,0.16
+EML,The Eastern Company,Industrials,Tools & Accessories,18.91,114758168.0,4.0,1.0,0.0,5.0,False,2.33
+FERG,Ferguson Enterprises Inc.,Industrials,Industrial Distribution,248.38,49870041088.0,4.0,1.0,0.0,5.0,False,1.34
+WAB,Westinghouse Air Brake Technologies Corporation,Industrials,Railroads,214.95,36747247616.0,4.0,1.0,0.0,5.0,False,0.47
+WCN,"Waste Connections, Inc.",Industrials,Waste Management,173.11,44508975104.0,4.0,1.0,0.0,5.0,False,0.81
+WNC,Wabash National Corporation,Industrials,Farm & Heavy Construction Machinery,9.32,381544224.0,4.0,1.0,0.0,5.0,False,3.43
+ESP,Espey Mfg. & Electronics Corp.,Industrials,Electrical Equipment & Parts,42.53,124829504.0,4.0,1.0,0.0,5.0,False,2.35
+XYL,Xylem Inc.,Industrials,Specialty Industrial Machinery,139.01,33844631552.0,4.0,1.0,0.0,5.0,False,1.15
+LMT,Lockheed Martin Corporation,Industrials,Aerospace & Defense,452.2,105572900864.0,4.0,1.5,-1.0,4.5,False,3.05
+MAS,Masco Corporation,Industrials,Building Products & Equipment,63.2,13231781888.0,3.5,1.0,0.0,4.5,False,1.96
+LHX,"L3Harris Technologies, Inc.",Industrials,Aerospace & Defense,278.5,52105900032.0,4.0,1.5,-1.0,4.5,False,1.72
+ROCK,"Gibraltar Industries, Inc.",Industrials,Building Products & Equipment,49.32,1457044096.0,3.0,1.5,0.0,4.5,False,0.0
+FLR,Fluor Corporation,Industrials,Engineering & Construction,43.96,7106765312.0,3.0,1.5,0.0,4.5,False,0.0
+RTX,RTX Corporation,Industrials,Aerospace & Defense,171.1,229406097408.0,4.0,1.5,-1.0,4.5,False,1.59
+CECO,CECO Environmental Corp.,Industrials,Pollution & Treatment Controls,54.93,1957761920.0,3.0,1.5,0.0,4.5,False,0.0
+RYAAY,Ryanair Holdings plc,Industrials,Airlines,66.1,34743562240.0,3.5,1.0,0.0,4.5,False,1.62
+ALGT,Allegiant Travel Company,Industrials,Airlines,82.64,1516459136.0,3.0,1.5,0.0,4.5,False,0.0
+ALK,"Alaska Air Group, Inc.",Industrials,Airlines,49.65,5758835200.0,3.0,1.5,0.0,4.5,False,0.0
+CXW,"CoreCivic, Inc.",Industrials,Security & Protection Services,18.64,1995597440.0,3.0,1.5,0.0,4.5,False,0.0
+HXL,Hexcel Corporation,Industrials,Aerospace & Defense,76.6,6097809920.0,4.0,1.5,-1.0,4.5,False,0.89
+NOC,Northrop Grumman Corporation,Industrials,Aerospace & Defense,548.97,78603157504.0,4.0,1.5,-1.0,4.5,False,1.68
+GD,General Dynamics Corporation,Industrials,Aerospace & Defense,337.31,91114323968.0,4.0,1.5,-1.0,4.5,False,1.78
+GEO,"The GEO Group, Inc.",Industrials,Security & Protection Services,17.11,2421657600.0,3.0,1.5,0.0,4.5,False,0.0
+GEV,GE Vernova Inc.,Industrials,Specialty Industrial Machinery,631.32,171860410368.0,3.5,1.0,0.0,4.5,False,0.16
+NVRI,Enviri Corporation,Industrials,Waste Management,18.22,1470326400.0,3.0,1.5,0.0,4.5,False,0.0
+SKYW,"SkyWest, Inc.",Industrials,Airlines,103.4,4175111680.0,3.0,1.5,0.0,4.5,False,0.0
+AER,AerCap Holdings N.V.,Industrials,Rental & Leasing Services,139.99,24961585152.0,3.5,1.0,0.0,4.5,False,0.77
+VLTO,Veralto Corporation,Industrials,Pollution & Treatment Controls,102.16,25366056960.0,3.5,1.0,0.0,4.5,False,0.43
+DSGR,"Distribution Solutions Group, Inc.",Industrials,Industrial Distribution,27.46,1270714112.0,3.0,1.5,0.0,4.5,False,0.0
+VSEC,VSE Corporation,Industrials,Aerospace & Defense,169.41,3962880256.0,4.0,1.5,-1.0,4.5,False,0.24
+OTIS,Otis Worldwide Corporation,Industrials,Specialty Industrial Machinery,86.45,33929482240.0,3.5,1.0,0.0,4.5,False,1.94
+AAL,American Airlines Group Inc.,Industrials,Airlines,14.81,9775881216.0,2.5,1.5,0.0,4.0,False,0.0
+AP,Ampco-Pittsburgh Corporation,Industrials,Metal Fabrication,2.89,58743264.0,3.0,1.0,0.0,4.0,False,0.0
+EVI,"EVI Industries, Inc.",Industrials,Industrial Distribution,21.22,272558560.0,3.0,1.0,0.0,4.0,False,0.0
+ESLT,Elbit Systems Ltd.,Industrials,Aerospace & Defense,484.6,22474850304.0,4.0,1.0,-1.0,4.0,False,0.62
+RFIL,"RF Industries, Ltd.",Industrials,Electrical Equipment & Parts,5.99,63898012.0,3.0,1.0,0.0,4.0,False,0.0
+TG,Tredegar Corporation,Industrials,Metal Fabrication,7.55,262680752.0,3.0,1.0,0.0,4.0,False,0.0
+ATKR,Atkore Inc.,Industrials,Electrical Equipment & Parts,63.84,2154631168.0,3.5,0.5,0.0,4.0,False,2.07
+BOOM,DMC Global Inc.,Industrials,Conglomerates,6.32,130131848.0,3.0,1.0,0.0,4.0,False,0.0
+GLDD,Great Lakes Dredge & Dock Corporation,Industrials,Engineering & Construction,12.86,874471040.0,3.0,1.0,0.0,4.0,False,0.0
+GHM,Graham Corporation,Industrials,Specialty Industrial Machinery,57.91,636312384.0,3.0,1.0,0.0,4.0,False,0.0
+GSL,"Global Ship Lease, Inc.",Industrials,Marine Shipping,36.18,1294182144.0,3.5,0.5,0.0,4.0,False,6.91
+HAFN,Hafnia Limited,Industrials,Marine Shipping,5.96,2987968000.0,3.5,0.5,0.0,4.0,False,9.87
+ATI,ATI Inc.,Industrials,Metal Fabrication,100.41,13839724544.0,3.0,1.0,0.0,4.0,False,0.0
+GIFI,"Gulf Island Fabrication, Inc.",Industrials,Metal Fabrication,11.9,190383472.0,3.0,1.0,0.0,4.0,False,0.0
+HEI,HEICO Corporation,Industrials,Aerospace & Defense,312.2,43460263936.0,4.0,1.0,-1.0,4.0,False,0.08
+HII,"Huntington Ingalls Industries, Inc.",Industrials,Aerospace & Defense,304.58,11952154624.0,4.0,1.0,-1.0,4.0,False,1.81
+HHS,"Harte Hanks, Inc.",Industrials,Conglomerates,3.2057,23769604.0,3.0,1.0,0.0,4.0,False,0.0
+AEIS,"Advanced Energy Industries, Inc.",Industrials,Electrical Equipment & Parts,219.38,8280605184.0,3.5,0.5,0.0,4.0,False,0.18
+HIHO,Highway Holdings Limited,Industrials,Metal Fabrication,1.24,5706264.0,4.0,1.0,-1.0,4.0,False,16.13
+BWXT,"BWX Technologies, Inc.",Industrials,Aerospace & Defense,177.87,16262074368.0,4.0,1.0,-1.0,4.0,False,0.56
+AIRT,"Air T, Inc.",Industrials,Conglomerates,19.5,52701480.0,3.0,1.0,0.0,4.0,False,0.0
+NSSC,"Napco Security Technologies, Inc.",Industrials,Security & Protection Services,41.31,1473293312.0,3.5,0.5,0.0,4.0,False,1.36
+NPK,"National Presto Industries, Inc.",Industrials,Aerospace & Defense,100.94,721916928.0,4.0,1.0,-1.0,4.0,False,0.99
+HRI,Herc Holdings Inc.,Industrials,Rental & Leasing Services,141.29,4700677632.0,3.5,0.5,0.0,4.0,False,1.98
+HURC,"Hurco Companies, Inc.",Industrials,Specialty Industrial Machinery,14.93,95587776.0,3.0,1.0,0.0,4.0,False,0.0
+HUBG,"Hub Group, Inc.",Industrials,Integrated Freight & Logistics,41.28,2527144192.0,3.5,0.5,0.0,4.0,False,1.21
+WLFC,Willis Lease Finance Corporation,Industrials,Rental & Leasing Services,131.03,1001903744.0,3.5,0.5,0.0,4.0,False,1.22
+HWM,Howmet Aerospace Inc.,Industrials,Aerospace & Defense,190.98,76869451776.0,3.5,1.5,-1.0,4.0,False,0.23
+NNBR,"NN, Inc.",Industrials,Conglomerates,1.22,61364188.0,3.0,1.0,0.0,4.0,False,0.0
+FWRD,Forward Air Corporation,Industrials,Integrated Freight & Logistics,25.9,809329280.0,3.0,1.0,0.0,4.0,False,0.0
+BGSF,"BGSF, Inc.",Industrials,Staffing & Employment Services,4.51,50511040.0,3.0,1.0,0.0,4.0,False,0.0
+DAC,Danaos Corporation,Industrials,Marine Shipping,98.07,1795632512.0,3.5,0.5,0.0,4.0,False,3.52
+CW,Curtiss-Wright Corporation,Industrials,Aerospace & Defense,544.6,20519499776.0,4.0,1.0,-1.0,4.0,False,0.18
+ECO,Okeanis Eco Tankers Corp.,Industrials,Marine Shipping,37.07,1313521408.0,3.5,0.5,0.0,4.0,False,8.09
+PKE,Park Aerospace Corp.,Industrials,Aerospace & Defense,19.56,389357920.0,4.0,1.0,-1.0,4.0,False,2.56
+CXT,"Crane NXT, Co.",Industrials,Specialty Industrial Machinery,58.1,3336220416.0,3.5,0.5,0.0,4.0,False,1.17
+FSTR,L.B. Foster Company,Industrials,Railroads,27.01,286243456.0,3.0,1.0,0.0,4.0,False,0.0
+TXT,Textron Inc.,Industrials,Aerospace & Defense,83.47,14874796032.0,4.0,1.0,-1.0,4.0,False,0.1
+FORR,"Forrester Research, Inc.",Industrials,Consulting Services,6.63,126520296.0,3.0,1.0,0.0,4.0,False,0.0
+TWI,"Titan International, Inc.",Industrials,Farm & Heavy Construction Machinery,8.21,525041792.0,3.0,1.0,0.0,4.0,False,0.0
+WSC,WillScot Holdings Corporation,Industrials,Rental & Leasing Services,20.61,3752567552.0,3.5,0.5,0.0,4.0,False,1.36
+SPXC,"SPX Technologies, Inc.",Industrials,Building Products & Equipment,208.67,10399188992.0,3.0,1.0,0.0,4.0,False,0.0
+MTW,"The Manitowoc Company, Inc.",Industrials,Farm & Heavy Construction Machinery,12.27,435228512.0,3.0,1.0,0.0,4.0,False,0.0
+ARTW,"Art's-Way Manufacturing Co., Inc.",Industrials,Farm & Heavy Construction Machinery,2.41,12310483.0,3.0,1.0,0.0,4.0,False,0.0
+WWD,"Woodward, Inc.",Industrials,Aerospace & Defense,303.45,18196752384.0,4.0,1.0,-1.0,4.0,False,0.37
+EMBJ,EMBJ,Industrials,Aerospace & Defense,61.86,11344600064.0,4.0,1.0,-1.0,4.0,False,0.68
+TRC,Tejon Ranch Co.,Industrials,Conglomerates,16.01,430572256.0,3.0,1.0,0.0,4.0,False,0.0
+CPRT,"Copart, Inc.",Industrials,Specialty Business Services,38.72,37481644032.0,3.0,1.0,0.0,4.0,False,0.0
+PSHG,Performance Shipping Inc.,Industrials,Marine Shipping,2.465,30645268.0,3.0,1.0,0.0,4.0,False,0.0
+TNET,"TriNet Group, Inc.",Industrials,Staffing & Employment Services,56.99,2769140224.0,3.5,0.5,0.0,4.0,False,1.93
+SWBI,"Smith & Wesson Brands, Inc.",Industrials,Aerospace & Defense,10.96,485985920.0,4.0,1.0,-1.0,4.0,False,4.74
+RGR,"Sturm, Ruger & Company, Inc.",Industrials,Aerospace & Defense,33.55,542236096.0,4.0,1.0,-1.0,4.0,False,1.85
+RBC,RBC Bearings Incorporated,Industrials,Tools & Accessories,443.44,14017777664.0,3.0,1.0,0.0,4.0,False,0.0
+ESAB,ESAB Corporation,Industrials,Metal Fabrication,110.65,6717668864.0,3.5,0.5,0.0,4.0,False,0.36
+ZIM,ZIM Integrated Shipping Services Ltd.,Industrials,Marine Shipping,20.03,2412764160.0,3.5,0.5,0.0,4.0,False,21.37
+REZI,"Resideo Technologies, Inc.",Industrials,Industrial Distribution,33.81,5061862400.0,3.0,0.5,0.0,3.5,False,0.0
+TE,T1 Energy Inc.,Industrials,Electrical Equipment & Parts,5.83,1238092672.0,3.0,0.5,0.0,3.5,False,0.0
+CNM,"Core & Main, Inc.",Industrials,Industrial Distribution,50.23,9953649664.0,3.0,0.5,0.0,3.5,False,0.0
+ESOA,Energy Services of America Corporation,Industrials,Engineering & Construction,8.61,143940336.0,3.5,0.0,0.0,3.5,False,1.39
+EVLV,"Evolv Technologies Holdings, Inc.",Industrials,Security & Protection Services,6.67,1164699264.0,3.0,0.5,0.0,3.5,False,0.0
+CMPO,"CompoSecure, Inc.",Industrials,Metal Fabrication,20.53,2595221248.0,3.0,0.5,0.0,3.5,False,0.0
+RHLD,"Resolute Holdings Management, Inc.",Industrials,Specialty Business Services,196.07,1671692672.0,3.0,0.5,0.0,3.5,False,0.0
+RAIL,"FreightCar America, Inc.",Industrials,Railroads,8.6,164495744.0,2.5,1.0,0.0,3.5,False,0.0
+FA,First Advantage Corporation,Industrials,Specialty Business Services,13.83,2408009984.0,3.0,0.5,0.0,3.5,False,0.0
+LZ,"LegalZoom.com, Inc.",Industrials,Specialty Business Services,9.38,1690739200.0,3.0,0.5,0.0,3.5,False,0.0
+ENVX,Enovix Corporation,Industrials,Electrical Equipment & Parts,8.96,1950255744.0,3.0,0.5,0.0,3.5,False,0.0
+TIC,"TIC Solutions, Inc.",Industrials,Specialty Business Services,9.54,2104139648.0,3.0,0.5,0.0,3.5,False,0.0
+THR,"Thermon Group Holdings, Inc.",Industrials,Specialty Industrial Machinery,39.12,1293503744.0,3.0,0.5,0.0,3.5,False,0.0
+LGPS,LogProstyle Inc.,Industrials,Conglomerates,1.1,25991298.0,3.5,0.0,0.0,3.5,False,4.18
+LGN,Legence Corp.,Industrials,Engineering & Construction,46.79,4928714752.0,3.0,0.5,0.0,3.5,False,0.0
+FCN,"FTI Consulting, Inc.",Industrials,Consulting Services,170.79,5526452224.0,3.0,0.5,0.0,3.5,False,0.0
+PSIX,"Power Solutions International, Inc.",Industrials,Specialty Industrial Machinery,59.53,1371626496.0,3.0,0.5,0.0,3.5,False,0.0
+ROAD,"Construction Partners, Inc.",Industrials,Engineering & Construction,103.04,5824503808.0,3.0,0.5,0.0,3.5,False,0.0
+XMTR,"Xometry, Inc.",Industrials,Industrial Distribution,59.79,3064097280.0,3.0,0.5,0.0,3.5,False,0.0
+FIP,FTAI Infrastructure Inc.,Industrials,Conglomerates,4.7,546583936.0,3.5,0.0,0.0,3.5,False,2.55
+PRLB,"Proto Labs, Inc.",Industrials,Metal Fabrication,52.08,1243397504.0,3.0,0.5,0.0,3.5,False,0.0
+RXO,"RXO, Inc.",Industrials,Trucking,14.43,2368134400.0,3.0,0.5,0.0,3.5,False,0.0
+EHLD,Euroholdings Ltd.,Industrials,Marine Shipping,7.15,20138798.0,3.5,0.0,0.0,3.5,False,7.83
+RYI,Ryerson Holding Corporation,Industrials,Metal Fabrication,23.91,770125888.0,3.5,0.0,0.0,3.5,False,3.14
+ACM,AECOM,Industrials,Engineering & Construction,102.43,13566454784.0,3.5,0.0,0.0,3.5,False,1.21
+PLUG,Plug Power Inc.,Industrials,Electrical Equipment & Parts,2.2,3061139968.0,3.0,0.5,0.0,3.5,False,0.0
+MIDD,The Middleby Corporation,Industrials,Specialty Industrial Machinery,126.27,6399664640.0,3.0,0.5,0.0,3.5,False,0.0
+ECG,"Everus Construction Group, Inc.",Industrials,Engineering & Construction,91.75,4679853568.0,3.0,0.5,0.0,3.5,False,0.0
+SAIA,"Saia, Inc.",Industrials,Trucking,330.91,8816316416.0,3.0,0.5,0.0,3.5,False,0.0
+MIR,"Mirion Technologies, Inc.",Industrials,Specialty Industrial Machinery,25.02,6114142720.0,3.0,0.5,0.0,3.5,False,0.0
+WLDN,"Willdan Group, Inc.",Industrials,Engineering & Construction,104.3,1538412800.0,3.0,0.5,0.0,3.5,False,0.0
+STRL,"Sterling Infrastructure, Inc.",Industrials,Engineering & Construction,325.1,9986868224.0,3.0,0.5,0.0,3.5,False,0.0
+AMRC,"Ameresco, Inc.",Industrials,Engineering & Construction,33.25,1755515392.0,3.0,0.5,0.0,3.5,False,0.0
+BLBD,Blue Bird Corporation,Industrials,Farm & Heavy Construction Machinery,51.27,1626025984.0,3.0,0.5,0.0,3.5,False,0.0
+TREX,"Trex Company, Inc.",Industrials,Building Products & Equipment,34.5,3700290048.0,3.0,0.5,0.0,3.5,False,0.0
+AMSC,American Superconductor Corporation,Industrials,Specialty Industrial Machinery,32.47,1467215104.0,3.0,0.5,0.0,3.5,False,0.0
+EAF,GrafTech International Ltd.,Industrials,Electrical Equipment & Parts,16.72,431712224.0,2.5,1.0,0.0,3.5,False,0.0
+KEX,Kirby Corporation,Industrials,Marine Shipping,112.92,6300935680.0,3.0,0.5,0.0,3.5,False,0.0
+AMTM,"Amentum Holdings, Inc.",Industrials,Specialty Business Services,28.88,7035109376.0,3.0,0.5,0.0,3.5,False,0.0
+DXPE,"DXP Enterprises, Inc.",Industrials,Industrial Distribution,95.74,1502551552.0,3.0,0.5,0.0,3.5,False,0.0
+PCT,"PureCycle Technologies, Inc.",Industrials,Pollution & Treatment Controls,9.29,1674042496.0,3.0,0.5,0.0,3.5,False,0.0
+ATS,ATS Corporation,Industrials,Specialty Industrial Machinery,27.26,2642937600.0,3.0,0.5,0.0,3.5,False,0.0
+ATRO,Astronics Corporation,Industrials,Aerospace & Defense,51.14,1822073216.0,3.0,1.5,-1.0,3.5,False,0.0
+ARLO,"Arlo Technologies, Inc.",Industrials,Building Products & Equipment,14.51,1537947904.0,3.0,0.5,0.0,3.5,False,0.0
+AMPX,"Amprius Technologies, Inc.",Industrials,Electrical Equipment & Parts,12.18,1589293184.0,3.0,0.5,0.0,3.5,False,0.0
+AEBI,Aebi Schmidt Holding AG,Industrials,Farm & Heavy Construction Machinery,12.62,976053312.0,3.5,0.0,0.0,3.5,False,0.79
+WCC,"WESCO International, Inc.",Industrials,Industrial Distribution,273.36,13302438912.0,3.5,0.0,0.0,3.5,False,0.66
+DSX,Diana Shipping Inc.,Industrials,Marine Shipping,1.93,223458768.0,3.5,0.0,0.0,3.5,False,2.07
+PANL,"Pangaea Logistics Solutions, Ltd.",Industrials,Marine Shipping,7.16,467132064.0,3.5,0.0,0.0,3.5,False,3.49
+GNRC,Generac Holdings Inc.,Industrials,Specialty Industrial Machinery,162.33,9526183936.0,3.0,0.5,0.0,3.5,False,0.0
+VSTS,Vestis Corporation,Industrials,Rental & Leasing Services,7.0,923067712.0,3.5,0.0,0.0,3.5,False,2.0
+JCSE,JE Cleantech Holdings Limited,Industrials,Specialty Industrial Machinery,1.2,6312312.0,3.5,0.0,0.0,3.5,False,7.5
+JBLU,JetBlue Airways Corporation,Industrials,Airlines,4.79,1742174336.0,3.0,0.5,0.0,3.5,False,0.0
+TTI,"TETRA Technologies, Inc.",Industrials,Conglomerates,8.42,1126147328.0,3.0,0.5,0.0,3.5,False,0.0
+SHIP,Seanergy Maritime Holdings Corp,Industrials,Marine Shipping,10.52,222120320.0,3.5,0.0,0.0,3.5,False,4.94
+GTES,Gates Industrial Corporation plc,Industrials,Specialty Industrial Machinery,21.84,5640843776.0,3.0,0.5,0.0,3.5,False,0.0
+ALTG,Alta Equipment Group Inc.,Industrials,Rental & Leasing Services,4.91,158275232.0,3.5,0.0,0.0,3.5,False,4.64
+SITE,"SiteOne Landscape Supply, Inc.",Industrials,Industrial Distribution,131.36,5860308992.0,3.0,0.5,0.0,3.5,False,0.0
+GTLS,"Chart Industries, Inc.",Industrials,Specialty Industrial Machinery,205.12,9220749312.0,3.0,0.5,0.0,3.5,False,0.0
+DNOW,DNOW Inc.,Industrials,Industrial Distribution,13.95,2589977856.0,3.0,0.5,0.0,3.5,False,0.0
+IR,Ingersoll Rand Inc.,Industrials,Specialty Industrial Machinery,79.86,31740557312.0,3.5,0.0,0.0,3.5,False,0.1
+CDLR,Cadeler A/S,Industrials,Engineering & Construction,18.8,1647252352.0,3.0,0.5,0.0,3.5,False,0.0
+MYRG,MYR Group Inc.,Industrials,Engineering & Construction,228.54,3547588352.0,3.0,0.5,0.0,3.5,False,0.0
+HAYW,"Hayward Holdings, Inc.",Industrials,Electrical Equipment & Parts,16.09,3489329408.0,3.0,0.5,0.0,3.5,False,0.0
+GXO,"GXO Logistics, Inc.",Industrials,Integrated Freight & Logistics,52.54,6015477760.0,3.0,0.5,0.0,3.5,False,0.0
+AIR,AAR Corp.,Industrials,Aerospace & Defense,82.7,3271817984.0,3.0,1.5,-1.0,3.5,False,0.0
+BV,"BrightView Holdings, Inc.",Industrials,Specialty Business Services,12.57,1192892928.0,3.0,0.5,0.0,3.5,False,0.0
+HLMN,Hillman Solutions Corp.,Industrials,Tools & Accessories,8.82,1743177984.0,3.0,0.5,0.0,3.5,False,0.0
+CTOS,"Custom Truck One Source, Inc.",Industrials,Rental & Leasing Services,6.11,1384279040.0,3.0,0.5,0.0,3.5,False,0.0
+DGNX,Diginex Limited,Industrials,Consulting Services,8.7,1766146688.0,3.0,0.5,0.0,3.5,False,0.0
+CAE,CAE Inc.,Industrials,Aerospace & Defense,27.36,8804566016.0,3.0,1.5,-1.0,3.5,False,0.0
+CAAP,Corporación América Airports S.A.,Industrials,Airports & Air Services,25.68,4188864000.0,3.0,0.5,0.0,3.5,False,0.0
+USEA,United Maritime Corporation,Industrials,Marine Shipping,1.84,16875198.0,3.5,0.0,0.0,3.5,False,7.61
+HSHP,Himalaya Shipping Ltd.,Industrials,Marine Shipping,9.42,443290560.0,3.5,0.0,0.0,3.5,False,5.1
+ASC,Ardmore Shipping Corporation,Industrials,Marine Shipping,11.83,481453280.0,3.5,0.0,0.0,3.5,False,3.38
+SMR,NuScale Power Corporation,Industrials,Specialty Industrial Machinery,21.39,6050021888.0,3.0,0.5,0.0,3.5,False,0.0
+CBZ,"CBIZ, Inc.",Industrials,Specialty Business Services,52.44,2852810496.0,3.0,0.5,0.0,3.5,False,0.0
+HURN,Huron Consulting Group Inc.,Industrials,Consulting Services,170.835,2956622336.0,3.0,0.5,0.0,3.5,False,0.0
+CWST,"Casella Waste Systems, Inc.",Industrials,Waste Management,94.57,6004562944.0,3.0,0.5,0.0,3.5,False,0.0
+ULS,UL Solutions Inc.,Industrials,Specialty Business Services,76.6,15397536768.0,3.5,0.0,0.0,3.5,False,0.68
+ICON,Icon Energy Corp.,Industrials,Marine Shipping,0.8017,2765865.0,3.5,0.0,0.0,3.5,False,34.93
+CVLG,"Covenant Logistics Group, Inc.",Industrials,Trucking,21.72,544024704.0,3.5,0.0,0.0,3.5,False,1.29
+IESC,"IES Holdings, Inc.",Industrials,Engineering & Construction,428.62,8510071808.0,3.0,0.5,0.0,3.5,False,0.0
+ULCC,"Frontier Group Holdings, Inc.",Industrials,Airlines,5.17,1179946880.0,3.0,0.5,0.0,3.5,False,0.0
+NNE,NANO Nuclear Energy Inc.,Industrials,Specialty Industrial Machinery,35.76,1796945536.0,3.0,0.5,0.0,3.5,False,0.0
+UHAL,U-Haul Holding Company,Industrials,Rental & Leasing Services,52.46,9966239744.0,3.0,0.5,0.0,3.5,False,0.0
+ZTO,ZTO Express (Cayman) Inc.,Industrials,Integrated Freight & Logistics,21.68,17059350528.0,3.5,1.0,-1.0,3.5,False,3.0
+BBCP,"Concrete Pumping Holdings, Inc.",Industrials,Engineering & Construction,6.47,336621920.0,3.0,0.0,0.0,3.0,False,0.0
+ETS,Elite Express Holding Inc.,Industrials,Trucking,0.614,10264037.0,3.0,0.0,0.0,3.0,False,0.0
+LTBR,Lightbridge Corporation,Industrials,Electrical Equipment & Parts,17.14,554844736.0,3.0,0.0,0.0,3.0,False,0.0
+LSH,Lakeside Holding Limited,Industrials,Integrated Freight & Logistics,0.8009,13957732.0,3.0,0.0,0.0,3.0,False,0.0
+CYRX,"Cryoport, Inc.",Industrials,Integrated Freight & Logistics,9.54,477657344.0,3.0,0.0,0.0,3.0,False,0.0
+ASPN,"Aspen Aerogels, Inc.",Industrials,Building Products & Equipment,3.54,292570656.0,3.0,0.0,0.0,3.0,False,0.0
+ULBI,Ultralife Corporation,Industrials,Electrical Equipment & Parts,5.65,94066552.0,3.0,0.0,0.0,3.0,False,0.0
+CAR,"Avis Budget Group, Inc.",Industrials,Rental & Leasing Services,134.85,4746314752.0,2.5,0.5,0.0,3.0,False,0.0
+CVV,CVD Equipment Corporation,Industrials,Specialty Industrial Machinery,3.32,23031966.0,3.0,0.0,0.0,3.0,False,0.0
+SOAR,"Volato Group, Inc.",Industrials,Airports & Air Services,1.28,9528669.0,3.0,0.0,0.0,3.0,False,0.0
+HYFM,"Hydrofarm Holdings Group, Inc.",Industrials,Farm & Heavy Construction Machinery,1.81,8447277.0,3.0,0.0,0.0,3.0,False,0.0
+HTCO,High-Trend International Group,Industrials,Marine Shipping,11.9399,88180032.0,3.0,0.0,0.0,3.0,False,0.0
+SNCY,"Sun Country Airlines Holdings, Inc.",Industrials,Airlines,14.32,763490496.0,3.0,0.0,0.0,3.0,False,0.0
+SMX,SMX (Security Matters) Public Limited Company,Industrials,Specialty Business Services,331.98,348768896.0,3.0,0.0,0.0,3.0,False,0.0
+SNT,Senstar Technologies Corporation,Industrials,Security & Protection Services,2.85,66495204.0,3.0,0.0,0.0,3.0,False,0.0
+NIXX,"Nixxy, Inc.",Industrials,Staffing & Employment Services,1.11,27611890.0,3.0,0.0,0.0,3.0,False,0.0
+SPCB,SuperCom Ltd.,Industrials,Security & Protection Services,9.51,44540144.0,3.0,0.0,0.0,3.0,False,0.0
+NEOV,NeoVolta Inc.,Industrials,Electrical Equipment & Parts,3.72,129225080.0,3.0,0.0,0.0,3.0,False,0.0
+NPWR,NET Power Inc.,Industrials,Specialty Industrial Machinery,2.85,239171312.0,3.0,0.0,0.0,3.0,False,0.0
+HTZ,"Hertz Global Holdings, Inc.",Industrials,Rental & Leasing Services,5.06,1576660096.0,2.5,0.5,0.0,3.0,False,0.0
+SMHI,SEACOR Marine Holdings Inc.,Industrials,Marine Shipping,6.99,188564048.0,3.0,0.0,0.0,3.0,False,0.0
+UAL,"United Airlines Holdings, Inc.",Industrials,Airlines,104.95,33976299520.0,3.0,0.0,0.0,3.0,False,0.0
+CTRM,Castor Maritime Inc.,Industrials,Marine Shipping,2.2,21257182.0,3.0,0.0,0.0,3.0,False,0.0
+AIRJ,AirJoule Technologies Corporation,Industrials,Building Products & Equipment,2.8,169903168.0,3.0,0.0,0.0,3.0,False,0.0
+ASLE,AerSale Corporation,Industrials,Airports & Air Services,6.63,312836640.0,3.0,0.0,0.0,3.0,False,0.0
+SPR,"Spirit AeroSystems Holdings, Inc.",Industrials,Aerospace & Defense,39.5,4642166784.0,2.5,1.5,-1.0,3.0,False,0.0
+SPPL,Simpple Ltd.,Industrials,Specialty Industrial Machinery,4.72,23001244.0,3.0,0.0,0.0,3.0,False,0.0
+HMR,Heidmar Maritime Holdings Corp.,Industrials,Marine Shipping,1.09,63651896.0,3.0,0.0,0.0,3.0,False,0.0
+NVX,NOVONIX Limited,Industrials,Electrical Equipment & Parts,1.13,241736832.0,3.0,0.0,0.0,3.0,False,0.0
+UUU,"Universal Safety Products, Inc",Industrials,Building Products & Equipment,4.43,10246089.0,3.0,0.0,0.0,3.0,False,0.0
+BXC,BlueLinx Holdings Inc.,Industrials,Industrial Distribution,60.44,477017600.0,3.0,0.0,0.0,3.0,False,0.0
+SPIR,"Spire Global, Inc.",Industrials,Specialty Business Services,8.97,293539552.0,3.0,0.0,0.0,3.0,False,0.0
+SLND,"Southland Holdings, Inc.",Industrials,Engineering & Construction,3.32,179655280.0,3.0,0.0,0.0,3.0,False,0.0
+DLHC,DLH Holdings Corp.,Industrials,Specialty Business Services,5.93,85311752.0,3.0,0.0,0.0,3.0,False,0.0
+BWMN,Bowman Consulting Group Ltd.,Industrials,Engineering & Construction,33.37,579741248.0,3.0,0.0,0.0,3.0,False,0.0
+BWEN,"Broadwind, Inc.",Industrials,Specialty Industrial Machinery,3.1,71923064.0,3.0,0.0,0.0,3.0,False,0.0
+VCIG,VCI Global Limited,Industrials,Consulting Services,1.12,7328830.0,3.0,0.0,0.0,3.0,False,0.0
+IPDN,"Professional Diversity Network, Inc.",Industrials,Staffing & Employment Services,1.83,8933992.0,3.0,0.0,0.0,3.0,False,0.0
+INVE,"Identiv, Inc.",Industrials,Building Products & Equipment,3.51,83377904.0,3.0,0.0,0.0,3.0,False,0.0
+MWG,Multi Ways Holdings Limited,Industrials,Rental & Leasing Services,0.251,12883829.0,3.0,0.0,0.0,3.0,False,0.0
+BTOC,Armlogi Holding Corp.,Industrials,Integrated Freight & Logistics,0.627,28492810.0,3.0,0.0,0.0,3.0,False,0.0
+CDRE,"Cadre Holdings, Inc.",Industrials,Aerospace & Defense,42.85,1743209472.0,3.5,0.5,-1.0,3.0,False,0.89
+CTNT,Cheetah Net Supply Chain Service Inc.,Industrials,Integrated Freight & Logistics,1.43,4682659.0,3.0,0.0,0.0,3.0,False,0.0
+TUSK,"Mammoth Energy Services, Inc.",Industrials,Conglomerates,2.02,97351952.0,3.0,0.0,0.0,3.0,False,0.0
+MTZ,"MasTec, Inc.",Industrials,Engineering & Construction,219.52,17321873408.0,3.0,0.0,0.0,3.0,False,0.0
+OESX,"Orion Energy Systems, Inc.",Industrials,Electrical Equipment & Parts,16.42,57976884.0,3.0,0.0,0.0,3.0,False,0.0
+SKK,SKK Holdings Limited,Industrials,Engineering & Construction,0.318,5962500.0,3.0,0.0,0.0,3.0,False,0.0
+GWAV,"Greenwave Technology Solutions, Inc.",Industrials,Waste Management,6.71,5566824.0,3.0,0.0,0.0,3.0,False,0.0
+GVH,Globavend Holdings Limited,Industrials,Integrated Freight & Logistics,3.98,6073930.0,3.0,0.0,0.0,3.0,False,0.0
+CSTE,Caesarstone Ltd.,Industrials,Building Products & Equipment,1.82,62919716.0,3.0,0.0,0.0,3.0,False,0.0
+VLRS,"Controladora Vuela Compañía de Aviación, S.A.B. de C.V.",Industrials,Airlines,7.47,858302848.0,3.0,0.0,0.0,3.0,False,0.0
+IVDA,"Iveda Solutions, Inc.",Industrials,Security & Protection Services,1.19,6996893.0,3.0,0.0,0.0,3.0,False,0.0
+JELD,"JELD-WEN Holding, Inc.",Industrials,Building Products & Equipment,2.61,222971536.0,3.0,0.0,0.0,3.0,False,0.0
+SIF,"SIFCO Industries, Inc.",Industrials,Aerospace & Defense,6.58,40732752.0,3.0,1.0,-1.0,3.0,False,0.0
+ORN,"Orion Group Holdings, Inc.",Industrials,Engineering & Construction,10.27,409783040.0,3.0,0.0,0.0,3.0,False,0.0
+OPTT,"Ocean Power Technologies, Inc.",Industrials,Specialty Industrial Machinery,0.4154,76024224.0,3.0,0.0,0.0,3.0,False,0.0
+GRNQ,Greenpro Capital Corp.,Industrials,Consulting Services,1.62,15107817.0,3.0,0.0,0.0,3.0,False,0.0
+MTRX,Matrix Service Company,Industrials,Engineering & Construction,11.68,328494496.0,3.0,0.0,0.0,3.0,False,0.0
+JBI,"Janus International Group, Inc.",Industrials,Building Products & Equipment,6.12,850017280.0,3.0,0.0,0.0,3.0,False,0.0
+JOBY,"Joby Aviation, Inc.",Industrials,Airports & Air Services,15.26,13913810944.0,3.0,0.0,0.0,3.0,False,0.0
+JOB,GEE Group Inc.,Industrials,Staffing & Employment Services,0.1908,20876048.0,3.0,0.0,0.0,3.0,False,0.0
+SGLY,Singularity Future Technology Ltd.,Industrials,Integrated Freight & Logistics,0.6088,4440278.0,3.0,0.0,0.0,3.0,False,0.0
+VRME,"VerifyMe, Inc.",Industrials,Security & Protection Services,0.7396,9202968.0,3.0,0.0,0.0,3.0,False,0.0
+DRS,"Leonardo DRS, Inc.",Industrials,Aerospace & Defense,33.9,9021591552.0,3.5,0.5,-1.0,3.0,False,1.06
+SGRP,"SPAR Group, Inc.",Industrials,Specialty Business Services,0.8782,21032882.0,3.0,0.0,0.0,3.0,False,0.0
+SGBX,Safe & Green Holdings Corp.,Industrials,Metal Fabrication,3.81,21673394.0,3.0,0.0,0.0,3.0,False,0.0
+BOC,Boston Omaha Corporation,Industrials,Conglomerates,13.45,423048672.0,3.0,0.0,0.0,3.0,False,0.0
+SERV,Serve Robotics Inc.,Industrials,Specialty Industrial Machinery,13.42,999568320.0,3.0,0.0,0.0,3.0,False,0.0
+CETY,"Clean Energy Technologies, Inc.",Industrials,Specialty Industrial Machinery,1.1,8209523.0,3.0,0.0,0.0,3.0,False,0.0
+CRGO,Freightos Limited,Industrials,Integrated Freight & Logistics,3.2,164114720.0,3.0,0.0,0.0,3.0,False,0.0
+TRSG,Tungray Technologies Inc.,Industrials,Metal Fabrication,1.2655,20695336.0,3.0,0.0,0.0,3.0,False,0.0
+ARQ,"Arq, Inc.",Industrials,Pollution & Treatment Controls,3.77,160955936.0,3.0,0.0,0.0,3.0,False,0.0
+PAMT,Pamt Corp.,Industrials,Trucking,9.19,192310112.0,3.0,0.0,0.0,3.0,False,0.0
+PAL,"Proficient Auto Logistics, Inc.",Industrials,Integrated Freight & Logistics,9.38,261045744.0,3.0,0.0,0.0,3.0,False,0.0
+GLBS,Globus Maritime Limited,Industrials,Marine Shipping,1.8,37048140.0,3.0,0.0,0.0,3.0,False,0.0
+PC,Premium Catering (Holdings) Limited,Industrials,Specialty Business Services,9.4,30497782.0,3.0,0.0,0.0,3.0,False,0.0
+SCWO,374Water Inc.,Industrials,Pollution & Treatment Controls,0.2698,45663328.0,3.0,0.0,0.0,3.0,False,0.0
+BNC,CEA Industries Inc.,Industrials,Farm & Heavy Construction Machinery,6.78,286800128.0,3.0,0.0,0.0,3.0,False,0.0
+SST,"System1, Inc.",Industrials,Specialty Business Services,4.12,41191464.0,3.0,0.0,0.0,3.0,False,0.0
+GENC,"Gencor Industries, Inc.",Industrials,Farm & Heavy Construction Machinery,12.67,185713088.0,3.0,0.0,0.0,3.0,False,0.0
+WFF,WF Holding Limited,Industrials,Specialty Industrial Machinery,0.5318,13396041.0,3.0,0.0,0.0,3.0,False,0.0
+WFCF,"Where Food Comes From, Inc.",Industrials,Specialty Business Services,12.7502,65895280.0,3.0,0.0,0.0,3.0,False,0.0
+DY,"Dycom Industries, Inc.",Industrials,Engineering & Construction,351.8,10186738688.0,3.0,0.0,0.0,3.0,False,0.0
+KE,"Kimball Electronics, Inc.",Industrials,Electrical Equipment & Parts,29.51,719668416.0,3.0,0.0,0.0,3.0,False,0.0
+KDK,"Kodiak AI, Inc.",Industrials,Farm & Heavy Construction Machinery,6.02,1090868480.0,2.5,0.5,0.0,3.0,False,0.0
+GFAI,"Guardforce AI Co., Limited",Industrials,Security & Protection Services,0.8775,19148444.0,3.0,0.0,0.0,3.0,False,0.0
+BLDR,"Builders FirstSource, Inc.",Industrials,Building Products & Equipment,110.01,12164970496.0,3.0,0.0,0.0,3.0,False,0.0
+BLDP,Ballard Power Systems Inc.,Industrials,Electrical Equipment & Parts,2.82,848083008.0,3.0,0.0,0.0,3.0,False,0.0
+TRNS,"Transcat, Inc.",Industrials,Specialty Business Services,53.84,502241696.0,3.0,0.0,0.0,3.0,False,0.0
+STRRP,"Star Equity Holdings, Inc.",Industrials,Conglomerates,9.54,0.0,3.0,0.0,0.0,3.0,False,10.48
+STRR,"Star Equity Holdings, Inc.",Industrials,Conglomerates,10.56,36956064.0,3.0,0.0,0.0,3.0,False,0.0
+ADUR,Aduro Clean Technologies Inc.,Industrials,Pollution & Treatment Controls,13.88,436643200.0,3.0,0.0,0.0,3.0,False,0.0
+PESI,"Perma-Fix Environmental Services, Inc.",Industrials,Waste Management,13.98,258876912.0,3.0,0.0,0.0,3.0,False,0.0
+BLD,TopBuild Corp.,Industrials,Engineering & Construction,437.04,12297795584.0,3.0,0.0,0.0,3.0,False,0.0
+BKYI,"BIO-key International, Inc.",Industrials,Security & Protection Services,0.765,8290012.0,3.0,0.0,0.0,3.0,False,0.0
+BLNK,Blink Charging Co.,Industrials,Engineering & Construction,1.2,137480720.0,3.0,0.0,0.0,3.0,False,0.0
+BKSY,BlackSky Technology Inc.,Industrials,Specialty Business Services,18.29,658304640.0,3.0,0.0,0.0,3.0,False,0.0
+KODK,Eastman Kodak Company,Industrials,Specialty Business Services,8.79,847355968.0,3.0,0.0,0.0,3.0,False,0.0
+SBC,SBC Medical Group Holdings Incorporated,Industrials,Consulting Services,3.75,384663552.0,3.0,0.0,0.0,3.0,False,0.0
+TPCS,TechPrecision Corporation,Industrials,Metal Fabrication,4.56,45659052.0,3.0,0.0,0.0,3.0,False,0.0
+KRNT,Kornit Digital Ltd.,Industrials,Specialty Industrial Machinery,14.0,643617984.0,3.0,0.0,0.0,3.0,False,0.0
+AQMS,"Aqua Metals, Inc.",Industrials,Waste Management,7.19,21434994.0,3.0,0.0,0.0,3.0,False,0.0
+GASS,StealthGas Inc.,Industrials,Marine Shipping,7.03,261244448.0,3.0,0.0,0.0,3.0,False,0.0
+TOPP,Toppoint Holdings Inc.,Industrials,Trucking,1.12,21728000.0,3.0,0.0,0.0,3.0,False,0.0
+TOMZ,"TOMI Environmental Solutions, Inc.",Industrials,Pollution & Treatment Controls,0.798,16139712.0,3.0,0.0,0.0,3.0,False,0.0
+KSCP,"Knightscope, Inc.",Industrials,Security & Protection Services,4.74,54552004.0,3.0,0.0,0.0,3.0,False,0.0
+MHH,"Mastech Digital, Inc.",Industrials,Staffing & Employment Services,6.86,80839504.0,3.0,0.0,0.0,3.0,False,0.0
+CIGL,Concorde International Group Ltd.,Industrials,Security & Protection Services,2.05,55320208.0,3.0,0.0,0.0,3.0,False,0.0
+SWIM,"Latham Group, Inc.",Industrials,Building Products & Equipment,7.08,825922880.0,3.0,0.0,0.0,3.0,False,0.0
+SVRN,OceanPal Inc.,Industrials,Marine Shipping,1.39,47677656.0,3.0,0.0,0.0,3.0,False,0.0
+ACTG,Acacia Research Corporation,Industrials,Business Equipment & Supplies,3.7,356903392.0,3.0,0.0,0.0,3.0,False,0.0
+EDRY,EuroDry Ltd.,Industrials,Marine Shipping,13.485,38118020.0,3.0,0.0,0.0,3.0,False,0.0
+RYOJ,"rYojbaba Co., Ltd.",Industrials,Consulting Services,4.03,45337504.0,3.0,0.0,0.0,3.0,False,0.0
+FTEK,"Fuel Tech, Inc.",Industrials,Pollution & Treatment Controls,1.69,52515800.0,3.0,0.0,0.0,3.0,False,0.0
+FTAIN,FTAI Aviation Ltd.,Industrials,Rental & Leasing Services,25.32,0.0,3.0,0.0,0.0,3.0,False,8.16
+FTAIM,FTAI Aviation Ltd.,Industrials,Rental & Leasing Services,26.745,0.0,3.0,0.0,0.0,3.0,False,8.87
+PMEC,Primech Holdings Ltd.,Industrials,Specialty Business Services,1.03,39570528.0,3.0,0.0,0.0,3.0,False,0.0
+AWX,Avalon Holdings Corporation,Industrials,Waste Management,2.73,10645449.0,3.0,0.0,0.0,3.0,False,0.0
+EGG,Enigmatig Limited,Industrials,Consulting Services,3.7988,106386152.0,3.0,0.0,0.0,3.0,False,0.0
+SWVL,Swvl Holdings Corp.,Industrials,Railroads,2.611,26016902.0,3.0,0.0,0.0,3.0,False,0.0
+MGN,Megan Holdings Limited,Industrials,Engineering & Construction,2.12,34450000.0,3.0,0.0,0.0,3.0,False,0.0
+CISS,C3is Inc.,Industrials,Marine Shipping,1.86,5056183.0,3.0,0.0,0.0,3.0,False,0.0
+LASE,Laser Photonics Corporation,Industrials,Specialty Industrial Machinery,2.79,62712412.0,3.0,0.0,0.0,3.0,False,0.0
+APT,"Alpha Pro Tech, Ltd.",Industrials,Building Products & Equipment,4.6,48175348.0,3.0,0.0,0.0,3.0,False,0.0
+MG,"Mistras Group, Inc.",Industrials,Security & Protection Services,11.53,363750176.0,3.0,0.0,0.0,3.0,False,0.0
+SYM,Symbotic Inc.,Industrials,Specialty Industrial Machinery,59.7,35389706240.0,3.0,0.0,0.0,3.0,False,0.0
+PPSI,"Pioneer Power Solutions, Inc.",Industrials,Electrical Equipment & Parts,4.33,48042500.0,3.0,0.0,0.0,3.0,False,0.0
+PPIH,"Perma-Pipe International Holdings, Inc.",Industrials,Building Products & Equipment,27.87,225581072.0,3.0,0.0,0.0,3.0,False,0.0
+RVSN,Rail Vision Ltd.,Industrials,Railroads,0.3851,22970360.0,3.0,0.0,0.0,3.0,False,0.0
+POLA,"Polar Power, Inc.",Industrials,Electrical Equipment & Parts,2.3,6114954.0,3.0,0.0,0.0,3.0,False,0.0
+CJMB,Callan JMB Inc.,Industrials,Integrated Freight & Logistics,1.57,7258152.0,3.0,0.0,0.0,3.0,False,0.0
+MEG,"Montrose Environmental Group, Inc.",Industrials,Waste Management,26.3,929380672.0,3.0,0.0,0.0,3.0,False,0.0
+APWC,Asia Pacific Wire & Cable Corporation Limited,Industrials,Electrical Equipment & Parts,1.88,38758508.0,3.0,0.0,0.0,3.0,False,0.0
+CLIR,ClearSign Technologies Corporation,Industrials,Pollution & Treatment Controls,0.7653,40770136.0,3.0,0.0,0.0,3.0,False,0.0
+CLH,"Clean Harbors, Inc.",Industrials,Waste Management,237.36,12730235904.0,3.0,0.0,0.0,3.0,False,0.0
+ELVA,Electrovaya Inc.,Industrials,Electrical Equipment & Parts,5.36,243943872.0,3.0,0.0,0.0,3.0,False,0.0
+RUBI,Rubico Inc.,Industrials,Marine Shipping,2.65,5427560.0,3.0,0.0,0.0,3.0,False,0.0
+BA,The Boeing Company,Industrials,Aerospace & Defense,201.89,153455673344.0,2.5,1.5,-1.0,3.0,False,0.0
+RR,Richtech Robotics Inc.,Industrials,Specialty Industrial Machinery,4.46,884583424.0,3.0,0.0,0.0,3.0,False,0.0
+MEC,"Mayville Engineering Company, Inc.",Industrials,Metal Fabrication,16.5,335253120.0,3.0,0.0,0.0,3.0,False,0.0
+TAYD,"Taylor Devices, Inc.",Industrials,Specialty Industrial Machinery,47.53,149600528.0,3.0,0.0,0.0,3.0,False,0.0
+TLIH,Ten-League International Holdings Limited,Industrials,Industrial Distribution,0.4321,12705617.0,3.0,0.0,0.0,3.0,False,0.0
+TBI,"TrueBlue, Inc.",Industrials,Staffing & Employment Services,4.9,146703392.0,3.0,0.0,0.0,3.0,False,0.0
+TITN,Titan Machinery Inc.,Industrials,Industrial Distribution,15.94,372565216.0,3.0,0.0,0.0,3.0,False,0.0
+MAGH,Magnitude International Ltd,Industrials,Engineering & Construction,6.76,225446000.0,3.0,0.0,0.0,3.0,False,0.0
+ENGS,Energys Group Limited,Industrials,Waste Management,0.8001,11431718.0,3.0,0.0,0.0,3.0,False,0.0
+XOS,"Xos, Inc.",Industrials,Farm & Heavy Construction Machinery,2.25,25501932.0,3.0,0.0,0.0,3.0,False,0.0
+BEEP,Mobile Infrastructure Corporation,Industrials,Infrastructure Operations,2.56,108288000.0,3.0,0.0,0.0,3.0,False,0.0
+XPON,Expion360 Inc.,Industrials,Electrical Equipment & Parts,1.2,11588088.0,3.0,0.0,0.0,3.0,False,0.0
+FGL,Founder Group Limited,Industrials,Engineering & Construction,0.365,7086581.0,3.0,0.0,0.0,3.0,False,0.0
+XPO,"XPO, Inc.",Industrials,Trucking,142.92,16830556160.0,3.0,0.0,0.0,3.0,False,0.0
+EOSE,"Eos Energy Enterprises, Inc.",Industrials,Electrical Equipment & Parts,14.99,4858231808.0,2.5,0.5,0.0,3.0,False,0.0
+FBGL,FBS Global Limited,Industrials,Engineering & Construction,0.7689,10380150.0,3.0,0.0,0.0,3.0,False,0.0
+LIQT,"LiqTech International, Inc.",Industrials,Pollution & Treatment Controls,2.0,19254130.0,3.0,0.0,0.0,3.0,False,0.0
+CMDB,Costamare Bulkers Holdings Limited,Industrials,Marine Shipping,16.77,407536032.0,3.0,0.0,0.0,3.0,False,0.0
+LMB,"Limbach Holdings, Inc.",Industrials,Building Products & Equipment,73.74,857361216.0,3.0,0.0,0.0,3.0,False,0.0
+RLGT,"Radiant Logistics, Inc.",Industrials,Integrated Freight & Logistics,6.37,298666240.0,3.0,0.0,0.0,3.0,False,0.0
+QRHC,Quest Resource Holding Corporation,Industrials,Waste Management,2.11,44035896.0,3.0,0.0,0.0,3.0,False,0.0
+QXO,"QXO, Inc.",Industrials,Industrial Distribution,20.82,14040842240.0,3.0,0.0,0.0,3.0,False,0.0
+YDDL,One and one Green Technologies. Inc,Industrials,Waste Management,5.06,274757984.0,3.0,0.0,0.0,3.0,False,0.0
+FCEL,"FuelCell Energy, Inc.",Industrials,Electrical Equipment & Parts,8.37,399048480.0,3.0,0.0,0.0,3.0,False,0.0
+FBYD,"Falcon's Beyond Global, Inc.",Industrials,Conglomerates,20.1,748680896.0,3.0,0.0,0.0,3.0,False,0.0
+BE,Bloom Energy Corporation,Industrials,Electrical Equipment & Parts,119.18,28187351040.0,3.0,0.0,0.0,3.0,False,0.0
+THH,TryHard Holdings Limited,Industrials,Specialty Business Services,18.5,925855616.0,3.0,0.0,0.0,3.0,False,0.0
+TH,Target Hospitality Corp.,Industrials,Specialty Business Services,8.24,822183360.0,3.0,0.0,0.0,3.0,False,0.0
+APG,APi Group Corporation,Industrials,Engineering & Construction,39.06,16245285888.0,3.0,0.0,0.0,3.0,False,0.0
+TGEN,Tecogen Inc.,Industrials,Electrical Equipment & Parts,7.01,209223824.0,3.0,0.0,0.0,3.0,False,0.0
+ESGL,ESGL Holdings Limited,Industrials,Waste Management,4.0,169564960.0,3.0,0.0,0.0,3.0,False,0.0
+RCMT,"RCM Technologies, Inc.",Industrials,Conglomerates,20.07,148728960.0,3.0,0.0,0.0,3.0,False,0.0
+ERII,"Energy Recovery, Inc.",Industrials,Pollution & Treatment Controls,14.72,783080256.0,3.0,0.0,0.0,3.0,False,0.0
+LNKS,Linkers Industries Limited,Industrials,Electrical Equipment & Parts,0.34,4567900.0,3.0,0.0,0.0,3.0,False,0.0
+TDG,TransDigm Group Incorporated,Industrials,Aerospace & Defense,1346.86,75895939072.0,2.5,1.5,-1.0,3.0,False,0.0
+ABAT,American Battery Technology Company,Industrials,Waste Management,4.15,539375360.0,3.0,0.0,0.0,3.0,False,0.0
+ZONE,"CleanCore Solutions, Inc.",Industrials,Pollution & Treatment Controls,0.2979,2372302.0,3.0,0.0,0.0,3.0,False,0.0
+ZGM,Zenta Group Company Limited,Industrials,Consulting Services,2.801,33076562.0,3.0,0.0,0.0,3.0,False,0.0
+UGRO,"urban-gro, Inc.",Industrials,Farm & Heavy Construction Machinery,0.2251,2891760.0,3.0,0.0,0.0,3.0,False,0.0
+UFG,Uni-Fuels Holdings Limited,Industrials,Marine Shipping,0.7372,23896338.0,3.0,0.0,0.0,3.0,False,0.0
+CMPR,Cimpress plc,Industrials,Specialty Business Services,70.47,1738620672.0,2.5,0.5,0.0,3.0,False,0.0
+RDW,Redwire Corporation,Industrials,Aerospace & Defense,6.39,1055313472.0,3.0,0.5,-1.0,2.5,False,0.0
+EVEX,"Eve Holding, Inc.",Industrials,Aerospace & Defense,4.85,1689277184.0,3.0,0.5,-1.0,2.5,False,0.0
+FLYX,"flyExclusive, Inc.",Industrials,Airlines,3.49,281599936.0,2.5,0.0,0.0,2.5,False,0.0
+ACHR,Archer Aviation Inc.,Industrials,Aerospace & Defense,8.6,6313339392.0,3.0,0.5,-1.0,2.5,False,0.0
+FLUX,"Flux Power Holdings, Inc.",Industrials,Electrical Equipment & Parts,1.58,33717416.0,2.5,0.0,0.0,2.5,False,0.0
+FLY,Firefly Aerospace Inc.,Industrials,Aerospace & Defense,19.81,3154764544.0,3.0,0.5,-1.0,2.5,False,0.0
+RAIN,"Rain Enhancement Technologies Holdco, Inc.",Industrials,Pollution & Treatment Controls,5.46,44711032.0,2.5,0.0,0.0,2.5,False,0.0
+ADSE,ADS-TEC Energy PLC,Industrials,Electrical Equipment & Parts,12.44,747924352.0,2.5,0.0,0.0,2.5,False,0.0
+RJET,Republic Airways Holdings Inc.,Industrials,Airlines,19.3,905169984.0,2.5,0.0,0.0,2.5,False,0.0
+GFAIW,"Guardforce AI Co., Limited",Industrials,Security & Protection Services,0.1207,0.0,2.5,0.0,0.0,2.5,False,0.0
+AERT,"Aeries Technology, Inc",Industrials,Consulting Services,0.634,30973314.0,2.5,0.0,0.0,2.5,False,0.0
+BAER,"Bridger Aerospace Group Holdings, Inc.",Industrials,Security & Protection Services,1.82,101088456.0,2.5,0.0,0.0,2.5,False,0.0
+AERO,AERO,Industrials,Airlines,18.28,249383008.0,2.5,0.0,0.0,2.5,False,0.0
+FBYDW,"Falcon's Beyond Global, Inc.",Industrials,Conglomerates,2.32,0.0,2.5,0.0,0.0,2.5,False,0.0
+VVX,"V2X, Inc.",Industrials,Aerospace & Defense,55.55,1731573632.0,3.0,0.5,-1.0,2.5,False,0.0
+GP,GreenPower Motor Company Inc.,Industrials,Farm & Heavy Construction Machinery,1.01,3131356.0,2.5,0.0,0.0,2.5,False,0.0
+VOYG,"Voyager Technologies, Inc.",Industrials,Aerospace & Defense,23.75,1414259712.0,3.0,0.5,-1.0,2.5,False,0.0
+VNTG,VNTG,Industrials,Marine Shipping,0.89,28246374.0,2.5,0.0,0.0,2.5,False,0.0
+GWH,"ESS Tech, Inc.",Industrials,Electrical Equipment & Parts,2.16,42372872.0,2.5,0.0,0.0,2.5,False,0.0
+VATE,INNOVATE Corp.,Industrials,Engineering & Construction,4.92,67182904.0,2.5,0.0,0.0,2.5,False,0.0
+DEVS,DevvStream Corp.,Industrials,Pollution & Treatment Controls,2.0,7683286.0,2.5,0.0,0.0,2.5,False,0.0
+DFLI,Dragonfly Energy Holdings Corp.,Industrials,Electrical Equipment & Parts,0.75,90590288.0,2.5,0.0,0.0,2.5,False,0.0
+AIRJW,AirJoule Technologies Corporation,Industrials,Building Products & Equipment,0.58,0.0,2.5,0.0,0.0,2.5,False,0.0
+DCO,Ducommun Incorporated,Industrials,Aerospace & Defense,89.44,1336774912.0,3.0,0.5,-1.0,2.5,False,0.0
+UP,Wheels Up Experience Inc.,Industrials,Airports & Air Services,0.605,436633248.0,2.5,0.0,0.0,2.5,False,0.0
+RVSNW,Rail Vision Ltd.,Industrials,Railroads,0.09,0.0,2.5,0.0,0.0,2.5,False,0.0
+IVDAW,"Iveda Solutions, Inc.",Industrials,Security & Protection Services,0.18,0.0,2.5,0.0,0.0,2.5,False,0.0
+PL,Planet Labs PBC,Industrials,Aerospace & Defense,12.77,3932176896.0,3.0,0.5,-1.0,2.5,False,0.0
+PLAG,Planet Green Holdings Corp.,Industrials,Conglomerates,2.24,21017282.0,2.5,0.0,0.0,2.5,False,0.0
+CRESW,"Cresud Sociedad Anónima, Comercial, Inmobiliaria, Financiera y Agropecuaria",Industrials,Conglomerates,1.1101,0.0,2.5,0.0,0.0,2.5,False,0.0
+CRGOW,Freightos Limited,Industrials,Integrated Freight & Logistics,0.2344,0.0,2.5,0.0,0.0,2.5,False,0.0
+KRMN,Karman Holdings Inc.,Industrials,Aerospace & Defense,65.45,8660502528.0,3.0,0.5,-1.0,2.5,False,0.0
+SARO,"StandardAero, Inc.",Industrials,Aerospace & Defense,26.56,8883530752.0,3.0,0.5,-1.0,2.5,False,0.0
+LAWR,"Robot Consulting Co., Ltd.",Industrials,Consulting Services,3.75,172350000.0,2.5,0.0,0.0,2.5,False,0.0
+TISI,"Team, Inc.",Industrials,Specialty Business Services,14.6,66097704.0,2.5,0.0,0.0,2.5,False,0.0
+LNZA,"LanzaTech Global, Inc.",Industrials,Waste Management,15.095,35023660.0,2.5,0.0,0.0,2.5,False,0.0
+LOAR,Loar Holdings Inc.,Industrials,Aerospace & Defense,67.25,6296111104.0,3.0,0.5,-1.0,2.5,False,0.0
+PCTTW,"PureCycle Technologies, Inc.",Industrials,Pollution & Treatment Controls,1.52,0.0,2.5,0.0,0.0,2.5,False,0.0
+SBCWW,SBC Medical Group Holdings Incorporated,Industrials,Consulting Services,0.1699,0.0,2.5,0.0,0.0,2.5,False,0.0
+PCTTU,"PureCycle Technologies, Inc.",Industrials,Pollution & Treatment Controls,17.8,0.0,2.5,0.0,0.0,2.5,False,0.0
+SDST,Stardust Power Inc.,Industrials,Electrical Equipment & Parts,3.51,34460508.0,2.5,0.0,0.0,2.5,False,0.0
+BNCWW,CEA Industries Inc.,Industrials,Farm & Heavy Construction Machinery,0.1105,0.0,2.5,0.0,0.0,2.5,False,0.0
+MOBBW,Mobilicom Limited,Industrials,Aerospace & Defense,3.5,1126778496.0,3.0,0.5,-1.0,2.5,False,0.0
+STI,"Solidion Technology, Inc.",Industrials,Electrical Equipment & Parts,8.39,60850348.0,2.5,0.0,0.0,2.5,False,0.0
+MRCY,"Mercury Systems, Inc.",Industrials,Aerospace & Defense,70.58,4241867776.0,3.0,0.5,-1.0,2.5,False,0.0
+STAI,ScanTech AI Systems Inc.,Industrials,Building Products & Equipment,0.2873,21581838.0,2.5,0.0,0.0,2.5,False,0.0
+SRFM,Surf Air Mobility Inc.,Industrials,Airlines,2.25,142252752.0,2.5,0.0,0.0,2.5,False,0.0
+ATLN,Atlantic International Corp.,Industrials,Staffing & Employment Services,1.83,99433592.0,2.5,0.0,0.0,2.5,False,0.0
+SHIM,Shimmick Corporation,Industrials,Engineering & Construction,2.7,96701800.0,2.5,0.0,0.0,2.5,False,0.0
+OFAL,OFAL,Industrials,Engineering & Construction,0.839,11933610.0,2.5,0.0,0.0,2.5,False,0.0
+SHMD,SCHMID Group N.V.,Industrials,Specialty Industrial Machinery,4.67,201101536.0,2.5,0.0,0.0,2.5,False,0.0
+NEOVW,NeoVolta Inc.,Industrials,Electrical Equipment & Parts,1.24,0.0,2.5,0.0,0.0,2.5,False,0.0
+NIXXW,"Nixxy, Inc.",Industrials,Staffing & Employment Services,0.0519,0.0,2.5,0.0,0.0,2.5,False,0.0
+SKYX,SKYX Platforms Corp.,Industrials,Electrical Equipment & Parts,2.37,269586016.0,2.5,0.0,0.0,2.5,False,0.0
+SMXWW,SMX (Security Matters) Public Limited Company,Industrials,Specialty Business Services,0.285,0.0,2.5,0.0,0.0,2.5,False,0.0
+ESGLW,ESGL Holdings Limited,Industrials,Waste Management,0.11,0.0,2.5,0.0,0.0,2.5,False,0.0
+EVLVW,"Evolv Technologies Holdings, Inc.",Industrials,Security & Protection Services,0.2841,0.0,2.5,0.0,0.0,2.5,False,0.0
+BURU,"Nuburu, Inc.",Industrials,Specialty Industrial Machinery,0.2334,101212568.0,2.5,0.0,0.0,2.5,False,0.0
+BW,"Babcock & Wilcox Enterprises, Inc.",Industrials,Specialty Industrial Machinery,5.68,631048512.0,2.5,0.0,0.0,2.5,False,0.0
+XTIA,"XTI Aerospace, Inc.",Industrials,Aerospace & Defense,1.43,46885144.0,3.0,0.0,-1.0,2.0,False,0.0
+BUUU,BUUU Group Limited,Industrials,Specialty Business Services,7.98,133066504.0,3.0,0.0,-1.0,2.0,False,0.0
+BYRN,Byrna Technologies Inc.,Industrials,Aerospace & Defense,19.67,447010912.0,3.0,0.0,-1.0,2.0,False,0.0
+SLGB,Smart Logistics Global Limited,Industrials,Integrated Freight & Logistics,2.07,84870000.0,3.0,0.0,-1.0,2.0,False,0.0
+YSXT,"YSX Tech. Co., Ltd",Industrials,Specialty Business Services,2.3,53906248.0,3.0,0.0,-1.0,2.0,False,0.0
+SKBL,Skyline Builders Group Holding Limited,Industrials,Engineering & Construction,2.97,41020412.0,3.0,0.0,-1.0,2.0,False,0.0
+CBAT,"CBAK Energy Technology, Inc.",Industrials,Electrical Equipment & Parts,0.8622,76430448.0,3.0,0.0,-1.0,2.0,False,0.0
+SPAI,Safe Pro Group Inc.,Industrials,Aerospace & Defense,5.13,107592888.0,3.0,0.0,-1.0,2.0,False,0.0
+SPCE,"Virgin Galactic Holdings, Inc.",Industrials,Aerospace & Defense,4.31,272393056.0,3.0,0.0,-1.0,2.0,False,0.0
+NISN,"Nisun International Enterprise Development Group Co., Ltd",Industrials,Specialty Business Services,3.4,16314418.0,3.0,0.0,-1.0,2.0,False,0.0
+NCEW,New Century Logistics (BVI) Limited,Industrials,Integrated Freight & Logistics,4.12,11072500.0,3.0,0.0,-1.0,2.0,False,0.0
+NCT,Intercont (Cayman) Limited,Industrials,Marine Shipping,0.543,15918301.0,3.0,0.0,-1.0,2.0,False,0.0
+SHMDW,SCHMID Group N.V.,Industrials,Specialty Industrial Machinery,0.88,0.0,2.0,0.0,0.0,2.0,False,0.0
+CDTG,CDT Environmental Technology Investment Holdings Limited,Industrials,Waste Management,0.4238,5223335.0,3.0,0.0,-1.0,2.0,False,0.0
+SIDU,"Sidus Space, Inc.",Industrials,Aerospace & Defense,0.7408,26111336.0,3.0,0.0,-1.0,2.0,False,0.0
+ONEG,OneConstruction Group Limited,Industrials,Engineering & Construction,1.21,19360000.0,3.0,0.0,-1.0,2.0,False,0.0
+MTEN,Mingteng International Corporation Inc.,Industrials,Metal Fabrication,1.1699,23124308.0,3.0,0.0,-1.0,2.0,False,0.0
+MSGY,Masonglory Limited,Industrials,Engineering & Construction,2.83,40256748.0,3.0,0.0,-1.0,2.0,False,0.0
+MSW,Ming Shing Group Holdings Limited,Industrials,Engineering & Construction,1.591,20643224.0,3.0,0.0,-1.0,2.0,False,0.0
+CCTG,CCSC Technology International Holdings Limited,Industrials,Electrical Equipment & Parts,0.22,5136532.0,3.0,0.0,-1.0,2.0,False,0.0
+MOB,Mobilicom Limited,Industrials,Aerospace & Defense,8.01,90580808.0,3.0,0.0,-1.0,2.0,False,0.0
+OPXS,"Optex Systems Holdings, Inc",Industrials,Aerospace & Defense,14.33,99072216.0,3.0,0.0,-1.0,2.0,False,0.0
+SFHG,Samfine Creation Holdings Group Limited,Industrials,Specialty Business Services,0.5491,11146730.0,3.0,0.0,-1.0,2.0,False,0.0
+SFWL,Shengfeng Development Limited,Industrials,Integrated Freight & Logistics,0.95,80877328.0,3.0,0.0,-1.0,2.0,False,0.0
+SUGP,SU Group Holdings Limited,Industrials,Security & Protection Services,5.6,7754600.0,3.0,0.0,-1.0,2.0,False,0.0
+MIMI,Mint Incorporation Limited,Industrials,Engineering & Construction,0.5125,12818906.0,3.0,0.0,-1.0,2.0,False,0.0
+CIIT,"Tianci International, Inc.",Industrials,Integrated Freight & Logistics,0.451,7455843.0,3.0,0.0,-1.0,2.0,False,0.0
+ATXG,Addentax Group Corp.,Industrials,Integrated Freight & Logistics,0.4705,5512071.0,3.0,0.0,-1.0,2.0,False,0.0
+SDSTW,Stardust Power Inc.,Industrials,Electrical Equipment & Parts,0.1275,0.0,2.0,0.0,0.0,2.0,False,0.0
+CLWT,Euro Tech Holdings Company Limited,Industrials,Pollution & Treatment Controls,1.0999,8487158.0,3.0,0.0,-1.0,2.0,False,0.0
+TATT,TAT Technologies Ltd.,Industrials,Aerospace & Defense,39.0,505074848.0,3.0,0.0,-1.0,2.0,False,0.0
+MAMK,MaxsMaking Inc.,Industrials,Conglomerates,13.16,218784992.0,3.0,0.0,-1.0,2.0,False,0.0
+LUNR,"Intuitive Machines, Inc.",Industrials,Aerospace & Defense,11.21,1337574784.0,2.5,0.5,-1.0,2.0,False,0.0
+YGMZ,MingZhu Logistics Holdings Limited,Industrials,Trucking,0.0789,379394.0,3.0,0.0,-1.0,2.0,False,0.0
+ANPA,Rich Sparkle Holdings Limited,Industrials,Specialty Business Services,20.12,251500016.0,3.0,0.0,-1.0,2.0,False,0.0
+CODA,"Coda Octopus Group, Inc.",Industrials,Aerospace & Defense,8.59,96627768.0,3.0,0.0,-1.0,2.0,False,0.0
+LBGJ,Li Bang International Corporation Inc.,Industrials,Specialty Industrial Machinery,0.648,12148704.0,3.0,0.0,-1.0,2.0,False,0.0
+LICN,Lichen International Limited,Industrials,Specialty Business Services,4.07,66450180.0,3.0,0.0,-1.0,2.0,False,0.0
+PEW,GrabAGun Digital Holdings Inc.,Industrials,Aerospace & Defense,3.52,105656048.0,3.0,0.0,-1.0,2.0,False,0.0
+PHOE,Phoenix Asia Holdings Limited,Industrials,Engineering & Construction,18.73,404568000.0,3.0,0.0,-1.0,2.0,False,0.0
+AVAV,"AeroVironment, Inc.",Industrials,Aerospace & Defense,278.39,13900635136.0,3.0,0.0,-1.0,2.0,False,0.0
+KTOS,"Kratos Defense & Security Solutions, Inc.",Industrials,Aerospace & Defense,76.5,12916314112.0,3.0,0.0,-1.0,2.0,False,0.0
+KDKRW,"Kodiak AI, Inc.",Industrials,Farm & Heavy Construction Machinery,1.09,0.0,2.0,0.0,0.0,2.0,False,0.0
+CRE,Cre8 Enterprise Limited,Industrials,Specialty Business Services,0.3777,9128065.0,3.0,0.0,-1.0,2.0,False,0.0
+AXON,"Axon Enterprise, Inc.",Industrials,Aerospace & Defense,550.95,43475722240.0,3.0,0.0,-1.0,2.0,False,0.0
+ISSC,"Innovative Aerosystems, Inc.",Industrials,Aerospace & Defense,10.22,180246304.0,3.0,0.0,-1.0,2.0,False,0.0
+JYD,Jayud Global Logistics Limited,Industrials,Integrated Freight & Logistics,4.2,11482249.0,3.0,0.0,-1.0,2.0,False,0.0
+JLHL,Julong Holding Limited,Industrials,Building Products & Equipment,4.45,95446408.0,3.0,0.0,-1.0,2.0,False,0.0
+POWW,Outdoor Holding Company,Industrials,Aerospace & Defense,1.93,226023904.0,3.0,0.0,-1.0,2.0,False,0.0
+POWWP,Outdoor Holding Company,Industrials,Aerospace & Defense,24.1,0.0,3.0,0.0,-1.0,2.0,False,9.08
+PMAX,Powell Max Limited,Industrials,Specialty Business Services,3.31,8091027.0,3.0,0.0,-1.0,2.0,False,0.0
+INTJ,Intelligent Group Limited,Industrials,Consulting Services,0.62,19065000.0,3.0,0.0,-1.0,2.0,False,0.0
+INLF,INLIF Limited,Industrials,Specialty Industrial Machinery,0.641,10191900.0,3.0,0.0,-1.0,2.0,False,0.0
+ILAG,Intelligent Living Application Group Inc.,Industrials,Building Products & Equipment,0.4749,9863428.0,3.0,0.0,-1.0,2.0,False,0.0
+CVU,"CPI Aerostructures, Inc.",Industrials,Aerospace & Defense,2.88,37973520.0,3.0,0.0,-1.0,2.0,False,0.0
+HUHU,HUHUTECH International Group Inc.,Industrials,Specialty Industrial Machinery,9.8,227099440.0,3.0,0.0,-1.0,2.0,False,0.0
+HTZWW,"Hertz Global Holdings, Inc.",Industrials,Rental & Leasing Services,2.75,0.0,2.0,0.0,0.0,2.0,False,0.0
+HXHX,Haoxin Holdings Limited,Industrials,Integrated Freight & Logistics,0.509,6998750.0,3.0,0.0,-1.0,2.0,False,0.0
+HOVR,New Horizon Aircraft Ltd.,Industrials,Aerospace & Defense,1.77,76738680.0,3.0,0.0,-1.0,2.0,False,0.0
+PRZO,ParaZero Technologies Ltd.,Industrials,Aerospace & Defense,1.37,25706176.0,3.0,0.0,-1.0,2.0,False,0.0
+DFLIW,Dragonfly Energy Holdings Corp.,Industrials,Electrical Equipment & Parts,0.1,0.0,2.0,0.0,0.0,2.0,False,0.0
+DFSC,DEFSEC Technologies Inc.,Industrials,Aerospace & Defense,3.72,5194314.0,3.0,0.0,-1.0,2.0,False,0.0
+AIRI,Air Industries Group,Industrials,Aerospace & Defense,2.98,14231816.0,3.0,0.0,-1.0,2.0,False,0.0
+AIRO,"AIRO Group Holdings, Inc.",Industrials,Aerospace & Defense,9.48,296760320.0,3.0,0.0,-1.0,2.0,False,0.0
+ROMA,Roma Green Finance Limited,Industrials,Consulting Services,2.53,150698368.0,3.0,0.0,-1.0,2.0,False,0.0
+BETA,"BETA Technologies, Inc.",Industrials,Aerospace & Defense,28.39,6722383360.0,2.5,0.5,-1.0,2.0,False,0.0
+HCAI,"Huachen AI Parking Management Technology Holding Co., Ltd",Industrials,Farm & Heavy Construction Machinery,0.4281,21789220.0,3.0,0.0,-1.0,2.0,False,0.0
+DPRO,Draganfly Inc.,Industrials,Aerospace & Defense,7.67,196212416.0,3.0,0.0,-1.0,2.0,False,0.0
+RKLB,Rocket Lab Corporation,Industrials,Aerospace & Defense,49.055,26203037696.0,3.0,0.0,-1.0,2.0,False,0.0
+GPUS,"Hyperscale Data, Inc.",Industrials,Aerospace & Defense,0.2782,96755912.0,3.0,0.0,-1.0,2.0,False,0.0
+PSIG,PS International Group Ltd.,Industrials,Integrated Freight & Logistics,4.14,35699564.0,3.0,0.0,-1.0,2.0,False,0.0
+GLXG,Galaxy Payroll Group Limited,Industrials,Staffing & Employment Services,3.15,6808725.0,3.0,0.0,-1.0,2.0,False,0.0
+DXST,Decent Holding Inc.,Industrials,Waste Management,1.44,42600000.0,3.0,0.0,-1.0,2.0,False,0.0
+AERTW,"Aeries Technology, Inc",Industrials,Consulting Services,0.0303,0.0,2.0,0.0,0.0,2.0,False,0.0
+BAERW,"Bridger Aerospace Group Holdings, Inc.",Industrials,Security & Protection Services,0.1899,0.0,2.0,0.0,0.0,2.0,False,0.0
+AEHL,Antelope Enterprise Holdings Limited,Industrials,Building Products & Equipment,3.24,16757520.0,3.0,0.0,-1.0,2.0,False,0.0
+ADSEW,ADS-TEC Energy PLC,Industrials,Electrical Equipment & Parts,0.85,0.0,2.0,0.0,0.0,2.0,False,0.0
+RITR,Reitar Logtech Holdings Limited,Industrials,Engineering & Construction,0.93,58079200.0,3.0,0.0,-1.0,2.0,False,0.0
+EHGO,Eshallgo Inc.,Industrials,Business Equipment & Supplies,0.2868,9180852.0,3.0,0.0,-1.0,2.0,False,0.0
+RAINW,"Rain Enhancement Technologies Holdco, Inc.",Industrials,Pollution & Treatment Controls,0.303,0.0,2.0,0.0,0.0,2.0,False,0.0
+ACCL,Acco Group Holdings Limited,Industrials,Consulting Services,3.95,55102104.0,3.0,0.0,-1.0,2.0,False,0.0
+FLX,BingEx Limited,Industrials,Integrated Freight & Logistics,3.63,258201584.0,3.0,0.0,-1.0,2.0,False,0.0
+FOFO,"Hang Feng Technology Innovation Co., Ltd.",Industrials,Consulting Services,12.4,85203512.0,3.0,0.0,-1.0,2.0,False,0.0
+ELOG,Eastern International Ltd.,Industrials,Integrated Freight & Logistics,1.99,23913830.0,3.0,0.0,-1.0,2.0,False,0.0
+WXM,WF International Limited,Industrials,Industrial Distribution,0.52,4482757.0,3.0,0.0,-1.0,2.0,False,0.0
+XCH,XCHG Limited,Industrials,Specialty Industrial Machinery,1.23,73125392.0,3.0,0.0,-1.0,2.0,False,0.0
+RAYA,Erayak Power Solution Group Inc.,Industrials,Electrical Equipment & Parts,4.26,3812581.0,3.0,0.0,-1.0,2.0,False,0.0
+RCAT,"Red Cat Holdings, Inc.",Industrials,Aerospace & Defense,8.02,957356544.0,3.0,0.0,-1.0,2.0,False,0.0
+ZDAI,"DirectBooking Technology Co., Ltd.",Industrials,Engineering & Construction,0.3503,9247920.0,3.0,0.0,-1.0,2.0,False,0.0
+ZJK,"ZJK Industrial Co., Ltd.",Industrials,Specialty Industrial Machinery,2.945,187956512.0,3.0,0.0,-1.0,2.0,False,0.0
+EPOW,"Sunrise New Energy Co., Ltd.",Industrials,Electrical Equipment & Parts,1.06,41053004.0,2.5,0.0,-1.0,1.5,False,0.0
+ELPW,Elong Power Holding Limited,Industrials,Electrical Equipment & Parts,0.2059,13806851.0,2.5,0.0,-1.0,1.5,False,0.0
+EH,EHang Holdings Limited,Industrials,Aerospace & Defense,14.37,1034422400.0,3.0,0.5,-2.0,1.5,False,0.0
+VWAV,"VisionWave Holdings, Inc.",Industrials,Aerospace & Defense,9.73,145916944.0,2.5,0.0,-1.0,1.5,False,0.0
+AIHS,Senmiao Technology Limited,Industrials,Rental & Leasing Services,1.3019,5933396.0,2.5,0.0,-1.0,1.5,False,0.0
+DFSCW,DEFSEC Technologies Inc.,Industrials,Aerospace & Defense,0.024,0.0,2.5,0.0,-1.0,1.5,False,0.0
+HOVRW,New Horizon Aircraft Ltd.,Industrials,Aerospace & Defense,0.53,0.0,2.5,0.0,-1.0,1.5,False,0.0
+KITT,"Nauticus Robotics, Inc.",Industrials,Aerospace & Defense,1.12,15355889.0,2.5,0.0,-1.0,1.5,False,0.0
+MNTS,Momentus Inc.,Industrials,Aerospace & Defense,0.8002,19323758.0,2.5,0.0,-1.0,1.5,False,0.0
+EVTL,Vertical Aerospace Ltd.,Industrials,Aerospace & Defense,6.77,675560000.0,2.5,0.0,-1.0,1.5,False,0.0
+SCAG,Scage Future,Industrials,Farm & Heavy Construction Machinery,1.98,143767136.0,2.5,0.0,-1.0,1.5,False,0.0
+SATL,Satellogic Inc.,Industrials,Aerospace & Defense,1.69,228939488.0,2.5,0.0,-1.0,1.5,False,0.0
+KITTW,"Nauticus Robotics, Inc.",Industrials,Aerospace & Defense,0.0891,0.0,2.0,0.0,-1.0,1.0,False,0.0
+VWAVW,"VisionWave Holdings, Inc.",Industrials,Aerospace & Defense,1.25,0.0,2.0,0.0,-1.0,1.0,False,0.0
+MNTSW,Momentus Inc.,Industrials,Aerospace & Defense,0.0229,0.0,2.0,0.0,-1.0,1.0,False,0.0
+SCAGW,Scage Future,Industrials,Farm & Heavy Construction Machinery,0.0598,0.0,2.0,0.0,-1.0,1.0,False,0.0
+SATLW,Satellogic Inc.,Industrials,Aerospace & Defense,0.198,0.0,2.0,0.0,-1.0,1.0,False,0.0

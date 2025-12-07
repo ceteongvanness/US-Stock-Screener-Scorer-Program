@@ -1,0 +1,259 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+PG,The Procter & Gamble Company,Consumer Defensive,Household & Personal Products,143.45,335742631936.0,4.0,3.0,0.0,7.0,True,2.95
+KO,The Coca-Cola Company,Consumer Defensive,Beverages - Non-Alcoholic,70.0,301256704000.0,4.0,3.0,0.0,7.0,True,2.91
+PM,Philip Morris International Inc.,Consumer Defensive,Tobacco,147.81,230086770688.0,3.5,3.0,0.0,6.5,False,3.98
+MO,"Altria Group, Inc.",Consumer Defensive,Tobacco,57.99,97416880128.0,3.5,3.0,0.0,6.5,False,7.31
+ABEV,Ambev S.A.,Consumer Defensive,Beverages - Brewers,2.46,39191949312.0,4.0,2.0,0.0,6.0,False,7.19
+BUD,Anheuser-Busch InBev SA/NV,Consumer Defensive,Beverages - Brewers,61.16,119180722176.0,4.0,2.0,0.0,6.0,False,2.13
+BTI,British American Tobacco p.l.c.,Consumer Defensive,Tobacco,57.01,124199747584.0,4.0,2.0,0.0,6.0,False,5.5
+COST,Costco Wholesale Corporation,Consumer Defensive,Discount Stores,894.68,396770082816.0,4.0,2.0,0.0,6.0,False,0.58
+GIS,"General Mills, Inc.",Consumer Defensive,Packaged Foods,45.93,24558120960.0,4.0,2.0,0.0,6.0,False,5.31
+PEP,"PepsiCo, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,145.02,198543589376.0,4.0,2.0,0.0,6.0,False,3.92
+UL,Unilever PLC,Consumer Defensive,Household & Personal Products,59.48,145840111616.0,4.0,2.0,0.0,6.0,False,3.42
+WMT,Walmart Inc.,Consumer Defensive,Discount Stores,115.11,917754937344.0,4.0,2.0,0.0,6.0,False,0.82
+MDLZ,"Mondelez International, Inc.",Consumer Defensive,Confectioners,54.905,71044071424.0,4.0,2.0,0.0,6.0,False,3.64
+CL,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products,78.07,63097798656.0,4.0,2.0,0.0,6.0,False,2.66
+WMK,"Weis Markets, Inc.",Consumer Defensive,Grocery Stores,66.27,1639824384.0,4.0,1.5,0.0,5.5,False,2.05
+ACI,"Albertsons Companies, Inc.",Consumer Defensive,Grocery Stores,17.22,9640555520.0,4.0,1.5,0.0,5.5,False,3.48
+INGR,Ingredion Incorporated,Consumer Defensive,Packaged Foods,108.31,6951431680.0,4.0,1.5,0.0,5.5,False,3.03
+IMKTA,"Ingles Markets, Incorporated",Consumer Defensive,Grocery Stores,74.25,1410332416.0,4.0,1.5,0.0,5.5,False,0.89
+IPAR,"Interparfums, Inc.",Consumer Defensive,Household & Personal Products,82.75,2653356288.0,4.0,1.5,0.0,5.5,False,3.87
+GHC,Graham Holdings Company,Consumer Defensive,Education & Training Services,1086.39,4739292672.0,4.0,1.5,0.0,5.5,False,0.66
+SPB,"Spectrum Brands Holdings, Inc.",Consumer Defensive,Household & Personal Products,57.19,1384400384.0,4.0,1.5,0.0,5.5,False,3.29
+JJSF,J&J Snack Foods Corp.,Consumer Defensive,Packaged Foods,90.97,1770978176.0,4.0,1.5,0.0,5.5,False,3.52
+STRA,"Strategic Education, Inc.",Consumer Defensive,Education & Training Services,80.16,1915856768.0,4.0,1.5,0.0,5.5,False,2.99
+TAP,Molson Coors Beverage Company,Consumer Defensive,Beverages - Brewers,45.13,8924720128.0,4.0,1.5,0.0,5.5,False,4.17
+ANDE,"The Andersons, Inc.",Consumer Defensive,Food Distribution,50.01,1710865024.0,4.0,1.5,0.0,5.5,False,1.56
+CPB,The Campbell's Company,Consumer Defensive,Packaged Foods,29.6,8820578304.0,4.0,1.5,0.0,5.5,False,5.27
+NWL,Newell Brands Inc.,Consumer Defensive,Household & Personal Products,3.72,1559424000.0,4.0,1.5,0.0,5.5,False,7.53
+TPB,"Turning Point Brands, Inc.",Consumer Defensive,Tobacco,100.84,1923094912.0,4.0,1.5,0.0,5.5,False,0.3
+TR,"Tootsie Roll Industries, Inc.",Consumer Defensive,Confectioners,37.59,2743567616.0,4.0,1.5,0.0,5.5,False,0.96
+CAG,"Conagra Brands, Inc.",Consumer Defensive,Packaged Foods,17.05,8155895296.0,4.0,1.5,0.0,5.5,False,8.21
+CALM,"Cal-Maine Foods, Inc.",Consumer Defensive,Farm Products,84.71,4108401664.0,4.0,1.5,0.0,5.5,False,10.23
+FLO,"Flowers Foods, Inc.",Consumer Defensive,Packaged Foods,10.78,2276501248.0,4.0,1.5,0.0,5.5,False,9.18
+UVV,Universal Corporation,Consumer Defensive,Tobacco,52.25,1302130432.0,4.0,1.5,0.0,5.5,False,6.28
+MZTI,The Marzetti Company,Consumer Defensive,Packaged Foods,159.95,4404063232.0,4.0,1.5,0.0,5.5,False,2.5
+CCU,Compañía Cervecerías Unidas S.A.,Consumer Defensive,Beverages - Brewers,12.94,2400640768.0,4.0,1.5,0.0,5.5,False,3.02
+LW,"Lamb Weston Holdings, Inc.",Consumer Defensive,Packaged Foods,59.7,8319476736.0,4.0,1.5,0.0,5.5,False,2.48
+FDP,Fresh Del Monte Produce Inc.,Consumer Defensive,Farm Products,37.14,1781789184.0,4.0,1.5,0.0,5.5,False,3.23
+PSMT,"PriceSmart, Inc.",Consumer Defensive,Discount Stores,127.99,3953453824.0,4.0,1.5,0.0,5.5,False,0.98
+WVVIP,"Willamette Valley Vineyards, Inc.",Consumer Defensive,Beverages - Wineries & Distilleries,3.2479,24791546.0,4.0,1.0,0.0,5.0,False,6.77
+ACU,Acme United Corporation,Consumer Defensive,Household & Personal Products,37.07,141115264.0,4.0,1.0,0.0,5.0,False,1.73
+MKC,"McCormick & Company, Incorporated",Consumer Defensive,Packaged Foods,63.3,16988179456.0,4.0,1.0,0.0,5.0,False,3.03
+MGPI,"MGP Ingredients, Inc.",Consumer Defensive,Beverages - Wineries & Distilleries,25.68,546838016.0,4.0,1.0,0.0,5.0,False,1.87
+MNST,Monster Beverage Corporation,Consumer Defensive,Beverages - Non-Alcoholic,73.74,72045543424.0,3.0,2.0,0.0,5.0,False,0.0
+CHD,"Church & Dwight Co., Inc.",Consumer Defensive,Household & Personal Products,84.52,20589807616.0,4.0,1.0,0.0,5.0,False,1.4
+LMNR,Limoneira Company,Consumer Defensive,Farm Products,13.99,252495632.0,4.0,1.0,0.0,5.0,False,2.14
+LND,BrasilAgro - Companhia Brasileira de Propriedades Agrícolas,Consumer Defensive,Farm Products,3.75,373557952.0,4.0,1.0,0.0,5.0,False,3.77
+NGVC,"Natural Grocers by Vitamin Cottage, Inc.",Consumer Defensive,Grocery Stores,25.08,575704192.0,4.0,1.0,0.0,5.0,False,2.39
+CCEP,Coca-Cola Europacific Partners PLC,Consumer Defensive,Beverages - Non-Alcoholic,90.65,40800542720.0,4.0,1.0,0.0,5.0,False,2.6
+COKE,"Coca-Cola Consolidated, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,168.08,11196477440.0,4.0,1.0,0.0,5.0,False,0.59
+KOF,"Coca-Cola FEMSA, S.A.B. de C.V.",Consumer Defensive,Beverages - Non-Alcoholic,90.52,19016732672.0,4.0,1.0,0.0,5.0,False,4.41
+KR,The Kroger Co.,Consumer Defensive,Grocery Stores,62.71,41556549632.0,4.0,1.0,0.0,5.0,False,2.23
+KMB,Kimberly-Clark Corporation,Consumer Defensive,Household & Personal Products,102.96,34168143872.0,4.0,1.0,0.0,5.0,False,4.9
+NUS,"Nu Skin Enterprises, Inc.",Consumer Defensive,Household & Personal Products,9.98,486525728.0,4.0,1.0,0.0,5.0,False,2.4
+KHC,The Kraft Heinz Company,Consumer Defensive,Packaged Foods,24.34,28810176512.0,4.0,1.0,0.0,5.0,False,6.57
+K,Kellanova,Consumer Defensive,Packaged Foods,83.14,28927119360.0,4.0,1.0,0.0,5.0,False,2.79
+KDP,Keurig Dr Pepper Inc.,Consumer Defensive,Beverages - Non-Alcoholic,28.69,38977753088.0,4.0,1.0,0.0,5.0,False,3.21
+JBS,JBS N.V.,Consumer Defensive,Packaged Foods,14.35,15914985472.0,4.0,1.0,0.0,5.0,False,4.7
+JBSS,"John B. Sanfilippo & Son, Inc.",Consumer Defensive,Packaged Foods,72.08,839318208.0,4.0,1.0,0.0,5.0,False,1.25
+CVGW,"Calavo Growers, Inc.",Consumer Defensive,Food Distribution,20.67,369028224.0,4.0,1.0,0.0,5.0,False,3.87
+BG,Bunge Global SA,Consumer Defensive,Farm Products,93.63,18731806720.0,4.0,1.0,0.0,5.0,False,2.99
+BGS,"B&G Foods, Inc.",Consumer Defensive,Packaged Foods,4.52,361616960.0,4.0,1.0,0.0,5.0,False,16.81
+HRL,Hormel Foods Corporation,Consumer Defensive,Packaged Foods,24.34,13386962944.0,4.0,1.0,0.0,5.0,False,4.81
+HSY,The Hershey Company,Consumer Defensive,Confectioners,182.3,36967727104.0,4.0,1.0,0.0,5.0,False,3.01
+DEO,Diageo plc,Consumer Defensive,Beverages - Wineries & Distilleries,88.46,49170767872.0,4.0,1.0,0.0,5.0,False,4.68
+DG,Dollar General Corporation,Consumer Defensive,Discount Stores,132.37,29135433728.0,4.0,1.0,0.0,5.0,False,1.78
+DIT,AMCON Distributing Company,Consumer Defensive,Food Distribution,113.05,73562656.0,4.0,1.0,0.0,5.0,False,0.64
+SJM,The J. M. Smucker Company,Consumer Defensive,Packaged Foods,100.11,10681168896.0,4.0,1.0,0.0,5.0,False,4.4
+STZ,"Constellation Brands, Inc.",Consumer Defensive,Beverages - Brewers,142.37,24781875200.0,4.0,1.0,0.0,5.0,False,2.87
+SYY,Sysco Corporation,Consumer Defensive,Food Distribution,73.1,35004743680.0,4.0,1.0,0.0,5.0,False,2.95
+TGT,Target Corporation,Consumer Defensive,Discount Stores,92.19,41891057664.0,4.0,1.0,0.0,5.0,False,4.95
+FMX,"Fomento Económico Mexicano, S.A.B. de C.V.",Consumer Defensive,Beverages - Brewers,100.63,34771410944.0,4.0,1.0,0.0,5.0,False,5.41
+TSN,"Tyson Foods, Inc.",Consumer Defensive,Farm Products,56.92,20095838208.0,4.0,1.0,0.0,5.0,False,3.58
+EL,The Estée Lauder Companies Inc.,Consumer Defensive,Household & Personal Products,105.13,37884674048.0,4.0,1.0,0.0,5.0,False,1.33
+UG,"United-Guardian, Inc.",Consumer Defensive,Household & Personal Products,6.02,27657800.0,4.0,1.0,0.0,5.0,False,9.97
+ALCO,"Alico, Inc.",Consumer Defensive,Farm Products,36.99,283219360.0,4.0,1.0,0.0,5.0,False,0.54
+UTZ,"Utz Brands, Inc.",Consumer Defensive,Packaged Foods,9.58,838343616.0,4.0,1.0,0.0,5.0,False,2.57
+VLGEA,"Village Super Market, Inc.",Consumer Defensive,Grocery Stores,34.54,509669600.0,4.0,1.0,0.0,5.0,False,2.9
+EPC,Edgewell Personal Care Company,Consumer Defensive,Household & Personal Products,16.73,777346752.0,4.0,1.0,0.0,5.0,False,3.59
+ADM,Archer-Daniels-Midland Company,Consumer Defensive,Farm Products,59.01,28358418432.0,4.0,1.0,0.0,5.0,False,3.46
+CLX,The Clorox Company,Consumer Defensive,Household & Personal Products,104.9,12795741184.0,3.5,1.0,0.0,4.5,False,4.73
+COTY,Coty Inc.,Consumer Defensive,Household & Personal Products,3.45,3017431040.0,3.0,1.5,0.0,4.5,False,0.0
+PPC,Pilgrim's Pride Corporation,Consumer Defensive,Packaged Foods,39.74,9440136192.0,3.0,1.5,0.0,4.5,False,0.0
+UTI,"Universal Technical Institute, Inc.",Consumer Defensive,Education & Training Services,25.5,1387961600.0,3.0,1.5,0.0,4.5,False,0.0
+ATGE,Adtalem Global Education Inc.,Consumer Defensive,Education & Training Services,94.54,3434755072.0,3.0,1.5,0.0,4.5,False,0.0
+AFYA,Afya Limited,Consumer Defensive,Education & Training Services,14.71,1335830016.0,3.5,0.5,0.0,4.0,False,1.58
+BRID,Bridgford Foods Corporation,Consumer Defensive,Packaged Foods,7.73,70163920.0,3.0,1.0,0.0,4.0,False,0.0
+SFD,"Smithfield Foods, Inc.",Consumer Defensive,Packaged Foods,21.93,8620961792.0,3.5,0.5,0.0,4.0,False,4.56
+DOLE,Dole plc,Consumer Defensive,Farm Products,14.9,1417923584.0,3.5,0.5,0.0,4.0,False,2.28
+HLF,Herbalife Ltd.,Consumer Defensive,Packaged Foods,12.2,1260390784.0,2.5,1.5,0.0,4.0,False,0.0
+NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,12.03,1807333120.0,3.5,0.5,0.0,4.0,False,5.65
+PRDO,Perdoceo Education Corporation,Consumer Defensive,Education & Training Services,28.24,1834283392.0,3.5,0.5,0.0,4.0,False,2.12
+NATR,"Nature's Sunshine Products, Inc.",Consumer Defensive,Packaged Foods,21.88,385865856.0,3.0,1.0,0.0,4.0,False,0.0
+MTEX,"Mannatech, Incorporated",Consumer Defensive,Food Distribution,9.64,18324976.0,3.0,1.0,0.0,4.0,False,0.0
+PRMB,Primo Brands Corporation,Consumer Defensive,Beverages - Non-Alcoholic,15.87,5876435968.0,3.5,0.5,0.0,4.0,False,2.52
+CHSCL,CHS Inc.,Consumer Defensive,Farm Products,25.7,0.0,3.0,1.0,0.0,4.0,False,7.3
+RMCF,"Rocky Mountain Chocolate Factory, Inc.",Consumer Defensive,Confectioners,1.65,12870838.0,3.0,1.0,0.0,4.0,False,0.0
+CHSCM,CHS Inc.,Consumer Defensive,Farm Products,25.03,0.0,3.0,1.0,0.0,4.0,False,6.74
+CHSCN,CHS Inc.,Consumer Defensive,Farm Products,25.13,0.0,3.0,1.0,0.0,4.0,False,7.06
+CHSCO,CHS Inc.,Consumer Defensive,Farm Products,26.32,0.0,3.0,1.0,0.0,4.0,False,7.48
+CHSCP,CHS Inc.,Consumer Defensive,Farm Products,27.73,0.0,3.0,1.0,0.0,4.0,False,7.21
+FARM,Farmer Bros. Co.,Consumer Defensive,Packaged Foods,1.53,33051078.0,3.0,1.0,0.0,4.0,False,0.0
+LINC,Lincoln Educational Services Corporation,Consumer Defensive,Education & Training Services,22.28,704578176.0,3.0,1.0,0.0,4.0,False,0.0
+LOPE,"Grand Canyon Education, Inc.",Consumer Defensive,Education & Training Services,153.39,4308297216.0,3.0,0.5,0.0,3.5,False,0.0
+LRN,"Stride, Inc.",Consumer Defensive,Education & Training Services,62.68,2749134336.0,3.0,0.5,0.0,3.5,False,0.0
+LFVN,LifeVantage Corporation,Consumer Defensive,Packaged Foods,6.6,83827832.0,3.5,0.0,0.0,3.5,False,2.73
+THS,"TreeHouse Foods, Inc.",Consumer Defensive,Packaged Foods,23.6,1191800064.0,3.0,0.5,0.0,3.5,False,0.0
+PXED,"Phoenix Education Partners, Inc.",Consumer Defensive,Education & Training Services,33.61,1198296192.0,3.0,0.5,0.0,3.5,False,0.0
+COCO,"The Vita Coco Company, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,54.565,3107381504.0,3.0,0.5,0.0,3.5,False,0.0
+TBBB,BBB Foods Inc.,Consumer Defensive,Discount Stores,32.73,3756317696.0,3.0,0.5,0.0,3.5,False,0.0
+ELF,"e.l.f. Beauty, Inc.",Consumer Defensive,Household & Personal Products,81.4,4854432768.0,3.0,0.5,0.0,3.5,False,0.0
+FIZZ,National Beverage Corp.,Consumer Defensive,Beverages - Non-Alcoholic,33.25,3112873216.0,3.0,0.5,0.0,3.5,False,0.0
+LAUR,"Laureate Education, Inc.",Consumer Defensive,Education & Training Services,31.04,4574339072.0,3.0,0.5,0.0,3.5,False,0.0
+FRPT,"Freshpet, Inc.",Consumer Defensive,Packaged Foods,62.05,3028557312.0,3.0,0.5,0.0,3.5,False,0.0
+POST,"Post Holdings, Inc.",Consumer Defensive,Packaged Foods,96.0,5214731776.0,3.0,0.5,0.0,3.5,False,0.0
+KVUE,Kenvue Inc.,Consumer Defensive,Household & Personal Products,16.93,32489854976.0,3.5,0.0,0.0,3.5,False,4.9
+MH,"McGraw Hill, Inc.",Consumer Defensive,Education & Training Services,16.82,3212645632.0,3.0,0.5,0.0,3.5,False,0.0
+SAM,"The Boston Beer Company, Inc.",Consumer Defensive,Beverages - Brewers,195.89,2132972416.0,3.0,0.5,0.0,3.5,False,0.0
+WILC,G. Willi-Food International Ltd.,Consumer Defensive,Food Distribution,25.75,358526656.0,3.5,0.0,0.0,3.5,False,3.96
+COUR,"Coursera, Inc.",Consumer Defensive,Education & Training Services,8.44,1404415872.0,3.0,0.5,0.0,3.5,False,0.0
+CHEF,"The Chefs' Warehouse, Inc.",Consumer Defensive,Food Distribution,59.42,2422116864.0,3.0,0.5,0.0,3.5,False,0.0
+SFM,"Sprouts Farmers Market, Inc.",Consumer Defensive,Grocery Stores,85.54,8359496704.0,3.0,0.5,0.0,3.5,False,0.0
+GO,Grocery Outlet Holding Corp.,Consumer Defensive,Grocery Stores,11.34,1112876288.0,3.0,0.5,0.0,3.5,False,0.0
+AGRO,Adecoagro S.A.,Consumer Defensive,Farm Products,8.24,824712256.0,3.5,0.0,0.0,3.5,False,4.25
+VITL,"Vital Farms, Inc.",Consumer Defensive,Farm Products,31.73,1420695552.0,3.0,0.5,0.0,3.5,False,0.0
+CENTA,Central Garden & Pet Company,Consumer Defensive,Packaged Foods,30.44,1950375040.0,3.0,0.5,0.0,3.5,False,0.0
+CENT,Central Garden & Pet Company,Consumer Defensive,Packaged Foods,33.52,2089392256.0,3.0,0.5,0.0,3.5,False,0.0
+ODD,Oddity Tech Ltd.,Consumer Defensive,Household & Personal Products,45.29,2601406464.0,3.0,0.5,0.0,3.5,False,0.0
+OLLI,"Ollie's Bargain Outlet Holdings, Inc.",Consumer Defensive,Discount Stores,121.33,7442518528.0,3.0,0.5,0.0,3.5,False,0.0
+DNUT,"Krispy Kreme, Inc.",Consumer Defensive,Grocery Stores,4.29,734876992.0,3.5,0.0,0.0,3.5,False,3.26
+SMPL,The Simply Good Foods Company,Consumer Defensive,Packaged Foods,18.93,1903250560.0,3.0,0.5,0.0,3.5,False,0.0
+UNFI,"United Natural Foods, Inc.",Consumer Defensive,Food Distribution,34.11,2078384256.0,3.0,0.5,0.0,3.5,False,0.0
+DAR,Darling Ingredients Inc.,Consumer Defensive,Packaged Foods,36.51,5775373312.0,3.0,0.5,0.0,3.5,False,0.0
+REED,"Reed's, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,3.17,28357616.0,3.0,0.0,0.0,3.0,False,0.0
+LSF,"Laird Superfood, Inc.",Consumer Defensive,Packaged Foods,2.37,25327070.0,3.0,0.0,0.0,3.0,False,0.0
+IBG,Innovation Beverage Group Limited,Consumer Defensive,Beverages - Wineries & Distilleries,2.51,50250200.0,3.0,0.0,0.0,3.0,False,0.0
+SNDL,SNDL Inc.,Consumer Defensive,Beverages - Wineries & Distilleries,1.7,437750016.0,3.0,0.0,0.0,3.0,False,0.0
+UDMY,"Udemy, Inc.",Consumer Defensive,Education & Training Services,5.24,787800832.0,3.0,0.0,0.0,3.0,False,0.0
+SOWG,Sow Good Inc.,Consumer Defensive,Confectioners,0.6573,8034572.0,3.0,0.0,0.0,3.0,False,0.0
+USNA,"USANA Health Sciences, Inc.",Consumer Defensive,Packaged Foods,19.87,363240640.0,3.0,0.0,0.0,3.0,False,0.0
+SLSN,"Solesence, Inc.",Consumer Defensive,Household & Personal Products,2.05,144600528.0,3.0,0.0,0.0,3.0,False,0.0
+USFD,US Foods Holding Corp.,Consumer Defensive,Food Distribution,75.2,16932904960.0,3.0,0.0,0.0,3.0,False,0.0
+DDC,DDC Enterprise Limited,Consumer Defensive,Packaged Foods,3.29,74553144.0,3.0,0.0,0.0,3.0,False,0.0
+HNST,"The Honest Company, Inc.",Consumer Defensive,Household & Personal Products,2.71,302952736.0,3.0,0.0,0.0,3.0,False,0.0
+NCRA,"Nocera, Inc.",Consumer Defensive,Packaged Foods,0.916,13166233.0,3.0,0.0,0.0,3.0,False,0.0
+HCWC,Healthy Choice Wellness Corp.,Consumer Defensive,Packaged Foods,0.5806,8747175.0,3.0,0.0,0.0,3.0,False,0.0
+HFFG,HF Foods Group Inc.,Consumer Defensive,Food Distribution,2.61,138444400.0,3.0,0.0,0.0,3.0,False,0.0
+DLTR,"Dollar Tree, Inc.",Consumer Defensive,Discount Stores,122.44,24973821952.0,3.0,0.0,0.0,3.0,False,0.0
+IPST,"Heritage Distilling Holding Company, Inc.",Consumer Defensive,Beverages - Wineries & Distilleries,5.98,54861440.0,3.0,0.0,0.0,3.0,False,0.0
+NAII,"Natural Alternatives International, Inc.",Consumer Defensive,Packaged Foods,3.47,21433420.0,3.0,0.0,0.0,3.0,False,0.0
+HELE,Helen of Troy Limited,Consumer Defensive,Household & Personal Products,20.72,477157120.0,3.0,0.0,0.0,3.0,False,0.0
+MYND,"Mynd.ai, Inc.",Consumer Defensive,Education & Training Services,0.5878,26829948.0,3.0,0.0,0.0,3.0,False,0.0
+VFF,"Village Farms International, Inc.",Consumer Defensive,Farm Products,3.35,386984512.0,3.0,0.0,0.0,3.0,False,0.0
+HAIN,"The Hain Celestial Group, Inc.",Consumer Defensive,Packaged Foods,1.03,93284232.0,3.0,0.0,0.0,3.0,False,0.0
+GV,Visionary Holdings Inc.,Consumer Defensive,Education & Training Services,1.42,5808765.0,3.0,0.0,0.0,3.0,False,0.0
+SKIN,The Beauty Health Company,Consumer Defensive,Household & Personal Products,1.46,186154464.0,3.0,0.0,0.0,3.0,False,0.0
+SKIL,Skillsoft Corp.,Consumer Defensive,Education & Training Services,7.25,63143932.0,3.0,0.0,0.0,3.0,False,0.0
+AGRZ,Agroz Inc.,Consumer Defensive,Farm Products,2.45,53100036.0,3.0,0.0,0.0,3.0,False,0.0
+CELH,"Celsius Holdings, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,42.06,10842449920.0,3.0,0.0,0.0,3.0,False,0.0
+BRFH,"Barfresh Food Group, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,3.2,51101700.0,3.0,0.0,0.0,3.0,False,0.0
+BRCC,BRC Inc.,Consumer Defensive,Packaged Foods,1.25,143308768.0,3.0,0.0,0.0,3.0,False,0.0
+BRBR,"BellRing Brands, Inc.",Consumer Defensive,Packaged Foods,31.17,3926770688.0,2.5,0.5,0.0,3.0,False,0.0
+MSS,Maison Solutions Inc.,Consumer Defensive,Grocery Stores,0.5283,12927317.0,3.0,0.0,0.0,3.0,False,0.0
+JVA,"Coffee Holding Co., Inc.",Consumer Defensive,Packaged Foods,3.57,20379702.0,3.0,0.0,0.0,3.0,False,0.0
+VSTA,Vasta Platform Limited,Consumer Defensive,Education & Training Services,4.92,395597952.0,3.0,0.0,0.0,3.0,False,0.0
+OTLY,Oatly Group AB,Consumer Defensive,Packaged Foods,12.16,368772128.0,3.0,0.0,0.0,3.0,False,0.0
+GNS,Genius Group Limited,Consumer Defensive,Education & Training Services,0.649,56338924.0,3.0,0.0,0.0,3.0,False,0.0
+DTCK,Davis Commodities Limited,Consumer Defensive,Farm Products,0.3502,8580118.0,3.0,0.0,0.0,3.0,False,0.0
+BOF,BranchOut Food Inc.,Consumer Defensive,Packaged Foods,3.35,44824536.0,3.0,0.0,0.0,3.0,False,0.0
+GNLN,"Greenlane Holdings, Inc.",Consumer Defensive,Tobacco,3.25,15696080.0,3.0,0.0,0.0,3.0,False,0.0
+AMBO,Ambow Education Holding Ltd.,Consumer Defensive,Education & Training Services,4.203,12005353.0,3.0,0.0,0.0,3.0,False,0.0
+SENEB,Seneca Foods Corporation,Consumer Defensive,Packaged Foods,120.5,825587776.0,3.0,0.0,0.0,3.0,False,0.0
+WALD,Waldencast plc,Consumer Defensive,Household & Personal Products,2.33,296539488.0,3.0,0.0,0.0,3.0,False,0.0
+SENEA,Seneca Foods Corporation,Consumer Defensive,Packaged Foods,112.57,775612928.0,3.0,0.0,0.0,3.0,False,0.0
+ATPC,Agape ATP Corporation,Consumer Defensive,Packaged Foods,1.23,61533212.0,3.0,0.0,0.0,3.0,False,0.0
+SDOT,Sadot Group Inc.,Consumer Defensive,Farm Products,3.38,5235890.0,3.0,0.0,0.0,3.0,False,0.0
+PAVS,Paranovus Entertainment Technology Ltd.,Consumer Defensive,Packaged Foods,0.0366,2464531.0,3.0,0.0,0.0,3.0,False,0.0
+KAVL,"Kaival Brands Innovations Group, Inc.",Consumer Defensive,Tobacco,0.4951,5739893.0,3.0,0.0,0.0,3.0,False,0.0
+CHGG,"Chegg, Inc.",Consumer Defensive,Education & Training Services,0.89,97253064.0,3.0,0.0,0.0,3.0,False,0.0
+STKL,SunOpta Inc.,Consumer Defensive,Beverages - Non-Alcoholic,3.61,429646944.0,3.0,0.0,0.0,3.0,False,0.0
+STKH,Steakholder Foods Ltd.,Consumer Defensive,Packaged Foods,3.2,16102599.0,3.0,0.0,0.0,3.0,False,0.0
+WEST,Westrock Coffee Company,Consumer Defensive,Packaged Foods,4.03,390204416.0,3.0,0.0,0.0,3.0,False,0.0
+KIDZ,"Classover Holdings, Inc.",Consumer Defensive,Education & Training Services,0.3089,8658013.0,3.0,0.0,0.0,3.0,False,0.0
+KLC,"KinderCare Learning Companies, Inc.",Consumer Defensive,Education & Training Services,4.32,511136160.0,3.0,0.0,0.0,3.0,False,0.0
+PFGC,Performance Food Group Company,Consumer Defensive,Food Distribution,91.5,14348311552.0,3.0,0.0,0.0,3.0,False,0.0
+PFAI,Pinnacle Food Group Limited,Consumer Defensive,Farm Products,2.367,27693902.0,3.0,0.0,0.0,3.0,False,0.0
+SBEV,"Splash Beverage Group, Inc.",Consumer Defensive,Beverages - Wineries & Distilleries,1.5,3826042.0,3.0,0.0,0.0,3.0,False,0.0
+BJ,"BJ's Wholesale Club Holdings, Inc.",Consumer Defensive,Discount Stores,91.33,12033036288.0,3.0,0.0,0.0,3.0,False,0.0
+AQB,"AquaBounty Technologies, Inc.",Consumer Defensive,Farm Products,0.993,3850552.0,3.0,0.0,0.0,3.0,False,0.0
+BHST,BioHarvest Sciences Inc. Common Stock,Consumer Defensive,Packaged Foods,6.3,142722032.0,3.0,0.0,0.0,3.0,False,0.0
+COOT,Australian Oilseeds Holdings Limited,Consumer Defensive,Packaged Foods,0.859,23964844.0,3.0,0.0,0.0,3.0,False,0.0
+EEIQ,EpicQuest Education Group International Limited,Consumer Defensive,Education & Training Services,0.34,7954867.0,3.0,0.0,0.0,3.0,False,0.0
+EDU,New Oriental Education & Technology Group Inc.,Consumer Defensive,Education & Training Services,52.63,8774059008.0,3.5,0.5,-1.0,3.0,False,2.28
+AVO,"Mission Produce, Inc.",Consumer Defensive,Food Distribution,12.08,853078592.0,3.0,0.0,0.0,3.0,False,0.0
+FTLF,"FitLife Brands, Inc.",Consumer Defensive,Packaged Foods,17.26,162089920.0,3.0,0.0,0.0,3.0,False,0.0
+AMZE,AMZE,Consumer Defensive,Beverages - Wineries & Distilleries,0.39,7777308.0,3.0,0.0,0.0,3.0,False,0.0
+RYM,"RYTHM, Inc.",Consumer Defensive,Tobacco,19.26,38569460.0,3.0,0.0,0.0,3.0,False,0.0
+MEHA,Functional Brands Inc.,Consumer Defensive,Packaged Foods,0.3867,2717439.0,3.0,0.0,0.0,3.0,False,0.0
+WVVI,"Willamette Valley Vineyards, Inc.",Consumer Defensive,Beverages - Wineries & Distilleries,2.85,14148907.0,3.0,0.0,0.0,3.0,False,0.0
+LGCY,Legacy Education Inc.,Consumer Defensive,Education & Training Services,9.84,123659160.0,3.0,0.0,0.0,3.0,False,0.0
+MAMA,"Mama's Creations, Inc.",Consumer Defensive,Packaged Foods,11.47,466293728.0,3.0,0.0,0.0,3.0,False,0.0
+RLX,RLX Technology Inc.,Consumer Defensive,Tobacco,2.44,3102708480.0,3.5,0.5,-1.0,3.0,False,4.1
+XXII,"22nd Century Group, Inc.",Consumer Defensive,Tobacco,1.06,7406527.0,3.0,0.0,0.0,3.0,False,0.0
+BEDU,Bright Scholar Education Holdings Limited,Consumer Defensive,Education & Training Services,2.19,65100388.0,3.0,0.0,0.0,3.0,False,0.0
+RKDA,"Arcadia Biosciences, Inc.",Consumer Defensive,Packaged Foods,3.64,4998157.0,3.0,0.0,0.0,3.0,False,0.0
+FCHL,Fitness Champs Holdings Limited,Consumer Defensive,Education & Training Services,0.3407,5791900.0,3.0,0.0,0.0,3.0,False,0.0
+FC,Franklin Covey Co.,Consumer Defensive,Education & Training Services,15.89,200878576.0,3.0,0.0,0.0,3.0,False,0.0
+APEI,"American Public Education, Inc.",Consumer Defensive,Education & Training Services,34.51,624114368.0,3.0,0.0,0.0,3.0,False,0.0
+EWCZ,"European Wax Center, Inc.",Consumer Defensive,Household & Personal Products,4.05,224991472.0,3.0,0.0,0.0,3.0,False,0.0
+YHC,LQR House Inc.,Consumer Defensive,Beverages - Wineries & Distilleries,0.917,12944590.0,3.0,0.0,0.0,3.0,False,0.0
+LWAY,"Lifeway Foods, Inc.",Consumer Defensive,Packaged Foods,23.92,364272000.0,3.0,0.0,0.0,3.0,False,0.0
+ZVIA,Zevia PBC,Consumer Defensive,Beverages - Non-Alcoholic,2.58,173681840.0,3.0,0.0,0.0,3.0,False,0.0
+FEDU,Four Seasons Education (Cayman) Inc.,Consumer Defensive,Education & Training Services,13.35,30171776.0,3.5,0.0,-1.0,2.5,False,15.97
+EDBL,Edible Garden AG Incorporated,Consumer Defensive,Farm Products,1.34,6869718.0,2.5,0.0,0.0,2.5,False,0.0
+WALDW,Waldencast plc,Consumer Defensive,Household & Personal Products,0.0495,0.0,2.5,0.0,0.0,2.5,False,0.0
+AFRI,Forafric Global PLC,Consumer Defensive,Farm Products,10.41,280045568.0,2.5,0.0,0.0,2.5,False,0.0
+GROV,"Grove Collaborative Holdings, Inc.",Consumer Defensive,Household & Personal Products,1.25,51734568.0,2.5,0.0,0.0,2.5,False,0.0
+ISPR,Ispire Technology Inc.,Consumer Defensive,Tobacco,2.3,131733104.0,2.5,0.0,0.0,2.5,False,0.0
+KIDZW,"Classover Holdings, Inc.",Consumer Defensive,Education & Training Services,0.025,0.0,2.5,0.0,0.0,2.5,False,0.0
+COOTW,Australian Oilseeds Holdings Limited,Consumer Defensive,Packaged Foods,0.0221,0.0,2.5,0.0,0.0,2.5,False,0.0
+COE,51Talk Online Education Group,Consumer Defensive,Education & Training Services,41.24,241644752.0,2.5,0.0,0.0,2.5,False,0.0
+LOCL,Local Bounti Corporation,Consumer Defensive,Farm Products,2.53,56345836.0,2.5,0.0,0.0,2.5,False,0.0
+ABVE,Above Food Ingredients Inc.,Consumer Defensive,Packaged Foods,2.76,141289504.0,2.5,0.0,0.0,2.5,False,0.0
+TAL,TAL Education Group,Consumer Defensive,Education & Training Services,11.36,6912806400.0,3.0,0.5,-1.0,2.5,False,0.0
+CLNN,Clene Inc.,Consumer Defensive,Packaged Foods,5.77,59627064.0,2.5,0.0,0.0,2.5,False,0.0
+BRLS,Borealis Foods Inc.,Consumer Defensive,Packaged Foods,1.89,40565652.0,2.5,0.0,0.0,2.5,False,0.0
+BYND,"Beyond Meat, Inc.",Consumer Defensive,Packaged Foods,1.22,553355648.0,2.5,0.0,0.0,2.5,False,0.0
+BYAH,"Park Ha Biological Technology Co., Ltd.",Consumer Defensive,Household & Personal Products,0.2185,7401557.0,3.0,0.0,-1.0,2.0,False,0.0
+YQ,17 Education & Technology Group Inc.,Consumer Defensive,Education & Training Services,5.01,44347068.0,3.0,0.0,-1.0,2.0,False,0.0
+YSG,Yatsen Holding Limited,Consumer Defensive,Household & Personal Products,5.63,529243840.0,3.0,0.0,-1.0,2.0,False,0.0
+BRLSW,Borealis Foods Inc.,Consumer Defensive,Packaged Foods,0.065,0.0,2.0,0.0,0.0,2.0,False,0.0
+STG,Sunlands Technology Group,Consumer Defensive,Education & Training Services,5.93,80034560.0,3.0,0.0,-1.0,2.0,False,0.0
+ORIS,Oriental Rise Holdings Limited,Consumer Defensive,Packaged Foods,0.124,4564750.0,3.0,0.0,-1.0,2.0,False,0.0
+TANH,Tantech Holdings Ltd,Consumer Defensive,Household & Personal Products,1.11,2630820.0,3.0,0.0,-1.0,2.0,False,0.0
+CLNNW,Clene Inc.,Consumer Defensive,Packaged Foods,0.0093,0.0,2.0,0.0,0.0,2.0,False,0.0
+LXEH,"Lixiang Education Holding Co., Ltd.",Consumer Defensive,Education & Training Services,0.3198,6129501.0,3.0,0.0,-1.0,2.0,False,0.0
+ABVEW,Above Food Ingredients Inc.,Consumer Defensive,Packaged Foods,0.73,0.0,2.0,0.0,0.0,2.0,False,0.0
+TWG,Top Wealth Group Holding Limited,Consumer Defensive,Food Distribution,6.01,5489312.0,3.0,0.0,-1.0,2.0,False,0.0
+IH,iHuman Inc.,Consumer Defensive,Education & Training Services,2.52,129834384.0,3.0,0.0,-1.0,2.0,False,0.0
+IMG,CIMG Inc.,Consumer Defensive,Packaged Foods,2.52,762018880.0,3.0,0.0,-1.0,2.0,False,0.0
+DAO,"Youdao, Inc.",Consumer Defensive,Education & Training Services,9.5,1135907840.0,2.5,0.5,-1.0,2.0,False,0.0
+DDL,Dingdong (Cayman) Limited,Consumer Defensive,Grocery Stores,2.16,468689632.0,3.0,0.0,-1.0,2.0,False,0.0
+GOTU,Gaotu Techedu Inc.,Consumer Defensive,Education & Training Services,2.4,584578240.0,3.0,0.0,-1.0,2.0,False,0.0
+PTNM,PTNM,Consumer Defensive,Household & Personal Products,10.39,238164784.0,3.0,0.0,-1.0,2.0,False,0.0
+AFRIW,Forafric Global PLC,Consumer Defensive,Farm Products,1.0101,0.0,2.0,0.0,0.0,2.0,False,0.0
+FAMI,"Farmmi, Inc.",Consumer Defensive,Packaged Foods,1.5,8222812.0,3.0,0.0,-1.0,2.0,False,0.0
+WAFU,Wah Fu Education Group Limited,Consumer Defensive,Education & Training Services,1.63,7189211.0,3.0,0.0,-1.0,2.0,False,0.0
+EDBLW,Edible Garden AG Incorporated,Consumer Defensive,Farm Products,0.12,0.0,2.0,0.0,0.0,2.0,False,0.0
+EDTK,Skillful Craftsman Education Technology Limited,Consumer Defensive,Education & Training Services,1.01,16088746.0,3.0,0.0,-1.0,2.0,False,0.0
+WYHG,Wing Yip Food Holdings Group Limited,Consumer Defensive,Packaged Foods,0.8588,43224200.0,3.0,0.0,-1.0,2.0,False,0.0
+RAY,Raytech Holding Limited,Consumer Defensive,Household & Personal Products,1.7199,5118109.0,3.0,0.0,-1.0,2.0,False,0.0
+EPSM,Epsium Enterprise Limited,Consumer Defensive,Beverages - Wineries & Distilleries,3.76,50527012.0,3.0,0.0,-1.0,2.0,False,0.0
+AACG,ATA Creativity Global,Consumer Defensive,Education & Training Services,1.05,33361082.0,3.0,0.0,-1.0,2.0,False,0.0
+DSY,Big Tree Cloud Holdings Limited,Consumer Defensive,Household & Personal Products,0.4127,39221952.0,2.5,0.0,-1.0,1.5,False,0.0
+GSUN,Golden Sun Health Technology Group Limited,Consumer Defensive,Education & Training Services,1.56,13882394.0,2.5,0.0,-1.0,1.5,False,0.0
+VSA,VisionSys AI Inc.,Consumer Defensive,Education & Training Services,0.0918,5102148.0,2.5,0.0,-1.0,1.5,False,0.0
+RYET,Ruanyun Edai Technology Inc.,Consumer Defensive,Education & Training Services,1.17,39487504.0,2.5,0.0,-1.0,1.5,False,0.0
+YOUL,Youlife Group Inc.,Consumer Defensive,Education & Training Services,1.88,142971168.0,2.5,0.0,-1.0,1.5,False,0.0
+DSYWW,Big Tree Cloud Holdings Limited,Consumer Defensive,Household & Personal Products,0.0325,0.0,2.0,0.0,-1.0,1.0,False,0.0

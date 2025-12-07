@@ -1,0 +1,286 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+NEM,Newmont Corporation,Basic Materials,Gold,89.76,98596847616.0,4.0,2.5,0.0,6.5,False,1.11
+RIO,Rio Tinto Group,Basic Materials,Other Industrial Metals & Mining,73.06,119340138496.0,4.0,2.5,0.0,6.5,False,5.11
+BHP,BHP Group Limited,Basic Materials,Other Industrial Metals & Mining,58.85,151177560064.0,4.0,2.5,0.0,6.5,False,3.74
+B,B,Basic Materials,Gold,41.04,70171107328.0,4.0,2.5,0.0,6.5,False,1.71
+LIN,Linde plc,Basic Materials,Specialty Chemicals,399.57,187362181120.0,4.0,2.5,0.0,6.5,False,1.5
+SCCO,Southern Copper Corporation,Basic Materials,Copper,140.41,115009200128.0,4.0,2.5,0.0,6.5,False,2.56
+AEM,Agnico Eagle Mines Limited,Basic Materials,Gold,168.83,84760518656.0,4.0,2.5,0.0,6.5,False,0.95
+AGI,Alamos Gold Inc.,Basic Materials,Gold,36.08,15178234880.0,4.0,2.0,0.0,6.0,False,0.28
+HMY,Harmony Gold Mining Company Limited,Basic Materials,Gold,19.29,12166385664.0,4.0,2.0,0.0,6.0,False,1.11
+KGC,Kinross Gold Corporation,Basic Materials,Gold,27.28,33350445056.0,4.0,2.0,0.0,6.0,False,0.51
+GFI,Gold Fields Limited,Basic Materials,Gold,42.21,37988052992.0,4.0,2.0,0.0,6.0,False,1.83
+PAAS,Pan American Silver Corp.,Basic Materials,Gold,44.39,18734665728.0,4.0,2.0,0.0,6.0,False,1.26
+AU,AngloGold Ashanti plc,Basic Materials,Gold,82.45,41628037120.0,4.0,2.0,0.0,6.0,False,3.06
+FNV,Franco-Nevada Corporation,Basic Materials,Gold,203.17,39320088576.0,4.0,2.0,0.0,6.0,False,0.75
+MLM,"Martin Marietta Materials, Inc.",Basic Materials,Building Materials,624.37,37653970944.0,4.0,2.0,0.0,6.0,False,0.53
+CF,"CF Industries Holdings, Inc.",Basic Materials,Agricultural Inputs,77.88,12614453248.0,4.0,2.0,0.0,6.0,False,2.57
+HL,Hecla Mining Company,Basic Materials,Other Precious Metals & Mining,16.97,11371574272.0,4.0,2.0,0.0,6.0,False,0.09
+RGLD,"Royal Gold, Inc.",Basic Materials,Gold,201.66,17019713536.0,4.0,2.0,0.0,6.0,False,0.94
+WPM,Wheaton Precious Metals Corp.,Basic Materials,Gold,108.09,49139798016.0,4.0,2.0,0.0,6.0,False,0.61
+ESI,Element Solutions Inc,Basic Materials,Specialty Chemicals,26.39,6386377728.0,4.0,1.5,0.0,5.5,False,1.21
+MEOH,Methanex Corporation,Basic Materials,Chemicals,38.1,2946635520.0,4.0,1.5,0.0,5.5,False,1.94
+BCC,Boise Cascade Company,Basic Materials,Lumber & Wood Production,73.05,2727502336.0,4.0,1.5,0.0,5.5,False,1.2
+HWKN,"Hawkins, Inc.",Basic Materials,Specialty Chemicals,137.38,2869901312.0,4.0,1.5,0.0,5.5,False,0.55
+HUN,Huntsman Corporation,Basic Materials,Chemicals,10.04,1744471296.0,4.0,1.5,0.0,5.5,False,3.49
+BCPC,Balchem Corporation,Basic Materials,Specialty Chemicals,150.5,4884506624.0,4.0,1.5,0.0,5.5,False,0.58
+ICL,ICL Group Ltd,Basic Materials,Agricultural Inputs,5.18,6685684736.0,4.0,1.5,0.0,5.5,False,3.35
+HCC,"Warrior Met Coal, Inc.",Basic Materials,Coking Coal,81.61,4290250496.0,4.0,1.5,0.0,5.5,False,0.39
+AVNT,Avient Corporation,Basic Materials,Specialty Chemicals,30.69,2810087936.0,4.0,1.5,0.0,5.5,False,3.58
+HBM,Hudbay Minerals Inc.,Basic Materials,Copper,17.48,6924678144.0,4.0,1.5,0.0,5.5,False,0.08
+SCL,Stepan Company,Basic Materials,Specialty Chemicals,45.16,1021474752.0,4.0,1.5,0.0,5.5,False,3.5
+IOSP,Innospec Inc.,Basic Materials,Specialty Chemicals,75.04,1863480320.0,4.0,1.5,0.0,5.5,False,2.32
+DRD,DRDGOLD Limited,Basic Materials,Gold,29.1,2517861120.0,4.0,1.5,0.0,5.5,False,1.58
+SID,Companhia Siderúrgica Nacional,Basic Materials,Steel,1.64,2174793984.0,4.0,1.5,0.0,5.5,False,14.52
+SHW,The Sherwin-Williams Company,Basic Materials,Specialty Chemicals,333.11,83055419392.0,4.0,1.5,0.0,5.5,False,0.95
+SSD,"Simpson Manufacturing Co., Inc.",Basic Materials,Lumber & Wood Production,169.47,7052883968.0,4.0,1.5,0.0,5.5,False,0.68
+OR,OR Royalties Inc.,Basic Materials,Gold,33.95,6393958400.0,4.0,1.5,0.0,5.5,False,0.65
+ASH,Ashland Inc.,Basic Materials,Specialty Chemicals,58.59,2678624256.0,4.0,1.5,0.0,5.5,False,2.83
+OLN,Olin Corporation,Basic Materials,Chemicals,20.46,2345565696.0,4.0,1.5,0.0,5.5,False,3.91
+GGB,Gerdau S.A.,Basic Materials,Steel,3.48,6900188160.0,4.0,1.5,0.0,5.5,False,3.24
+CRH,CRH plc,Basic Materials,Building Materials,119.49,79997788160.0,4.0,1.5,0.0,5.5,False,1.24
+KALU,Kaiser Aluminum Corporation,Basic Materials,Aluminum,104.615,1695417344.0,4.0,1.5,0.0,5.5,False,2.94
+SVM,Silvercorp Metals Inc.,Basic Materials,Silver,7.91,1742662144.0,4.0,1.5,0.0,5.5,False,0.32
+BTG,B2Gold Corp.,Basic Materials,Gold,4.56,6092787712.0,4.0,1.5,0.0,5.5,False,1.75
+BVN,Compañía de Minas Buenaventura S.A.A.,Basic Materials,Other Precious Metals & Mining,25.25,6413168128.0,4.0,1.5,0.0,5.5,False,1.73
+APD,"Air Products and Chemicals, Inc.",Basic Materials,Specialty Chemicals,260.69,58027048960.0,4.0,1.5,0.0,5.5,False,2.75
+SXT,Sensient Technologies Corporation,Basic Materials,Specialty Chemicals,92.39,3924907520.0,4.0,1.5,0.0,5.5,False,1.78
+TGLS,Tecnoglass Inc.,Basic Materials,Building Materials,51.33,2390409728.0,4.0,1.5,0.0,5.5,False,1.17
+FUL,H.B. Fuller Company,Basic Materials,Specialty Chemicals,58.15,3145268992.0,4.0,1.5,0.0,5.5,False,1.62
+ECL,Ecolab Inc.,Basic Materials,Specialty Chemicals,259.69,73654550528.0,4.0,1.5,0.0,5.5,False,1.12
+KWR,Quaker Chemical Corporation,Basic Materials,Specialty Chemicals,134.64,2342011648.0,4.0,1.5,0.0,5.5,False,1.51
+UFPI,"UFP Industries, Inc.",Basic Materials,Lumber & Wood Production,90.7,5283930112.0,4.0,1.5,0.0,5.5,False,1.54
+CBT,Cabot Corporation,Basic Materials,Specialty Chemicals,65.33,3475792896.0,4.0,1.5,0.0,5.5,False,2.76
+TX,Ternium S.A.,Basic Materials,Steel,38.43,7544104448.0,4.0,1.5,0.0,5.5,False,7.03
+FMC,FMC Corporation,Basic Materials,Agricultural Inputs,13.28,1658938368.0,4.0,1.5,0.0,5.5,False,17.47
+CC,The Chemours Company,Basic Materials,Specialty Chemicals,12.7,1903627776.0,4.0,1.5,0.0,5.5,False,2.76
+NEU,NewMarket Corporation,Basic Materials,Specialty Chemicals,766.42,7202142208.0,4.0,1.5,0.0,5.5,False,1.57
+USLM,"United States Lime & Minerals, Inc.",Basic Materials,Building Materials,121.45,3478272000.0,4.0,1.5,0.0,5.5,False,0.2
+EMN,Eastman Chemical Company,Basic Materials,Specialty Chemicals,61.53,7065638400.0,4.0,1.5,0.0,5.5,False,5.46
+VALE,Vale S.A.,Basic Materials,Other Industrial Metals & Mining,12.9,55198658560.0,4.0,1.5,0.0,5.5,False,11.49
+MTRN,Materion Corporation,Basic Materials,Other Industrial Metals & Mining,125.25,2596775680.0,4.0,1.5,0.0,5.5,False,0.45
+CE,Celanese Corporation,Basic Materials,Chemicals,40.63,4449184256.0,4.0,1.5,0.0,5.5,False,0.3
+CMC,Commercial Metals Company,Basic Materials,Steel,66.86,7424665600.0,4.0,1.5,0.0,5.5,False,1.08
+MTX,Minerals Technologies Inc.,Basic Materials,Specialty Chemicals,59.17,1856524672.0,4.0,1.5,0.0,5.5,False,0.81
+FCX,Freeport-McMoRan Inc.,Basic Materials,Copper,45.2,64904065024.0,4.0,1.5,0.0,5.5,False,1.33
+CGAU,Centerra Gold Inc.,Basic Materials,Gold,13.21,2669540864.0,4.0,1.5,0.0,5.5,False,1.5
+MOS,The Mosaic Company,Basic Materials,Agricultural Inputs,23.61,7494000128.0,4.0,1.5,0.0,5.5,False,3.73
+WDFC,WD-40 Company,Basic Materials,Specialty Chemicals,190.73,2581313792.0,4.0,1.5,0.0,5.5,False,1.97
+WFG,West Fraser Timber Co. Ltd.,Basic Materials,Lumber & Wood Production,62.34,4906719232.0,4.0,1.5,0.0,5.5,False,2.05
+WLK,Westlake Corporation,Basic Materials,Specialty Chemicals,68.02,8725139456.0,4.0,1.5,0.0,5.5,False,3.12
+EXP,Eagle Materials Inc.,Basic Materials,Building Materials,222.09,7206664704.0,4.0,1.5,0.0,5.5,False,0.45
+ZEUS,"Olympic Steel, Inc.",Basic Materials,Steel,40.45,452943808.0,4.0,1.0,0.0,5.0,False,1.58
+WLKP,Westlake Chemical Partners LP,Basic Materials,Chemicals,19.16,675311040.0,4.0,1.0,0.0,5.0,False,9.84
+MATV,"Mativ Holdings, Inc.",Basic Materials,Specialty Chemicals,12.08,660547840.0,4.0,1.0,0.0,5.0,False,3.31
+MT,ArcelorMittal S.A.,Basic Materials,Steel,42.26,32142954496.0,4.0,1.0,0.0,5.0,False,1.3
+LYB,LyondellBasell Industries N.V.,Basic Materials,Specialty Chemicals,43.35,13953191936.0,4.0,1.0,0.0,5.0,False,12.64
+CMCL,Caledonia Mining Corporation Plc,Basic Materials,Gold,24.17,466596640.0,4.0,1.0,0.0,5.0,False,2.32
+MSB,Mesabi Trust,Basic Materials,Steel,32.92,431910720.0,4.0,1.0,0.0,5.0,False,4.28
+CDE,"Coeur Mining, Inc.",Basic Materials,Gold,15.86,10185575424.0,3.0,2.0,0.0,5.0,False,0.0
+NTR,Nutrien Ltd.,Basic Materials,Agricultural Inputs,60.34,29387970560.0,4.0,1.0,0.0,5.0,False,3.61
+KOP,Koppers Holdings Inc.,Basic Materials,Specialty Chemicals,28.01,552231936.0,4.0,1.0,0.0,5.0,False,1.14
+KRO,"Kronos Worldwide, Inc.",Basic Materials,Specialty Chemicals,4.73,544201280.0,4.0,1.0,0.0,5.0,False,4.23
+NUE,Nucor Corporation,Basic Materials,Steel,159.45,36491513856.0,4.0,1.0,0.0,5.0,False,1.4
+NTIC,Northern Technologies International Corporation,Basic Materials,Specialty Chemicals,7.38,69967488.0,4.0,1.0,0.0,5.0,False,0.54
+ODC,Oil-Dri Corporation of America,Basic Materials,Specialty Chemicals,53.59,784720384.0,4.0,1.0,0.0,5.0,False,1.25
+OEC,Orion S.A.,Basic Materials,Specialty Chemicals,4.98,279625536.0,4.0,1.0,0.0,5.0,False,1.66
+CTVA,"Corteva, Inc.",Basic Materials,Agricultural Inputs,66.0,44820602880.0,4.0,1.0,0.0,5.0,False,1.09
+IFF,International Flavors & Fragrances Inc.,Basic Materials,Specialty Chemicals,67.18,17217366016.0,4.0,1.0,0.0,5.0,False,2.38
+CX,"CEMEX, S.A.B. de C.V.",Basic Materials,Building Materials,10.83,15712519168.0,4.0,1.0,0.0,5.0,False,0.8
+PKX,POSCO Holdings Inc.,Basic Materials,Steel,52.99,16038011904.0,4.0,1.0,0.0,5.0,False,3.38
+PPG,"PPG Industries, Inc.",Basic Materials,Specialty Chemicals,101.03,22802470912.0,4.0,1.0,0.0,5.0,False,2.81
+DD,"DuPont de Nemours, Inc.",Basic Materials,Specialty Chemicals,40.51,16972689408.0,4.0,1.0,0.0,5.0,False,3.53
+RS,"Reliance, Inc.",Basic Materials,Steel,285.82,15032287232.0,4.0,1.0,0.0,5.0,False,1.68
+RPM,RPM International Inc.,Basic Materials,Specialty Chemicals,105.3,13509186560.0,4.0,1.0,0.0,5.0,False,2.05
+AVD,American Vanguard Corporation,Basic Materials,Agricultural Inputs,4.28,121843648.0,4.0,1.0,0.0,5.0,False,3.38
+DOW,Dow Inc.,Basic Materials,Chemicals,22.96,16319217664.0,4.0,1.0,0.0,5.0,False,6.1
+SMG,The Scotts Miracle-Gro Company,Basic Materials,Agricultural Inputs,53.82,3121310720.0,3.5,1.5,0.0,5.0,False,4.91
+SXC,"SunCoke Energy, Inc.",Basic Materials,Coking Coal,6.8,575725504.0,4.0,1.0,0.0,5.0,False,7.06
+SUZ,Suzano S.A.,Basic Materials,Paper & Paper Products,9.24,11481666560.0,4.0,1.0,0.0,5.0,False,3.57
+STLD,"Steel Dynamics, Inc.",Basic Materials,Steel,165.22,24321142784.0,4.0,1.0,0.0,5.0,False,1.21
+TECK,Teck Resources Limited,Basic Materials,Other Industrial Metals & Mining,45.07,22062098432.0,4.0,1.0,0.0,5.0,False,0.79
+TROX,Tronox Holdings plc,Basic Materials,Chemicals,3.84,608840896.0,4.0,1.0,0.0,5.0,False,5.21
+FRD,"Friedman Industries, Incorporated",Basic Materials,Steel,19.52,138829808.0,4.0,1.0,0.0,5.0,False,0.82
+UAN,"CVR Partners, LP",Basic Materials,Agricultural Inputs,94.27,996399744.0,4.0,1.0,0.0,5.0,False,12.64
+ALB,Albemarle Corporation,Basic Materials,Specialty Chemicals,125.19,14734555136.0,4.0,1.0,0.0,5.0,False,1.29
+VHI,"Valhi, Inc.",Basic Materials,Chemicals,12.82,362835360.0,4.0,1.0,0.0,5.0,False,2.5
+FF,FutureFuel Corp.,Basic Materials,Specialty Chemicals,3.21,140608416.0,4.0,1.0,0.0,5.0,False,7.48
+VMC,Vulcan Materials Company,Basic Materials,Building Materials,294.87,38961438720.0,4.0,1.0,0.0,5.0,False,0.66
+MERC,Mercer International Inc.,Basic Materials,Paper & Paper Products,1.85,123917640.0,4.0,1.0,0.0,5.0,False,16.22
+CLF,Cleveland-Cliffs Inc.,Basic Materials,Steel,12.29,7001704448.0,3.0,1.5,0.0,4.5,False,0.0
+SSL,Sasol Limited,Basic Materials,Specialty Chemicals,6.0,3825225984.0,3.0,1.5,0.0,4.5,False,0.0
+CENX,Century Aluminum Company,Basic Materials,Aluminum,31.08,2901068288.0,3.0,1.5,0.0,4.5,False,0.0
+TSE,Trinseo PLC,Basic Materials,Specialty Chemicals,0.6663,23982528.0,3.5,1.0,0.0,4.5,False,6.0
+EGO,Eldorado Gold Corporation,Basic Materials,Gold,31.1,6279406592.0,3.0,1.5,0.0,4.5,False,0.0
+IAG,IAMGOLD Corporation,Basic Materials,Gold,15.27,8818308096.0,3.0,1.5,0.0,4.5,False,0.0
+TFPM,Triple Flag Precious Metals Corp.,Basic Materials,Other Precious Metals & Mining,32.75,6786686976.0,3.5,0.5,0.0,4.0,False,0.7
+AG,First Majestic Silver Corp.,Basic Materials,Silver,15.06,7384762368.0,3.5,0.5,0.0,4.0,False,0.13
+GORO,Gold Resource Corporation,Basic Materials,Gold,0.7506,121421320.0,3.0,1.0,0.0,4.0,False,0.0
+ORLA,Orla Mining Ltd.,Basic Materials,Gold,12.42,4221511168.0,3.5,0.5,0.0,4.0,False,0.35
+GPRE,Green Plains Inc.,Basic Materials,Chemicals,9.74,680193280.0,3.0,1.0,0.0,4.0,False,0.0
+AUGO,Aura Minerals Inc.,Basic Materials,Gold,41.22,3443292416.0,3.5,0.5,0.0,4.0,False,3.54
+SLVM,Sylvamo Corporation,Basic Materials,Paper & Paper Products,48.73,1967354624.0,3.5,0.5,0.0,4.0,False,3.69
+RYAM,Rayonier Advanced Materials Inc.,Basic Materials,Chemicals,6.3,422135232.0,3.0,1.0,0.0,4.0,False,0.0
+NEXA,Nexa Resources S.A.,Basic Materials,Other Industrial Metals & Mining,7.3,966801856.0,3.0,1.0,0.0,4.0,False,0.0
+ACNT,Ascent Industries Co.,Basic Materials,Chemicals,14.87,139302192.0,3.0,1.0,0.0,4.0,False,0.0
+WS,"Worthington Steel, Inc.",Basic Materials,Steel,35.92,1827279360.0,3.5,0.5,0.0,4.0,False,1.78
+SQM,Sociedad Química y Minera de Chile S.A.,Basic Materials,Specialty Chemicals,61.26,17498173440.0,3.0,1.0,0.0,4.0,False,0.0
+TTAM,Titan America SA,Basic Materials,Building Materials,15.57,2870523392.0,3.5,0.5,0.0,4.0,False,1.03
+METC,"Ramaco Resources, Inc.",Basic Materials,Coking Coal,17.64,1164285312.0,3.5,0.5,0.0,4.0,False,1.56
+METCB,"Ramaco Resources, Inc.",Basic Materials,Coking Coal,12.37,1751152640.0,3.5,0.5,0.0,4.0,False,5.76
+CLMT,"Calumet, Inc.",Basic Materials,Specialty Chemicals,19.34,1677828608.0,2.5,1.5,0.0,4.0,False,0.0
+MAGN,Magnera Corporation,Basic Materials,Paper & Paper Products,14.13,503028000.0,3.0,1.0,0.0,4.0,False,0.0
+CMP,"Compass Minerals International, Inc.",Basic Materials,Other Industrial Metals & Mining,20.28,845445952.0,3.0,1.0,0.0,4.0,False,0.0
+LXU,"LSB Industries, Inc.",Basic Materials,Chemicals,8.83,635269888.0,3.0,1.0,0.0,4.0,False,0.0
+AA,Alcoa Corporation,Basic Materials,Aluminum,43.77,11334855680.0,3.5,0.0,0.0,3.5,False,0.91
+REX,REX American Resources Corporation,Basic Materials,Chemicals,33.68,1113379072.0,3.0,0.5,0.0,3.5,False,0.0
+LOMA,Loma Negra Compañía Industrial Argentina Sociedad Anónima,Basic Materials,Building Materials,12.22,1606468864.0,3.0,0.5,0.0,3.5,False,0.0
+CNL,Collective Mining Ltd.,Basic Materials,Gold,11.36,1050050816.0,3.0,0.5,0.0,3.5,False,0.0
+ERO,Ero Copper Corp.,Basic Materials,Copper,25.0,2603854080.0,3.0,0.5,0.0,3.5,False,0.0
+TGB,Taseko Mines Limited,Basic Materials,Copper,5.3,1911372544.0,3.0,0.5,0.0,3.5,False,0.0
+EXK,Endeavour Silver Corp.,Basic Materials,Silver,8.67,2550519040.0,3.0,0.5,0.0,3.5,False,0.0
+AXTA,Axalta Coating Systems Ltd.,Basic Materials,Specialty Chemicals,29.08,6204026880.0,3.0,0.5,0.0,3.5,False,0.0
+PRM,"Perimeter Solutions, Inc.",Basic Materials,Specialty Chemicals,28.65,4238014208.0,3.0,0.5,0.0,3.5,False,0.0
+PPTA,Perpetua Resources Corp.,Basic Materials,Other Precious Metals & Mining,25.92,3158939904.0,3.0,0.5,0.0,3.5,False,0.0
+LAC,Lithium Americas Corp.,Basic Materials,Other Industrial Metals & Mining,5.33,1617592576.0,3.0,0.5,0.0,3.5,False,0.0
+FSM,Fortuna Mining Corp.,Basic Materials,Gold,9.26,2846836480.0,3.0,0.5,0.0,3.5,False,0.0
+ECVT,Ecovyst Inc.,Basic Materials,Specialty Chemicals,8.74,1000012992.0,3.0,0.5,0.0,3.5,False,0.0
+SA,Seabridge Gold Inc.,Basic Materials,Gold,29.94,3124141056.0,3.0,0.5,0.0,3.5,False,0.0
+CPAC,Cementos Pacasmayo S.A.A.,Basic Materials,Building Materials,6.82,583937728.0,3.5,0.0,0.0,3.5,False,8.82
+SBSW,Sibanye Stillwater Limited,Basic Materials,Other Precious Metals & Mining,12.35,8871237632.0,3.0,0.5,0.0,3.5,False,0.0
+KNF,Knife River Corporation,Basic Materials,Building Materials,74.64,4229413120.0,3.0,0.5,0.0,3.5,False,0.0
+AMR,"Alpha Metallurgical Resources, Inc.",Basic Materials,Coking Coal,179.06,2337417728.0,3.0,0.5,0.0,3.5,False,0.0
+VZLA,Vizsla Silver Corp.,Basic Materials,Other Industrial Metals & Mining,5.01,1723912064.0,3.0,0.5,0.0,3.5,False,0.0
+ARMN,Aris Mining Corporation,Basic Materials,Gold,14.15,2883292928.0,3.0,0.5,0.0,3.5,False,0.0
+CRML,Critical Metals Corp.,Basic Materials,Other Industrial Metals & Mining,10.1,1188814464.0,3.0,0.5,0.0,3.5,False,0.0
+SGML,Sigma Lithium Corporation,Basic Materials,Other Industrial Metals & Mining,9.43,1050350912.0,3.0,0.5,0.0,3.5,False,0.0
+SSRM,SSR Mining Inc.,Basic Materials,Gold,20.92,4264477440.0,3.0,0.5,0.0,3.5,False,0.0
+VOXR,Vox Royalty Corp.,Basic Materials,Other Precious Metals & Mining,5.43,374601184.0,3.5,0.0,0.0,3.5,False,0.92
+GSM,Ferroglobe PLC,Basic Materials,Other Industrial Metals & Mining,4.66,875544512.0,3.5,0.0,0.0,3.5,False,1.2
+CSTM,Constellium SE,Basic Materials,Aluminum,17.77,2479608576.0,3.0,0.5,0.0,3.5,False,0.0
+SIM,"Grupo Simec, S.A.B. de C.V.",Basic Materials,Steel,29.48,4524932096.0,3.0,0.5,0.0,3.5,False,0.0
+SKE,Skeena Resources Limited,Basic Materials,Other Industrial Metals & Mining,22.06,2671319040.0,3.0,0.5,0.0,3.5,False,0.0
+MUX,McEwen Inc.,Basic Materials,Other Precious Metals & Mining,18.77,1022598208.0,3.0,0.5,0.0,3.5,False,0.0
+NAK,Northern Dynasty Minerals Ltd.,Basic Materials,Other Industrial Metals & Mining,2.07,1145018112.0,3.0,0.5,0.0,3.5,False,0.0
+ALM,Almonty Industries Inc.,Basic Materials,Other Industrial Metals & Mining,7.24,1683506432.0,3.0,0.5,0.0,3.5,False,0.0
+IPX,IperionX Limited,Basic Materials,Other Industrial Metals & Mining,33.96,1139847808.0,3.0,0.5,0.0,3.5,False,0.0
+SLI,Standard Lithium Ltd.,Basic Materials,Other Industrial Metals & Mining,4.56,1086543232.0,3.0,0.5,0.0,3.5,False,0.0
+ASTL,Algoma Steel Group Inc.,Basic Materials,Steel,4.15,435475296.0,3.5,0.0,0.0,3.5,False,3.42
+NFGC,New Found Gold Corp.,Basic Materials,Gold,3.1,1069592320.0,3.0,0.5,0.0,3.5,False,0.0
+ASIX,AdvanSix Inc.,Basic Materials,Chemicals,16.02,430361856.0,3.5,0.0,0.0,3.5,False,4.0
+USAS,Americas Gold and Silver Corporation,Basic Materials,Other Industrial Metals & Mining,4.58,1253223552.0,3.0,0.5,0.0,3.5,False,0.0
+NGVT,Ingevity Corporation,Basic Materials,Specialty Chemicals,52.91,1929431040.0,3.0,0.5,0.0,3.5,False,0.0
+NGD,New Gold Inc.,Basic Materials,Gold,7.69,6128022016.0,3.0,0.5,0.0,3.5,False,0.0
+NG,NovaGold Resources Inc.,Basic Materials,Gold,9.84,4004161536.0,3.0,0.5,0.0,3.5,False,0.0
+SOLS,"Solstice Advanced Materials, Inc.",Basic Materials,Specialty Chemicals,47.13,7480825344.0,3.0,0.5,0.0,3.5,False,0.0
+IE,Ivanhoe Electric Inc.,Basic Materials,Copper,14.91,2157697280.0,3.0,0.5,0.0,3.5,False,0.0
+IAUX,i-80 Gold Corp.,Basic Materials,Gold,1.27,1049378112.0,3.0,0.5,0.0,3.5,False,0.0
+AAUC,Allied Gold Corporation,Basic Materials,Gold,22.22,2755279872.0,3.0,0.5,0.0,3.5,False,0.0
+LVRO,Lavoro Limited,Basic Materials,Agricultural Inputs,0.7252,84564360.0,3.0,0.0,0.0,3.0,False,0.0
+CMT,"Core Molding Technologies, Inc.",Basic Materials,Specialty Chemicals,18.75,160525376.0,3.0,0.0,0.0,3.0,False,0.0
+LODE,Comstock Inc.,Basic Materials,Other Precious Metals & Mining,3.39,173785808.0,3.0,0.0,0.0,3.0,False,0.0
+ASPI,ASP Isotopes Inc.,Basic Materials,Chemicals,6.54,724894400.0,3.0,0.0,0.0,3.0,False,0.0
+NMG,Nouveau Monde Graphite Inc.,Basic Materials,Other Industrial Metals & Mining,3.08,469478880.0,3.0,0.0,0.0,3.0,False,0.0
+HYMC,Hycroft Mining Holding Corporation,Basic Materials,Gold,11.45,927058304.0,3.0,0.0,0.0,3.0,False,0.0
+SNES,"SenesTech, Inc.",Basic Materials,Specialty Chemicals,2.97,15512355.0,3.0,0.0,0.0,3.0,False,0.0
+NEXM,NexMetals Mining Corp.,Basic Materials,Other Industrial Metals & Mining,3.74,132735248.0,3.0,0.0,0.0,3.0,False,0.0
+NEWP,New Pacific Metals Corp.,Basic Materials,Silver,2.84,523126848.0,3.0,0.0,0.0,3.0,False,0.0
+NITO,"N2OFF, Inc.",Basic Materials,Agricultural Inputs,2.87,7785977.0,3.0,0.0,0.0,3.0,False,0.0
+UAMY,United States Antimony Corporation,Basic Materials,Other Industrial Metals & Mining,6.36,890626432.0,3.0,0.0,0.0,3.0,False,0.0
+DC,Dakota Gold Corp.,Basic Materials,Gold,5.38,609350080.0,3.0,0.0,0.0,3.0,False,0.0
+USAU,U.S. Gold Corp.,Basic Materials,Gold,16.67,239765360.0,3.0,0.0,0.0,3.0,False,0.0
+USAR,"USA Rare Earth, Inc.",Basic Materials,Other Industrial Metals & Mining,17.22,2396654592.0,2.5,0.5,0.0,3.0,False,0.0
+IDR,"Idaho Strategic Resources, Inc.",Basic Materials,Gold,38.02,592822080.0,3.0,0.0,0.0,3.0,False,0.0
+USGO,U.S. GoldMining Inc.,Basic Materials,Other Industrial Metals & Mining,10.15,134722928.0,3.0,0.0,0.0,3.0,False,0.0
+SLSR,Solaris Resources Inc.,Basic Materials,Other Precious Metals & Mining,7.7,1285106304.0,2.5,0.5,0.0,3.0,False,0.0
+SMID,Smith-Midland Corporation,Basic Materials,Building Materials,34.16,181205344.0,3.0,0.0,0.0,3.0,False,0.0
+INHD,Inno Holdings Inc.,Basic Materials,Steel,0.154,1994065.0,3.0,0.0,0.0,3.0,False,0.0
+ASM,Avino Silver & Gold Mines Ltd.,Basic Materials,Other Precious Metals & Mining,5.49,861306752.0,3.0,0.0,0.0,3.0,False,0.0
+NVA,Nova Minerals Limited,Basic Materials,Other Industrial Metals & Mining,9.21,315299136.0,3.0,0.0,0.0,3.0,False,0.0
+HDSN,"Hudson Technologies, Inc.",Basic Materials,Specialty Chemicals,7.31,319215808.0,3.0,0.0,0.0,3.0,False,0.0
+NWPX,"NWPX Infrastructure, Inc.",Basic Materials,Steel,59.7,576336832.0,3.0,0.0,0.0,3.0,False,0.0
+NWGL,Nature Wood Group Limited,Basic Materials,Lumber & Wood Production,1.19,19698268.0,3.0,0.0,0.0,3.0,False,0.0
+IPI,"Intrepid Potash, Inc.",Basic Materials,Agricultural Inputs,25.31,339835648.0,3.0,0.0,0.0,3.0,False,0.0
+IONR,ioneer Ltd,Basic Materials,Other Industrial Metals & Mining,4.71,314134592.0,3.0,0.0,0.0,3.0,False,0.0
+NB,NioCorp Developments Ltd.,Basic Materials,Other Industrial Metals & Mining,6.51,777038336.0,3.0,0.0,0.0,3.0,False,0.0
+VGZ,Vista Gold Corp.,Basic Materials,Gold,1.93,243583568.0,3.0,0.0,0.0,3.0,False,0.0
+CTGO,"Contango Ore, Inc.",Basic Materials,Gold,26.22,392357344.0,3.0,0.0,0.0,3.0,False,0.0
+ALTO,"Alto Ingredients, Inc.",Basic Materials,Specialty Chemicals,2.51,194268240.0,3.0,0.0,0.0,3.0,False,0.0
+ODV,Osisko Development Corp.,Basic Materials,Gold,3.62,923241280.0,3.0,0.0,0.0,3.0,False,0.0
+ITRG,Integra Resources Corp.,Basic Materials,Other Precious Metals & Mining,3.67,621350080.0,3.0,0.0,0.0,3.0,False,0.0
+MTUS,Metallus Inc.,Basic Materials,Steel,17.4,727780480.0,3.0,0.0,0.0,3.0,False,0.0
+ATLX,Atlas Lithium Corporation,Basic Materials,Other Industrial Metals & Mining,4.59,108188344.0,3.0,0.0,0.0,3.0,False,0.0
+GROY,Gold Royalty Corp.,Basic Materials,Gold,4.25,838183424.0,3.0,0.0,0.0,3.0,False,0.0
+GRO,Brazil Potash Corp.,Basic Materials,Other Industrial Metals & Mining,2.23,119008608.0,3.0,0.0,0.0,3.0,False,0.0
+MTA,Metalla Royalty & Streaming Ltd.,Basic Materials,Other Precious Metals & Mining,7.3,675698112.0,3.0,0.0,0.0,3.0,False,0.0
+JCTC,Jewett-Cameron Trading Company Ltd.,Basic Materials,Lumber & Wood Production,2.06,7247325.0,3.0,0.0,0.0,3.0,False,0.0
+TRX,TRX Gold Corporation,Basic Materials,Gold,0.8088,232090528.0,3.0,0.0,0.0,3.0,False,0.0
+ORGN,"Origin Materials, Inc.",Basic Materials,Chemicals,0.4457,67367488.0,3.0,0.0,0.0,3.0,False,0.0
+JHX,James Hardie Industries plc,Basic Materials,Building Materials,20.01,11590944768.0,3.0,0.0,0.0,3.0,False,0.0
+MP,MP Materials Corp.,Basic Materials,Other Industrial Metals & Mining,62.09,11004240896.0,3.0,0.0,0.0,3.0,False,0.0
+GLDG,GoldMining Inc.,Basic Materials,Gold,1.46,304536800.0,3.0,0.0,0.0,3.0,False,0.0
+GEVO,"Gevo, Inc.",Basic Materials,Specialty Chemicals,2.29,554887168.0,3.0,0.0,0.0,3.0,False,0.0
+DVS,Dolly Varden Silver Corporation,Basic Materials,Silver,4.68,429936544.0,3.0,0.0,0.0,3.0,False,0.0
+KBSX,FST Corp.,Basic Materials,Steel,1.56,69834960.0,3.0,0.0,0.0,3.0,False,0.0
+MNTK,"Montauk Renewables, Inc.",Basic Materials,Specialty Chemicals,1.71,243258832.0,3.0,0.0,0.0,3.0,False,0.0
+AMRZ,AMRZ,Basic Materials,Building Materials,54.74,30275713024.0,3.0,0.0,0.0,3.0,False,0.0
+AUST,Austin Gold Corp.,Basic Materials,Gold,1.87,25605912.0,3.0,0.0,0.0,3.0,False,0.0
+GAU,Galiano Gold Inc.,Basic Materials,Gold,2.39,625187904.0,3.0,0.0,0.0,3.0,False,0.0
+BIOX,Bioceres Crop Solutions Corp.,Basic Materials,Agricultural Inputs,1.5,95218216.0,3.0,0.0,0.0,3.0,False,0.0
+PLG,Platinum Group Metals Ltd.,Basic Materials,Other Precious Metals & Mining,2.46,287188032.0,3.0,0.0,0.0,3.0,False,0.0
+FURY,Fury Gold Mines Limited,Basic Materials,Other Industrial Metals & Mining,0.6199,119990936.0,3.0,0.0,0.0,3.0,False,0.0
+TMQ,Trilogy Metals Inc.,Basic Materials,Other Industrial Metals & Mining,4.66,797139072.0,3.0,0.0,0.0,3.0,False,0.0
+FSI,"Flexible Solutions International, Inc.",Basic Materials,Specialty Chemicals,6.86,87070544.0,3.0,0.0,0.0,3.0,False,0.0
+TMC,TMC the metals company Inc.,Basic Materials,Other Industrial Metals & Mining,7.59,4059399424.0,2.5,0.5,0.0,3.0,False,0.0
+LAR,Lithium Argentina AG,Basic Materials,Other Industrial Metals & Mining,5.14,834540672.0,3.0,0.0,0.0,3.0,False,0.0
+WRN,Western Copper and Gold Corporation,Basic Materials,Other Industrial Metals & Mining,2.51,508077664.0,3.0,0.0,0.0,3.0,False,0.0
+BGLC,BioNexus Gene Lab Corp.,Basic Materials,Specialty Chemicals,4.11,9715366.0,3.0,0.0,0.0,3.0,False,0.0
+FMST,Foremost Clean Energy Ltd.,Basic Materials,Other Industrial Metals & Mining,2.93,42357584.0,3.0,0.0,0.0,3.0,False,0.0
+ELBM,Electra Battery Materials Corporation,Basic Materials,Other Industrial Metals & Mining,1.02,95526304.0,3.0,0.0,0.0,3.0,False,0.0
+WWR,"Westwater Resources, Inc.",Basic Materials,Other Industrial Metals & Mining,1.04,122709040.0,3.0,0.0,0.0,3.0,False,0.0
+CLW,Clearwater Paper Corporation,Basic Materials,Paper & Paper Products,17.97,289391456.0,3.0,0.0,0.0,3.0,False,0.0
+ELVR,Elevra Lithium Limited,Basic Materials,Other Industrial Metals & Mining,36.25,656902272.0,3.0,0.0,0.0,3.0,False,0.0
+XPL,Solitario Resources Corp.,Basic Materials,Other Industrial Metals & Mining,0.64,58176848.0,3.0,0.0,0.0,3.0,False,0.0
+FEAM,"5E Advanced Materials, Inc.",Basic Materials,Specialty Chemicals,3.93,88207232.0,3.0,0.0,0.0,3.0,False,0.0
+THM,International Tower Hill Mines Ltd.,Basic Materials,Gold,1.74,367092448.0,3.0,0.0,0.0,3.0,False,0.0
+LGO,Largo Inc.,Basic Materials,Other Industrial Metals & Mining,1.03,85812416.0,3.0,0.0,0.0,3.0,False,0.0
+LITM,Snow Lake Resources Ltd.,Basic Materials,Other Industrial Metals & Mining,3.42,61649844.0,3.0,0.0,0.0,3.0,False,0.0
+BAK,Braskem S.A.,Basic Materials,Chemicals,2.92,1198093696.0,2.5,0.5,0.0,3.0,False,0.0
+LWLG,"Lightwave Logic, Inc.",Basic Materials,Specialty Chemicals,4.03,538544768.0,3.0,0.0,0.0,3.0,False,0.0
+PZG,Paramount Gold Nevada Corp.,Basic Materials,Gold,1.16,90895768.0,3.0,0.0,0.0,3.0,False,0.0
+EQX,Equinox Gold Corp.,Basic Materials,Gold,13.92,10924087296.0,3.0,0.0,0.0,3.0,False,0.0
+LZM,Lifezone Metals Limited,Basic Materials,Other Industrial Metals & Mining,3.9,326758784.0,3.0,0.0,0.0,3.0,False,0.0
+YMAT,"J-Star Holding Co., Ltd.",Basic Materials,Specialty Chemicals,0.8043,13834272.0,3.0,0.0,0.0,3.0,False,0.0
+CAPS,Capstone Holding Corp.,Basic Materials,Building Materials,0.8675,7205633.0,3.0,0.0,0.0,3.0,False,0.0
+FMSTW,Foremost Clean Energy Ltd.,Basic Materials,Other Industrial Metals & Mining,0.92,0.0,2.5,0.0,0.0,2.5,False,0.0
+ELE,Elemental Royalty Corporation,Basic Materials,Other Precious Metals & Mining,14.5,924666304.0,2.5,0.0,0.0,2.5,False,0.0
+BGL,Blue Gold Limited,Basic Materials,Gold,4.08,126988368.0,2.5,0.0,0.0,2.5,False,0.0
+CRMLW,Critical Metals Corp.,Basic Materials,Other Industrial Metals & Mining,5.15,0.0,2.5,0.0,0.0,2.5,False,0.0
+AMTX,"Aemetis, Inc.",Basic Materials,Specialty Chemicals,1.52,99664184.0,2.5,0.0,0.0,2.5,False,0.0
+TII,Titan Mining Corporation,Basic Materials,Other Industrial Metals & Mining,2.45,225283088.0,2.5,0.0,0.0,2.5,False,0.0
+LOOP,"Loop Industries, Inc.",Basic Materials,Specialty Chemicals,1.09,52366944.0,2.5,0.0,0.0,2.5,False,0.0
+AREC,American Resources Corporation,Basic Materials,Coking Coal,3.0,309260992.0,2.5,0.0,0.0,2.5,False,0.0
+ORGNW,"Origin Materials, Inc.",Basic Materials,Chemicals,0.012,0.0,2.5,0.0,0.0,2.5,False,0.0
+NAMM,Namib Minerals,Basic Materials,Gold,1.29,69243888.0,2.5,0.0,0.0,2.5,False,0.0
+OMEX,"Odyssey Marine Exploration, Inc.",Basic Materials,Other Industrial Metals & Mining,2.08,115936056.0,2.5,0.0,0.0,2.5,False,0.0
+ODVWZ,Osisko Development Corp.,Basic Materials,Gold,0.22,0.0,2.5,0.0,0.0,2.5,False,0.0
+BSLK,"Bolt Projects Holdings, Inc.",Basic Materials,Specialty Chemicals,2.13,9299842.0,2.5,0.0,0.0,2.5,False,0.0
+CAPT,Captivision Inc.,Basic Materials,Building Materials,0.627,20484446.0,2.5,0.0,0.0,2.5,False,0.0
+NVAWW,Nova Minerals Limited,Basic Materials,Other Industrial Metals & Mining,40.0,0.0,2.5,0.0,0.0,2.5,False,0.0
+ASTLW,Algoma Steel Group Inc.,Basic Materials,Steel,0.122,0.0,2.5,0.0,0.0,2.5,False,0.0
+RETO,"ReTo Eco-Solutions, Inc.",Basic Materials,Building Materials,3.7726,10785267.0,3.0,0.0,-1.0,2.0,False,0.0
+CAPTW,Captivision Inc.,Basic Materials,Building Materials,0.0251,0.0,2.0,0.0,0.0,2.0,False,0.0
+BSLKW,"Bolt Projects Holdings, Inc.",Basic Materials,Specialty Chemicals,0.0247,0.0,2.0,0.0,0.0,2.0,False,0.0
+NAMMW,Namib Minerals,Basic Materials,Gold,0.07,0.0,2.0,0.0,0.0,2.0,False,0.0
+BON,Bon Natural Life Limited,Basic Materials,Specialty Chemicals,1.79,18205462.0,3.0,0.0,-1.0,2.0,False,0.0
+CHNR,"China Natural Resources, Inc.",Basic Materials,Other Industrial Metals & Mining,4.075,5025375.0,3.0,0.0,-1.0,2.0,False,0.0
+LUD,Luda Technology Group Limited,Basic Materials,Steel,10.346,234750736.0,3.0,0.0,-1.0,2.0,False,0.0
+CNEY,CN Energy Group. Inc.,Basic Materials,Specialty Chemicals,0.95,5342568.0,3.0,0.0,-1.0,2.0,False,0.0
+TMCWW,TMC the metals company Inc.,Basic Materials,Other Industrial Metals & Mining,1.57,0.0,2.0,0.0,0.0,2.0,False,0.0
+ITP,"IT Tech Packaging, Inc.",Basic Materials,Paper & Paper Products,0.2445,4148045.0,3.0,0.0,-1.0,2.0,False,0.0
+BGLWW,Blue Gold Limited,Basic Materials,Gold,0.62,0.0,2.0,0.0,0.0,2.0,False,0.0
+HUDI,"Huadi International Group Co., Ltd.",Basic Materials,Steel,1.25,17848978.0,3.0,0.0,-1.0,2.0,False,0.0
+HLP,Hongli Group Inc.,Basic Materials,Steel,1.46,107220584.0,3.0,0.0,-1.0,2.0,False,0.0
+GURE,"Gulf Resources, Inc. (NV) Common Stock",Basic Materials,Chemicals,8.19,11085418.0,3.0,0.0,-1.0,2.0,False,0.0
+ZKIN,"ZK International Group Co., Ltd.",Basic Materials,Steel,2.09,33072046.0,3.0,0.0,-1.0,2.0,False,0.0
+SEED,Origin Agritech Limited,Basic Materials,Agricultural Inputs,1.395,10945613.0,2.5,0.0,-1.0,1.5,False,0.0

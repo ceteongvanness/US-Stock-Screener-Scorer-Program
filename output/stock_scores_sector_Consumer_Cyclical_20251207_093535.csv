@@ -1,0 +1,591 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+RACE,Ferrari N.V.,Consumer Cyclical,Auto Manufacturers,393.21,70097616896.0,4.0,3.0,0.0,7.0,True,0.86
+RCL,Royal Caribbean Cruises Ltd.,Consumer Cyclical,Travel Services,257.66,70267224064.0,4.0,3.0,0.0,7.0,True,1.55
+EBAY,eBay Inc.,Consumer Cyclical,Internet Retail,82.47,37688791040.0,4.0,3.0,0.0,7.0,True,1.41
+HLT,Hilton Worldwide Holdings Inc.,Consumer Cyclical,Lodging,272.25,64031502336.0,3.5,3.0,0.0,6.5,False,0.22
+PDD,PDD Holdings Inc.,Consumer Cyclical,Internet Retail,117.62,166978813952.0,3.0,3.5,0.0,6.5,False,0.0
+MCD,McDonald's Corporation,Consumer Cyclical,Restaurants,311.23,222095114240.0,3.5,3.0,0.0,6.5,False,2.39
+MAR,"Marriott International, Inc.",Consumer Cyclical,Lodging,292.59,79425847296.0,3.5,3.0,0.0,6.5,False,0.92
+TJX,"The TJX Companies, Inc.",Consumer Cyclical,Apparel Retail,153.28,170591256576.0,4.0,2.0,0.0,6.0,False,1.11
+GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,76.05,72405524480.0,4.0,2.0,0.0,6.0,False,0.79
+TM,Toyota Motor Corporation,Consumer Cyclical,Auto Manufacturers,196.56,256184287232.0,4.0,2.0,0.0,6.0,False,2.92
+NHTC,Natural Health Trends Corp.,Consumer Cyclical,Internet Retail,2.77,31891218.0,4.0,2.0,0.0,6.0,False,28.88
+F,Ford Motor Company,Consumer Cyclical,Auto Manufacturers,13.03,51918016512.0,4.0,2.0,0.0,6.0,False,4.6
+NKE,"NIKE, Inc.",Consumer Cyclical,Footwear & Accessories,65.86,97354342400.0,4.0,2.0,0.0,6.0,False,2.49
+HD,"The Home Depot, Inc.",Consumer Cyclical,Home Improvement Retail,354.61,353018314752.0,4.0,2.0,0.0,6.0,False,2.59
+ROST,"Ross Stores, Inc.",Consumer Cyclical,Apparel Retail,177.87,58176032768.0,4.0,2.0,0.0,6.0,False,0.91
+MELI,"MercadoLibre, Inc.",Consumer Cyclical,Internet Retail,2066.42,104761671680.0,3.0,3.0,0.0,6.0,False,0.0
+WWW,"Wolverine World Wide, Inc.",Consumer Cyclical,Footwear & Accessories,17.41,1427061120.0,4.0,1.5,0.0,5.5,False,2.3
+WHR,Whirlpool Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances",76.06,4270665984.0,4.0,1.5,0.0,5.5,False,4.73
+DAN,Dana Incorporated,Consumer Cyclical,Auto Parts,21.0,2754226176.0,4.0,1.5,0.0,5.5,False,1.9
+PVH,PVH Corp.,Consumer Cyclical,Apparel Manufacturing,78.49,3776921856.0,4.0,1.5,0.0,5.5,False,0.19
+BC,Brunswick Corporation,Consumer Cyclical,Recreational Vehicles,70.01,4573809664.0,4.0,1.5,0.0,5.5,False,2.46
+REYN,Reynolds Consumer Products Inc.,Consumer Cyclical,Packaging & Containers,24.01,5050014208.0,4.0,1.5,0.0,5.5,False,3.83
+HOG,"Harley-Davidson, Inc.",Consumer Cyclical,Recreational Vehicles,23.36,2839474432.0,4.0,1.5,0.0,5.5,False,3.08
+HNI,HNI Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances",40.92,1875923456.0,4.0,1.5,0.0,5.5,False,3.32
+BGSI,Boyd Group Services Inc.,Consumer Cyclical,Auto & Truck Dealerships,169.56,4817224192.0,4.0,1.5,0.0,5.5,False,0.26
+PII,Polaris Inc.,Consumer Cyclical,Recreational Vehicles,67.45,3793949696.0,4.0,1.5,0.0,5.5,False,3.97
+CYD,China Yuchai International Limited,Consumer Cyclical,Auto Manufacturers,34.75,1303761792.0,4.0,1.5,0.0,5.5,False,1.53
+RUSHB,"Rush Enterprises, Inc.",Consumer Cyclical,Auto & Truck Dealerships,55.82,4302684160.0,4.0,1.5,0.0,5.5,False,1.36
+RUSHA,"Rush Enterprises, Inc.",Consumer Cyclical,Auto & Truck Dealerships,54.92,4332558336.0,4.0,1.5,0.0,5.5,False,1.38
+BKE,"The Buckle, Inc.",Consumer Cyclical,Apparel Retail,55.83,2856074496.0,4.0,1.5,0.0,5.5,False,2.51
+SAH,"Sonic Automotive, Inc.",Consumer Cyclical,Auto & Truck Dealerships,64.37,2199695872.0,4.0,1.5,0.0,5.5,False,2.36
+SBUX,Starbucks Corporation,Consumer Cyclical,Restaurants,85.12,96789954560.0,3.5,2.0,0.0,5.5,False,2.91
+BKNG,Booking Holdings Inc.,Consumer Cyclical,Travel Services,5197.04,168435482624.0,3.0,2.5,0.0,5.5,False,0.74
+SCS,Steelcase Inc.,Consumer Cyclical,"Furnishings, Fixtures & Appliances",16.14,1853551104.0,4.0,1.5,0.0,5.5,False,2.48
+DOOO,BRP Inc.,Consumer Cyclical,Recreational Vehicles,76.66,5607587840.0,4.0,1.5,0.0,5.5,False,0.8
+GPK,Graphic Packaging Holding Company,Consumer Cyclical,Packaging & Containers,15.99,4737016832.0,4.0,1.5,0.0,5.5,False,2.75
+GPI,"Group 1 Automotive, Inc.",Consumer Cyclical,Auto & Truck Dealerships,404.21,5105421824.0,4.0,1.5,0.0,5.5,False,0.49
+GOLF,Acushnet Holdings Corp.,Consumer Cyclical,Leisure,83.6,4904087040.0,4.0,1.5,0.0,5.5,False,1.12
+GNTX,Gentex Corporation,Consumer Cyclical,Auto Parts,23.22,5096542720.0,4.0,1.5,0.0,5.5,False,2.07
+PATK,"Patrick Industries, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",107.32,3571467520.0,4.0,1.5,0.0,5.5,False,1.75
+SHOO,"Steven Madden, Ltd.",Consumer Cyclical,Footwear & Accessories,43.88,3188230400.0,4.0,1.5,0.0,5.5,False,1.91
+SLGN,Silgan Holdings Inc.,Consumer Cyclical,Packaging & Containers,38.69,4139566080.0,4.0,1.5,0.0,5.5,False,2.07
+SEE,Sealed Air Corporation,Consumer Cyclical,Packaging & Containers,41.74,6140978176.0,4.0,1.5,0.0,5.5,False,1.92
+SIG,Signet Jewelers Limited,Consumer Cyclical,Luxury Goods,83.0,3415469568.0,4.0,1.5,0.0,5.5,False,1.54
+SON,Sonoco Products Company,Consumer Cyclical,Packaging & Containers,41.43,4086365952.0,4.0,1.5,0.0,5.5,False,5.12
+CRI,"Carter's, Inc.",Consumer Cyclical,Apparel Retail,31.87,1161593600.0,4.0,1.5,0.0,5.5,False,3.14
+BRSL,Brightstar Lottery PLC,Consumer Cyclical,Gambling,14.98,2846199808.0,4.0,1.5,0.0,5.5,False,5.87
+GEF,"Greif, Inc.",Consumer Cyclical,Packaging & Containers,65.45,3795104256.0,4.0,1.5,0.0,5.5,False,3.42
+KBH,KB Home,Consumer Cyclical,Residential Construction,63.33,4101547520.0,4.0,1.5,0.0,5.5,False,1.58
+GAP,"The Gap, Inc.",Consumer Cyclical,Apparel Retail,26.56,9878241280.0,4.0,1.5,0.0,5.5,False,2.48
+BWA,BorgWarner Inc.,Consumer Cyclical,Auto Parts,43.3,9369811968.0,4.0,1.5,0.0,5.5,False,1.57
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,229.53,2453725249536.0,3.0,2.5,0.0,5.5,False,0.0
+THO,"THOR Industries, Inc.",Consumer Cyclical,Recreational Vehicles,100.84,5328250880.0,4.0,1.5,0.0,5.5,False,2.06
+COLM,Columbia Sportswear Company,Consumer Cyclical,Apparel Manufacturing,55.11,3018378496.0,4.0,1.5,0.0,5.5,False,2.18
+BYD,Boyd Gaming Corporation,Consumer Cyclical,Resorts & Casinos,80.88,6485298688.0,4.0,1.5,0.0,5.5,False,0.89
+TILE,"Interface, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",27.32,1595231616.0,4.0,1.5,0.0,5.5,False,0.29
+LAD,"Lithia Motors, Inc.",Consumer Cyclical,Auto & Truck Dealerships,328.39,7963467776.0,4.0,1.5,0.0,5.5,False,0.67
+KTB,"Kontoor Brands, Inc.",Consumer Cyclical,Apparel Manufacturing,76.2,4236232960.0,4.0,1.5,0.0,5.5,False,2.78
+KSS,Kohl's Corporation,Consumer Cyclical,Department Stores,23.05,2585960704.0,4.0,1.5,0.0,5.5,False,2.17
+CAKE,The Cheesecake Factory Incorporated,Consumer Cyclical,Restaurants,46.98,2341562368.0,4.0,1.5,0.0,5.5,False,2.3
+LEG,"Leggett & Platt, Incorporated",Consumer Cyclical,"Furnishings, Fixtures & Appliances",11.17,1512823296.0,4.0,1.5,0.0,5.5,False,1.79
+LEA,Lear Corporation,Consumer Cyclical,Auto Parts,107.78,5734553088.0,4.0,1.5,0.0,5.5,False,2.86
+LCII,LCI Industries,Consumer Cyclical,Recreational Vehicles,114.66,2779849728.0,4.0,1.5,0.0,5.5,False,4.01
+ALV,"Autoliv, Inc.",Consumer Cyclical,Auto Parts,117.44,9020239872.0,4.0,1.5,0.0,5.5,False,2.66
+ALSN,"Allison Transmission Holdings, Inc.",Consumer Cyclical,Auto Parts,92.54,7737891328.0,4.0,1.5,0.0,5.5,False,1.17
+LEVI,Levi Strauss & Co.,Consumer Cyclical,Apparel Manufacturing,22.27,8811224064.0,4.0,1.5,0.0,5.5,False,2.51
+AIN,Albany International Corp.,Consumer Cyclical,Textile Manufacturing,49.61,1461910272.0,4.0,1.5,0.0,5.5,False,2.26
+VAC,Marriott Vacations Worldwide Corporation,Consumer Cyclical,Resorts & Casinos,55.08,1906538752.0,4.0,1.5,0.0,5.5,False,5.74
+LOW,"Lowe's Companies, Inc.",Consumer Cyclical,Home Improvement Retail,248.47,139379621888.0,3.5,2.0,0.0,5.5,False,1.93
+MTN,"Vail Resorts, Inc.",Consumer Cyclical,Resorts & Casinos,144.36,5190204928.0,4.0,1.5,0.0,5.5,False,6.15
+MUSA,Murphy USA Inc.,Consumer Cyclical,Specialty Retail,392.7,7576108544.0,4.0,1.5,0.0,5.5,False,0.55
+VFC,V.F. Corporation,Consumer Cyclical,Apparel Manufacturing,19.05,7443306496.0,4.0,1.5,0.0,5.5,False,1.89
+M,"Macy's, Inc.",Consumer Cyclical,Department Stores,22.85,6052964864.0,4.0,1.5,0.0,5.5,False,3.19
+LZB,La-Z-Boy Incorporated,Consumer Cyclical,"Furnishings, Fixtures & Appliances",38.63,1593447680.0,4.0,1.5,0.0,5.5,False,2.51
+AEO,"American Eagle Outfitters, Inc.",Consumer Cyclical,Apparel Retail,23.09,4000763648.0,4.0,1.5,0.0,5.5,False,2.17
+CHDN,Churchill Downs Incorporated,Consumer Cyclical,Gambling,112.49,7888284672.0,4.0,1.5,0.0,5.5,False,0.39
+WH,"Wyndham Hotels & Resorts, Inc.",Consumer Cyclical,Lodging,72.12,5506812928.0,4.0,1.5,0.0,5.5,False,2.27
+WGO,"Winnebago Industries, Inc.",Consumer Cyclical,Recreational Vehicles,38.01,1072156416.0,4.0,1.5,0.0,5.5,False,3.68
+WEN,The Wendy's Company,Consumer Cyclical,Restaurants,8.44,1608369408.0,4.0,1.5,0.0,5.5,False,6.64
+MLKN,"MillerKnoll, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",15.76,1079792896.0,4.0,1.5,0.0,5.5,False,4.76
+CHH,"Choice Hotels International, Inc.",Consumer Cyclical,Lodging,85.76,3968339712.0,4.0,1.5,0.0,5.5,False,1.34
+AAP,"Advance Auto Parts, Inc.",Consumer Cyclical,Auto Parts,52.47,3149367296.0,4.0,1.5,0.0,5.5,False,1.91
+YUM,"Yum! Brands, Inc.",Consumer Cyclical,Restaurants,144.96,40248557568.0,3.5,2.0,0.0,5.5,False,1.96
+ABNB,"Airbnb, Inc.",Consumer Cyclical,Travel Services,124.32,76113133568.0,3.0,2.0,0.0,5.0,False,0.0
+ESCA,"Escalade, Incorporated",Consumer Cyclical,Leisure,12.57,173513072.0,4.0,1.0,0.0,5.0,False,4.77
+WSM,"Williams-Sonoma, Inc.",Consumer Cyclical,Specialty Retail,179.36,21412124672.0,4.0,1.0,0.0,5.0,False,1.47
+MLR,"Miller Industries, Inc.",Consumer Cyclical,Auto Parts,38.18,437471136.0,4.0,1.0,0.0,5.0,False,2.1
+CLAR,Clarus Corporation,Consumer Cyclical,Leisure,3.51,134790400.0,4.0,1.0,0.0,5.0,False,2.85
+MNRO,"Monro, Inc.",Consumer Cyclical,Auto Parts,19.41,582681600.0,4.0,1.0,0.0,5.0,False,5.77
+MOV,"Movado Group, Inc.",Consumer Cyclical,Luxury Goods,21.37,473088096.0,4.0,1.0,0.0,5.0,False,6.55
+LVS,Las Vegas Sands Corp.,Consumer Cyclical,Resorts & Casinos,66.25,45477552128.0,4.0,1.0,0.0,5.0,False,1.51
+MPX,Marine Products Corporation,Consumer Cyclical,Recreational Vehicles,8.71,304841568.0,4.0,1.0,0.0,5.0,False,6.43
+CCK,"Crown Holdings, Inc.",Consumer Cyclical,Packaging & Containers,97.95,11398988800.0,4.0,1.0,0.0,5.0,False,1.06
+MYE,"Myers Industries, Inc.",Consumer Cyclical,Packaging & Containers,18.45,690209536.0,4.0,1.0,0.0,5.0,False,2.93
+CBRL,"Cracker Barrel Old Country Store, Inc.",Consumer Cyclical,Restaurants,27.83,619737728.0,4.0,1.0,0.0,5.0,False,3.59
+LCUT,"Lifetime Brands, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",4.4,99692720.0,4.0,1.0,0.0,5.0,False,3.86
+LEN,Lennar Corporation,Consumer Cyclical,Residential Construction,123.91,30602170368.0,4.0,1.0,0.0,5.0,False,1.61
+CASY,"Casey's General Stores, Inc.",Consumer Cyclical,Specialty Retail,567.03,21082892288.0,4.0,1.0,0.0,5.0,False,0.4
+CAL,"Caleres, Inc.",Consumer Cyclical,Apparel Retail,13.33,451125696.0,4.0,1.0,0.0,5.0,False,2.1
+BWMX,"Betterware de México, S.A.P.I. de C.V.",Consumer Cyclical,Specialty Retail,14.22,530641280.0,4.0,1.0,0.0,5.0,False,8.24
+BSET,"Bassett Furniture Industries, Incorporated",Consumer Cyclical,"Furnishings, Fixtures & Appliances",15.255,132559592.0,4.0,1.0,0.0,5.0,False,5.24
+JOUT,Johnson Outdoors Inc.,Consumer Cyclical,Leisure,40.96,425172032.0,4.0,1.0,0.0,5.0,False,3.22
+JRSH,"Jerash Holdings (US), Inc.",Consumer Cyclical,Apparel Manufacturing,3.095,39306316.0,4.0,1.0,0.0,5.0,False,6.46
+CRWS,"Crown Crafts, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",2.74,29325636.0,4.0,1.0,0.0,5.0,False,11.68
+CSV,"Carriage Services, Inc.",Consumer Cyclical,Personal Services,41.89,659566144.0,4.0,1.0,0.0,5.0,False,1.07
+OXM,"Oxford Industries, Inc.",Consumer Cyclical,Apparel Manufacturing,40.81,609514048.0,4.0,1.0,0.0,5.0,False,6.76
+PAG,"Penske Automotive Group, Inc.",Consumer Cyclical,Auto & Truck Dealerships,164.93,10892697600.0,4.0,1.0,0.0,5.0,False,3.35
+IP,International Paper Company,Consumer Cyclical,Packaging & Containers,39.06,20625176576.0,4.0,1.0,0.0,5.0,False,4.74
+BLMN,"Bloomin' Brands, Inc.",Consumer Cyclical,Restaurants,6.75,575215360.0,4.0,1.0,0.0,5.0,False,8.89
+PKG,Packaging Corporation of America,Consumer Cyclical,Packaging & Containers,198.48,17858988032.0,4.0,1.0,0.0,5.0,False,2.52
+CWH,"Camping World Holdings, Inc.",Consumer Cyclical,Auto & Truck Dealerships,10.79,677822976.0,4.0,1.0,0.0,5.0,False,4.63
+PLOW,"Douglas Dynamics, Inc.",Consumer Cyclical,Auto Parts,31.81,732930368.0,4.0,1.0,0.0,5.0,False,3.71
+PHM,"PulteGroup, Inc.",Consumer Cyclical,Residential Construction,126.99,25054818304.0,4.0,1.0,0.0,5.0,False,0.82
+DBI,Designer Brands Inc.,Consumer Cyclical,Footwear & Accessories,4.88,241772192.0,4.0,1.0,0.0,5.0,False,4.1
+HVT,"Haverty Furniture Companies, Inc.",Consumer Cyclical,Home Improvement Retail,23.79,386987840.0,4.0,1.0,0.0,5.0,False,5.55
+DASH,"DoorDash, Inc.",Consumer Cyclical,Internet Retail,225.0,96974667776.0,3.0,2.0,0.0,5.0,False,0.0
+PZZA,"Papa John's International, Inc.",Consumer Cyclical,Restaurants,41.16,1349612416.0,3.5,1.5,0.0,5.0,False,4.47
+QSR,Restaurant Brands International Inc.,Consumer Cyclical,Restaurants,73.54,33611536384.0,4.0,1.0,0.0,5.0,False,3.37
+BDL,"Flanigan's Enterprises, Inc.",Consumer Cyclical,Restaurants,30.45,56595804.0,4.0,1.0,0.0,5.0,False,1.81
+HRB,"H&R Block, Inc.",Consumer Cyclical,Personal Services,42.11,5384518144.0,3.5,1.5,0.0,5.0,False,3.99
+QVCGP,QVC Group Inc.,Consumer Cyclical,Internet Retail,3.4,0.0,3.0,2.0,0.0,5.0,False,235.29
+DDS,"Dillard's, Inc.",Consumer Cyclical,Department Stores,698.18,10891608064.0,4.0,1.0,0.0,5.0,False,0.17
+HOFT,Hooker Furnishings Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances",10.68,114810352.0,4.0,1.0,0.0,5.0,False,8.61
+RCKY,"Rocky Brands, Inc.",Consumer Cyclical,Footwear & Accessories,29.12,218216176.0,4.0,1.0,0.0,5.0,False,2.13
+BBWI,"Bath & Body Works, Inc.",Consumer Cyclical,Specialty Retail,18.83,3882512128.0,3.5,1.5,0.0,5.0,False,4.25
+BBY,"Best Buy Co., Inc.",Consumer Cyclical,Specialty Retail,74.17,15675583488.0,4.0,1.0,0.0,5.0,False,5.12
+BALL,Ball Corporation,Consumer Cyclical,Packaging & Containers,49.03,13343460352.0,4.0,1.0,0.0,5.0,False,1.63
+DKS,"DICK'S Sporting Goods, Inc.",Consumer Cyclical,Specialty Retail,232.22,20824635392.0,4.0,1.0,0.0,5.0,False,2.09
+HMC,"Honda Motor Co., Ltd.",Consumer Cyclical,Auto Manufacturers,29.43,38185918464.0,4.0,1.0,0.0,5.0,False,4.73
+DHI,"D.R. Horton, Inc.",Consumer Cyclical,Residential Construction,158.62,47288352768.0,4.0,1.0,0.0,5.0,False,1.13
+ROL,"Rollins, Inc.",Consumer Cyclical,Personal Services,61.4,29542645760.0,4.0,1.0,0.0,5.0,False,1.19
+BABA,Alibaba Group Holding Limited,Consumer Cyclical,Internet Retail,158.32,377750945792.0,3.5,2.5,-1.0,5.0,False,0.66
+RICK,"RCI Hospitality Holdings, Inc.",Consumer Cyclical,Restaurants,26.02,228014560.0,4.0,1.0,0.0,5.0,False,1.08
+RL,Ralph Lauren Corporation,Consumer Cyclical,Apparel Manufacturing,368.42,22341230592.0,4.0,1.0,0.0,5.0,False,0.99
+HAS,"Hasbro, Inc.",Consumer Cyclical,Leisure,81.1,11381331968.0,4.0,1.0,0.0,5.0,False,3.45
+HBB,Hamilton Beach Brands Holding Company,Consumer Cyclical,"Furnishings, Fixtures & Appliances",16.3,219663680.0,4.0,1.0,0.0,5.0,False,2.91
+AVY,Avery Dennison Corporation,Consumer Cyclical,Packaging & Containers,179.33,13861383168.0,4.0,1.0,0.0,5.0,False,2.1
+SE,Sea Limited,Consumer Cyclical,Internet Retail,133.99,79324749824.0,3.0,2.0,0.0,5.0,False,0.0
+DRI,"Darden Restaurants, Inc.",Consumer Cyclical,Restaurants,177.72,20721246208.0,4.0,1.0,0.0,5.0,False,3.38
+SGC,"Superior Group of Companies, Inc.",Consumer Cyclical,Apparel Manufacturing,9.815,156733680.0,4.0,1.0,0.0,5.0,False,5.71
+SCI,Service Corporation International,Consumer Cyclical,Personal Services,75.9,10639765504.0,4.0,1.0,0.0,5.0,False,1.79
+SCVL,"Shoe Carnival, Inc.",Consumer Cyclical,Apparel Retail,17.54,480119328.0,4.0,1.0,0.0,5.0,False,3.42
+GPC,Genuine Parts Company,Consumer Cyclical,Auto Parts,130.24,18117750784.0,4.0,1.0,0.0,5.0,False,3.16
+GIL,Gildan Activewear Inc.,Consumer Cyclical,Apparel Manufacturing,58.79,10917110784.0,4.0,1.0,0.0,5.0,False,1.54
+SMP,"Standard Motor Products, Inc.",Consumer Cyclical,Auto Parts,36.49,802750464.0,4.0,1.0,0.0,5.0,False,3.4
+GES,"Guess?, Inc.",Consumer Cyclical,Apparel Retail,16.99,886057984.0,4.0,1.0,0.0,5.0,False,5.3
+SW,Smurfit Westrock Plc,Consumer Cyclical,Packaging & Containers,36.04,18819596288.0,4.0,1.0,0.0,5.0,False,4.78
+TNL,Travel + Leisure Co.,Consumer Cyclical,Travel Services,68.53,4454958592.0,3.5,1.5,0.0,5.0,False,3.27
+TOL,"Toll Brothers, Inc.",Consumer Cyclical,Residential Construction,138.94,13641268224.0,4.0,1.0,0.0,5.0,False,0.72
+AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,8.3,19159388160.0,4.0,1.0,0.0,5.0,False,6.27
+TPR,"Tapestry, Inc.",Consumer Cyclical,Luxury Goods,116.3,24074741760.0,4.0,1.0,0.0,5.0,False,1.38
+TSCO,Tractor Supply Company,Consumer Cyclical,Specialty Retail,54.08,28576067584.0,4.0,1.0,0.0,5.0,False,1.7
+FLXS,"Flexsteel Industries, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",40.23,214846176.0,4.0,1.0,0.0,5.0,False,1.99
+TXRH,"Texas Roadhouse, Inc.",Consumer Cyclical,Restaurants,166.27,11048743936.0,4.0,1.0,0.0,5.0,False,1.64
+VIRC,Virco Mfg. Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances",7.36,116002008.0,4.0,1.0,0.0,5.0,False,1.36
+WEYS,"Weyco Group, Inc.",Consumer Cyclical,Footwear & Accessories,30.84,294472288.0,4.0,1.0,0.0,5.0,False,3.5
+EXPE,"Expedia Group, Inc.",Consumer Cyclical,Travel Services,263.43,32590395392.0,4.0,1.0,0.0,5.0,False,0.61
+WINA,Winmark Corporation,Consumer Cyclical,Specialty Retail,426.12,1517896960.0,3.5,1.5,0.0,5.0,False,0.9
+WING,Wingstop Inc.,Consumer Cyclical,Restaurants,257.56,7192041984.0,3.5,1.5,0.0,5.0,False,0.47
+ETD,Ethan Allen Interiors Inc.,Consumer Cyclical,"Furnishings, Fixtures & Appliances",24.01,610966656.0,4.0,1.0,0.0,5.0,False,6.5
+MGA,Magna International Inc.,Consumer Cyclical,Auto Parts,49.03,13869590528.0,4.0,1.0,0.0,5.0,False,3.96
+TDUP,ThredUp Inc.,Consumer Cyclical,Internet Retail,8.72,1091237376.0,3.0,1.5,0.0,4.5,False,0.0
+TCOM,Trip.com Group Limited,Consumer Cyclical,Travel Services,71.75,46896046080.0,3.5,1.0,0.0,4.5,False,0.42
+MAT,"Mattel, Inc.",Consumer Cyclical,Leisure,21.15,6814530048.0,3.0,1.5,0.0,4.5,False,0.0
+ANF,Abercrombie & Fitch Co.,Consumer Cyclical,Apparel Retail,94.87,4350359040.0,3.0,1.5,0.0,4.5,False,0.0
+MGM,MGM Resorts International,Consumer Cyclical,Resorts & Casinos,36.07,9865376768.0,3.0,1.5,0.0,4.5,False,0.0
+MHO,"M/I Homes, Inc.",Consumer Cyclical,Residential Construction,133.58,3525270784.0,3.0,1.5,0.0,4.5,False,0.0
+MOD,Modine Manufacturing Company,Consumer Cyclical,Auto Parts,162.87,8574872064.0,3.0,1.5,0.0,4.5,False,0.0
+MODG,Topgolf Callaway Brands Corp.,Consumer Cyclical,Leisure,11.51,2116500608.0,3.0,1.5,0.0,4.5,False,0.0
+WYNN,"Wynn Resorts, Limited",Consumer Cyclical,Resorts & Casinos,125.51,13050094592.0,3.5,1.0,0.0,4.5,False,0.8
+KAR,"OPENLANE, Inc.",Consumer Cyclical,Auto & Truck Dealerships,26.14,2778777088.0,3.0,1.5,0.0,4.5,False,0.0
+JMIA,Jumia Technologies AG,Consumer Cyclical,Internet Retail,12.17,1490372608.0,3.0,1.5,0.0,4.5,False,0.0
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,455.0,1513247735808.0,3.0,1.5,0.0,4.5,False,0.0
+RVLV,"Revolve Group, Inc.",Consumer Cyclical,Internet Retail,25.97,1852550016.0,3.0,1.5,0.0,4.5,False,0.0
+JACK,Jack in the Box Inc.,Consumer Cyclical,Restaurants,18.84,356016160.0,3.5,1.0,0.0,4.5,False,9.34
+NATH,"Nathan's Famous, Inc.",Consumer Cyclical,Restaurants,89.9,367646944.0,3.5,1.0,0.0,4.5,False,2.22
+NEGG,"Newegg Commerce, Inc.",Consumer Cyclical,Internet Retail,74.06,1552777472.0,3.0,1.5,0.0,4.5,False,0.0
+IHG,InterContinental Hotels Group PLC,Consumer Cyclical,Lodging,133.57,20058787840.0,3.5,1.0,0.0,4.5,False,1.3
+FUN,Six Flags Entertainment Corporation,Consumer Cyclical,Leisure,15.64,1587058944.0,3.0,1.5,0.0,4.5,False,0.0
+EAT,"Brinker International, Inc.",Consumer Cyclical,Restaurants,140.45,6240364032.0,3.0,1.5,0.0,4.5,False,0.0
+DIN,"Dine Brands Global, Inc.",Consumer Cyclical,Restaurants,33.39,513515584.0,3.5,1.0,0.0,4.5,False,2.28
+SKY,"Champion Homes, Inc.",Consumer Cyclical,Residential Construction,85.38,4825517568.0,3.0,1.5,0.0,4.5,False,0.0
+GLBE,Global-E Online Ltd.,Consumer Cyclical,Internet Retail,40.66,6901062144.0,3.0,1.5,0.0,4.5,False,0.0
+GT,The Goodyear Tire & Rubber Company,Consumer Cyclical,Auto Parts,8.58,2455260416.0,3.0,1.5,0.0,4.5,False,0.0
+DPZ,"Domino's Pizza, Inc.",Consumer Cyclical,Restaurants,416.55,14141422592.0,3.5,1.0,0.0,4.5,False,1.67
+VVV,Valvoline Inc.,Consumer Cyclical,Auto & Truck Dealerships,30.5,3878309120.0,3.0,1.5,0.0,4.5,False,0.0
+LULU,lululemon athletica inc.,Consumer Cyclical,Apparel Retail,190.01,22772793344.0,3.0,1.0,0.0,4.0,False,0.0
+LQDT,"Liquidity Services, Inc.",Consumer Cyclical,Internet Retail,30.03,938045312.0,3.0,1.0,0.0,4.0,False,0.0
+ATMU,Atmus Filtration Technologies Inc.,Consumer Cyclical,Auto Parts,52.25,4292441088.0,3.5,0.5,0.0,4.0,False,0.42
+SGHC,Super Group (SGHC) Limited,Consumer Cyclical,Gambling,11.23,5678309888.0,3.5,0.5,0.0,4.0,False,1.42
+GME,GameStop Corp.,Consumer Cyclical,Specialty Retail,23.0,10301899776.0,3.0,1.0,0.0,4.0,False,0.0
+WBUY,WBUY,Consumer Cyclical,Internet Retail,1.97,4449463.0,3.0,1.0,0.0,4.0,False,0.0
+VIPS,Vipshop Holdings Limited,Consumer Cyclical,Internet Retail,20.12,9919160320.0,3.5,1.5,-1.0,4.0,False,2.39
+HEPS,D-Market Elektronik Hizmetler ve Ticaret A.S.,Consumer Cyclical,Internet Retail,2.43,792175872.0,3.0,1.0,0.0,4.0,False,0.0
+VIK,Viking Holdings Ltd,Consumer Cyclical,Travel Services,67.08,29757380608.0,3.0,1.0,0.0,4.0,False,0.0
+VC,Visteon Corporation,Consumer Cyclical,Auto Parts,99.48,2714403584.0,3.5,0.5,0.0,4.0,False,1.11
+DIBS,"1stdibs.Com, Inc.",Consumer Cyclical,Internet Retail,6.08,222615232.0,3.0,1.0,0.0,4.0,False,0.0
+NTZ,Natuzzi S.p.A.,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2.7,29739444.0,3.0,1.0,0.0,4.0,False,0.0
+HOUR,"Hour Loop, Inc.",Consumer Cyclical,Internet Retail,2.03,71407928.0,3.0,1.0,0.0,4.0,False,0.0
+DECK,Deckers Outdoor Corporation,Consumer Cyclical,Footwear & Accessories,99.7,14789832704.0,3.0,1.0,0.0,4.0,False,0.0
+SBDS,SBDS,Consumer Cyclical,Internet Retail,8.665,14278421.0,3.0,1.0,0.0,4.0,False,0.0
+PHIN,PHINIA Inc.,Consumer Cyclical,Auto Parts,54.41,2116792576.0,3.5,0.5,0.0,4.0,False,1.98
+CART,Maplebear Inc.,Consumer Cyclical,Internet Retail,44.18,11638703104.0,3.0,1.0,0.0,4.0,False,0.0
+BH,Biglari Holdings Inc.,Consumer Cyclical,Restaurants,304.33,944323776.0,3.0,1.0,0.0,4.0,False,0.0
+ASO,"Academy Sports and Outdoors, Inc.",Consumer Cyclical,Specialty Retail,50.23,3346595328.0,3.5,0.5,0.0,4.0,False,1.04
+UFI,"Unifi, Inc.",Consumer Cyclical,Textile Manufacturing,3.13,57468880.0,3.0,1.0,0.0,4.0,False,0.0
+CATO,The Cato Corporation,Consumer Cyclical,Apparel Retail,3.47,68527664.0,3.0,1.0,0.0,4.0,False,0.0
+IBP,"Installed Building Products, Inc.",Consumer Cyclical,Residential Construction,268.19,7234520576.0,3.5,0.5,0.0,4.0,False,1.19
+CVNA,Carvana Co.,Consumer Cyclical,Auto & Truck Dealerships,399.77,86671507456.0,3.0,1.0,0.0,4.0,False,0.0
+AXL,"American Axle & Manufacturing Holdings, Inc.",Consumer Cyclical,Auto Parts,6.31,748974400.0,3.0,1.0,0.0,4.0,False,0.0
+CCL,Carnival Corporation & plc,Consumer Cyclical,Travel Services,25.87,35076669440.0,3.0,1.0,0.0,4.0,False,0.0
+CUK,Carnival Corporation & plc,Consumer Cyclical,Travel Services,23.84,31365519360.0,3.0,1.0,0.0,4.0,False,0.0
+CULP,"Culp, Inc.",Consumer Cyclical,Textile Manufacturing,3.85,48530428.0,3.0,1.0,0.0,4.0,False,0.0
+CTRN,"Citi Trends, Inc.",Consumer Cyclical,Apparel Retail,45.76,380078528.0,3.0,1.0,0.0,4.0,False,0.0
+IPW,iPower Inc.,Consumer Cyclical,Internet Retail,11.09,11642282.0,3.0,1.0,0.0,4.0,False,0.0
+PRSU,"Pursuit Attractions and Hospitality, Inc.",Consumer Cyclical,Travel Services,34.33,970964480.0,3.0,1.0,0.0,4.0,False,0.0
+RRR,"Red Rock Resorts, Inc.",Consumer Cyclical,Resorts & Casinos,56.23,5787208192.0,3.5,0.5,0.0,4.0,False,1.85
+MTH,Meritage Homes Corporation,Consumer Cyclical,Residential Construction,72.23,5139608064.0,3.5,0.5,0.0,4.0,False,2.38
+WW,"WW International, Inc.",Consumer Cyclical,Personal Services,24.11,240784864.0,3.0,1.0,0.0,4.0,False,0.0
+JFBR,Jeffs' Brands Ltd,Consumer Cyclical,Internet Retail,1.6,1080592.0,3.0,1.0,0.0,4.0,False,0.0
+ARKR,Ark Restaurants Corp.,Consumer Cyclical,Restaurants,7.09,25567660.0,3.0,1.0,0.0,4.0,False,0.0
+TRS,TriMas Corporation,Consumer Cyclical,Packaging & Containers,33.48,1360817024.0,3.5,0.5,0.0,4.0,False,0.48
+KEQU,Kewaunee Scientific Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances",39.5,116407448.0,3.0,1.0,0.0,4.0,False,0.0
+ARCO,Arcos Dorados Holdings Inc.,Consumer Cyclical,Restaurants,7.41,1561013248.0,3.5,0.5,0.0,4.0,False,3.24
+AMWD,American Woodmark Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances",54.82,798681920.0,3.0,1.0,0.0,4.0,False,0.0
+KFS,Kingsway Financial Services Inc.,Consumer Cyclical,Auto & Truck Dealerships,12.69,363097056.0,3.0,1.0,0.0,4.0,False,0.0
+STRT,Strattec Security Corporation,Consumer Cyclical,Auto Parts,78.8,329799360.0,3.0,1.0,0.0,4.0,False,0.0
+CHWY,"Chewy, Inc.",Consumer Cyclical,Internet Retail,33.47,13884024832.0,3.0,1.0,0.0,4.0,False,0.0
+CPNG,"Coupang, Inc.",Consumer Cyclical,Internet Retail,27.11,49520414720.0,3.0,1.0,0.0,4.0,False,0.0
+FATBP,FAT Brands Inc.,Consumer Cyclical,Restaurants,1.0501,0.0,3.0,1.0,0.0,4.0,False,196.41
+SYPR,"Sypris Solutions, Inc.",Consumer Cyclical,Auto Parts,2.08,47902336.0,3.0,1.0,0.0,4.0,False,0.0
+MED,"Medifast, Inc.",Consumer Cyclical,Personal Services,10.88,119585048.0,3.0,1.0,0.0,4.0,False,0.0
+APTV,Aptiv PLC,Consumer Cyclical,Auto Parts,76.37,16630317056.0,3.0,1.0,0.0,4.0,False,0.0
+MCRI,"Monarch Casino & Resort, Inc.",Consumer Cyclical,Resorts & Casinos,96.01,1753858048.0,3.5,0.5,0.0,4.0,False,1.25
+LGCB,Linkage Global Inc,Consumer Cyclical,Internet Retail,2.06,23000976.0,3.0,1.0,0.0,4.0,False,0.0
+LKQ,LKQ Corporation,Consumer Cyclical,Auto Parts,29.45,7577284608.0,3.5,0.5,0.0,4.0,False,4.07
+RGS,Regis Corporation,Consumer Cyclical,Personal Services,28.8999,71686000.0,3.0,1.0,0.0,4.0,False,0.0
+YUMC,"Yum China Holdings, Inc.",Consumer Cyclical,Restaurants,46.23,16530609152.0,4.0,1.0,-1.0,4.0,False,2.08
+ZGN,Ermenegildo Zegna N.V.,Consumer Cyclical,Apparel Manufacturing,10.64,2703511040.0,3.5,0.5,0.0,4.0,False,1.31
+OSW,OneSpaWorld Holdings Limited,Consumer Cyclical,Leisure,20.03,2057025664.0,3.5,0.5,0.0,4.0,False,1.0
+ETSY,"Etsy, Inc.",Consumer Cyclical,Internet Retail,53.26,5278522368.0,2.5,1.5,0.0,4.0,False,0.0
+ABG,"Asbury Automotive Group, Inc.",Consumer Cyclical,Auto & Truck Dealerships,238.9,4696926720.0,3.0,0.5,0.0,3.5,False,0.0
+RERE,ATRenew Inc.,Consumer Cyclical,Internet Retail,5.31,1179073792.0,3.0,1.5,-1.0,3.5,False,0.0
+LTH,"Life Time Group Holdings, Inc.",Consumer Cyclical,Leisure,26.71,5889881600.0,3.0,0.5,0.0,3.5,False,0.0
+EYE,"National Vision Holdings, Inc.",Consumer Cyclical,Specialty Retail,29.28,2322183936.0,3.0,0.5,0.0,3.5,False,0.0
+CNNE,"Cannae Holdings, Inc.",Consumer Cyclical,Restaurants,16.38,857964096.0,3.5,0.0,0.0,3.5,False,3.66
+YETI,"YETI Holdings, Inc.",Consumer Cyclical,Leisure,43.36,3521882368.0,3.0,0.5,0.0,3.5,False,0.0
+QVCGA,QVC Group Inc.,Consumer Cyclical,Internet Retail,9.36,77555728.0,2.5,1.0,0.0,3.5,False,0.0
+QS,QuantumScape Corporation,Consumer Cyclical,Auto Parts,12.55,7546443264.0,3.0,0.5,0.0,3.5,False,0.0
+THRM,Gentherm Incorporated,Consumer Cyclical,Auto Parts,36.46,1112946816.0,3.0,0.5,0.0,3.5,False,0.0
+LGIH,"LGI Homes, Inc.",Consumer Cyclical,Residential Construction,50.4,1163186688.0,3.0,0.5,0.0,3.5,False,0.0
+LCID,"Lucid Group, Inc.",Consumer Cyclical,Auto Manufacturers,13.42,4350340608.0,3.0,0.5,0.0,3.5,False,0.0
+MBC,"MasterBrand, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",11.14,1412322176.0,3.0,0.5,0.0,3.5,False,0.0
+XPEL,"XPEL, Inc.",Consumer Cyclical,Auto Parts,49.18,1361233664.0,3.0,0.5,0.0,3.5,False,0.0
+MBLY,Mobileye Global Inc.,Consumer Cyclical,Auto Parts,11.7,9521155072.0,3.0,0.5,0.0,3.5,False,0.0
+AZO,"AutoZone, Inc.",Consumer Cyclical,Auto Parts,3822.66,63704629248.0,2.5,1.0,0.0,3.5,False,0.0
+FIGS,"FIGS, Inc.",Consumer Cyclical,Apparel Manufacturing,11.43,1880220288.0,3.0,0.5,0.0,3.5,False,0.0
+FIVE,"Five Below, Inc.",Consumer Cyclical,Specialty Retail,173.2,9551194112.0,3.0,0.5,0.0,3.5,False,0.0
+MCW,"Mister Car Wash, Inc.",Consumer Cyclical,Auto & Truck Dealerships,5.25,1719734016.0,3.0,0.5,0.0,3.5,False,0.0
+FND,"Floor & Decor Holdings, Inc.",Consumer Cyclical,Home Improvement Retail,63.48,6840358912.0,3.0,0.5,0.0,3.5,False,0.0
+RSI,"Rush Street Interactive, Inc.",Consumer Cyclical,Gambling,18.38,4217893120.0,3.0,0.5,0.0,3.5,False,0.0
+BFAM,Bright Horizons Family Solutions Inc.,Consumer Cyclical,Personal Services,103.14,5865763328.0,3.0,0.5,0.0,3.5,False,0.0
+LAKE,"Lakeland Industries, Inc.",Consumer Cyclical,Apparel Manufacturing,15.33,146717568.0,3.5,0.0,0.0,3.5,False,0.78
+AN,"AutoNation, Inc.",Consumer Cyclical,Auto & Truck Dealerships,215.92,7875072000.0,3.0,0.5,0.0,3.5,False,0.0
+TMHC,Taylor Morrison Home Corporation,Consumer Cyclical,Residential Construction,62.44,6101951488.0,3.0,0.5,0.0,3.5,False,0.0
+FTEL,Fitell Corporation,Consumer Cyclical,Specialty Retail,0.8149,1981836.0,3.5,0.0,0.0,3.5,False,12.27
+FTDR,"Frontdoor, Inc.",Consumer Cyclical,Personal Services,53.07,3866117632.0,3.0,0.5,0.0,3.5,False,0.0
+SVV,"Savers Value Village, Inc.",Consumer Cyclical,Specialty Retail,8.96,1399798016.0,3.0,0.5,0.0,3.5,False,0.0
+ACVA,ACV Auctions Inc.,Consumer Cyclical,Auto & Truck Dealerships,8.15,1478987392.0,3.0,0.5,0.0,3.5,False,0.0
+KRT,Karat Packaging Inc.,Consumer Cyclical,Packaging & Containers,21.96,441385088.0,3.5,0.0,0.0,3.5,False,8.2
+MHK,"Mohawk Industries, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",110.69,6877381632.0,3.0,0.5,0.0,3.5,False,0.0
+PLCE,"The Children's Place, Inc.",Consumer Cyclical,Apparel Manufacturing,7.76,172022832.0,2.5,1.0,0.0,3.5,False,0.0
+FWRG,"First Watch Restaurant Group, Inc.",Consumer Cyclical,Restaurants,17.7,1080268288.0,3.0,0.5,0.0,3.5,False,0.0
+BIRK,Birkenstock Holding plc,Consumer Cyclical,Footwear & Accessories,44.1,8110256640.0,3.0,0.5,0.0,3.5,False,0.0
+GDEN,"Golden Entertainment, Inc.",Consumer Cyclical,Resorts & Casinos,27.97,732086336.0,3.5,0.0,0.0,3.5,False,3.58
+CPHC,Canterbury Park Holding Corporation,Consumer Cyclical,Resorts & Casinos,15.5,79038720.0,3.5,0.0,0.0,3.5,False,1.81
+KMX,"CarMax, Inc.",Consumer Cyclical,Auto & Truck Dealerships,38.82,5825801216.0,3.0,0.5,0.0,3.5,False,0.0
+MMYT,MakeMyTrip Limited,Consumer Cyclical,Travel Services,73.69,7011411456.0,3.0,0.5,0.0,3.5,False,0.0
+GBTG,"Global Business Travel Group, Inc.",Consumer Cyclical,Travel Services,7.92,4192641024.0,3.0,0.5,0.0,3.5,False,0.0
+PENN,"PENN Entertainment, Inc.",Consumer Cyclical,Resorts & Casinos,13.82,2017785216.0,3.0,0.5,0.0,3.5,False,0.0
+SBH,"Sally Beauty Holdings, Inc.",Consumer Cyclical,Specialty Retail,15.63,1546507136.0,3.0,0.5,0.0,3.5,False,0.0
+ARKO,Arko Corp.,Consumer Cyclical,Specialty Retail,4.89,551310016.0,3.5,0.0,0.0,3.5,False,2.45
+ARHS,"Arhaus, Inc.",Consumer Cyclical,Specialty Retail,10.54,1486809472.0,3.0,0.5,0.0,3.5,False,0.0
+SBET,"SharpLink Gaming, Inc.",Consumer Cyclical,Gambling,10.72,2108551040.0,3.0,0.5,0.0,3.5,False,0.0
+TRIP,"Tripadvisor, Inc.",Consumer Cyclical,Travel Services,15.32,1791035648.0,3.0,0.5,0.0,3.5,False,0.0
+ADNT,Adient plc,Consumer Cyclical,Auto Parts,18.52,1504674560.0,3.0,0.5,0.0,3.5,False,0.0
+TPH,"Tri Pointe Homes, Inc.",Consumer Cyclical,Residential Construction,33.56,2936718592.0,3.0,0.5,0.0,3.5,False,0.0
+STLA,Stellantis N.V.,Consumer Cyclical,Auto Manufacturers,12.05,34809122816.0,3.5,0.0,0.0,3.5,False,6.39
+GIII,"G-III Apparel Group, Ltd.",Consumer Cyclical,Apparel Manufacturing,30.38,1315630592.0,3.0,0.5,0.0,3.5,False,0.0
+W,Wayfair Inc.,Consumer Cyclical,Internet Retail,95.21,12409488384.0,2.5,1.0,0.0,3.5,False,0.0
+AMBP,Ardagh Metal Packaging S.A.,Consumer Cyclical,Packaging & Containers,3.91,2337005312.0,3.0,0.5,0.0,3.5,False,10.23
+CROX,"Crocs, Inc.",Consumer Cyclical,Footwear & Accessories,89.7,4899176960.0,3.0,0.5,0.0,3.5,False,0.0
+GOOS,Canada Goose Holdings Inc.,Consumer Cyclical,Apparel Manufacturing,13.38,1303873792.0,3.0,0.5,0.0,3.5,False,0.0
+SGI,Somnigroup International Inc.,Consumer Cyclical,"Furnishings, Fixtures & Appliances",91.87,19284217856.0,3.5,0.0,0.0,3.5,False,0.65
+VSCO,Victoria's Secret & Co.,Consumer Cyclical,Apparel Retail,49.05,3932068096.0,3.0,0.5,0.0,3.5,False,0.0
+DRVN,Driven Brands Holdings Inc.,Consumer Cyclical,Auto & Truck Dealerships,15.0,2466813440.0,3.0,0.5,0.0,3.5,False,0.0
+BOOT,"Boot Barn Holdings, Inc.",Consumer Cyclical,Apparel Retail,202.18,6177735680.0,3.0,0.5,0.0,3.5,False,0.0
+SHAK,Shake Shack Inc.,Consumer Cyclical,Restaurants,78.03,3331364096.0,3.0,0.5,0.0,3.5,False,0.0
+JILL,"J.Jill, Inc.",Consumer Cyclical,Apparel Retail,16.25,248349472.0,3.5,0.0,0.0,3.5,False,1.97
+JD,"JD.com, Inc.",Consumer Cyclical,Internet Retail,29.9,44114640896.0,3.5,1.0,-1.0,3.5,False,3.34
+GRBK,"Green Brick Partners, Inc.",Consumer Cyclical,Residential Construction,65.74,2863969536.0,3.0,0.5,0.0,3.5,False,0.0
+ORLY,"O'Reilly Automotive, Inc.",Consumer Cyclical,Auto Parts,98.89,83664134144.0,2.5,1.0,0.0,3.5,False,0.0
+BRIA,BrilliA Inc,Consumer Cyclical,Apparel Retail,1.79,44750000.0,3.5,0.0,0.0,3.5,False,29.72
+JAKK,"JAKKS Pacific, Inc.",Consumer Cyclical,Leisure,16.57,186736096.0,3.5,0.0,0.0,3.5,False,6.04
+JFBRW,Jeffs' Brands Ltd,Consumer Cyclical,Internet Retail,0.0238,0.0,2.5,1.0,0.0,3.5,False,0.0
+BRLT,"Brilliant Earth Group, Inc.",Consumer Cyclical,Luxury Goods,1.96,196220560.0,3.5,0.0,0.0,3.5,False,12.76
+BROS,Dutch Bros Inc.,Consumer Cyclical,Restaurants,58.43,9616971776.0,3.0,0.5,0.0,3.5,False,0.0
+GTX,Garrett Motion Inc.,Consumer Cyclical,Auto Parts,16.57,3340105216.0,3.0,0.5,0.0,3.5,False,1.93
+DORM,"Dorman Products, Inc.",Consumer Cyclical,Auto Parts,126.63,3870147584.0,3.0,0.5,0.0,3.5,False,0.0
+OI,"O-I Glass, Inc.",Consumer Cyclical,Packaging & Containers,14.42,2221736448.0,3.0,0.5,0.0,3.5,False,0.0
+H,Hyatt Hotels Corporation,Consumer Cyclical,Lodging,156.0,14895659008.0,3.5,0.0,0.0,3.5,False,0.38
+MVST,"Microvast Holdings, Inc.",Consumer Cyclical,Auto Parts,3.75,1230685696.0,3.0,0.5,0.0,3.5,False,0.0
+HDL,Super Hi International Holding Ltd.,Consumer Cyclical,Restaurants,18.32,1077886464.0,3.0,0.5,0.0,3.5,False,0.0
+NCLH,Norwegian Cruise Line Holdings Ltd.,Consumer Cyclical,Travel Services,18.92,8613472256.0,3.0,0.5,0.0,3.5,False,0.0
+HGV,Hilton Grand Vacations Inc.,Consumer Cyclical,Resorts & Casinos,42.36,3732599296.0,3.0,0.5,0.0,3.5,False,0.0
+DFH,"Dream Finders Homes, Inc.",Consumer Cyclical,Residential Construction,18.8,1746175488.0,3.0,0.5,0.0,3.5,False,0.0
+UAA,"Under Armour, Inc.",Consumer Cyclical,Apparel Manufacturing,4.55,1928696704.0,3.0,0.5,0.0,3.5,False,0.0
+UA,"Under Armour, Inc.",Consumer Cyclical,Apparel Manufacturing,4.34,1898183552.0,3.0,0.5,0.0,3.5,False,0.0
+HTHT,H World Group Limited,Consumer Cyclical,Lodging,47.9,14737303552.0,3.5,1.0,-1.0,3.5,False,3.72
+URBN,"Urban Outfitters, Inc.",Consumer Cyclical,Apparel Retail,75.69,6790336512.0,3.0,0.5,0.0,3.5,False,0.0
+CAVA,"CAVA Group, Inc.",Consumer Cyclical,Restaurants,53.37,6190179328.0,3.0,0.5,0.0,3.5,False,0.0
+CZR,"Caesars Entertainment, Inc.",Consumer Cyclical,Resorts & Casinos,23.24,4833723392.0,3.0,0.5,0.0,3.5,False,0.0
+CVEO,Civeo Corporation,Consumer Cyclical,Lodging,22.5,282414816.0,3.5,0.0,0.0,3.5,False,4.44
+CVCO,"Cavco Industries, Inc.",Consumer Cyclical,Residential Construction,578.64,4581467136.0,3.0,0.5,0.0,3.5,False,0.0
+CARG,"CarGurus, Inc.",Consumer Cyclical,Auto & Truck Dealerships,35.84,3557485312.0,3.0,0.5,0.0,3.5,False,0.0
+LUXE,LuxExperience B.V.,Consumer Cyclical,Luxury Goods,9.73,1335555328.0,3.0,0.5,0.0,3.5,False,0.0
+LUCK,Lucky Strike Entertainment Corporation,Consumer Cyclical,Leisure,8.51,1193438976.0,3.0,0.5,0.0,3.5,False,2.82
+BBW,"Build-A-Bear Workshop, Inc.",Consumer Cyclical,Specialty Retail,49.79,657655872.0,3.5,0.0,0.0,3.5,False,1.77
+ZUMZ,Zumiez Inc.,Consumer Cyclical,Apparel Retail,30.62,525241056.0,3.0,0.0,0.0,3.0,False,0.0
+EVGO,"EVgo, Inc.",Consumer Cyclical,Specialty Retail,3.41,1050221120.0,2.5,0.5,0.0,3.0,False,0.0
+LVWR,"LiveWire Group, Inc.",Consumer Cyclical,Auto Manufacturers,4.19,854712832.0,3.0,0.0,0.0,3.0,False,0.0
+AOUT,"American Outdoor Brands, Inc.",Consumer Cyclical,Leisure,7.11,90709056.0,3.0,0.0,0.0,3.0,False,0.0
+LOCO,"El Pollo Loco Holdings, Inc.",Consumer Cyclical,Restaurants,11.29,338648640.0,3.0,0.0,0.0,3.0,False,0.0
+ULTA,"Ulta Beauty, Inc.",Consumer Cyclical,Specialty Retail,601.5,27034783744.0,3.0,0.0,0.0,3.0,False,0.0
+CVGI,"Commercial Vehicle Group, Inc.",Consumer Cyclical,Auto Parts,1.66,60974096.0,3.0,0.0,0.0,3.0,False,0.0
+HZO,"MarineMax, Inc.",Consumer Cyclical,Specialty Retail,23.82,520931904.0,3.0,0.0,0.0,3.0,False,0.0
+UHG,"United Homes Group, Inc.",Consumer Cyclical,Residential Construction,1.15,67635688.0,3.0,0.0,0.0,3.0,False,0.0
+HYLN,Hyliion Holdings Corp.,Consumer Cyclical,Auto Parts,1.92,337870496.0,3.0,0.0,0.0,3.0,False,0.0
+DBGI,"Digital Brands Group, Inc.",Consumer Cyclical,Apparel Retail,7.87,49792948.0,3.0,0.0,0.0,3.0,False,0.0
+HWH,HWH International Inc.,Consumer Cyclical,Leisure,1.83,11851812.0,3.0,0.0,0.0,3.0,False,0.0
+SN,"SharkNinja, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",108.34,15291823104.0,3.0,0.0,0.0,3.0,False,0.0
+UOKA,MDJM Ltd,Consumer Cyclical,Lodging,2.63,2810644.0,3.0,0.0,0.0,3.0,False,0.0
+ALH,Alliance Laundry Holdings Inc.,Consumer Cyclical,"Furnishings, Fixtures & Appliances",22.17,4496672768.0,2.5,0.5,0.0,3.0,False,0.0
+HTLM,HomesToLife Ltd.,Consumer Cyclical,Specialty Retail,2.98,267268768.0,3.0,0.0,0.0,3.0,False,0.0
+AKA,a.k.a. Brands Holding Corp.,Consumer Cyclical,Apparel Retail,10.613,115088248.0,3.0,0.0,0.0,3.0,False,0.0
+ATAT,Atour Lifestyle Holdings Limited,Consumer Cyclical,Lodging,42.89,5926795264.0,3.5,0.5,-1.0,3.0,False,1.82
+BZUN,Baozun Inc.,Consumer Cyclical,Internet Retail,3.05,176885632.0,3.0,1.0,-1.0,3.0,False,0.0
+BZH,"Beazer Homes USA, Inc.",Consumer Cyclical,Residential Construction,22.5,669598848.0,3.0,0.0,0.0,3.0,False,0.0
+HOV,"Hovnanian Enterprises, Inc.",Consumer Cyclical,Residential Construction,103.66,610778624.0,3.0,0.0,0.0,3.0,False,0.0
+INEO,INNEOVA Holdings Limited,Consumer Cyclical,Auto Parts,0.66,10920112.0,3.0,0.0,0.0,3.0,False,0.0
+SPHL,Springview Holdings Ltd,Consumer Cyclical,Residential Construction,4.53,7484484.0,3.0,0.0,0.0,3.0,False,0.0
+ATER,"Aterian, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",0.795,7971501.0,3.0,0.0,0.0,3.0,False,0.0
+BURL,"Burlington Stores, Inc.",Consumer Cyclical,Apparel Retail,271.78,17102302208.0,3.0,0.0,0.0,3.0,False,0.0
+NUTR,NusaTrip Incorporated,Consumer Cyclical,Travel Services,9.0,174412512.0,3.0,0.0,0.0,3.0,False,0.0
+HLLY,Holley Inc.,Consumer Cyclical,Auto Parts,4.3,518148576.0,3.0,0.0,0.0,3.0,False,0.0
+DKNG,DraftKings Inc.,Consumer Cyclical,Gambling,34.0,16924265472.0,3.0,0.0,0.0,3.0,False,0.0
+NVR,"NVR, Inc.",Consumer Cyclical,Residential Construction,7538.08,20828499968.0,3.0,0.0,0.0,3.0,False,0.0
+NTRP,"NextTrip, Inc.",Consumer Cyclical,Travel Services,3.8,48004700.0,3.0,0.0,0.0,3.0,False,0.0
+NCL,Northann Corp.,Consumer Cyclical,"Furnishings, Fixtures & Appliances",0.382,8687866.0,3.0,0.0,0.0,3.0,False,0.0
+SPWH,"Sportsman's Warehouse Holdings, Inc.",Consumer Cyclical,Specialty Retail,1.72,66101460.0,3.0,0.0,0.0,3.0,False,0.0
+DLTH,Duluth Holdings Inc.,Consumer Cyclical,Apparel Retail,3.0,112736576.0,3.0,0.0,0.0,3.0,False,0.0
+VEEE,Twin Vee Powercats Co.,Consumer Cyclical,Recreational Vehicles,2.36,5280025.0,3.0,0.0,0.0,3.0,False,0.0
+NWTG,"Newton Golf Company, Inc.",Consumer Cyclical,Leisure,1.86,8839581.0,3.0,0.0,0.0,3.0,False,0.0
+INVZ,Innoviz Technologies Ltd.,Consumer Cyclical,Auto Parts,1.31,273506400.0,3.0,0.0,0.0,3.0,False,0.0
+OCG,Oriental Culture Holding LTD,Consumer Cyclical,Internet Retail,2.8,59454996.0,3.0,1.0,-1.0,3.0,False,0.0
+SLDP,"Solid Power, Inc.",Consumer Cyclical,Auto Parts,5.17,987591872.0,3.0,0.0,0.0,3.0,False,0.0
+VENU,VENU,Consumer Cyclical,Restaurants,10.89,469931104.0,3.0,0.0,0.0,3.0,False,0.0
+BTBD,"BT Brands, Inc.",Consumer Cyclical,Restaurants,1.59,9786011.0,3.0,0.0,0.0,3.0,False,0.0
+IRBT,iRobot Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances",3.69,117438696.0,3.0,0.0,0.0,3.0,False,0.0
+CDRO,"Codere Online Luxembourg, S.A.",Consumer Cyclical,Gambling,7.01,319942144.0,3.0,0.0,0.0,3.0,False,0.0
+VFS,VinFast Auto Ltd.,Consumer Cyclical,Auto Manufacturers,3.36,7860762112.0,2.5,0.5,0.0,3.0,False,0.0
+MWYN,"Marwynn Holdings, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",0.8799,17769408.0,3.0,0.0,0.0,3.0,False,0.0
+SRI,"Stoneridge, Inc.",Consumer Cyclical,Auto Parts,5.87,164459392.0,3.0,0.0,0.0,3.0,False,0.0
+OLPX,"Olaplex Holdings, Inc.",Consumer Cyclical,Specialty Retail,1.25,834389888.0,3.0,0.0,0.0,3.0,False,0.0
+ODP,The ODP Corporation,Consumer Cyclical,Specialty Retail,27.98,842697600.0,3.0,0.0,0.0,3.0,False,0.0
+CENN,Cenntro Inc.,Consumer Cyclical,Auto Manufacturers,0.1865,16395743.0,3.0,0.0,0.0,3.0,False,0.0
+IVP,"Inspire Veterinary Partners, Inc.",Consumer Cyclical,Personal Services,0.1025,388617.0,3.0,0.0,0.0,3.0,False,0.0
+AHMA,Ambitions Enterprise Management Co. L.L.C,Consumer Cyclical,Travel Services,8.22,244339504.0,3.0,0.0,0.0,3.0,False,0.0
+BRAG,Bragg Gaming Group Inc.,Consumer Cyclical,Gambling,2.25,57261324.0,3.0,0.0,0.0,3.0,False,0.0
+GTEC,Greenland Technologies Holding Corporation,Consumer Cyclical,Auto Parts,1.06,18437880.0,3.0,0.0,0.0,3.0,False,0.0
+ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,48.14,15894241280.0,3.0,0.0,0.0,3.0,False,0.0
+GTIM,Good Times Restaurants Inc.,Consumer Cyclical,Restaurants,1.25,13238009.0,3.0,0.0,0.0,3.0,False,0.0
+BRCB,"Black Rock Coffee Bar, Inc.",Consumer Cyclical,Restaurants,24.27,424202048.0,3.0,0.0,0.0,3.0,False,0.0
+ONEW,OneWater Marine Inc.,Consumer Cyclical,Specialty Retail,11.23,199898080.0,3.0,0.0,0.0,3.0,False,0.0
+TTSH,"Tile Shop Holdings, Inc.",Consumer Cyclical,Home Improvement Retail,6.52,291844576.0,3.0,0.0,0.0,3.0,False,0.0
+JBDI,JBDI Holdings Limited,Consumer Cyclical,Specialty Retail,0.8985,17300144.0,3.0,0.0,0.0,3.0,False,0.0
+VNCE,Vince Holding Corp.,Consumer Cyclical,Apparel Manufacturing,2.977,38607368.0,3.0,0.0,0.0,3.0,False,0.0
+VMAR,Vision Marine Technologies Inc.,Consumer Cyclical,Recreational Vehicles,0.8124,4069096.0,3.0,0.0,0.0,3.0,False,0.0
+GRWG,GrowGeneration Corp.,Consumer Cyclical,Specialty Retail,1.47,87969864.0,3.0,0.0,0.0,3.0,False,0.0
+VRA,"Vera Bradley, Inc.",Consumer Cyclical,Footwear & Accessories,2.2,61460348.0,3.0,0.0,0.0,3.0,False,0.0
+AGH,Aureus Greenway Holdings Inc.,Consumer Cyclical,Leisure,4.91,73926416.0,3.0,0.0,0.0,3.0,False,0.0
+SSM,Sono Group N.V.,Consumer Cyclical,Auto Manufacturers,6.86,10045839.0,3.0,0.0,0.0,3.0,False,0.0
+AS,"Amer Sports, Inc.",Consumer Cyclical,Leisure,35.81,19859204096.0,3.0,0.0,0.0,3.0,False,0.0
+ORBS,Eightco Holdings Inc.,Consumer Cyclical,Packaging & Containers,2.6,514362176.0,3.0,0.0,0.0,3.0,False,0.0
+DSS,"DSS, Inc.",Consumer Cyclical,Packaging & Containers,1.0382,9439852.0,3.0,0.0,0.0,3.0,False,0.0
+SHCO,Soho House & Co Inc.,Consumer Cyclical,Lodging,8.81,1722951808.0,2.5,0.5,0.0,3.0,False,0.0
+MSGE,Madison Square Garden Entertainment Corp.,Consumer Cyclical,Leisure,51.79,2446130176.0,2.5,0.5,0.0,3.0,False,0.0
+TRUG,"TruGolf Holdings, Inc.",Consumer Cyclical,Leisure,1.17,3026090.0,3.0,0.0,0.0,3.0,False,0.0
+JWEL,Jowell Global Ltd.,Consumer Cyclical,Internet Retail,2.41,5230845.0,3.0,1.0,-1.0,3.0,False,0.0
+VSTD,Vestand Inc.,Consumer Cyclical,Restaurants,0.47,6826740.0,3.0,0.0,0.0,3.0,False,0.0
+SG,"Sweetgreen, Inc.",Consumer Cyclical,Restaurants,6.69,791919040.0,3.0,0.0,0.0,3.0,False,0.0
+SFIX,"Stitch Fix, Inc.",Consumer Cyclical,Apparel Retail,5.12,686971008.0,3.0,0.0,0.0,3.0,False,0.0
+OTH,Off The Hook YS Inc.,Consumer Cyclical,Auto & Truck Dealerships,3.29,78137496.0,3.0,0.0,0.0,3.0,False,0.0
+CRMT,"America's Car-Mart, Inc.",Consumer Cyclical,Auto & Truck Dealerships,26.04,215564176.0,3.0,0.0,0.0,3.0,False,0.0
+MPAA,"Motorcar Parts of America, Inc.",Consumer Cyclical,Auto Parts,12.74,249169120.0,3.0,0.0,0.0,3.0,False,0.0
+MOGU,MOGU Inc.,Consumer Cyclical,Internet Retail,2.65,21660150.0,3.0,1.0,-1.0,3.0,False,0.0
+PACK,Ranpak Holdings Corp.,Consumer Cyclical,Packaging & Containers,5.15,434535744.0,3.0,0.0,0.0,3.0,False,0.0
+SEGG,Lottery.com Inc.,Consumer Cyclical,Gambling,1.43,7206702.0,3.0,0.0,0.0,3.0,False,0.0
+SES,SES AI Corporation,Consumer Cyclical,Auto Parts,2.17,792205696.0,3.0,0.0,0.0,3.0,False,0.0
+BNED,"Barnes & Noble Education, Inc.",Consumer Cyclical,Specialty Retail,8.85,301376576.0,3.0,0.0,0.0,3.0,False,0.0
+MRM,MEDIROM Healthcare Technologies Inc.,Consumer Cyclical,Personal Services,2.12,16752135.0,3.0,0.0,0.0,3.0,False,0.0
+GENK,"GEN Restaurant Group, Inc.",Consumer Cyclical,Restaurants,2.42,79720328.0,3.0,0.0,0.0,3.0,False,0.0
+DXLG,"Destination XL Group, Inc.",Consumer Cyclical,Apparel Retail,1.14,61426792.0,3.0,0.0,0.0,3.0,False,0.0
+GGR,Gogoro Inc.,Consumer Cyclical,Auto Manufacturers,3.785,55917560.0,3.0,0.0,0.0,3.0,False,0.0
+MNSO,MINISO Group Holding Limited,Consumer Cyclical,Specialty Retail,19.28,5860868608.0,3.5,0.5,-1.0,3.0,False,3.2
+TRON,Tron Inc.,Consumer Cyclical,Leisure,1.86,478234624.0,3.0,0.0,0.0,3.0,False,0.0
+TRNR,Interactive Strength Inc.,Consumer Cyclical,Personal Services,2.08,4962667.0,3.0,0.0,0.0,3.0,False,0.0
+CHPT,"ChargePoint Holdings, Inc.",Consumer Cyclical,Specialty Retail,10.43,243602528.0,3.0,0.0,0.0,3.0,False,0.0
+WKSP,Worksport Ltd.,Consumer Cyclical,Auto Parts,3.01,24845710.0,3.0,0.0,0.0,3.0,False,0.0
+SBLX,"StableX Technologies, Inc.",Consumer Cyclical,Auto Manufacturers,3.25,4731919.0,3.0,0.0,0.0,3.0,False,0.0
+CPRI,Capri Holdings Limited,Consumer Cyclical,Luxury Goods,27.04,3221634304.0,2.5,0.5,0.0,3.0,False,0.0
+AREB,"American Rebel Holdings, Inc.",Consumer Cyclical,Footwear & Accessories,1.07,6652478.0,3.0,0.0,0.0,3.0,False,0.0
+BJRI,"BJ's Restaurants, Inc.",Consumer Cyclical,Restaurants,37.21,823240704.0,3.0,0.0,0.0,3.0,False,0.0
+WKHS,Workhorse Group Inc.,Consumer Cyclical,Auto Manufacturers,0.7812,1559980.0,3.0,0.0,0.0,3.0,False,0.0
+GCO,Genesco Inc.,Consumer Cyclical,Apparel Retail,22.73,245380000.0,3.0,0.0,0.0,3.0,False,0.0
+MLCO,Melco Resorts & Entertainment Limited,Consumer Cyclical,Resorts & Casinos,8.78,3430012416.0,2.5,1.5,-1.0,3.0,False,0.0
+MI,NFT Limited,Consumer Cyclical,Internet Retail,4.0,57273640.0,3.0,1.0,-1.0,3.0,False,0.0
+BIRD,"Allbirds, Inc.",Consumer Cyclical,Apparel Retail,5.0,41065460.0,3.0,0.0,0.0,3.0,False,0.0
+GAMB,Gambling.com Group Limited,Consumer Cyclical,Gambling,5.3,189277056.0,3.0,0.0,0.0,3.0,False,0.0
+PLBY,"Playboy, Inc.",Consumer Cyclical,Leisure,2.16,232755936.0,3.0,0.0,0.0,3.0,False,0.0
+PLBL,Polibeli Group Ltd,Consumer Cyclical,Department Stores,10.61,3887370752.0,2.5,0.5,0.0,3.0,False,0.0
+WOOF,"Petco Health and Wellness Company, Inc.",Consumer Cyclical,Specialty Retail,3.01,845481280.0,3.0,0.0,0.0,3.0,False,0.0
+WNW,Meiwu Technology Company Limited,Consumer Cyclical,Internet Retail,1.57,24560066.0,3.0,1.0,-1.0,3.0,False,0.0
+KRUS,"Kura Sushi USA, Inc.",Consumer Cyclical,Restaurants,53.94,653293056.0,3.0,0.0,0.0,3.0,False,0.0
+PLNT,"Planet Fitness, Inc.",Consumer Cyclical,Leisure,111.08,9356662784.0,2.5,0.5,0.0,3.0,False,0.0
+COOK,"Traeger, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",0.7968,109182576.0,3.0,0.0,0.0,3.0,False,0.0
+WPRT,Westport Fuel Systems Inc.,Consumer Cyclical,Auto Parts,1.67,28995434.0,3.0,0.0,0.0,3.0,False,0.0
+PMNT,Perfect Moment Ltd. Common Stock,Consumer Cyclical,Apparel Manufacturing,0.41,14440994.0,3.0,0.0,0.0,3.0,False,0.0
+FRSX,Foresight Autonomous Holdings Ltd.,Consumer Cyclical,Auto Parts,1.88,6375914.0,3.0,0.0,0.0,3.0,False,0.0
+EFOI,"Energy Focus, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",2.07,11880589.0,3.0,0.0,0.0,3.0,False,0.0
+FOXF,Fox Factory Holding Corp.,Consumer Cyclical,Auto Parts,16.56,692230464.0,3.0,0.0,0.0,3.0,False,0.0
+FOSL,"Fossil Group, Inc.",Consumer Cyclical,Footwear & Accessories,3.76,212016736.0,3.0,0.0,0.0,3.0,False,0.0
+TLYS,"Tilly's, Inc.",Consumer Cyclical,Apparel Retail,1.8,54852604.0,3.0,0.0,0.0,3.0,False,0.0
+FMFC,Kandal M Venture Limited,Consumer Cyclical,Footwear & Accessories,0.4778,8743740.0,3.0,0.0,0.0,3.0,False,0.0
+FLYE,"Fly-E Group, Inc.",Consumer Cyclical,Auto Manufacturers,8.27,13499552.0,3.0,0.0,0.0,3.0,False,0.0
+ACEL,"Accel Entertainment, Inc.",Consumer Cyclical,Gambling,10.47,882556096.0,3.0,0.0,0.0,3.0,False,0.0
+FNKO,"Funko, Inc.",Consumer Cyclical,Leisure,3.01,164776416.0,3.0,0.0,0.0,3.0,False,0.0
+ROLR,"High Roller Technologies, Inc.",Consumer Cyclical,Gambling,1.62,13765968.0,3.0,0.0,0.0,3.0,False,0.0
+ELA,Envela Corporation,Consumer Cyclical,Luxury Goods,13.2,342741664.0,3.0,0.0,0.0,3.0,False,0.0
+FLWS,"1-800-FLOWERS.COM, Inc.",Consumer Cyclical,Specialty Retail,3.5,222834208.0,3.0,0.0,0.0,3.0,False,0.0
+FLUT,Flutter Entertainment plc,Consumer Cyclical,Gambling,208.5,36525264896.0,3.0,0.0,0.0,3.0,False,0.0
+FLL,"Full House Resorts, Inc.",Consumer Cyclical,Resorts & Casinos,2.78,100417760.0,3.0,0.0,0.0,3.0,False,0.0
+PRKS,United Parks & Resorts Inc.,Consumer Cyclical,Leisure,35.53,1955024384.0,2.5,0.5,0.0,3.0,False,0.0
+PRTS,"CarParts.com, Inc.",Consumer Cyclical,Auto Parts,0.4413,29071852.0,3.0,0.0,0.0,3.0,False,0.0
+MCFT,"MasterCraft Boat Holdings, Inc.",Consumer Cyclical,Recreational Vehicles,18.12,295242912.0,3.0,0.0,0.0,3.0,False,0.0
+MBUU,"Malibu Boats, Inc.",Consumer Cyclical,Recreational Vehicles,28.56,549637440.0,3.0,0.0,0.0,3.0,False,0.0
+TLF,"Tandy Leather Factory, Inc.",Consumer Cyclical,Specialty Retail,2.67,21540234.0,3.0,0.0,0.0,3.0,False,0.0
+TKLF,"Tokyo Lifestyle Co., Ltd.",Consumer Cyclical,Specialty Retail,2.39,10116347.0,3.0,0.0,0.0,3.0,False,0.0
+LEGH,Legacy Housing Corporation,Consumer Cyclical,Residential Construction,19.97,476658496.0,3.0,0.0,0.0,3.0,False,0.0
+LE,"Lands' End, Inc.",Consumer Cyclical,Apparel Retail,16.51,503831840.0,3.0,0.0,0.0,3.0,False,0.0
+XELB,"Xcel Brands, Inc.",Consumer Cyclical,Apparel Manufacturing,0.9687,4656324.0,3.0,0.0,0.0,3.0,False,0.0
+EMPD,Empery Digital Inc.,Consumer Cyclical,Auto Manufacturers,4.7,162764656.0,3.0,0.0,0.0,3.0,False,0.0
+XWIN,XMax Inc.,Consumer Cyclical,"Furnishings, Fixtures & Appliances",5.54,231969376.0,3.0,0.0,0.0,3.0,False,0.0
+PTON,"Peloton Interactive, Inc.",Consumer Cyclical,Leisure,6.42,2682317568.0,2.5,0.5,0.0,3.0,False,0.0
+PTLO,Portillo's Inc.,Consumer Cyclical,Restaurants,4.84,348152416.0,3.0,0.0,0.0,3.0,False,0.0
+PTLE,PTL Limited,Consumer Cyclical,Specialty Retail,0.1543,5784322.0,3.0,0.0,0.0,3.0,False,0.0
+FGI,FGI Industries Ltd.,Consumer Cyclical,"Furnishings, Fixtures & Appliances",9.02,17319664.0,3.0,0.0,0.0,3.0,False,0.0
+PSNYW,Polestar Automotive Holding UK PLC,Consumer Cyclical,Auto Manufacturers,0.2215,3470954752.0,2.5,0.5,0.0,3.0,False,0.0
+PSNY,Polestar Automotive Holding UK PLC,Consumer Cyclical,Auto Manufacturers,0.6,1271575168.0,2.5,0.5,0.0,3.0,False,0.0
+MAMO,Massimo Group,Consumer Cyclical,Recreational Vehicles,3.47,144494112.0,3.0,0.0,0.0,3.0,False,0.0
+LIVE,Live Ventures Incorporated,Consumer Cyclical,Home Improvement Retail,11.44,35198612.0,3.0,0.0,0.0,3.0,False,0.0
+FATBB,FAT Brands Inc.,Consumer Cyclical,Restaurants,1.905,34174412.0,3.0,0.0,0.0,3.0,False,25.11
+FAT,FAT Brands Inc.,Consumer Cyclical,Restaurants,0.538,9980591.0,3.0,0.0,0.0,3.0,False,41.18
+BALY,Bally's Corporation,Consumer Cyclical,Resorts & Casinos,17.19,845097152.0,3.0,0.0,0.0,3.0,False,0.0
+CMG,"Chipotle Mexican Grill, Inc.",Consumer Cyclical,Restaurants,33.94,45509636096.0,3.0,0.0,0.0,3.0,False,0.0
+RIVN,"Rivian Automotive, Inc.",Consumer Cyclical,Auto Manufacturers,17.95,22005141504.0,3.0,0.0,0.0,3.0,False,0.0
+LOVE,The Lovesac Company,Consumer Cyclical,"Furnishings, Fixtures & Appliances",13.97,204106016.0,3.0,0.0,0.0,3.0,False,0.0
+EVTV,"Envirotech Vehicles, Inc.",Consumer Cyclical,Auto Manufacturers,1.19,5747123.0,3.0,0.0,0.0,3.0,False,0.0
+YTRA,"Yatra Online, Inc.",Consumer Cyclical,Travel Services,1.7,102843552.0,3.0,0.0,0.0,3.0,False,0.0
+RAVE,"Rave Restaurant Group, Inc.",Consumer Cyclical,Restaurants,2.91,41355660.0,3.0,0.0,0.0,3.0,False,0.0
+RH,RH,Consumer Cyclical,Specialty Retail,161.06,3019080960.0,2.5,0.5,0.0,3.0,False,0.0
+YJ,Yunji Inc.,Consumer Cyclical,Internet Retail,1.555,7659214.0,3.0,1.0,-1.0,3.0,False,0.0
+YHGJ,Yunhong Green CTI Ltd.,Consumer Cyclical,Packaging & Containers,5.1,14146706.0,3.0,0.0,0.0,3.0,False,0.0
+BARK,"BARK, Inc.",Consumer Cyclical,Specialty Retail,0.6716,115241464.0,3.0,0.0,0.0,3.0,False,0.0
+REE,REE Automotive Ltd.,Consumer Cyclical,Auto Parts,0.76,21703866.0,3.0,0.0,0.0,3.0,False,0.0
+RECT,Rectitude Holdings Ltd,Consumer Cyclical,Specialty Retail,2.08,30159998.0,3.0,0.0,0.0,3.0,False,0.0
+REAL,"The RealReal, Inc.",Consumer Cyclical,Luxury Goods,13.98,1631226112.0,2.5,0.5,0.0,3.0,False,0.0
+YYGH,YY Group Holding Limited,Consumer Cyclical,Personal Services,0.2865,17257664.0,3.0,0.0,0.0,3.0,False,0.0
+ZKH,ZKH Group Limited,Consumer Cyclical,Internet Retail,3.21,520909088.0,3.0,1.0,-1.0,3.0,False,0.0
+LVLU,"Lulu's Fashion Lounge Holdings, Inc.",Consumer Cyclical,Apparel Retail,5.242,14530017.0,3.0,0.0,0.0,3.0,False,0.0
+REBN,"Reborn Coffee, Inc.",Consumer Cyclical,Restaurants,1.73,10339039.0,2.5,0.0,0.0,2.5,False,0.0
+XPOF,"Xponential Fitness, Inc.",Consumer Cyclical,Leisure,7.08,346261568.0,2.5,0.0,0.0,2.5,False,0.0
+FFAI,Faraday Future Intelligent Electric Inc.,Consumer Cyclical,Auto Manufacturers,1.13,191317616.0,2.5,0.0,0.0,2.5,False,0.0
+FGIWW,FGI Industries Ltd.,Consumer Cyclical,"Furnishings, Fixtures & Appliances",0.0501,0.0,2.5,0.0,0.0,2.5,False,0.0
+FWDI,"Forward Industries, Inc.",Consumer Cyclical,Footwear & Accessories,8.2,708967616.0,2.5,0.0,0.0,2.5,False,0.0
+ECDA,"ECD Automotive Design, Inc.",Consumer Cyclical,Auto Manufacturers,0.407,1016301.0,2.5,0.0,0.0,2.5,False,0.0
+GHG,GreenTree Hospitality Group Ltd.,Consumer Cyclical,Lodging,1.82,184809216.0,3.5,0.0,-1.0,2.5,False,3.3
+GGROW,Gogoro Inc.,Consumer Cyclical,Auto Manufacturers,0.0191,0.0,2.5,0.0,0.0,2.5,False,0.0
+AIIO,Robo.ai Inc.,Consumer Cyclical,Auto Manufacturers,0.6085,205433168.0,2.5,0.0,0.0,2.5,False,0.0
+HSAI,Hesai Group,Consumer Cyclical,Auto Parts,20.1,3138458368.0,3.0,0.5,-1.0,2.5,False,0.0
+RRGB,"Red Robin Gourmet Burgers, Inc.",Consumer Cyclical,Restaurants,3.98,71498552.0,2.5,0.0,0.0,2.5,False,0.0
+DENN,Denny's Corporation,Consumer Cyclical,Restaurants,6.17,317748800.0,2.5,0.0,0.0,2.5,False,0.0
+PRPL,"Purple Innovation, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",0.7485,81022032.0,2.5,0.0,0.0,2.5,False,0.0
+INTG,The InterGroup Corporation,Consumer Cyclical,Lodging,30.35,65216444.0,2.5,0.0,0.0,2.5,False,0.0
+INSE,"Inspired Entertainment, Inc.",Consumer Cyclical,Gambling,8.78,236417888.0,2.5,0.0,0.0,2.5,False,0.0
+CURV,Torrid Holdings Inc.,Consumer Cyclical,Apparel Retail,1.15,114076480.0,2.5,0.0,0.0,2.5,False,0.0
+INVZW,Innoviz Technologies Ltd.,Consumer Cyclical,Auto Parts,0.0312,0.0,2.5,0.0,0.0,2.5,False,0.0
+BGI,Birks Group Inc.,Consumer Cyclical,Luxury Goods,1.08,21162264.0,2.5,0.0,0.0,2.5,False,0.0
+TWNP,Twin Hospitality Group Inc.,Consumer Cyclical,Restaurants,0.9844,56431572.0,2.5,0.0,0.0,2.5,False,0.0
+ISPO,Inspirato Incorporated,Consumer Cyclical,Travel Services,2.88,36372960.0,2.5,0.0,0.0,2.5,False,0.0
+CREV,Carbon Revolution Public Limited Company,Consumer Cyclical,Auto Parts,1.75,3373676.0,2.5,0.0,0.0,2.5,False,0.0
+CPS,Cooper-Standard Holdings Inc.,Consumer Cyclical,Auto Parts,30.07,530344832.0,2.5,0.0,0.0,2.5,False,0.0
+TOUR,Tuniu Corporation,Consumer Cyclical,Travel Services,0.7421,87353496.0,3.5,0.0,-1.0,2.5,False,4.7
+LESL,"Leslie's, Inc.",Consumer Cyclical,Specialty Retail,2.63,24433518.0,2.5,0.0,0.0,2.5,False,0.0
+LAZR,"Luminar Technologies, Inc.",Consumer Cyclical,Auto Parts,0.9296,72377792.0,2.5,0.0,0.0,2.5,False,0.0
+LITB,"LightInTheBox Holding Co., Ltd.",Consumer Cyclical,Apparel Manufacturing,1.89,34755332.0,2.5,0.0,0.0,2.5,False,0.0
+CNTY,"Century Casinos, Inc.",Consumer Cyclical,Resorts & Casinos,1.46,44796604.0,2.5,0.0,0.0,2.5,False,0.0
+LIND,"Lindblad Expeditions Holdings, Inc.",Consumer Cyclical,Travel Services,12.28,680321152.0,2.5,0.0,0.0,2.5,False,0.0
+TBHC,"The Brand House Collective, Inc.",Consumer Cyclical,Home Improvement Retail,1.21,27178276.0,2.5,0.0,0.0,2.5,False,0.0
+MMA,Mixed Martial Arts Group Limited,Consumer Cyclical,Leisure,1.273,16601459.0,2.5,0.0,0.0,2.5,False,0.0
+STKS,"The ONE Group Hospitality, Inc.",Consumer Cyclical,Restaurants,1.95,60654324.0,2.5,0.0,0.0,2.5,False,0.0
+ARKOW,Arko Corp.,Consumer Cyclical,Specialty Retail,0.0075,0.0,2.5,0.0,0.0,2.5,False,0.0
+CHA,Chagee Holdings Limited,Consumer Cyclical,Restaurants,14.58,2708271360.0,3.0,0.5,-1.0,2.5,False,0.0
+MVSTW,"Microvast Holdings, Inc.",Consumer Cyclical,Auto Parts,0.2006,0.0,2.5,0.0,0.0,2.5,False,0.0
+CDROW,"Codere Online Luxembourg, S.A.",Consumer Cyclical,Gambling,0.7987,0.0,2.5,0.0,0.0,2.5,False,0.0
+NDLS,Noodles & Company,Consumer Cyclical,Restaurants,0.9782,45755016.0,2.5,0.0,0.0,2.5,False,0.0
+SLDPW,"Solid Power, Inc.",Consumer Cyclical,Auto Parts,1.09,0.0,2.5,0.0,0.0,2.5,False,0.0
+NVVE,Nuvve Holding Corp.,Consumer Cyclical,Specialty Retail,0.1763,7867665.0,2.5,0.0,0.0,2.5,False,0.0
+NOMA,Nomadar Corp.,Consumer Cyclical,Leisure,6.62,100447920.0,2.5,0.0,0.0,2.5,False,0.0
+SNBR,Sleep Number Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances",6.66,151781392.0,2.5,0.0,0.0,2.5,False,0.0
+RDNW,"RideNow Group, Inc.",Consumer Cyclical,Auto & Truck Dealerships,5.6,213178016.0,2.5,0.0,0.0,2.5,False,0.0
+RENT,"Rent the Runway, Inc.",Consumer Cyclical,Apparel Retail,4.93,165384752.0,2.5,0.0,0.0,2.5,False,0.0
+ZOOZ,ZOOZ Strategy Ltd.,Consumer Cyclical,Specialty Retail,0.52,84187880.0,2.5,0.0,0.0,2.5,False,0.0
+XPEV,XPeng Inc.,Consumer Cyclical,Auto Manufacturers,20.0,19557005312.0,3.0,0.0,-1.0,2.0,False,0.0
+CAAS,"China Automotive Systems, Inc.",Consumer Cyclical,Auto Parts,4.15,125208416.0,3.0,0.0,-1.0,2.0,False,0.0
+NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,5.04,12744441856.0,3.0,0.0,-1.0,2.0,False,0.0
+NVVEW,Nuvve Holding Corp.,Consumer Cyclical,Specialty Retail,0.0166,0.0,2.0,0.0,0.0,2.0,False,0.0
+SORA,AsiaStrategy,Consumer Cyclical,Luxury Goods,3.84,95477760.0,3.0,0.0,-1.0,2.0,False,0.0
+NIU,Niu Technologies,Consumer Cyclical,Auto Manufacturers,3.21,250264336.0,3.0,0.0,-1.0,2.0,False,0.0
+NCI,Neo-Concept International Group Holdings Limited,Consumer Cyclical,Apparel Manufacturing,1.15,4673600.0,3.0,0.0,-1.0,2.0,False,0.0
+BQ,Boqii Holding Limited,Consumer Cyclical,Specialty Retail,2.39,10467278.0,3.0,0.0,-1.0,2.0,False,0.0
+MSC,Studio City International Holdings Limited,Consumer Cyclical,Resorts & Casinos,3.36,647096256.0,3.0,0.0,-1.0,2.0,False,0.0
+CGTL,Creative Global Technology Holdings Limited,Consumer Cyclical,Specialty Retail,0.73,18779250.0,3.0,0.0,-1.0,2.0,False,0.0
+CHSN,Chanson International Holding,Consumer Cyclical,Restaurants,2.47,2827562.0,3.0,0.0,-1.0,2.0,False,0.0
+MGIH,Millennium Group International Holdings Limited,Consumer Cyclical,Packaging & Containers,1.33,14962500.0,3.0,0.0,-1.0,2.0,False,0.0
+MB,MasterBeef Group,Consumer Cyclical,Restaurants,6.5101,110671696.0,3.0,0.0,-1.0,2.0,False,0.0
+CLIK,Click Holdings Limited,Consumer Cyclical,Personal Services,6.55,7502370.0,3.0,0.0,-1.0,2.0,False,0.0
+SDA,SunCar Technology Group Inc.,Consumer Cyclical,Auto & Truck Dealerships,2.04,209391408.0,3.0,0.0,-1.0,2.0,False,0.0
+EZGO,EZGO Technologies Ltd.,Consumer Cyclical,Recreational Vehicles,2.22,1927024.0,3.0,0.0,-1.0,2.0,False,0.0
+LOBO,Lobo Technologies Ltd.,Consumer Cyclical,Auto Manufacturers,0.855,10168296.0,3.0,0.0,-1.0,2.0,False,0.0
+LI,Li Auto Inc.,Consumer Cyclical,Auto Manufacturers,17.8,18036459520.0,3.0,0.0,-1.0,2.0,False,0.0
+PETZ,"TDH Holdings, Inc.",Consumer Cyclical,Restaurants,1.042,10756847.0,3.0,0.0,-1.0,2.0,False,0.0
+KXIN,Kaixin Holdings,Consumer Cyclical,Auto & Truck Dealerships,4.91,4461260.0,3.0,0.0,-1.0,2.0,False,0.0
+KNDI,"Kandi Technologies Group, Inc.",Consumer Cyclical,Recreational Vehicles,0.955,82116304.0,3.0,0.0,-1.0,2.0,False,0.0
+KMRK,K-TECH Solutions Company Limited,Consumer Cyclical,Leisure,1.275,26902500.0,3.0,0.0,-1.0,2.0,False,0.0
+CREVW,Carbon Revolution Public Limited Company,Consumer Cyclical,Auto Parts,0.01,0.0,2.0,0.0,0.0,2.0,False,0.0
+JL,J-Long Group Limited,Consumer Cyclical,Apparel Manufacturing,5.85,22005956.0,3.0,0.0,-1.0,2.0,False,0.0
+ISPOW,Inspirato Incorporated,Consumer Cyclical,Travel Services,0.0109,0.0,2.0,0.0,0.0,2.0,False,0.0
+JXG,JX Luxventure Group Inc.,Consumer Cyclical,Apparel Manufacturing,4.62,5572935.0,3.0,0.0,-1.0,2.0,False,0.0
+JZXN,"Jiuzi Holdings, Inc.",Consumer Cyclical,Auto & Truck Dealerships,0.18,11569850.0,3.0,0.0,-1.0,2.0,False,0.0
+JEM,707 Cayman Holdings Limited,Consumer Cyclical,Apparel Retail,0.235,5158250.0,3.0,0.0,-1.0,2.0,False,0.0
+UCAR,U Power Limited,Consumer Cyclical,Auto & Truck Dealerships,1.82,9542988.0,3.0,0.0,-1.0,2.0,False,0.0
+HCHL,Happy City Holdings Limited,Consumer Cyclical,Restaurants,3.78,72621360.0,3.0,0.0,-1.0,2.0,False,0.0
+HERE,Here Group Limited,Consumer Cyclical,Leisure,5.25,285519232.0,3.0,0.0,-1.0,2.0,False,0.0
+AIIOW,Robo.ai Inc.,Consumer Cyclical,Auto Manufacturers,0.1499,0.0,2.0,0.0,0.0,2.0,False,0.0
+VFSWW,VinFast Auto Ltd.,Consumer Cyclical,Auto Manufacturers,0.172,0.0,2.0,0.0,0.0,2.0,False,0.0
+VIOT,"Viomi Technology Co., Ltd",Consumer Cyclical,"Furnishings, Fixtures & Appliances",2.43,165972336.0,3.0,0.0,-1.0,2.0,False,0.0
+DOGZ,Dogness (International) Corporation,Consumer Cyclical,Leisure,11.52,167162784.0,3.0,0.0,-1.0,2.0,False,0.0
+GDHG,Golden Heaven Group Holdings Ltd.,Consumer Cyclical,Leisure,3.97,10052302.0,3.0,0.0,-1.0,2.0,False,0.0
+ECDAW,"ECD Automotive Design, Inc.",Consumer Cyclical,Auto Manufacturers,0.0108,0.0,2.0,0.0,0.0,2.0,False,0.0
+EM,Smart Share Global Limited,Consumer Cyclical,Personal Services,1.41,357573984.0,3.0,0.0,-1.0,2.0,False,0.0
+EJH,E-Home Household Service Holdings Limited,Consumer Cyclical,Personal Services,0.818,40903160.0,3.0,0.0,-1.0,2.0,False,0.0
+FFAIW,Faraday Future Intelligent Electric Inc.,Consumer Cyclical,Auto Manufacturers,0.034,0.0,2.0,0.0,0.0,2.0,False,0.0
+ZK,ZEEKR Intelligent Technology Holding Limited,Consumer Cyclical,Auto Manufacturers,26.66,6829566976.0,2.5,0.5,-1.0,2.0,False,0.0
+ABLV,Able View Global Inc.,Consumer Cyclical,Specialty Retail,0.778,38425360.0,3.0,0.0,-1.0,2.0,False,0.0
+EVGOW,"EVgo, Inc.",Consumer Cyclical,Specialty Retail,0.1194,0.0,2.0,0.0,0.0,2.0,False,0.0
+ZOOZW,ZOOZ Strategy Ltd.,Consumer Cyclical,Specialty Retail,0.0573,0.0,2.0,0.0,0.0,2.0,False,0.0
+ABLVW,Able View Global Inc.,Consumer Cyclical,Specialty Retail,0.0298,0.0,2.5,0.0,-1.0,1.5,False,0.0
+ECX,ECARX Holdings Inc.,Consumer Cyclical,Auto Parts,2.1,734561600.0,2.5,0.0,-1.0,1.5,False,0.0
+THCH,TH International Limited,Consumer Cyclical,Restaurants,2.68,85788224.0,2.5,0.0,-1.0,1.5,False,0.0
+UXIN,Uxin Limited,Consumer Cyclical,Auto & Truck Dealerships,2.855,588613184.0,2.5,0.0,-1.0,1.5,False,0.0
+LANV,Lanvin Group Holdings Limited,Consumer Cyclical,Luxury Goods,2.08,290733664.0,2.5,0.0,-1.0,1.5,False,0.0
+CJET,"Chijet Motor Company, Inc.",Consumer Cyclical,Auto Manufacturers,0.905,3967624.0,2.5,0.0,-1.0,1.5,False,0.0
+LOT,Lotus Technology Inc.,Consumer Cyclical,Auto Manufacturers,1.37,929826304.0,2.5,0.0,-1.0,1.5,False,0.0
+AZI,Autozi Internet Technology (Global) Ltd.,Consumer Cyclical,Auto & Truck Dealerships,0.0589,8609784.0,2.5,0.0,-1.0,1.5,False,0.0
+NAAS,NaaS Technology Inc.,Consumer Cyclical,Specialty Retail,3.5,36915656.0,2.5,0.0,-1.0,1.5,False,0.0
+NPT,Texxon Holding Limited,Consumer Cyclical,Specialty Retail,5.0,110925000.0,2.5,0.0,-1.0,1.5,False,0.0
+PASW,"Ping An Biomedical Co., Ltd.",Consumer Cyclical,Textile Manufacturing,0.5061,10375050.0,2.5,0.0,-1.0,1.5,False,0.0
+ECXWW,ECARX Holdings Inc.,Consumer Cyclical,Auto Parts,0.0513,0.0,2.0,0.0,-1.0,1.0,False,0.0
+LOTWW,Lotus Technology Inc.,Consumer Cyclical,Auto Manufacturers,0.0651,0.0,2.0,0.0,-1.0,1.0,False,0.0

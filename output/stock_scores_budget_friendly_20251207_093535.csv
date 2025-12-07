@@ -1,0 +1,18 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",Financial Services,Banks - Diversified,16.28,185069060096.0,4.0,3.5,0.0,7.5,True,3.31
+ADEA,Adeia Inc.,Technology,Software - Application,12.51,1369972480.0,4.0,3.5,0.0,7.5,True,1.6
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",Financial Services,Banks - Diversified,18.96,121327722496.0,4.0,3.5,0.0,7.5,True,2.9
+ITUB,Itaú Unibanco Holding S.A.,Financial Services,Banks - Regional,7.55,80828022784.0,4.0,3.5,0.0,7.5,True,7.64
+INFY,Infosys Limited,Technology,Information Technology Services,18.07,75928961024.0,4.0,3.5,0.0,7.5,True,2.87
+UPBD,"Upbound Group, Inc.",Technology,Software - Application,18.86,1092102144.0,4.0,3.5,0.0,7.5,True,8.27
+MFG,"Mizuho Financial Group, Inc.",Financial Services,Banks - Regional,7.35,91125841920.0,4.0,3.5,0.0,7.5,True,2.58
+LYG,Lloyds Banking Group plc,Financial Services,Banks - Regional,5.13,75388878848.0,4.0,3.5,0.0,7.5,True,3.29
+SAN,"Banco Santander, S.A.",Financial Services,Banks - Diversified,10.97,161565917184.0,4.0,3.5,0.0,7.5,True,2.34
+MNDO,MIND C.T.I. Ltd,Technology,Software - Application,1.23,25050582.0,4.0,3.0,0.0,7.0,True,17.89
+BBD,Banco Bradesco S.A.,Financial Services,Banks - Regional,3.31,35009908736.0,4.0,3.0,0.0,7.0,True,5.45
+BBDO,Banco Bradesco S.A.,Financial Services,Banks - Regional,2.98,33817833472.0,4.0,3.0,0.0,7.0,True,4.04
+RDY,Dr. Reddy's Laboratories Limited,Healthcare,Drug Manufacturers - Specialty & Generic,14.19,11868736512.0,4.0,3.0,0.0,7.0,True,0.64
+WIT,Wipro Limited,Technology,Information Technology Services,2.85,30726928384.0,4.0,3.0,0.0,7.0,True,4.42
+HBAN,Huntington Bancshares Incorporated,Financial Services,Banks - Regional,16.9,26614173696.0,4.0,3.0,0.0,7.0,True,3.67
+BSBR,Banco Santander (Brasil) S.A.,Financial Services,Banks - Regional,6.1,45573459968.0,4.0,3.0,0.0,7.0,True,5.39
+KEY,KeyCorp,Financial Services,Banks - Regional,19.26,21118896128.0,4.0,3.0,0.0,7.0,True,4.26

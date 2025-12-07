@@ -1,0 +1,301 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+T,AT&T Inc.,Communication Services,Telecom Services,25.28,180761755648.0,4.0,3.0,0.0,7.0,True,4.39
+CMCSA,Comcast Corporation,Communication Services,Telecom Services,27.31,100834156544.0,4.0,3.0,0.0,7.0,True,4.83
+RCI,Rogers Communications Inc.,Communication Services,Telecom Services,37.5,20378417152.0,4.0,2.0,0.0,6.0,False,3.8
+BCE,BCE Inc.,Communication Services,Telecom Services,23.55,21960982528.0,4.0,2.0,0.0,6.0,False,5.27
+EA,Electronic Arts Inc.,Communication Services,Electronic Gaming & Multimedia,203.92,51001643008.0,4.0,2.0,0.0,6.0,False,0.37
+VZ,Verizon Communications Inc.,Communication Services,Telecom Services,41.69,175782772736.0,4.0,2.0,0.0,6.0,False,6.62
+AMX,"América Móvil, S.A.B. de C.V.",Communication Services,Telecom Services,21.52,64883605504.0,4.0,2.0,0.0,6.0,False,2.63
+NTES,"NetEase, Inc.",Communication Services,Electronic Gaming & Multimedia,139.78,89908166656.0,4.0,3.0,-1.0,6.0,False,2.17
+TIMB,TIM S.A.,Communication Services,Telecom Services,21.23,10224635904.0,4.0,2.0,0.0,6.0,False,7.81
+GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,322.09,3888216801280.0,3.5,3.5,-1.0,6.0,False,0.26
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,321.27,3891261341696.0,3.5,3.5,-1.0,6.0,False,0.26
+CHT,"Chunghwa Telecom Co., Ltd.",Communication Services,Telecom Services,41.83,32573956096.0,4.0,2.0,0.0,6.0,False,3.99
+DIS,The Walt Disney Company,Communication Services,Entertainment,105.3,189322444800.0,4.0,2.0,0.0,6.0,False,1.42
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,673.42,1697373618176.0,3.5,3.5,-1.0,6.0,False,0.31
+WLYB,"John Wiley & Sons, Inc.",Communication Services,Publishing,32.32,1719505408.0,4.0,1.5,0.0,5.5,False,4.39
+WLY,"John Wiley & Sons, Inc.",Communication Services,Publishing,32.4,1723761792.0,4.0,1.5,0.0,5.5,False,4.38
+IDT,IDT Corporation,Communication Services,Telecom Services,48.78,1230768896.0,4.0,1.5,0.0,5.5,False,0.49
+PHI,PLDT Inc.,Communication Services,Telecom Services,21.82,4774195712.0,4.0,1.5,0.0,5.5,False,7.72
+SIRI,Sirius XM Holdings Inc.,Communication Services,Entertainment,22.03,7418392064.0,4.0,1.5,0.0,5.5,False,4.9
+SKM,"SK Telecom Co., Ltd.",Communication Services,Telecom Services,20.47,7855399936.0,4.0,1.5,0.0,5.5,False,6.83
+APP,AppLovin Corporation,Communication Services,Advertising Agencies,691.94,234048651264.0,3.0,2.5,0.0,5.5,False,0.0
+NXST,"Nexstar Media Group, Inc.",Communication Services,Broadcasting,189.01,5731953152.0,4.0,1.5,0.0,5.5,False,3.94
+TEO,Telecom Argentina S.A.,Communication Services,Telecom Services,12.52,6104132608.0,4.0,1.5,0.0,5.5,False,0.39
+TDS,"Telephone and Data Systems, Inc.",Communication Services,Telecom Services,39.4,4552433664.0,4.0,1.5,0.0,5.5,False,0.41
+TKC,Turkcell Iletisim Hizmetleri A.S.,Communication Services,Telecom Services,5.82,5071632896.0,4.0,1.5,0.0,5.5,False,4.11
+TGNA,TEGNA Inc.,Communication Services,Broadcasting,19.16,3085848064.0,4.0,1.5,0.0,5.5,False,2.61
+TIGO,Millicom International Cellular S.A.,Communication Services,Telecom Services,50.2,8387666944.0,4.0,1.5,0.0,5.5,False,5.98
+KT,KT Corporation,Communication Services,Telecom Services,18.56,8949448704.0,4.0,1.5,0.0,5.5,False,4.34
+TV,"Grupo Televisa, S.A.B.",Communication Services,Telecom Services,2.68,1429886336.0,4.0,1.5,0.0,5.5,False,3.39
+NFLX,"Netflix, Inc.",Communication Services,Entertainment,100.24,424749268992.0,3.0,2.5,0.0,5.5,False,0.0
+CNK,"Cinemark Holdings, Inc.",Communication Services,Entertainment,21.95,2578596096.0,4.0,1.5,0.0,5.5,False,1.64
+WPP,WPP plc,Communication Services,Advertising Agencies,19.33,4179115776.0,4.0,1.5,0.0,5.5,False,11.18
+PSO,Pearson plc,Communication Services,Publishing,13.19,8376892928.0,4.0,1.5,0.0,5.5,False,2.47
+MCS,The Marcus Corporation,Communication Services,Entertainment,15.08,472171008.0,4.0,1.0,0.0,5.0,False,2.12
+MTCH,"Match Group, Inc.",Communication Services,Internet Content & Information,34.52,8306276352.0,3.5,2.5,-1.0,5.0,False,2.2
+NCMI,"National CineMedia, Inc.",Communication Services,Advertising Agencies,4.14,388461024.0,4.0,1.0,0.0,5.0,False,2.9
+CABO,"Cable One, Inc.",Communication Services,Telecom Services,127.29,717301696.0,4.0,1.0,0.0,5.0,False,9.27
+NWS,News Corporation,Communication Services,Entertainment,29.59,16510898176.0,4.0,1.0,0.0,5.0,False,0.68
+NWSA,News Corporation,Communication Services,Entertainment,26.04,15215086592.0,4.0,1.0,0.0,5.0,False,0.77
+NYT,The New York Times Company,Communication Services,Publishing,64.75,10542518272.0,4.0,1.0,0.0,5.0,False,1.03
+OMC,Omnicom Group Inc.,Communication Services,Advertising Agencies,73.44,23305392128.0,4.0,1.0,0.0,5.0,False,3.95
+PSKY,Paramount Skydance Corporation,Communication Services,Entertainment,13.365,14743828480.0,4.0,1.0,0.0,5.0,False,1.5
+GTN,"Gray Media, Inc.",Communication Services,Broadcasting,4.59,513831040.0,4.0,1.0,0.0,5.0,False,6.97
+SBGI,"Sinclair, Inc.",Communication Services,Broadcasting,14.33,998565760.0,4.0,1.0,0.0,5.0,False,6.98
+SCHL,Scholastic Corporation,Communication Services,Publishing,28.41,714192128.0,4.0,1.0,0.0,5.0,False,2.82
+ATNI,"ATN International, Inc.",Communication Services,Telecom Services,21.41,326660768.0,4.0,1.0,0.0,5.0,False,5.14
+SGA,"Saga Communications, Inc.",Communication Services,Broadcasting,11.51,74123504.0,4.0,1.0,0.0,5.0,False,8.69
+SHEN,Shenandoah Telecommunications Company,Communication Services,Telecom Services,11.29,619800000.0,4.0,1.0,0.0,5.0,False,0.97
+SSTK,"Shutterstock, Inc.",Communication Services,Internet Content & Information,19.01,675241920.0,4.0,2.0,-1.0,5.0,False,6.94
+TEF,"Telefónica, S.A.",Communication Services,Telecom Services,4.2,23690967040.0,4.0,1.0,0.0,5.0,False,8.24
+TMUS,"T-Mobile US, Inc.",Communication Services,Telecom Services,209.63,235921588224.0,3.5,1.5,0.0,5.0,False,1.95
+TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Communication Services,Telecom Services,21.83,21625280512.0,4.0,1.0,0.0,5.0,False,5.97
+FOX,Fox Corporation,Communication Services,Entertainment,60.89,28673871872.0,4.0,1.0,0.0,5.0,False,0.92
+FOXA,Fox Corporation,Communication Services,Entertainment,68.4,30365683712.0,4.0,1.0,0.0,5.0,False,0.82
+TU,TELUS Corporation,Communication Services,Telecom Services,13.51,20913479680.0,4.0,1.0,0.0,5.0,False,8.78
+VOD,Vodafone Group Public Limited Company,Communication Services,Telecom Services,12.47,29679988736.0,4.0,1.0,0.0,5.0,False,4.18
+VIV,Telefônica Brasil S.A.,Communication Services,Telecom Services,12.16,19486185472.0,4.0,1.0,0.0,5.0,False,3.83
+WMG,Warner Music Group Corp.,Communication Services,Entertainment,28.605,14943339520.0,4.0,1.0,0.0,5.0,False,2.66
+EVC,Entravision Communications Corporation,Communication Services,Advertising Agencies,2.73,248365264.0,4.0,1.0,0.0,5.0,False,7.33
+MANU,Manchester United plc,Communication Services,Entertainment,15.67,2701960192.0,3.0,1.5,0.0,4.5,False,0.0
+LBRDP,Liberty Broadband Corporation,Communication Services,Telecom Services,24.3275,0.0,3.5,1.0,0.0,4.5,False,7.19
+CCOI,"Cogent Communications Holdings, Inc.",Communication Services,Telecom Services,19.62,964964800.0,3.5,1.0,0.0,4.5,False,15.55
+SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,564.93,116315701248.0,3.0,2.5,-1.0,4.5,False,0.0
+VEON,VEON Ltd.,Communication Services,Telecom Services,50.34,3473238528.0,3.0,1.5,0.0,4.5,False,0.0
+ATHM,Autohome Inc.,Communication Services,Internet Content & Information,23.88,2837091072.0,4.0,2.5,-2.0,4.5,False,7.5
+ZD,"Ziff Davis, Inc.",Communication Services,Advertising Agencies,35.22,1444122368.0,3.0,1.5,0.0,4.5,False,0.0
+OPRA,Opera Limited,Communication Services,Internet Content & Information,13.81,1238039680.0,3.5,1.5,-1.0,4.0,False,5.79
+SIFY,Sify Technologies Limited,Communication Services,Telecom Services,11.21,811048000.0,3.0,1.0,0.0,4.0,False,0.0
+WBD,"Warner Bros. Discovery, Inc.",Communication Services,Entertainment,26.08,64625573888.0,3.0,1.0,0.0,4.0,False,0.0
+PINS,"Pinterest, Inc.",Communication Services,Internet Content & Information,26.75,18188118016.0,3.0,2.0,-1.0,4.0,False,0.0
+CXDO,"Crexendo, Inc.",Communication Services,Telecom Services,6.64,204054160.0,3.0,1.0,0.0,4.0,False,0.0
+EDUC,Educational Development Corporation,Communication Services,Publishing,1.3,11158161.0,3.0,1.0,0.0,4.0,False,0.0
+NBIS,NBIS,Communication Services,Internet Content & Information,98.04,24687179776.0,3.0,2.0,-1.0,4.0,False,0.0
+IRDM,Iridium Communications Inc.,Communication Services,Telecom Services,17.74,1882460928.0,3.5,0.5,0.0,4.0,False,3.38
+TTD,"The Trade Desk, Inc.",Communication Services,Advertising Agencies,40.05,19582162944.0,3.0,1.0,0.0,4.0,False,0.0
+SSP,The E.W. Scripps Company,Communication Services,Broadcasting,4.35,386289248.0,3.0,1.0,0.0,4.0,False,0.0
+AMC,"AMC Entertainment Holdings, Inc.",Communication Services,Entertainment,2.27,1164381824.0,2.5,1.5,0.0,4.0,False,0.0
+JOYY,JOYY Inc.,Communication Services,Internet Content & Information,63.86,3280036352.0,3.5,1.5,-1.0,4.0,False,6.08
+MCHX,"Marchex, Inc.",Communication Services,Advertising Agencies,1.67,73323456.0,3.0,1.0,0.0,4.0,False,0.0
+RBLX,Roblox Corporation,Communication Services,Electronic Gaming & Multimedia,96.28,67581386752.0,3.0,1.0,0.0,4.0,False,0.0
+TDAY,"USA TODAY Co., Inc.",Communication Services,Publishing,5.51,810569280.0,3.0,1.0,0.0,4.0,False,0.0
+RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,234.11,44362854400.0,3.0,2.0,-1.0,4.0,False,0.0
+BBGI,"Beasley Broadcast Group, Inc.",Communication Services,Broadcasting,4.6,8298372.0,3.0,1.0,0.0,4.0,False,0.0
+LUMN,"Lumen Technologies, Inc.",Communication Services,Telecom Services,8.26,8475924480.0,2.5,1.5,0.0,4.0,False,0.0
+EVER,"EverQuote, Inc.",Communication Services,Internet Content & Information,27.8,1015057344.0,3.0,1.5,-1.0,3.5,False,0.0
+BATRK,"Atlanta Braves Holdings, Inc.",Communication Services,Entertainment,38.64,2463660544.0,3.0,0.5,0.0,3.5,False,0.0
+BATRA,"Atlanta Braves Holdings, Inc.",Communication Services,Entertainment,42.59,2679904256.0,3.0,0.5,0.0,3.5,False,0.0
+YELP,Yelp Inc.,Communication Services,Internet Content & Information,29.68,1871640320.0,3.0,1.5,-1.0,3.5,False,0.0
+LILAK,Liberty Latin America Ltd.,Communication Services,Telecom Services,8.935,1789378688.0,3.0,0.5,0.0,3.5,False,0.0
+LILA,Liberty Latin America Ltd.,Communication Services,Telecom Services,8.87,1801412480.0,3.0,0.5,0.0,3.5,False,0.0
+TKO,"TKO Group Holdings, Inc.",Communication Services,Entertainment,202.22,16609721344.0,3.5,0.0,0.0,3.5,False,1.54
+LEE,"Lee Enterprises, Incorporated",Communication Services,Publishing,3.95,24734210.0,2.5,1.0,0.0,3.5,False,0.0
+TBLA,Taboola.com Ltd.,Communication Services,Internet Content & Information,3.95,1172039552.0,3.0,1.5,-1.0,3.5,False,0.0
+RUM,Rumble Inc.,Communication Services,Internet Content & Information,7.12,2414187520.0,3.0,1.5,-1.0,3.5,False,0.0
+LBTYK,Liberty Global Ltd.,Communication Services,Telecom Services,11.29,3839110400.0,3.0,0.5,0.0,3.5,False,0.0
+LBTYB,Liberty Global Ltd.,Communication Services,Telecom Services,10.9593,3690862592.0,3.0,0.5,0.0,3.5,False,0.0
+LBTYA,Liberty Global Ltd.,Communication Services,Telecom Services,11.34,3880474368.0,3.0,0.5,0.0,3.5,False,0.0
+LBRDK,Liberty Broadband Corporation,Communication Services,Telecom Services,47.49,6814320640.0,3.0,0.5,0.0,3.5,False,0.0
+LBRDA,Liberty Broadband Corporation,Communication Services,Telecom Services,47.3,6823645696.0,3.0,0.5,0.0,3.5,False,0.0
+MGNI,"Magnite, Inc.",Communication Services,Advertising Agencies,14.65,2104441216.0,3.0,0.5,0.0,3.5,False,0.0
+TME,Tencent Music Entertainment Group,Communication Services,Internet Content & Information,18.58,31292461056.0,3.5,2.0,-2.0,3.5,False,0.97
+KYIV,Kyivstar Group Ltd.,Communication Services,Telecom Services,13.9,3209002752.0,3.0,0.5,0.0,3.5,False,0.0
+EEX,"Emerald Holding, Inc.",Communication Services,Advertising Agencies,3.75,742398336.0,3.5,0.0,0.0,3.5,False,1.6
+AD,"Array Digital Infrastructure, Inc.",Communication Services,Telecom Services,50.14,4331087360.0,3.0,0.5,0.0,3.5,False,0.0
+PLTK,Playtika Holding Corp.,Communication Services,Electronic Gaming & Multimedia,4.24,1594476672.0,3.0,0.5,0.0,3.5,False,9.43
+FYBR,"Frontier Communications Parent, Inc.",Communication Services,Telecom Services,37.97,9505334272.0,3.0,0.5,0.0,3.5,False,0.0
+STUB,"StubHub Holdings, Inc.",Communication Services,Internet Content & Information,12.42,4568241152.0,3.0,1.5,-1.0,3.5,False,0.0
+STGW,Stagwell Inc.,Communication Services,Advertising Agencies,5.74,1484955008.0,3.0,0.5,0.0,3.5,False,0.0
+GENI,Genius Sports Limited,Communication Services,Internet Content & Information,10.83,2585317120.0,3.0,1.5,-1.0,3.5,False,0.0
+WBTN,WEBTOON Entertainment Inc.,Communication Services,Internet Content & Information,13.91,1818950528.0,3.0,1.5,-1.0,3.5,False,0.0
+DV,"DoubleVerify Holdings, Inc.",Communication Services,Advertising Agencies,11.03,1804820992.0,3.0,0.5,0.0,3.5,False,0.0
+CRTO,Criteo S.A.,Communication Services,Advertising Agencies,21.0,1103532416.0,3.0,0.5,0.0,3.5,False,0.0
+GSAT,"Globalstar, Inc.",Communication Services,Telecom Services,68.48,8685894656.0,3.0,0.5,0.0,3.5,False,0.0
+DJT,Trump Media & Technology Group Corp.,Communication Services,Internet Content & Information,11.36,3180773120.0,3.0,1.5,-1.0,3.5,False,0.0
+BZ,Kanzhun Limited,Communication Services,Internet Content & Information,21.77,10098428928.0,3.5,2.0,-2.0,3.5,False,0.77
+CURI,CuriosityStream Inc.,Communication Services,Broadcasting,4.52,263509248.0,3.5,0.0,0.0,3.5,False,7.08
+SPHR,Sphere Entertainment Co.,Communication Services,Entertainment,84.31,3035110656.0,3.0,0.5,0.0,3.5,False,0.0
+NRDS,"NerdWallet, Inc.",Communication Services,Internet Content & Information,15.43,1172681600.0,3.0,1.5,-1.0,3.5,False,0.0
+IMAX,IMAX Corporation,Communication Services,Entertainment,35.71,1921159936.0,3.0,0.5,0.0,3.5,False,0.0
+UPWK,Upwork Inc.,Communication Services,Internet Content & Information,20.08,2662739968.0,3.0,1.5,-1.0,3.5,False,0.0
+IAS,Integral Ad Science Holding Corp.,Communication Services,Advertising Agencies,10.28,1725544448.0,3.0,0.5,0.0,3.5,False,0.0
+IAC,IAC Inc.,Communication Services,Internet Content & Information,36.76,2946581248.0,3.0,1.5,-1.0,3.5,False,0.0
+NMAX,NMAX,Communication Services,Broadcasting,8.11,1047237120.0,3.0,0.5,0.0,3.5,False,0.0
+ZDGE,"Zedge, Inc.",Communication Services,Internet Content & Information,2.5,32509780.0,3.5,1.0,-1.0,3.5,False,2.56
+CARS,Cars.com Inc.,Communication Services,Internet Content & Information,12.11,744104960.0,3.0,1.0,-1.0,3.0,False,0.0
+SOGP,Sound Group Inc.,Communication Services,Internet Content & Information,14.88,61900800.0,3.0,1.0,-1.0,3.0,False,0.0
+UPXI,"Upexi, Inc.",Communication Services,Internet Content & Information,2.66,168133504.0,3.0,1.0,-1.0,3.0,False,0.0
+SNAP,Snap Inc.,Communication Services,Internet Content & Information,7.91,13600125952.0,3.0,1.0,-1.0,3.0,False,0.0
+UONEK,"Urban One, Inc.",Communication Services,Broadcasting,0.8486,48879248.0,3.0,0.0,0.0,3.0,False,0.0
+UONE,"Urban One, Inc.",Communication Services,Broadcasting,1.18,53046292.0,3.0,0.0,0.0,3.0,False,0.0
+NIPG,NIP Group Inc.,Communication Services,Entertainment,1.35,158873040.0,3.0,0.0,0.0,3.0,False,0.0
+SOPA,Society Pass Incorporated,Communication Services,Advertising Agencies,1.5,9158288.0,3.0,0.0,0.0,3.0,False,0.0
+DDI,"DoubleDown Interactive Co., Ltd.",Communication Services,Electronic Gaming & Multimedia,9.215,456634944.0,3.0,0.0,0.0,3.0,False,0.0
+TZUP,Thumzup Media Corporation,Communication Services,Advertising Agencies,4.64,76751832.0,3.0,0.0,0.0,3.0,False,0.0
+NEXN,Nexxen International Ltd.,Communication Services,Advertising Agencies,6.47,410307936.0,3.0,0.0,0.0,3.0,False,0.0
+CTW,CTW Cayman,Communication Services,Electronic Gaming & Multimedia,2.13,132912008.0,3.0,0.0,0.0,3.0,False,0.0
+DGLY,"Digital Ally, Inc.",Communication Services,Internet Content & Information,1.38,2619843.0,3.0,1.0,-1.0,3.0,False,0.0
+DJTWW,Trump Media & Technology Group Corp.,Communication Services,Internet Content & Information,5.02,1603060096.0,2.5,1.5,-1.0,3.0,False,0.0
+BZFD,"BuzzFeed, Inc.",Communication Services,Internet Content & Information,0.9901,36839516.0,3.0,1.0,-1.0,3.0,False,0.0
+VBIX,Viewbix Inc.,Communication Services,Internet Content & Information,1.7,18139666.0,3.0,1.0,-1.0,3.0,False,0.0
+SLMT,Brera Holdings PLC,Communication Services,Entertainment,2.315,191099936.0,3.0,0.0,0.0,3.0,False,0.0
+DLPN,"Dolphin Entertainment, Inc.",Communication Services,Advertising Agencies,1.66,20123220.0,3.0,0.0,0.0,3.0,False,0.0
+NXDR,NXDR,Communication Services,Internet Content & Information,1.95,764611712.0,3.0,1.0,-1.0,3.0,False,0.0
+IOTR,iOThree Limited,Communication Services,Telecom Services,3.3,8464500.0,3.0,0.0,0.0,3.0,False,0.0
+GXAI,Gaxos.ai Inc.,Communication Services,Electronic Gaming & Multimedia,1.23,8761847.0,3.0,0.0,0.0,3.0,False,0.0
+SKLZ,Skillz Inc.,Communication Services,Electronic Gaming & Multimedia,5.62,86154960.0,3.0,0.0,0.0,3.0,False,0.0
+IQST,iQSTEL Inc.,Communication Services,Telecom Services,4.11,17670432.0,3.0,0.0,0.0,3.0,False,0.0
+MYPS,"PLAYSTUDIOS, Inc.",Communication Services,Electronic Gaming & Multimedia,0.6514,82144128.0,3.0,0.0,0.0,3.0,False,0.0
+ATEX,Anterix Inc.,Communication Services,Telecom Services,20.44,383041344.0,3.0,0.0,0.0,3.0,False,0.0
+IZEA,"IZEA Worldwide, Inc.",Communication Services,Internet Content & Information,4.91,84087440.0,3.0,1.0,-1.0,3.0,False,0.0
+ONFO,"Onfolio Holdings, Inc.",Communication Services,Internet Content & Information,0.865,5075937.0,3.0,1.0,-1.0,3.0,False,0.0
+TTWO,"Take-Two Interactive Software, Inc.",Communication Services,Electronic Gaming & Multimedia,247.88,45802979328.0,3.0,0.0,0.0,3.0,False,0.0
+GRVY,"Gravity Co., Ltd.",Communication Services,Electronic Gaming & Multimedia,56.79,394628032.0,3.0,0.0,0.0,3.0,False,0.0
+TSQ,"Townsquare Media, Inc.",Communication Services,Advertising Agencies,4.86,79998592.0,3.0,0.0,0.0,3.0,False,16.46
+GOGO,Gogo Inc.,Communication Services,Telecom Services,7.06,945011648.0,3.0,0.0,0.0,3.0,False,0.0
+MSGS,Madison Square Garden Sports Corp.,Communication Services,Entertainment,225.71,5430449152.0,2.5,0.5,0.0,3.0,False,0.0
+MSGM,Motorsport Games Inc.,Communication Services,Electronic Gaming & Multimedia,2.57,13051619.0,3.0,0.0,0.0,3.0,False,0.0
+TRUE,"TrueCar, Inc.",Communication Services,Internet Content & Information,2.16,192110512.0,3.0,1.0,-1.0,3.0,False,0.0
+AGAE,Allied Gaming & Entertainment Inc.,Communication Services,Entertainment,0.3559,13530920.0,3.0,0.0,0.0,3.0,False,0.0
+BODI,"The Beachbody Company, Inc.",Communication Services,Internet Content & Information,11.14,78960736.0,3.0,1.0,-1.0,3.0,False,0.0
+GMGI,"Golden Matrix Group, Inc.",Communication Services,Electronic Gaming & Multimedia,0.7967,112524216.0,3.0,0.0,0.0,3.0,False,0.0
+TRVG,trivago N.V.,Communication Services,Internet Content & Information,3.11,219379584.0,3.0,1.0,-1.0,3.0,False,0.0
+AMCX,AMC Networks Inc.,Communication Services,Entertainment,9.0,391740928.0,3.0,0.0,0.0,3.0,False,0.0
+CHAI,Core AI Holdings,Communication Services,Internet Content & Information,2.69,53591320.0,3.0,1.0,-1.0,3.0,False,0.0
+GIGM,GigaMedia Limited,Communication Services,Electronic Gaming & Multimedia,1.5268,16874552.0,3.0,0.0,0.0,3.0,False,0.0
+GIFT,"Giftify, Inc.",Communication Services,Internet Content & Information,1.12,34679580.0,3.0,1.0,-1.0,3.0,False,0.0
+GLIBK,"GCI Liberty, Inc.",Communication Services,Telecom Services,30.72,934805824.0,3.0,0.0,0.0,3.0,False,0.0
+GLIBA,GLIBA,Communication Services,Telecom Services,30.81,952302336.0,3.0,0.0,0.0,3.0,False,0.0
+WB,Weibo Corporation,Communication Services,Internet Content & Information,10.42,2569232640.0,3.5,1.5,-2.0,3.0,False,7.87
+GITS,"Global Interactive Technologies, Inc.",Communication Services,Internet Content & Information,1.28,4702986.0,3.0,1.0,-1.0,3.0,False,0.0
+SDM,Smart Digital Group Limited,Communication Services,Advertising Agencies,1.85,49441252.0,3.0,0.0,0.0,3.0,False,0.0
+SEAT,Vivid Seats Inc.,Communication Services,Internet Content & Information,7.63,110914000.0,3.0,1.0,-1.0,3.0,False,0.0
+MPU,Mega Matrix Inc.,Communication Services,Entertainment,1.26,89382960.0,3.0,0.0,0.0,3.0,False,0.0
+GETY,"Getty Images Holdings, Inc.",Communication Services,Internet Content & Information,1.46,607155904.0,3.0,1.0,-1.0,3.0,False,0.0
+AENT,Alliance Entertainment Holding Corporation,Communication Services,Entertainment,6.74,747852608.0,3.0,0.0,0.0,3.0,False,0.0
+BMBL,Bumble Inc.,Communication Services,Internet Content & Information,3.62,575394240.0,3.0,1.0,-1.0,3.0,False,0.0
+PCLA,PicoCELA Inc.,Communication Services,Telecom Services,0.3055,10574641.0,3.0,0.0,0.0,3.0,False,0.0
+EB,"Eventbrite, Inc.",Communication Services,Internet Content & Information,4.43,434626176.0,3.0,1.0,-1.0,3.0,False,0.0
+ADV,Advantage Solutions Inc.,Communication Services,Advertising Agencies,0.8604,280724352.0,3.0,0.0,0.0,3.0,False,0.0
+PERI,Perion Network Ltd.,Communication Services,Internet Content & Information,9.98,413374176.0,3.0,1.0,-1.0,3.0,False,0.0
+BLMZ,Harrison Global Holdings Inc.,Communication Services,Entertainment,1.02,1494394.0,3.0,0.0,0.0,3.0,False,0.0
+MNY,MoneyHero Limited,Communication Services,Internet Content & Information,1.26,54500736.0,3.0,1.0,-1.0,3.0,False,0.0
+GDC,GD Culture Group Limited,Communication Services,Electronic Gaming & Multimedia,4.34,242973936.0,3.0,0.0,0.0,3.0,False,0.0
+CHTR,"Charter Communications, Inc.",Communication Services,Telecom Services,205.1,28014813184.0,3.0,0.0,0.0,3.0,False,0.0
+GCL,GCL Global Holdings Ltd,Communication Services,Electronic Gaming & Multimedia,1.15,140958912.0,3.0,0.0,0.0,3.0,False,0.0
+STRZ,Starz Entertainment Corp.,Communication Services,Entertainment,10.62,177683712.0,3.0,0.0,0.0,3.0,False,0.0
+GAME,"GameSquare Holdings, Inc.",Communication Services,Electronic Gaming & Multimedia,0.4897,48177060.0,3.0,0.0,0.0,3.0,False,0.0
+PLAY,"Dave & Buster's Entertainment, Inc.",Communication Services,Entertainment,17.32,600424896.0,3.0,0.0,0.0,3.0,False,0.0
+GAIA,"Gaia, Inc.",Communication Services,Entertainment,3.53,88406512.0,3.0,0.0,0.0,3.0,False,0.0
+FWONK,Formula One Group,Communication Services,Entertainment,92.2,23054999552.0,3.0,0.0,0.0,3.0,False,0.0
+SATS,EchoStar Corporation,Communication Services,Telecom Services,82.0,23605858304.0,3.0,0.0,0.0,3.0,False,0.0
+FWONA,Formula One Group,Communication Services,Entertainment,85.05,23118520320.0,3.0,0.0,0.0,3.0,False,0.0
+FVRR,Fiverr International Ltd.,Communication Services,Internet Content & Information,21.54,795534784.0,3.0,1.0,-1.0,3.0,False,0.0
+TOON,Kartoon Studios Inc.,Communication Services,Entertainment,0.759,40914424.0,3.0,0.0,0.0,3.0,False,0.0
+FUBO,fuboTV Inc.,Communication Services,Broadcasting,2.85,976764288.0,3.0,0.0,0.0,3.0,False,0.0
+SWAG,"Stran & Company, Inc.",Communication Services,Advertising Agencies,2.03,37667392.0,3.0,0.0,0.0,3.0,False,0.0
+TNMG,TNL Mediagene,Communication Services,Publishing,0.2702,11162207.0,3.0,0.0,0.0,3.0,False,0.0
+WOW,"WideOpenWest, Inc.",Communication Services,Telecom Services,5.17,443283296.0,3.0,0.0,0.0,3.0,False,0.0
+KWM,K Wave Media Ltd.,Communication Services,Entertainment,0.7301,46432952.0,3.0,0.0,0.0,3.0,False,0.0
+KVHI,"KVH Industries, Inc.",Communication Services,Telecom Services,6.08,119005368.0,3.0,0.0,0.0,3.0,False,0.0
+ANGX,"Angel Studios, Inc.",Communication Services,Entertainment,5.0,843165376.0,3.0,0.0,0.0,3.0,False,0.0
+ANGH,Anghami Inc.,Communication Services,Entertainment,2.98,19932364.0,3.0,0.0,0.0,3.0,False,0.0
+LCFY,Locafy Limited,Communication Services,Internet Content & Information,3.76,6764447.0,3.0,1.0,-1.0,3.0,False,0.0
+FNGR,"FingerMotion, Inc.",Communication Services,Telecom Services,1.44,88152808.0,3.0,0.0,0.0,3.0,False,0.0
+RSVR,"Reservoir Media, Inc.",Communication Services,Entertainment,7.43,487320480.0,3.0,0.0,0.0,3.0,False,0.0
+WSHP,WeShop Holdings Limited,Communication Services,Internet Content & Information,126.61,1384741632.0,2.5,1.5,-1.0,3.0,False,0.0
+PODC,"PodcastOne, Inc.",Communication Services,Internet Content & Information,2.16,58127184.0,3.0,1.0,-1.0,3.0,False,0.0
+ACCS,ACCESS Newswire Inc.,Communication Services,Advertising Agencies,8.71,33697484.0,3.0,0.0,0.0,3.0,False,0.0
+ANGI,Angi Inc.,Communication Services,Internet Content & Information,13.91,616799488.0,3.0,1.0,-1.0,3.0,False,0.0
+ROKU,"Roku, Inc.",Communication Services,Entertainment,100.09,14788474880.0,3.0,0.0,0.0,3.0,False,0.0
+FLNT,"Fluent, Inc.",Communication Services,Advertising Agencies,1.88,55495724.0,3.0,0.0,0.0,3.0,False,0.0
+MDIA,MediaCo Holding Inc.,Communication Services,Broadcasting,0.9,73695096.0,3.0,0.0,0.0,3.0,False,0.0
+LDWY,"Lendway, Inc.",Communication Services,Advertising Agencies,3.6704,6495136.0,3.0,0.0,0.0,3.0,False,0.0
+XHLD,"TEN Holdings, Inc.",Communication Services,Broadcasting,2.4,7134792.0,3.0,0.0,0.0,3.0,False,0.0
+TBH,"Brag House Holdings, Inc.",Communication Services,Electronic Gaming & Multimedia,0.7505,15723999.0,3.0,0.0,0.0,3.0,False,0.0
+THRY,"Thryv Holdings, Inc.",Communication Services,Internet Content & Information,5.91,259663456.0,3.0,1.0,-1.0,3.0,False,0.0
+LFS,"Leifras Co., Ltd.",Communication Services,Entertainment,4.39,114845120.0,3.0,0.0,0.0,3.0,False,0.0
+QNST,"QuinStreet, Inc.",Communication Services,Advertising Agencies,14.47,821195328.0,3.0,0.0,0.0,3.0,False,0.0
+LLYVK,Liberty Live Group,Communication Services,Entertainment,81.74,7512118784.0,2.5,0.5,0.0,3.0,False,0.0
+LLYVA,Liberty Live Group,Communication Services,Entertainment,79.29,7477690880.0,2.5,0.5,0.0,3.0,False,0.0
+CNVS,Cineverse Corp.,Communication Services,Entertainment,2.49,47684508.0,3.0,0.0,0.0,3.0,False,0.0
+LYV,"Live Nation Entertainment, Inc.",Communication Services,Entertainment,139.33,32353714176.0,3.0,0.0,0.0,3.0,False,0.0
+RDCM,RADCOM Ltd.,Communication Services,Telecom Services,12.98,212947120.0,3.0,0.0,0.0,3.0,False,0.0
+ZG,"Zillow Group, Inc.",Communication Services,Internet Content & Information,71.89,18037176320.0,3.0,1.0,-1.0,3.0,False,0.0
+Z,"Zillow Group, Inc.",Communication Services,Internet Content & Information,74.04,17921427456.0,3.0,1.0,-1.0,3.0,False,0.0
+TEAD,Teads Holding Co.,Communication Services,Internet Content & Information,0.6098,58218108.0,3.0,1.0,-1.0,3.0,False,0.0
+ELWT,"Elauwit Connection, Inc.",Communication Services,Telecom Services,6.65,44335552.0,2.5,0.0,0.0,2.5,False,0.0
+FTRK,FTRK,Communication Services,Entertainment,0.6005,13098406.0,2.5,0.0,0.0,2.5,False,0.0
+GCLWW,GCL Global Holdings Ltd,Communication Services,Electronic Gaming & Multimedia,0.0598,986700.0,2.5,0.0,0.0,2.5,False,0.0
+GDEV,GDEV Inc.,Communication Services,Electronic Gaming & Multimedia,16.78,304222912.0,2.5,0.0,0.0,2.5,False,0.0
+QMMM,QMMM Holdings Limited,Communication Services,Advertising Agencies,119.4,6830437376.0,3.0,0.5,-1.0,2.5,False,0.0
+AENTW,Alliance Entertainment Holding Corporation,Communication Services,Entertainment,0.747,0.0,2.5,0.0,0.0,2.5,False,0.0
+GRPN,"Groupon, Inc.",Communication Services,Internet Content & Information,17.75,723397760.0,2.5,1.0,-1.0,2.5,False,0.0
+DRCT,"Direct Digital Holdings, Inc.",Communication Services,Advertising Agencies,0.1021,3073447.0,2.5,0.0,0.0,2.5,False,0.0
+RSVRW,"Reservoir Media, Inc.",Communication Services,Entertainment,0.2795,0.0,2.5,0.0,0.0,2.5,False,0.0
+RUMBW,Rumble Inc.,Communication Services,Internet Content & Information,2.3425,0.0,2.5,1.0,-1.0,2.5,False,0.0
+IHRT,"iHeartMedia, Inc.",Communication Services,Broadcasting,3.71,557088128.0,2.5,0.0,0.0,2.5,False,0.0
+TZOO,Travelzoo,Communication Services,Internet Content & Information,6.86,75329248.0,2.5,1.0,-1.0,2.5,False,0.0
+IQ,"iQIYI, Inc.",Communication Services,Entertainment,2.09,2012583936.0,3.0,0.5,-1.0,2.5,False,0.0
+JFIN,Jiayin Group Inc.,Communication Services,Internet Content & Information,7.2,384260704.0,3.5,1.0,-2.0,2.5,False,11.11
+KORE,"KORE Group Holdings, Inc.",Communication Services,Telecom Services,4.24,74369328.0,2.5,0.0,0.0,2.5,False,0.0
+KWMWW,K Wave Media Ltd.,Communication Services,Entertainment,0.075,0.0,2.5,0.0,0.0,2.5,False,0.0
+KYIVW,Kyivstar Group Ltd.,Communication Services,Telecom Services,4.0282,0.0,2.5,0.0,0.0,2.5,False,0.0
+ANGHW,Anghami Inc.,Communication Services,Entertainment,0.0143,0.0,2.5,0.0,0.0,2.5,False,0.0
+LCFYW,Locafy Limited,Communication Services,Internet Content & Information,4.4,0.0,2.5,1.0,-1.0,2.5,False,0.0
+LVO,"LiveOne, Inc.",Communication Services,Entertainment,4.9,56982712.0,2.5,0.0,0.0,2.5,False,0.0
+MAX,"MediaAlpha, Inc.",Communication Services,Internet Content & Information,13.07,857588032.0,2.5,1.0,-1.0,2.5,False,0.0
+TBLAW,Taboola.com Ltd.,Communication Services,Internet Content & Information,0.08,0.0,2.5,1.0,-1.0,2.5,False,0.0
+SCOR,"comScore, Inc.",Communication Services,Internet Content & Information,6.71,33655104.0,2.5,1.0,-1.0,2.5,False,0.0
+SWAGW,"Stran & Company, Inc.",Communication Services,Advertising Agencies,0.0889,0.0,2.5,0.0,0.0,2.5,False,0.0
+SURG,"SurgePays, Inc.",Communication Services,Telecom Services,1.76,37032964.0,2.5,0.0,0.0,2.5,False,0.0
+SEATW,Vivid Seats Inc.,Communication Services,Internet Content & Information,0.049,0.0,2.5,1.0,-1.0,2.5,False,0.0
+MNYWW,MoneyHero Limited,Communication Services,Internet Content & Information,0.0839,0.0,2.5,1.0,-1.0,2.5,False,0.0
+AREN,"The Arena Group Holdings, Inc.",Communication Services,Internet Content & Information,4.29,203628064.0,2.5,1.0,-1.0,2.5,False,0.0
+MOMO,Hello Group Inc.,Communication Services,Internet Content & Information,7.06,1134326400.0,3.0,1.5,-2.0,2.5,False,0.0
+MYPSW,"PLAYSTUDIOS, Inc.",Communication Services,Electronic Gaming & Multimedia,0.0101,0.0,2.5,0.0,0.0,2.5,False,0.0
+ONFOW,"Onfolio Holdings, Inc.",Communication Services,Internet Content & Information,0.18,0.0,2.5,1.0,-1.0,2.5,False,0.0
+CCO,"Clear Channel Outdoor Holdings, Inc.",Communication Services,Advertising Agencies,1.99,989637312.0,2.5,0.0,0.0,2.5,False,0.0
+CDLX,"Cardlytics, Inc.",Communication Services,Advertising Agencies,1.1,59462204.0,2.5,0.0,0.0,2.5,False,0.0
+SNAL,"Snail, Inc.",Communication Services,Electronic Gaming & Multimedia,0.945,35671204.0,2.5,0.0,0.0,2.5,False,0.0
+SLE,"Super League Enterprise, Inc.",Communication Services,Internet Content & Information,0.9151,10516375.0,2.5,1.0,-1.0,2.5,False,0.0
+BZFDW,"BuzzFeed, Inc.",Communication Services,Internet Content & Information,0.0359,0.0,2.5,1.0,-1.0,2.5,False,0.0
+RDI,"Reading International, Inc.",Communication Services,Entertainment,1.2219,43553284.0,2.5,0.0,0.0,2.5,False,0.0
+RDIB,"Reading International, Inc.",Communication Services,Entertainment,11.601,263542928.0,2.5,0.0,0.0,2.5,False,0.0
+ZIP,"ZipRecruiter, Inc.",Communication Services,Internet Content & Information,5.36,449215680.0,2.5,1.0,-1.0,2.5,False,0.0
+SJ,Scienjoy Holding Corporation,Communication Services,Internet Content & Information,0.5602,23717616.0,3.0,1.0,-2.0,2.0,False,0.0
+SOHU,Sohu.com Limited,Communication Services,Electronic Gaming & Multimedia,15.62,516220448.0,3.0,0.0,-1.0,2.0,False,0.0
+CCG,Cheche Group Inc.,Communication Services,Internet Content & Information,0.952,79628248.0,3.0,1.0,-2.0,2.0,False,0.0
+NAMI,Jinxin Technology Holding Company,Communication Services,Internet Content & Information,0.675,46147852.0,3.0,1.0,-2.0,2.0,False,0.0
+OPTU,OPTU,Communication Services,Telecom Services,1.84,0.0,2.0,0.0,0.0,2.0,False,0.0
+STFS,Star Fashion Culture Holdings Limited,Communication Services,Advertising Agencies,0.1399,4749605.0,3.0,0.0,-1.0,2.0,False,0.0
+CHR,"Cheer Holding, Inc.",Communication Services,Advertising Agencies,0.0406,3625982.0,3.0,0.0,-1.0,2.0,False,0.0
+MCTR,Ctrl Group Limited,Communication Services,Advertising Agencies,1.02,15606000.0,3.0,0.0,-1.0,2.0,False,0.0
+TDIC,Dreamland Limited,Communication Services,Advertising Agencies,0.3937,12204700.0,3.0,0.0,-1.0,2.0,False,0.0
+TC,Token Cat Limited,Communication Services,Advertising Agencies,17.85,30130872.0,3.0,0.0,-1.0,2.0,False,0.0
+CMCM,Cheetah Mobile Inc.,Communication Services,Internet Content & Information,6.87,210844992.0,3.0,1.0,-2.0,2.0,False,0.0
+CNET,ZW Data Action Technologies Inc.,Communication Services,Advertising Agencies,1.52,4968073.0,3.0,0.0,-1.0,2.0,False,0.0
+BIDU,"Baidu, Inc.",Communication Services,Internet Content & Information,125.66,43805782016.0,3.0,1.0,-2.0,2.0,False,0.0
+BILI,Bilibili Inc.,Communication Services,Internet Content & Information,25.8,10672763904.0,3.0,1.0,-2.0,2.0,False,0.0
+KRKR,36Kr Holdings Inc.,Communication Services,Advertising Agencies,4.91,9676490.0,3.0,0.0,-1.0,2.0,False,0.0
+CPOP,"Pop Culture Group Co., Ltd",Communication Services,Entertainment,0.4221,34586468.0,3.0,0.0,-1.0,2.0,False,0.0
+UCL,uCloudlink Group Inc.,Communication Services,Telecom Services,1.9792,74482528.0,3.0,0.0,-1.0,2.0,False,0.0
+HUYA,HUYA Inc.,Communication Services,Entertainment,2.97,663514624.0,3.0,0.0,-1.0,2.0,False,0.0
+DKI,Darkiris Inc.,Communication Services,Electronic Gaming & Multimedia,0.4201,7446272.0,3.0,0.0,-1.0,2.0,False,0.0
+HAO,Haoxi Health Technology Limited,Communication Services,Advertising Agencies,1.0,8193828.0,3.0,0.0,-1.0,2.0,False,0.0
+DOYU,DouYu International Holdings Limited,Communication Services,Internet Content & Information,7.045,222872640.0,3.0,1.0,-2.0,2.0,False,0.0
+VSME,VS MEDIA Holdings Limited,Communication Services,Advertising Agencies,0.1061,5258707.0,3.0,0.0,-1.0,2.0,False,0.0
+GMHS,Gamehaus Holdings Inc.,Communication Services,Electronic Gaming & Multimedia,1.0,53569360.0,3.0,0.0,-1.0,2.0,False,0.0
+YDKG,Yueda Digital Holding,Communication Services,Advertising Agencies,1.14,6318136.0,3.0,0.0,-1.0,2.0,False,0.0
+GIBO,GIBO Holdings Limited,Communication Services,Internet Content & Information,2.54,9212171.0,3.0,1.0,-2.0,2.0,False,0.0
+GDEVW,GDEV Inc.,Communication Services,Electronic Gaming & Multimedia,0.0251,0.0,2.0,0.0,0.0,2.0,False,0.0
+WIMI,WiMi Hologram Cloud Inc.,Communication Services,Advertising Agencies,3.13,40252932.0,3.0,0.0,-1.0,2.0,False,0.0
+EDHL,Everbright Digital Holding Limited,Communication Services,Advertising Agencies,0.89,23727400.0,3.0,0.0,-1.0,2.0,False,0.0
+BAOS,Baosheng Media Group Holdings Limited,Communication Services,Advertising Agencies,3.1957,4903760.0,3.0,0.0,-1.0,2.0,False,0.0
+FENG,Phoenix New Media Limited,Communication Services,Internet Content & Information,2.02,24301172.0,3.0,1.0,-2.0,2.0,False,0.0
+ZH,Zhihu Inc.,Communication Services,Internet Content & Information,3.45,309440160.0,3.0,1.0,-2.0,2.0,False,0.0
+ZNB,Zeta Network Group,Communication Services,Entertainment,0.7297,106740264.0,3.0,0.0,-1.0,2.0,False,0.0
+GIBOW,GIBO Holdings Limited,Communication Services,Internet Content & Information,0.04,0.0,2.5,1.0,-2.0,1.5,False,0.0
+CCGWW,Cheche Group Inc.,Communication Services,Internet Content & Information,0.04,0.0,2.5,1.0,-2.0,1.5,False,0.0
+BHAT,Blue Hat Interactive Entertainment Technology,Communication Services,Electronic Gaming & Multimedia,1.28,47265644.0,2.5,0.0,-1.0,1.5,False,0.0

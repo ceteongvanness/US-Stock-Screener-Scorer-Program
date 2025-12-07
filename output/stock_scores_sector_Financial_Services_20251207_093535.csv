@@ -1,0 +1,1579 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+MFC,Manulife Financial Corporation,Financial Services,Insurance - Life,35.29,59438215168.0,4.0,3.5,0.0,7.5,True,3.55
+HSBC,HSBC Holdings plc,Financial Services,Banks - Diversified,71.0,243756269568.0,4.0,3.5,0.0,7.5,True,2.82
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",Financial Services,Banks - Diversified,16.28,185069060096.0,4.0,3.5,0.0,7.5,True,3.31
+AFL,Aflac Incorporated,Financial Services,Insurance - Life,109.28,58446385152.0,4.0,3.5,0.0,7.5,True,2.23
+CB,Chubb Limited,Financial Services,Insurance - Property & Casualty,295.0,117613641728.0,4.0,3.5,0.0,7.5,True,1.32
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",Financial Services,Banks - Diversified,21.8,124716752896.0,4.0,3.5,0.0,7.5,True,3.82
+DB,Deutsche Bank Aktiengesellschaft,Financial Services,Banks - Regional,36.26,69842296832.0,4.0,3.5,0.0,7.5,True,2.14
+MMC,"Marsh & McLennan Companies, Inc.",Financial Services,Insurance Brokers,181.82,89387081728.0,4.0,3.5,0.0,7.5,True,1.98
+RY,Royal Bank of Canada,Financial Services,Banks - Diversified,162.48,228274126848.0,4.0,3.5,0.0,7.5,True,2.88
+BK,The Bank of New York Mellon Corporation,Financial Services,Banks - Diversified,114.02,80411557888.0,4.0,3.5,0.0,7.5,True,1.86
+BCS,Barclays PLC,Financial Services,Banks - Diversified,23.22,80590520320.0,4.0,3.5,0.0,7.5,True,1.92
+ING,ING Groep N.V.,Financial Services,Banks - Diversified,26.28,76276932608.0,4.0,3.5,0.0,7.5,True,4.46
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",Financial Services,Banks - Diversified,18.96,121327722496.0,4.0,3.5,0.0,7.5,True,2.9
+ITUB,Itaú Unibanco Holding S.A.,Financial Services,Banks - Regional,7.55,80828022784.0,4.0,3.5,0.0,7.5,True,7.64
+BMO,Bank of Montreal,Financial Services,Banks - Diversified,128.85,93182435328.0,4.0,3.5,0.0,7.5,True,3.72
+BNS,The Bank of Nova Scotia,Financial Services,Banks - Diversified,71.7,89342861312.0,4.0,3.5,0.0,7.5,True,4.39
+HDB,HDFC Bank Limited,Financial Services,Banks - Regional,35.72,183153967104.0,4.0,3.5,0.0,7.5,True,1.05
+BAC,Bank of America Corporation,Financial Services,Banks - Diversified,53.95,399604809728.0,4.0,3.5,0.0,7.5,True,2.08
+IBN,ICICI Bank Limited,Financial Services,Banks - Regional,30.69,109859569664.0,4.0,3.5,0.0,7.5,True,0.84
+CM,Canadian Imperial Bank of Commerce,Financial Services,Banks - Diversified,91.16,84987068416.0,4.0,3.5,0.0,7.5,True,3.36
+WFC,Wells Fargo & Company,Financial Services,Banks - Diversified,89.83,287765135360.0,4.0,3.5,0.0,7.5,True,2.0
+USB,U.S. Bancorp,Financial Services,Banks - Regional,51.26,79770271744.0,4.0,3.5,0.0,7.5,True,4.06
+MFG,"Mizuho Financial Group, Inc.",Financial Services,Banks - Regional,7.35,91125841920.0,4.0,3.5,0.0,7.5,True,2.58
+LYG,Lloyds Banking Group plc,Financial Services,Banks - Regional,5.13,75388878848.0,4.0,3.5,0.0,7.5,True,3.29
+AON,Aon plc,Financial Services,Insurance Brokers,345.2,74434306048.0,4.0,3.5,0.0,7.5,True,0.86
+TFC,Truist Financial Corporation,Financial Services,Banks - Regional,47.53,61286850560.0,4.0,3.5,0.0,7.5,True,4.38
+TD,The Toronto-Dominion Bank,Financial Services,Banks - Diversified,88.32,151204839424.0,4.0,3.5,0.0,7.5,True,3.51
+C,Citigroup Inc.,Financial Services,Banks - Diversified,108.88,200436957184.0,4.0,3.5,0.0,7.5,True,2.2
+JPM,JPMorgan Chase & Co.,Financial Services,Banks - Diversified,315.04,866282504192.0,4.0,3.5,0.0,7.5,True,1.9
+PNC,"The PNC Financial Services Group, Inc.",Financial Services,Banks - Regional,197.86,77746511872.0,4.0,3.5,0.0,7.5,True,3.44
+SAN,"Banco Santander, S.A.",Financial Services,Banks - Diversified,10.97,161565917184.0,4.0,3.5,0.0,7.5,True,2.34
+UBS,UBS Group AG,Financial Services,Banks - Diversified,40.64,128064790528.0,4.0,3.5,0.0,7.5,True,2.21
+CIB,Grupo Cibest S.A.,Financial Services,Banks - Regional,62.41,16269693952.0,4.0,3.0,0.0,7.0,True,24.43
+ACGLO,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,21.0588,12279154688.0,4.0,3.0,0.0,7.0,True,6.47
+EWBC,"East West Bancorp, Inc.",Financial Services,Banks - Regional,110.33,15205874688.0,4.0,3.0,0.0,7.0,True,2.18
+ERIE,Erie Indemnity Company,Financial Services,Insurance Brokers,296.46,15501853696.0,4.0,3.0,0.0,7.0,True,1.84
+WBS,Webster Financial Corporation,Financial Services,Banks - Regional,62.49,10385129472.0,4.0,3.0,0.0,7.0,True,2.56
+FCNCA,"First Citizens BancShares, Inc.",Financial Services,Banks - Regional,1971.82,25246969856.0,4.0,3.0,0.0,7.0,True,0.43
+SHG,"Shinhan Financial Group Co., Ltd.",Financial Services,Banks - Regional,54.25,26533083136.0,4.0,3.0,0.0,7.0,True,2.93
+BBD,Banco Bradesco S.A.,Financial Services,Banks - Regional,3.31,35009908736.0,4.0,3.0,0.0,7.0,True,5.45
+BBDO,Banco Bradesco S.A.,Financial Services,Banks - Regional,2.98,33817833472.0,4.0,3.0,0.0,7.0,True,4.04
+RF,Regions Financial Corporation,Financial Services,Banks - Regional,26.28,23449864192.0,4.0,3.0,0.0,7.0,True,4.03
+BAP,Credicorp Ltd.,Financial Services,Banks - Regional,272.3,21611448320.0,4.0,3.0,0.0,7.0,True,4.04
+BCH,Banco de Chile,Financial Services,Banks - Regional,37.1,18738667520.0,4.0,3.0,0.0,7.0,True,5.67
+HBAN,Huntington Bancshares Incorporated,Financial Services,Banks - Regional,16.9,26614173696.0,4.0,3.0,0.0,7.0,True,3.67
+CMA,Comerica Incorporated,Financial Services,Banks - Regional,84.12,10750042112.0,4.0,3.0,0.0,7.0,True,3.38
+GL,Globe Life Inc.,Financial Services,Insurance - Life,131.37,10641434624.0,4.0,3.0,0.0,7.0,True,0.82
+BSBR,Banco Santander (Brasil) S.A.,Financial Services,Banks - Regional,6.1,45573459968.0,4.0,3.0,0.0,7.0,True,5.39
+BSAC,Banco Santander-Chile,Financial Services,Banks - Regional,29.72,14001547264.0,4.0,3.0,0.0,7.0,True,4.54
+BRO,"Brown & Brown, Inc.",Financial Services,Insurance Brokers,78.37,26757148672.0,4.0,3.0,0.0,7.0,True,0.84
+KEY,KeyCorp,Financial Services,Banks - Regional,19.26,21118896128.0,4.0,3.0,0.0,7.0,True,4.26
+KB,KB Financial Group Inc.,Financial Services,Banks - Regional,87.81,32187535360.0,4.0,3.0,0.0,7.0,True,2.86
+CFG,"Citizens Financial Group, Inc.",Financial Services,Banks - Regional,55.46,23922614272.0,4.0,3.0,0.0,7.0,True,3.32
+FITBI,Fifth Third Bancorp,Financial Services,Banks - Regional,25.735,18002636800.0,4.0,3.0,0.0,7.0,True,9.23
+FITB,Fifth Third Bancorp,Financial Services,Banks - Regional,45.42,30024652800.0,4.0,3.0,0.0,7.0,True,3.52
+FHN,First Horizon Corporation,Financial Services,Banks - Regional,22.76,11556335616.0,4.0,3.0,0.0,7.0,True,2.64
+MTB,M&T Bank Corporation,Financial Services,Banks - Regional,195.11,30489702400.0,4.0,3.0,0.0,7.0,True,3.08
+WTW,Willis Towers Watson Public Limited Company,Financial Services,Insurance Brokers,320.7,31283642368.0,4.0,3.0,0.0,7.0,True,1.15
+CINF,Cincinnati Financial Corporation,Financial Services,Insurance - Property & Casualty,162.3,25379893248.0,4.0,3.0,0.0,7.0,True,2.14
+ZION,"Zions Bancorporation, National Association",Financial Services,Banks - Regional,55.45,8186695680.0,4.0,2.5,0.0,6.5,False,3.25
+ESNT,Essent Group Ltd.,Financial Services,Insurance - Specialty,61.85,6094312960.0,4.0,2.5,0.0,6.5,False,2.0
+WTM,"White Mountains Insurance Group, Ltd.",Financial Services,Insurance - Property & Casualty,2034.79,5195036672.0,4.0,2.5,0.0,6.5,False,0.05
+WTFC,Wintrust Financial Corporation,Financial Services,Banks - Regional,137.52,9209874432.0,4.0,2.5,0.0,6.5,False,1.45
+MET,"MetLife, Inc.",Financial Services,Insurance - Life,78.66,52310949888.0,4.0,2.5,0.0,6.5,False,2.89
+BFC,Bank First Corporation,Financial Services,Banks - Regional,129.86,1277174912.0,4.0,2.5,0.0,6.5,False,1.39
+MTG,MGIC Investment Corporation,Financial Services,Insurance - Specialty,27.99,6452338688.0,4.0,2.5,0.0,6.5,False,2.14
+FFBC,First Financial Bancorp.,Financial Services,Banks - Regional,25.76,2538125056.0,4.0,2.5,0.0,6.5,False,3.88
+FFIN,"First Financial Bankshares, Inc.",Financial Services,Banks - Regional,31.06,4447981056.0,4.0,2.5,0.0,6.5,False,2.45
+CME,CME Group Inc.,Financial Services,Financial Data & Stock Exchanges,270.87,97675657216.0,4.0,2.5,0.0,6.5,False,1.85
+BBT,Beacon Financial Corporation,Financial Services,Banks - Regional,25.16,2120289536.0,4.0,2.5,0.0,6.5,False,5.13
+BBAR,Banco BBVA Argentina S.A.,Financial Services,Banks - Regional,16.58,3818944256.0,4.0,2.5,0.0,6.5,False,0.73
+HOMB,"Home Bancshares, Inc. (Conway, AR)",Financial Services,Banks - Regional,28.39,5579837952.0,4.0,2.5,0.0,6.5,False,2.96
+HOPE,"Hope Bancorp, Inc.",Financial Services,Banks - Regional,10.93,1401075584.0,4.0,2.5,0.0,6.5,False,5.12
+RBCAA,"Republic Bancorp, Inc.",Financial Services,Banks - Regional,69.07,1349446016.0,4.0,2.5,0.0,6.5,False,2.61
+V,Visa Inc.,Financial Services,Credit Services,331.24,642917597184.0,4.0,2.5,0.0,6.5,False,0.81
+AGO,Assured Guaranty Ltd.,Financial Services,Insurance - Specialty,88.63,4218187008.0,4.0,2.5,0.0,6.5,False,1.53
+BANR,Banner Corporation,Financial Services,Banks - Regional,64.54,2232083968.0,4.0,2.5,0.0,6.5,False,3.01
+RDN,Radian Group Inc.,Financial Services,Insurance - Specialty,34.73,4705534976.0,4.0,2.5,0.0,6.5,False,2.94
+HWC,Hancock Whitney Corporation,Financial Services,Banks - Regional,63.28,5363294720.0,4.0,2.5,0.0,6.5,False,2.84
+RLI,RLI Corp.,Financial Services,Insurance - Property & Casualty,62.47,5737109504.0,4.0,2.5,0.0,6.5,False,1.02
+HMN,Horace Mann Educators Corporation,Financial Services,Insurance - Property & Casualty,43.63,1775554688.0,4.0,2.5,0.0,6.5,False,3.21
+PNFP,"Pinnacle Financial Partners, Inc.",Financial Services,Banks - Regional,95.98,7445692416.0,4.0,2.5,0.0,6.5,False,1.0
+WSBC,"WesBanco, Inc.",Financial Services,Banks - Regional,32.68,3138761984.0,4.0,2.5,0.0,6.5,False,4.65
+NBTB,NBT Bancorp Inc.,Financial Services,Banks - Regional,42.01,2201075456.0,4.0,2.5,0.0,6.5,False,3.52
+LNC,Lincoln National Corporation,Financial Services,Insurance - Life,42.74,8117995520.0,4.0,2.5,0.0,6.5,False,4.21
+LOB,"Live Oak Bancshares, Inc.",Financial Services,Banks - Regional,32.8,1504129792.0,4.0,2.5,0.0,6.5,False,0.37
+FHB,"First Hawaiian, Inc.",Financial Services,Banks - Regional,25.25,3146845440.0,4.0,2.5,0.0,6.5,False,4.12
+FIBK,"First Interstate BancSystem, Inc.",Financial Services,Banks - Regional,34.11,3512204544.0,4.0,2.5,0.0,6.5,False,5.51
+UMBF,UMB Financial Corporation,Financial Services,Banks - Regional,114.94,8730228736.0,4.0,2.5,0.0,6.5,False,1.5
+NBHC,National Bank Holdings Corporation,Financial Services,Banks - Regional,38.5,1456451584.0,4.0,2.5,0.0,6.5,False,3.22
+WSFS,WSFS Financial Corporation,Financial Services,Banks - Regional,55.83,3124757248.0,4.0,2.5,0.0,6.5,False,1.22
+BANC,"Banc of California, Inc.",Financial Services,Banks - Regional,19.1,3009567488.0,4.0,2.5,0.0,6.5,False,2.09
+BANF,BancFirst Corporation,Financial Services,Banks - Regional,109.35,3645091584.0,4.0,2.5,0.0,6.5,False,1.79
+IBKR,"Interactive Brokers Group, Inc.",Financial Services,Capital Markets,64.5,109645971456.0,4.0,2.5,0.0,6.5,False,0.5
+IBOC,International Bancshares Corporation,Financial Services,Banks - Regional,69.28,4306714112.0,4.0,2.5,0.0,6.5,False,2.02
+ICE,"Intercontinental Exchange, Inc.",Financial Services,Financial Data & Stock Exchanges,157.82,90339819520.0,4.0,2.5,0.0,6.5,False,1.22
+BHFAP,"Brighthouse Financial, Inc.",Financial Services,Insurance - Life,16.03,2657725952.0,4.0,2.5,0.0,6.5,False,10.29
+BHRB,Burke & Herbert Financial Services Corp.,Financial Services,Banks - Regional,66.68,1002102016.0,4.0,2.5,0.0,6.5,False,3.3
+VLY,Valley National Bancorp,Financial Services,Banks - Regional,11.55,6464777728.0,4.0,2.5,0.0,6.5,False,3.81
+VLYPO,Valley National Bancorp,Financial Services,Banks - Regional,25.404,3388817408.0,4.0,2.5,0.0,6.5,False,8.05
+VLYPP,Valley National Bancorp,Financial Services,Banks - Regional,25.45,3158854144.0,4.0,2.5,0.0,6.5,False,8.06
+RNST,Renasant Corporation,Financial Services,Banks - Regional,36.31,3450226688.0,4.0,2.5,0.0,6.5,False,2.53
+PFS,"Provident Financial Services, Inc.",Financial Services,Banks - Regional,20.02,2615095552.0,4.0,2.5,0.0,6.5,False,4.8
+PGR,The Progressive Corporation,Financial Services,Insurance - Property & Casualty,222.89,130702696448.0,4.0,2.5,0.0,6.5,False,2.2
+HCI,"HCI Group, Inc.",Financial Services,Insurance - Property & Casualty,170.17,2205409536.0,4.0,2.5,0.0,6.5,False,0.94
+LKFN,Lakeland Financial Corporation,Financial Services,Banks - Regional,58.27,1487641856.0,4.0,2.5,0.0,6.5,False,3.43
+CNO,"CNO Financial Group, Inc.",Financial Services,Insurance - Life,40.18,3894725120.0,4.0,2.5,0.0,6.5,False,1.69
+CNOB,"ConnectOne Bancorp, Inc.",Financial Services,Banks - Regional,26.18,1316149504.0,4.0,2.5,0.0,6.5,False,2.75
+NDAQ,"Nasdaq, Inc.",Financial Services,Financial Data & Stock Exchanges,90.22,51767808000.0,4.0,2.5,0.0,6.5,False,1.2
+AJG,Arthur J. Gallagher & Co.,Financial Services,Insurance Brokers,239.71,61558726656.0,4.0,2.5,0.0,6.5,False,1.08
+FLG,"Flagstar Bank, National Association",Financial Services,Banks - Regional,12.7,5280099328.0,4.0,2.5,0.0,6.5,False,0.31
+MS,Morgan Stanley,Financial Services,Capital Markets,176.51,281769213952.0,4.0,2.5,0.0,6.5,False,2.27
+PFBC,Preferred Bank,Financial Services,Banks - Regional,94.09,1164471808.0,4.0,2.5,0.0,6.5,False,3.19
+CATY,Cathay General Bancorp,Financial Services,Banks - Regional,49.86,3444997888.0,4.0,2.5,0.0,6.5,False,2.73
+CBSH,"Commerce Bancshares, Inc.",Financial Services,Banks - Regional,52.24,7263211008.0,4.0,2.5,0.0,6.5,False,2.11
+CBU,"Community Financial System, Inc.",Financial Services,Banks - Regional,58.67,3101124864.0,4.0,2.5,0.0,6.5,False,3.2
+AVAL,Grupo Aval Acciones y Valores S.A.,Financial Services,Banks - Regional,4.15,4950282752.0,4.0,2.5,0.0,6.5,False,3.33
+AXP,American Express Company,Financial Services,Credit Services,370.35,257719992320.0,4.0,2.5,0.0,6.5,False,0.85
+AXS,AXIS Capital Holdings Limited,Financial Services,Insurance - Specialty,97.85,7649324032.0,4.0,2.5,0.0,6.5,False,1.8
+IFS,Intercorp Financial Services Inc.,Financial Services,Banks - Regional,39.84,4436252160.0,4.0,2.5,0.0,6.5,False,2.51
+CVBF,CVB Financial Corp.,Financial Services,Banks - Regional,19.5,2687443200.0,4.0,2.5,0.0,6.5,False,4.1
+IGIC,International General Insurance Holdings Ltd.,Financial Services,Insurance - Diversified,24.04,1038003584.0,4.0,2.5,0.0,6.5,False,0.83
+UBSI,"United Bankshares, Inc.",Financial Services,Banks - Regional,38.02,5338638848.0,4.0,2.5,0.0,6.5,False,4.0
+UCB,"United Community Banks, Inc.",Financial Services,Banks - Regional,31.11,3781635328.0,4.0,2.5,0.0,6.5,False,3.21
+ALL,The Allstate Corporation,Financial Services,Insurance - Property & Casualty,202.27,53299224576.0,4.0,2.5,0.0,6.5,False,1.98
+FNB,F.N.B. Corporation,Financial Services,Banks - Regional,16.91,6073116672.0,4.0,2.5,0.0,6.5,False,2.84
+MCY,Mercury General Corporation,Financial Services,Insurance - Property & Casualty,89.95,4982206976.0,4.0,2.5,0.0,6.5,False,1.41
+FAF,First American Financial Corporation,Financial Services,Insurance - Specialty,64.56,6578663936.0,4.0,2.5,0.0,6.5,False,3.41
+PEBO,Peoples Bancorp Inc.,Financial Services,Banks - Regional,30.26,1080371712.0,4.0,2.5,0.0,6.5,False,5.42
+BKU,"BankUnited, Inc.",Financial Services,Banks - Regional,44.7,3362011136.0,4.0,2.5,0.0,6.5,False,2.77
+SBCF,Seacoast Banking Corporation of Florida,Financial Services,Banks - Regional,32.33,3162784256.0,4.0,2.5,0.0,6.5,False,2.35
+AUB,Atlantic Union Bankshares Corporation,Financial Services,Banks - Regional,34.39,4901198848.0,4.0,2.5,0.0,6.5,False,4.3
+SAFT,"Safety Insurance Group, Inc.",Financial Services,Insurance - Property & Casualty,74.6,1111105408.0,4.0,2.5,0.0,6.5,False,4.93
+INDB,Independent Bank Corp.,Financial Services,Banks - Regional,73.64,3656837376.0,4.0,2.5,0.0,6.5,False,3.2
+CASH,"Pathward Financial, Inc.",Financial Services,Banks - Regional,74.36,1693368448.0,4.0,2.5,0.0,6.5,False,0.27
+BLK,"BlackRock, Inc.",Financial Services,Asset Management,1072.16,166346604544.0,4.0,2.5,0.0,6.5,False,1.94
+SFBS,"ServisFirst Bancshares, Inc.",Financial Services,Banks - Regional,72.24,3945881088.0,4.0,2.5,0.0,6.5,False,1.85
+SFNC,Simmons First National Corporation,Financial Services,Banks - Regional,18.67,2701877504.0,4.0,2.5,0.0,6.5,False,4.55
+GS,"The Goldman Sachs Group, Inc.",Financial Services,Capital Markets,854.56,258693332992.0,4.0,2.5,0.0,6.5,False,1.87
+SCHW,The Charles Schwab Corporation,Financial Services,Capital Markets,93.82,170303881216.0,4.0,2.5,0.0,6.5,False,1.15
+TRMK,Trustmark Corporation,Financial Services,Banks - Regional,39.23,2368180480.0,4.0,2.5,0.0,6.5,False,2.45
+EFSC,Enterprise Financial Services Corp,Financial Services,Banks - Regional,55.22,2043742336.0,4.0,2.5,0.0,6.5,False,2.32
+BLX,"Banco Latinoamericano de Comercio Exterior, S. A.",Financial Services,Banks - Regional,44.65,1645313664.0,4.0,2.5,0.0,6.5,False,5.6
+PB,"Prosperity Bancshares, Inc.",Financial Services,Banks - Regional,70.63,6709880320.0,4.0,2.5,0.0,6.5,False,3.4
+SIGI,"Selective Insurance Group, Inc.",Financial Services,Insurance - Property & Casualty,77.54,4718332416.0,4.0,2.5,0.0,6.5,False,2.22
+FBK,FB Financial Corporation,Financial Services,Banks - Regional,56.89,3041480704.0,4.0,2.5,0.0,6.5,False,1.34
+FBNC,First Bancorp,Financial Services,Banks - Regional,50.98,2113902464.0,4.0,2.5,0.0,6.5,False,1.8
+FBP,First BanCorp.,Financial Services,Banks - Regional,20.09,3223835136.0,4.0,2.5,0.0,6.5,False,3.58
+FCF,First Commonwealth Financial Corporation,Financial Services,Banks - Regional,16.49,1723844736.0,4.0,2.5,0.0,6.5,False,3.27
+CADE,Cadence Bank,Financial Services,Banks - Regional,41.43,7718699520.0,4.0,2.5,0.0,6.5,False,2.66
+TRV,"The Travelers Companies, Inc.",Financial Services,Insurance - Property & Casualty,280.89,63237849088.0,4.0,2.5,0.0,6.5,False,1.57
+CTBI,"Community Trust Bancorp, Inc.",Financial Services,Banks - Regional,57.12,1034777216.0,4.0,2.5,0.0,6.5,False,3.71
+OZK,Bank OZK,Financial Services,Banks - Regional,47.26,5287346688.0,4.0,2.5,0.0,6.5,False,3.81
+BOH,Bank of Hawaii Corporation,Financial Services,Banks - Regional,66.51,2646106624.0,4.0,2.5,0.0,6.5,False,4.21
+BOKF,BOK Financial Corporation,Financial Services,Banks - Regional,115.98,7377615360.0,4.0,2.5,0.0,6.5,False,2.17
+SSB,SouthState Bank Corporation,Financial Services,Banks - Regional,92.14,9325395968.0,4.0,2.5,0.0,6.5,False,2.6
+SNV,Synovus Financial Corp.,Financial Services,Banks - Regional,50.5,7010273280.0,4.0,2.5,0.0,6.5,False,3.09
+CHCO,City Holding Company,Financial Services,Banks - Regional,122.23,1771703424.0,4.0,2.5,0.0,6.5,False,2.72
+FRME,First Merchants Corporation,Financial Services,Banks - Regional,37.33,2158608128.0,4.0,2.5,0.0,6.5,False,3.86
+MCO,Moody's Corporation,Financial Services,Financial Data & Stock Exchanges,496.5,89051561984.0,4.0,2.5,0.0,6.5,False,0.76
+STBA,"S&T Bancorp, Inc.",Financial Services,Banks - Regional,40.12,1538441600.0,4.0,2.5,0.0,6.5,False,3.59
+STC,Stewart Information Services Corporation,Financial Services,Insurance - Property & Casualty,76.28,2137686272.0,4.0,2.5,0.0,6.5,False,2.75
+SPGI,S&P Global Inc.,Financial Services,Financial Data & Stock Exchanges,498.52,152198152192.0,4.0,2.5,0.0,6.5,False,0.77
+SRCE,1st Source Corporation,Financial Services,Banks - Regional,63.67,1562318848.0,4.0,2.5,0.0,6.5,False,2.51
+NTB,The Bank of N.T. Butterfield & Son Limited,Financial Services,Banks - Diversified,49.07,2047400576.0,4.0,2.5,0.0,6.5,False,4.08
+BY,"Byline Bancorp, Inc.",Financial Services,Banks - Regional,29.19,1338797312.0,4.0,2.5,0.0,6.5,False,1.37
+TMP,Tompkins Financial Corporation,Financial Services,Banks - Regional,71.69,1034780928.0,4.0,2.5,0.0,6.5,False,3.63
+TOWN,TowneBank,Financial Services,Banks - Regional,34.03,2686088192.0,4.0,2.5,0.0,6.5,False,3.17
+THG,"The Hanover Insurance Group, Inc.",Financial Services,Insurance - Property & Casualty,177.82,6360701440.0,4.0,2.5,0.0,6.5,False,2.14
+CFR,"Cullen/Frost Bankers, Inc.",Financial Services,Banks - Regional,126.34,8126856192.0,4.0,2.5,0.0,6.5,False,3.17
+OSBC,"Old Second Bancorp, Inc.",Financial Services,Banks - Regional,19.62,1033370240.0,4.0,2.5,0.0,6.5,False,1.43
+BPOP,"Popular, Inc.",Financial Services,Banks - Regional,116.29,7859209216.0,4.0,2.5,0.0,6.5,False,2.58
+ONB,Old National Bancorp,Financial Services,Banks - Regional,22.3,8714236928.0,4.0,2.5,0.0,6.5,False,2.51
+GGAL,Grupo Financiero Galicia S.A.,Financial Services,Banks - Regional,50.07,8147667456.0,4.0,2.5,0.0,6.5,False,1.97
+ASB,Associated Banc-Corp,Financial Services,Banks - Regional,26.12,4333894656.0,4.0,2.5,0.0,6.5,False,3.68
+KNSL,"Kinsale Capital Group, Inc.",Financial Services,Insurance - Property & Casualty,356.53,8307148800.0,4.0,2.5,0.0,6.5,False,0.19
+FULT,Fulton Financial Corporation,Financial Services,Banks - Regional,19.0,3431373824.0,4.0,2.5,0.0,6.5,False,3.79
+BX,Blackstone Inc.,Financial Services,Asset Management,152.15,186696990720.0,4.0,2.5,0.0,6.5,False,3.08
+OFG,OFG Bancorp,Financial Services,Banks - Regional,40.47,1801691136.0,4.0,2.5,0.0,6.5,False,2.97
+STEL,"Stellar Bancorp, Inc.",Financial Services,Banks - Regional,31.66,1625824640.0,4.0,2.5,0.0,6.5,False,1.9
+OCFC,OceanFirst Financial Corp.,Financial Services,Banks - Regional,19.33,1109325184.0,4.0,2.5,0.0,6.5,False,4.14
+WABC,Westamerica Bancorporation,Financial Services,Banks - Regional,47.59,1211729792.0,4.0,2.5,0.0,6.5,False,3.87
+WAFD,"WaFd, Inc.",Financial Services,Banks - Regional,32.14,2532376576.0,4.0,2.5,0.0,6.5,False,3.36
+WAL,Western Alliance Bancorporation,Financial Services,Banks - Regional,85.36,9421082624.0,4.0,2.5,0.0,6.5,False,1.97
+MA,Mastercard Incorporated,Financial Services,Credit Services,545.52,493156564992.0,4.0,2.5,0.0,6.5,False,0.56
+MBIN,Merchants Bancorp,Financial Services,Banks - Regional,34.39,1578130944.0,4.0,2.5,0.0,6.5,False,1.16
+NWBI,"Northwest Bancshares, Inc.",Financial Services,Banks - Regional,12.17,1779396352.0,4.0,2.5,0.0,6.5,False,6.57
+BUSE,First Busey Corporation,Financial Services,Banks - Regional,24.02,2123585152.0,4.0,2.5,0.0,6.5,False,4.16
+TFSL,TFS Financial Corporation,Financial Services,Banks - Regional,14.11,3960508160.0,4.0,2.5,0.0,6.5,False,8.01
+TCBK,TriCo Bancshares,Financial Services,Banks - Regional,47.82,1556970240.0,4.0,2.5,0.0,6.5,False,2.89
+KMPR,Kemper Corporation,Financial Services,Insurance - Property & Casualty,39.46,2475830272.0,4.0,2.5,0.0,6.5,False,3.24
+OBK,"Origin Bancorp, Inc.",Financial Services,Banks - Regional,37.35,1156808576.0,4.0,2.5,0.0,6.5,False,1.61
+GABC,"German American Bancorp, Inc.",Financial Services,Banks - Regional,39.62,1485469568.0,4.0,2.5,0.0,6.5,False,2.93
+GBCI,"Glacier Bancorp, Inc.",Financial Services,Banks - Regional,42.29,5495220224.0,4.0,2.5,0.0,6.5,False,3.12
+SYBT,"Stock Yards Bancorp, Inc.",Financial Services,Banks - Regional,67.04,1975900672.0,4.0,2.5,0.0,6.5,False,1.91
+APO,"Apollo Global Management, Inc.",Financial Services,Asset Management,138.13,80173776896.0,4.0,2.5,0.0,6.5,False,1.48
+QCRH,"QCR Holdings, Inc.",Financial Services,Banks - Regional,85.74,1443746048.0,4.0,2.5,0.0,6.5,False,0.28
+PRI,"Primerica, Inc.",Financial Services,Insurance - Life,253.17,8200514048.0,4.0,2.5,0.0,6.5,False,1.64
+PRK,Park National Corporation,Financial Services,Banks - Regional,156.8,2521071616.0,4.0,2.5,0.0,6.5,False,2.73
+ABCB,Ameris Bancorp,Financial Services,Banks - Regional,76.55,5250323456.0,4.0,2.5,0.0,6.5,False,1.05
+DCOM,"Dime Community Bancshares, Inc.",Financial Services,Banks - Regional,29.66,1301906176.0,4.0,2.5,0.0,6.5,False,3.37
+AAME,Atlantic American Corporation,Financial Services,Insurance - Life,2.41,49157320.0,4.0,2.0,0.0,6.0,False,0.83
+PUK,Prudential plc,Financial Services,Insurance - Life,29.01,36799078400.0,4.0,3.0,-1.0,6.0,False,1.65
+HTB,"HomeTrust Bancshares, Inc.",Financial Services,Banks - Regional,41.81,731714496.0,4.0,2.0,0.0,6.0,False,1.24
+MVBF,MVB Financial Corp.,Financial Services,Banks - Regional,27.13,345400864.0,4.0,2.0,0.0,6.0,False,2.51
+FFIC,Flushing Financial Corporation,Financial Services,Banks - Regional,16.5,557344256.0,4.0,2.0,0.0,6.0,False,5.33
+AIG,"American International Group, Inc.",Financial Services,Insurance - Diversified,77.03,42674913280.0,4.0,2.0,0.0,6.0,False,2.34
+BCBP,"BCB Bancorp, Inc.",Financial Services,Banks - Regional,8.06,138859344.0,4.0,2.0,0.0,6.0,False,7.94
+DGICA,Donegal Group Inc.,Financial Services,Insurance - Property & Casualty,19.37,709747072.0,4.0,2.0,0.0,6.0,False,3.77
+DGICB,Donegal Group Inc.,Financial Services,Insurance - Property & Casualty,16.5101,716667008.0,4.0,2.0,0.0,6.0,False,3.92
+NWFL,Norwood Financial Corp.,Financial Services,Banks - Regional,28.67,265604608.0,4.0,2.0,0.0,6.0,False,4.33
+NWG,NatWest Group plc,Financial Services,Banks - Regional,16.51,66034786304.0,3.5,2.5,0.0,6.0,False,3.91
+BSVN,Bank7 Corp.,Financial Services,Banks - Regional,41.99,396947904.0,4.0,2.0,0.0,6.0,False,2.57
+GBLI,"Global Indemnity Group, LLC",Financial Services,Insurance - Property & Casualty,28.0,401070720.0,4.0,2.0,0.0,6.0,False,5.0
+GCBC,"Greene County Bancorp, Inc.",Financial Services,Banks - Regional,22.94,390595456.0,4.0,2.0,0.0,6.0,False,1.74
+STT,State Street Corporation,Financial Services,Asset Management,123.61,35067580416.0,4.0,2.0,0.0,6.0,False,2.72
+ARCC,Ares Capital Corporation,Financial Services,Asset Management,21.02,15044573184.0,4.0,2.0,0.0,6.0,False,9.13
+JRVR,"James River Group Holdings, Inc.",Financial Services,Insurance - Specialty,5.95,273496736.0,4.0,2.0,0.0,6.0,False,0.67
+OBT,"Orange County Bancorp, Inc.",Financial Services,Banks - Regional,27.15,362906976.0,4.0,2.0,0.0,6.0,False,2.1
+AEG,Aegon Ltd.,Financial Services,Insurance - Diversified,7.83,12389513216.0,4.0,2.0,0.0,6.0,False,5.66
+WASH,"Washington Trust Bancorp, Inc.",Financial Services,Banks - Regional,29.09,557225152.0,4.0,2.0,0.0,6.0,False,7.7
+MBCN,Middlefield Banc Corp.,Financial Services,Banks - Regional,35.44,286599264.0,4.0,2.0,0.0,6.0,False,2.37
+BSRR,Sierra Bancorp,Financial Services,Banks - Regional,32.17,437199072.0,4.0,2.0,0.0,6.0,False,3.11
+OPBK,OP Bancorp,Financial Services,Banks - Regional,13.77,204974928.0,4.0,2.0,0.0,6.0,False,3.49
+CPF,Central Pacific Financial Corp.,Financial Services,Banks - Regional,30.57,819487616.0,4.0,2.0,0.0,6.0,False,3.66
+BWFG,"Bankwell Financial Group, Inc.",Financial Services,Banks - Regional,47.34,372918144.0,4.0,2.0,0.0,6.0,False,1.69
+NTRS,Northern Trust Corporation,Financial Services,Asset Management,133.21,25397899264.0,4.0,2.0,0.0,6.0,False,2.4
+AMSF,"AMERISAFE, Inc.",Financial Services,Insurance - Specialty,37.14,705312832.0,4.0,2.0,0.0,6.0,False,4.2
+THFF,First Financial Corporation,Financial Services,Banks - Regional,60.42,716015936.0,4.0,2.0,0.0,6.0,False,3.38
+TIPT,Tiptree Inc.,Financial Services,Insurance - Specialty,18.09,684231360.0,4.0,2.0,0.0,6.0,False,1.33
+MSBI,"Midland States Bancorp, Inc.",Financial Services,Banks - Regional,19.68,424137856.0,4.0,2.0,0.0,6.0,False,6.5
+MRBK,Meridian Corporation,Financial Services,Banks - Regional,16.27,187389008.0,4.0,2.0,0.0,6.0,False,3.07
+ORI,Old Republic International Corporation,Financial Services,Insurance - Property & Casualty,42.95,10671775744.0,4.0,2.0,0.0,6.0,False,2.7
+ORRF,"Orrstown Financial Services, Inc.",Financial Services,Banks - Regional,36.94,720284544.0,4.0,2.0,0.0,6.0,False,2.92
+BOTJ,"Bank of the James Financial Group, Inc.",Financial Services,Banks - Regional,17.8,80871432.0,4.0,2.0,0.0,6.0,False,2.25
+MPB,"Mid Penn Bancorp, Inc.",Financial Services,Banks - Regional,29.8,686845184.0,4.0,2.0,0.0,6.0,False,2.75
+CG,The Carlyle Group Inc.,Financial Services,Asset Management,57.11,20656967680.0,4.0,2.0,0.0,6.0,False,2.45
+FDBC,"Fidelity D & D Bancorp, Inc.",Financial Services,Banks - Regional,43.27,249551168.0,4.0,2.0,0.0,6.0,False,3.77
+FDS,FactSet Research Systems Inc.,Financial Services,Financial Data & Stock Exchanges,290.63,10987783168.0,4.0,2.0,0.0,6.0,False,1.51
+KRNY,Kearny Financial Corp.,Financial Services,Banks - Regional,7.28,457420768.0,4.0,2.0,0.0,6.0,False,6.04
+NRIM,"Northrim BanCorp, Inc.",Financial Services,Banks - Regional,24.27,536140512.0,4.0,2.0,0.0,6.0,False,2.64
+TROW,"T. Rowe Price Group, Inc.",Financial Services,Asset Management,106.58,23417251840.0,4.0,2.0,0.0,6.0,False,4.77
+FRST,Primis Financial Corp.,Financial Services,Banks - Regional,11.69,288092832.0,4.0,2.0,0.0,6.0,False,3.42
+MBWM,Mercantile Bank Corporation,Financial Services,Banks - Regional,46.56,756767616.0,4.0,2.0,0.0,6.0,False,3.26
+MCBS,"MetroCity Bankshares, Inc.",Financial Services,Banks - Regional,26.82,772906368.0,4.0,2.0,0.0,6.0,False,3.73
+AROW,Arrow Financial Corporation,Financial Services,Banks - Regional,30.57,503458112.0,4.0,2.0,0.0,6.0,False,3.79
+SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,58.58,32728799232.0,4.0,2.0,0.0,6.0,False,4.45
+SPFI,"South Plains Financial, Inc.",Financial Services,Banks - Regional,38.93,632528384.0,4.0,2.0,0.0,6.0,False,1.64
+SMBK,"SmartFinancial, Inc.",Financial Services,Banks - Regional,37.15,632590208.0,4.0,2.0,0.0,6.0,False,0.86
+ASRV,"AmeriServ Financial, Inc.",Financial Services,Banks - Regional,3.17,52375588.0,4.0,2.0,0.0,6.0,False,3.79
+OVLY,Oak Valley Bancorp,Financial Services,Banks - Regional,28.04,235205728.0,4.0,2.0,0.0,6.0,False,2.14
+IVZ,Invesco Ltd.,Financial Services,Asset Management,26.24,11702089728.0,4.0,2.0,0.0,6.0,False,3.2
+GLBZ,Glen Burnie Bancorp,Financial Services,Banks - Regional,4.2661,12455711.0,4.0,2.0,0.0,6.0,False,7.55
+MOFG,"MidWestOne Financial Group, Inc.",Financial Services,Banks - Regional,40.74,840578688.0,4.0,2.0,0.0,6.0,False,2.38
+SMBC,"Southern Missouri Bancorp, Inc.",Financial Services,Banks - Regional,57.94,654181248.0,4.0,2.0,0.0,6.0,False,1.73
+ATLO,Ames National Corporation,Financial Services,Banks - Regional,22.08,196339072.0,4.0,2.0,0.0,6.0,False,3.62
+BPRN,"Princeton Bancorp, Inc.",Financial Services,Banks - Regional,33.33,225406144.0,4.0,2.0,0.0,6.0,False,4.2
+OVBC,Ohio Valley Banc Corp.,Financial Services,Banks - Regional,40.9,192679984.0,4.0,2.0,0.0,6.0,False,2.25
+CHMG,Chemung Financial Corporation,Financial Services,Banks - Regional,53.3,255538800.0,4.0,2.0,0.0,6.0,False,2.48
+ISBA,Isabella Bank Corporation,Financial Services,Banks - Regional,46.2,340027936.0,4.0,2.0,0.0,6.0,False,2.42
+ISTR,Investar Holding Corporation,Financial Services,Banks - Regional,26.03,255767760.0,4.0,2.0,0.0,6.0,False,1.69
+ITIC,Investors Title Company,Financial Services,Insurance - Specialty,250.45,472742912.0,4.0,2.0,0.0,6.0,False,0.73
+FSBW,"FS Bancorp, Inc.",Financial Services,Banks - Regional,40.52,307803552.0,4.0,2.0,0.0,6.0,False,2.76
+FSFG,"First Savings Financial Group, Inc.",Financial Services,Banks - Regional,31.75,221805760.0,4.0,2.0,0.0,6.0,False,2.02
+CAC,Camden National Corporation,Financial Services,Banks - Regional,42.37,716994624.0,4.0,2.0,0.0,6.0,False,3.97
+L,Loews Corporation,Financial Services,Insurance - Property & Casualty,102.82,21327583232.0,4.0,2.0,0.0,6.0,False,0.24
+COFS,"ChoiceOne Financial Services, Inc.",Financial Services,Banks - Regional,31.25,469491616.0,4.0,2.0,0.0,6.0,False,3.71
+AMAL,Amalgamated Financial Corp.,Financial Services,Banks - Regional,30.95,931876032.0,4.0,2.0,0.0,6.0,False,1.81
+TRST,TrustCo Bank Corp NY,Financial Services,Banks - Regional,42.56,802299264.0,4.0,2.0,0.0,6.0,False,3.57
+PCB,PCB Bancorp,Financial Services,Banks - Regional,21.55,307319232.0,4.0,2.0,0.0,6.0,False,3.71
+SEIC,SEI Investments Company,Financial Services,Asset Management,81.1,10025992192.0,4.0,2.0,0.0,6.0,False,1.21
+SFBC,"Sound Financial Bancorp, Inc.",Financial Services,Banks - Regional,44.11,105336360.0,4.0,2.0,0.0,6.0,False,1.72
+BMRC,Bank of Marin Bancorp,Financial Services,Banks - Regional,26.74,430370592.0,4.0,2.0,0.0,6.0,False,3.74
+FBIZ,"First Business Financial Services, Inc.",Financial Services,Banks - Regional,53.92,448843968.0,4.0,2.0,0.0,6.0,False,2.15
+FCAP,"First Capital, Inc.",Financial Services,Banks - Regional,50.78,170372944.0,4.0,2.0,0.0,6.0,False,2.36
+FCBC,"First Community Bankshares, Inc.",Financial Services,Banks - Regional,32.62,597432192.0,4.0,2.0,0.0,6.0,False,3.8
+FCCO,First Community Corporation,Financial Services,Banks - Regional,29.38,225923232.0,4.0,2.0,0.0,6.0,False,2.18
+SHBI,"Shore Bancshares, Inc.",Financial Services,Banks - Regional,17.66,590316480.0,4.0,2.0,0.0,6.0,False,2.72
+NMR,"Nomura Holdings, Inc.",Financial Services,Capital Markets,7.82,23047763968.0,4.0,2.0,0.0,6.0,False,5.26
+EFSI,"Eagle Financial Services, Inc.",Financial Services,Banks - Regional,38.19,205322640.0,4.0,2.0,0.0,6.0,False,3.25
+EG,"Everest Group, Ltd.",Financial Services,Insurance - Reinsurance,309.97,13011938304.0,4.0,2.0,0.0,6.0,False,2.58
+EGBN,"Eagle Bancorp, Inc.",Financial Services,Banks - Regional,20.98,637188544.0,4.0,2.0,0.0,6.0,False,2.41
+FRAF,Franklin Financial Services Corporation,Financial Services,Banks - Regional,53.64,240255536.0,4.0,2.0,0.0,6.0,False,2.46
+FRBA,First Bank,Financial Services,Banks - Regional,15.7,390777568.0,4.0,2.0,0.0,6.0,False,1.53
+AMP,"Ameriprise Financial, Inc.",Financial Services,Asset Management,477.06,44973195264.0,4.0,2.0,0.0,6.0,False,1.34
+GSBC,"Great Southern Bancorp, Inc.",Financial Services,Banks - Regional,61.715,699128832.0,4.0,2.0,0.0,6.0,False,2.64
+LARK,"Landmark Bancorp, Inc.",Financial Services,Banks - Regional,27.67,168236560.0,4.0,2.0,0.0,6.0,False,2.89
+LCNB,LCNB Corp.,Financial Services,Banks - Regional,16.03,227411936.0,4.0,2.0,0.0,6.0,False,5.49
+TW,Tradeweb Markets Inc.,Financial Services,Capital Markets,107.77,23545982976.0,4.0,2.0,0.0,6.0,False,0.45
+ALRS,Alerus Financial Corporation,Financial Services,Banks - Regional,22.21,564074112.0,4.0,2.0,0.0,6.0,False,3.69
+TSBK,"Timberland Bancorp, Inc.",Financial Services,Banks - Regional,34.63,273481440.0,4.0,2.0,0.0,6.0,False,3.03
+IROQ,"IF Bancorp, Inc.",Financial Services,Banks - Regional,26.4,85558912.0,4.0,2.0,0.0,6.0,False,1.52
+PBHC,"Pathfinder Bancorp, Inc.",Financial Services,Banks - Regional,14.11,87122304.0,4.0,2.0,0.0,6.0,False,2.83
+WNEB,"Western New England Bancorp, Inc.",Financial Services,Banks - Regional,12.65,259223360.0,4.0,2.0,0.0,6.0,False,2.21
+PEBK,"Peoples Bancorp of North Carolina, Inc.",Financial Services,Banks - Regional,33.66,178701552.0,4.0,2.0,0.0,6.0,False,2.38
+SBFG,"SB Financial Group, Inc.",Financial Services,Banks - Regional,21.23,133717744.0,4.0,2.0,0.0,6.0,False,2.92
+SBSI,"Southside Bancshares, Inc.",Financial Services,Banks - Regional,30.54,918646528.0,4.0,2.0,0.0,6.0,False,4.72
+AUBN,"Auburn National Bancorporation, Inc.",Financial Services,Banks - Regional,24.845,86800952.0,4.0,2.0,0.0,6.0,False,4.35
+INBK,First Internet Bancorp,Financial Services,Banks - Regional,19.725,171865808.0,4.0,2.0,0.0,6.0,False,1.22
+HBNC,"Horizon Bancorp, Inc.",Financial Services,Banks - Regional,17.29,885869440.0,4.0,2.0,0.0,6.0,False,3.7
+FMNB,Farmers National Banc Corp.,Financial Services,Banks - Regional,13.83,520743520.0,4.0,2.0,0.0,6.0,False,4.92
+FNF,"Fidelity National Financial, Inc.",Financial Services,Insurance - Specialty,58.1,15787080704.0,4.0,2.0,0.0,6.0,False,3.58
+FNLC,"The First Bancorp, Inc.",Financial Services,Banks - Regional,25.85,290019424.0,4.0,2.0,0.0,6.0,False,5.73
+FNWB,First Northwest Bancorp,Financial Services,Banks - Regional,9.87,88296944.0,4.0,2.0,0.0,6.0,False,2.84
+FNWD,Finward Bancorp,Financial Services,Banks - Regional,38.56,166849120.0,4.0,2.0,0.0,6.0,False,1.24
+NKSH,"National Bankshares, Inc.",Financial Services,Banks - Regional,29.79,189643168.0,4.0,2.0,0.0,6.0,False,5.24
+HBT,"HBT Financial, Inc.",Financial Services,Banks - Regional,24.55,771715840.0,4.0,2.0,0.0,6.0,False,3.42
+CBAN,"Colony Bankcorp, Inc.",Financial Services,Banks - Regional,17.47,371663392.0,4.0,2.0,0.0,6.0,False,2.63
+CBFV,"CB Financial Services, Inc.",Financial Services,Banks - Regional,34.37,172224048.0,4.0,2.0,0.0,6.0,False,3.03
+NFBK,"Northfield Bancorp, Inc. (Staten Island, NY)",Financial Services,Banks - Regional,11.2,468277920.0,4.0,2.0,0.0,6.0,False,4.64
+CBOE,"Cboe Global Markets, Inc.",Financial Services,Financial Data & Stock Exchanges,252.76,26449946624.0,4.0,2.0,0.0,6.0,False,1.14
+UFCS,"United Fire Group, Inc.",Financial Services,Insurance - Property & Casualty,34.92,890960256.0,4.0,2.0,0.0,6.0,False,1.83
+UBCP,"United Bancorp, Inc.",Financial Services,Banks - Regional,13.4,77371760.0,4.0,2.0,0.0,6.0,False,5.67
+UBFO,United Security Bancshares,Financial Services,Banks - Regional,9.96,175055488.0,4.0,2.0,0.0,6.0,False,4.82
+CCBG,"Capital City Bank Group, Inc.",Financial Services,Banks - Regional,41.79,713306240.0,4.0,2.0,0.0,6.0,False,2.39
+HAFC,Hanmi Financial Corporation,Financial Services,Banks - Regional,28.11,846842752.0,4.0,2.0,0.0,6.0,False,3.84
+HBCP,"Home Bancorp, Inc.",Financial Services,Banks - Regional,56.84,444951712.0,4.0,2.0,0.0,6.0,False,2.01
+PGC,Peapack-Gladstone Financial Corporation,Financial Services,Banks - Regional,27.96,493109920.0,4.0,2.0,0.0,6.0,False,0.72
+EIG,"Employers Holdings, Inc.",Financial Services,Insurance - Specialty,39.26,923064960.0,4.0,2.0,0.0,6.0,False,3.21
+FMAO,"Farmers & Merchants Bancorp, Inc.",Financial Services,Banks - Regional,24.8,340998592.0,4.0,2.0,0.0,6.0,False,3.67
+FMBH,"First Mid Bancshares, Inc.",Financial Services,Banks - Regional,39.85,956545600.0,4.0,2.0,0.0,6.0,False,2.51
+HFBL,"Home Federal Bancorp, Inc. of Louisiana",Financial Services,Banks - Regional,15.99,49381292.0,4.0,2.0,0.0,6.0,False,3.38
+PFIS,Peoples Financial Services Corp.,Financial Services,Banks - Regional,49.73,497031200.0,4.0,2.0,0.0,6.0,False,4.97
+RVSB,"Riverview Bancorp, Inc.",Financial Services,Banks - Regional,5.11,106034424.0,4.0,2.0,0.0,6.0,False,1.57
+AFG,"American Financial Group, Inc.",Financial Services,Insurance - Property & Casualty,132.57,11056812032.0,4.0,2.0,0.0,6.0,False,2.66
+CFBK,CF Bankshares Inc.,Financial Services,Banks - Regional,23.74,152975216.0,4.0,2.0,0.0,6.0,False,1.35
+CFFI,C&F Financial Corporation,Financial Services,Banks - Regional,68.14,220657824.0,4.0,2.0,0.0,6.0,False,2.7
+CFFN,"Capitol Federal Financial, Inc.",Financial Services,Banks - Regional,6.67,868965184.0,4.0,2.0,0.0,6.0,False,5.1
+RMBI,"Richmond Mutual Bancorporation, Inc.",Financial Services,Banks - Regional,13.63,132232144.0,4.0,2.0,0.0,6.0,False,4.4
+RNR,RenaissanceRe Holdings Ltd.,Financial Services,Insurance - Reinsurance,264.8,12463133696.0,4.0,2.0,0.0,6.0,False,0.6
+HFWA,Heritage Financial Corporation,Financial Services,Banks - Regional,24.14,819715712.0,4.0,2.0,0.0,6.0,False,3.98
+PKBK,"Parke Bancorp, Inc.",Financial Services,Banks - Regional,23.76,281489408.0,4.0,2.0,0.0,6.0,False,3.03
+CWBC,Community West Bancshares,Financial Services,Banks - Regional,23.27,445816640.0,4.0,2.0,0.0,6.0,False,2.06
+CIVB,"Civista Bancshares, Inc.",Financial Services,Banks - Regional,23.14,446900032.0,4.0,2.0,0.0,6.0,False,2.94
+HIFS,Hingham Institution for Savings,Financial Services,Banks - Regional,301.04,656914432.0,4.0,2.0,0.0,6.0,False,0.84
+HIG,"The Hartford Insurance Group, Inc.",Financial Services,Insurance - Property & Casualty,129.43,36392042496.0,4.0,2.0,0.0,6.0,False,1.85
+RJF,"Raymond James Financial, Inc.",Financial Services,Asset Management,163.13,32525508608.0,4.0,2.0,0.0,6.0,False,1.32
+BAFN,BayFirst Financial Corp.,Financial Services,Banks - Regional,8.0,33069096.0,4.0,2.0,0.0,6.0,False,4.0
+IBCP,Independent Bank Corporation,Financial Services,Banks - Regional,33.5,693768640.0,4.0,2.0,0.0,6.0,False,3.1
+RRBI,"Red River Bancshares, Inc.",Financial Services,Banks - Regional,70.54,476611200.0,4.0,2.0,0.0,6.0,False,0.77
+CCNE,CNB Financial Corporation,Financial Services,Banks - Regional,26.53,782004672.0,4.0,2.0,0.0,6.0,False,2.71
+CNA,CNA Financial Corporation,Financial Services,Insurance - Property & Casualty,44.25,11976996864.0,4.0,2.0,0.0,6.0,False,4.16
+FGBI,"First Guaranty Bancshares, Inc.",Financial Services,Banks - Regional,4.41,67706496.0,4.0,2.0,0.0,6.0,False,0.91
+UNB,"Union Bankshares, Inc.",Financial Services,Banks - Regional,23.01,105441552.0,4.0,2.0,0.0,6.0,False,6.26
+UNM,Unum Group,Financial Services,Insurance - Life,74.29,12652571648.0,4.0,2.0,0.0,6.0,False,2.48
+UNTY,"Unity Bancorp, Inc.",Financial Services,Banks - Regional,52.01,522151456.0,4.0,2.0,0.0,6.0,False,1.12
+NECB,"Northeast Community Bancorp, Inc.",Financial Services,Banks - Regional,21.93,295697408.0,4.0,2.0,0.0,6.0,False,3.65
+NEWT,"NewtekOne, Inc.",Financial Services,Banks - Regional,11.27,325559840.0,4.0,2.0,0.0,6.0,False,6.74
+NBN,Northeast Bank,Financial Services,Banks - Regional,92.13,790019264.0,4.0,2.0,0.0,6.0,False,0.04
+VBNK,VersaBank,Financial Services,Banks - Regional,12.35,403980896.0,4.0,2.0,0.0,6.0,False,0.58
+WSBF,"Waterstone Financial, Inc.",Financial Services,Banks - Regional,16.04,299613824.0,4.0,2.0,0.0,6.0,False,3.74
+BFIN,BankFinancial Corporation,Financial Services,Banks - Regional,12.13,151148032.0,4.0,2.0,0.0,6.0,False,3.3
+HWBK,"Hawthorn Bancshares, Inc.",Financial Services,Banks - Regional,34.3,236874736.0,4.0,2.0,0.0,6.0,False,2.33
+CZFS,"Citizens Financial Services, Inc.",Financial Services,Banks - Regional,56.75,272761888.0,4.0,2.0,0.0,6.0,False,3.52
+CZNC,Citizens & Northern Corporation,Financial Services,Banks - Regional,20.25,360545184.0,4.0,2.0,0.0,6.0,False,5.53
+CZWI,"Citizens Community Bancorp, Inc.",Financial Services,Banks - Regional,17.77,171653680.0,4.0,2.0,0.0,6.0,False,2.03
+HLI,"Houlihan Lokey, Inc.",Financial Services,Capital Markets,179.69,12634283008.0,4.0,2.0,0.0,6.0,False,1.34
+BFST,"Business First Bancshares, Inc.",Financial Services,Banks - Regional,26.81,793988032.0,4.0,2.0,0.0,6.0,False,2.13
+PLBC,Plumas Bancorp,Financial Services,Banks - Regional,43.64,303538624.0,4.0,2.0,0.0,6.0,False,2.75
+BHB,Bar Harbor Bankshares,Financial Services,Banks - Regional,30.95,516511360.0,4.0,2.0,0.0,6.0,False,4.14
+ACNB,ACNB Corporation,Financial Services,Banks - Regional,49.16,514588096.0,4.0,2.0,0.0,6.0,False,3.09
+FISI,"Financial Institutions, Inc.",Financial Services,Banks - Regional,30.86,621228672.0,4.0,2.0,0.0,6.0,False,4.02
+RBB,RBB Bancorp,Financial Services,Banks - Regional,21.37,368650208.0,4.0,2.0,0.0,6.0,False,2.99
+RGA,"Reinsurance Group of America, Incorporated",Financial Services,Insurance - Reinsurance,192.76,12740231168.0,4.0,2.0,0.0,6.0,False,1.89
+AIZ,"Assurant, Inc.",Financial Services,Insurance - Property & Casualty,222.87,11245844480.0,4.0,2.0,0.0,6.0,False,1.58
+UVE,"Universal Insurance Holdings, Inc.",Financial Services,Insurance - Property & Casualty,31.13,881556672.0,4.0,2.0,0.0,6.0,False,2.06
+UVSP,Univest Financial Corporation,Financial Services,Banks - Regional,33.46,952797376.0,4.0,2.0,0.0,6.0,False,2.63
+VABK,Virginia National Bankshares Corporation,Financial Services,Banks - Regional,40.7,219500768.0,4.0,2.0,0.0,6.0,False,3.54
+LSBK,"Lake Shore Bancorp, Inc.",Financial Services,Banks - Regional,14.86,114989904.0,4.0,2.0,0.0,6.0,False,2.42
+WTBA,"West Bancorporation, Inc.",Financial Services,Banks - Regional,22.18,375746592.0,4.0,2.0,0.0,6.0,False,4.51
+HTBK,Heritage Commerce Corp,Financial Services,Banks - Regional,11.41,701107584.0,4.0,2.0,0.0,6.0,False,4.56
+WRB,W. R. Berkley Corporation,Financial Services,Insurance - Property & Casualty,66.72,25355014144.0,4.0,2.0,0.0,6.0,False,0.54
+FUSB,"First US Bancshares, Inc.",Financial Services,Banks - Regional,14.151,81607232.0,4.0,2.0,0.0,6.0,False,1.98
+FXNC,First National Corporation,Financial Services,Banks - Regional,24.59,221575984.0,4.0,2.0,0.0,6.0,False,2.77
+EBMT,"Eagle Bancorp Montana, Inc.",Financial Services,Banks - Regional,17.78,141389728.0,4.0,2.0,0.0,6.0,False,3.26
+SYF,Synchrony Financial,Financial Services,Credit Services,80.36,29898543104.0,4.0,2.0,0.0,6.0,False,1.49
+TECTP,"Tectonic Financial, Inc.",Financial Services,Banks - Regional,11.0,44568260.0,4.0,2.0,0.0,6.0,False,10.5
+FUNC,First United Corporation,Financial Services,Banks - Regional,38.61,250845616.0,4.0,2.0,0.0,6.0,False,2.49
+KINS,"Kingstone Companies, Inc.",Financial Services,Insurance - Property & Casualty,14.77,208957520.0,4.0,2.0,0.0,6.0,False,0.68
+PROV,"Provident Financial Holdings, Inc.",Financial Services,Banks - Regional,15.3,99503720.0,4.0,2.0,0.0,6.0,False,3.66
+PRU,"Prudential Financial, Inc.",Financial Services,Insurance - Life,111.68,39304986624.0,4.0,2.0,0.0,6.0,False,4.84
+ZIONP,"Zions Bancorporation, National Association",Financial Services,Banks - Regional,21.18,0.0,3.5,2.0,0.0,5.5,False,6.24
+EVT,Eaton Vance Tax-Advantaged Dividend Income Fund,Financial Services,Asset Management,24.52,1871413120.0,4.0,1.5,0.0,5.5,False,8.06
+EVV,Eaton Vance Limited Duration Income Fund,Financial Services,Asset Management,10.0,1162034560.0,4.0,1.5,0.0,5.5,False,8.81
+PRA,ProAssurance Corporation,Financial Services,Insurance - Property & Casualty,23.9,1228786048.0,3.0,2.5,0.0,5.5,False,0.0
+HTH,Hilltop Holdings Inc.,Financial Services,Financial Conglomerates,34.38,2166000640.0,4.0,1.5,0.0,5.5,False,2.09
+HTGC,"Hercules Capital, Inc.",Financial Services,Asset Management,18.98,3449009152.0,4.0,1.5,0.0,5.5,False,9.91
+PTY,PIMCO Corporate & Income Opportunity Fund,Financial Services,Asset Management,13.14,2517558528.0,4.0,1.5,0.0,5.5,False,10.85
+BDJ,BlackRock Enhanced Equity Dividend Trust,Financial Services,Asset Management,9.17,1622582784.0,4.0,1.5,0.0,5.5,False,8.1
+HQH,Abrdn Healthcare Investors,Financial Services,Asset Management,19.04,1025536064.0,4.0,1.5,0.0,5.5,False,11.5
+HYT,"BlackRock Corporate High Yield Fund, Inc.",Financial Services,Asset Management,9.45,1513602688.0,4.0,1.5,0.0,5.5,False,9.89
+DBRG,"DigitalBridge Group, Inc.",Financial Services,Asset Management,14.12,2752909056.0,4.0,1.5,0.0,5.5,False,0.28
+BFH,"Bread Financial Holdings, Inc.",Financial Services,Credit Services,72.21,3292775936.0,4.0,1.5,0.0,5.5,False,1.27
+BHFAO,"Brighthouse Financial, Inc.",Financial Services,Insurance - Life,16.5,0.0,3.5,2.0,0.0,5.5,False,10.23
+PNFPP,"Pinnacle Financial Partners, Inc.",Financial Services,Banks - Regional,24.97,0.0,3.5,2.0,0.0,5.5,False,6.76
+BGC,"BGC Group, Inc.",Financial Services,Capital Markets,8.79,4175705600.0,4.0,1.5,0.0,5.5,False,0.91
+HLNE,Hamilton Lane Incorporated,Financial Services,Asset Management,125.2,7029441536.0,4.0,1.5,0.0,5.5,False,1.73
+PJT,PJT Partners Inc.,Financial Services,Capital Markets,176.04,6995723776.0,4.0,1.5,0.0,5.5,False,0.57
+PIPR,Piper Sandler Companies,Financial Services,Capital Markets,351.24,5843339264.0,4.0,1.5,0.0,5.5,False,0.8
+RQI,"Cohen & Steers Quality Income Realty Fund, Inc.",Financial Services,Asset Management,11.72,1575536512.0,4.0,1.5,0.0,5.5,False,8.19
+PFSI,"PennyMac Financial Services, Inc.",Financial Services,Mortgage Finance,130.91,6802800128.0,4.0,1.5,0.0,5.5,False,0.92
+RVT,"Royce Small-Cap Trust, Inc.",Financial Services,Asset Management,16.37,1958308096.0,4.0,1.5,0.0,5.5,False,8.67
+HASI,"HA Sustainable Infrastructure Capital, Inc.",Financial Services,Asset Management,33.42,4213566464.0,4.0,1.5,0.0,5.5,False,5.03
+GSBD,"Goldman Sachs BDC, Inc.",Financial Services,Asset Management,10.08,1150259968.0,4.0,1.5,0.0,5.5,False,12.7
+BN,Brookfield Corporation,Financial Services,Asset Management,46.71,104969150464.0,4.0,1.5,0.0,5.5,False,0.51
+DNP,DNP Select Income Fund Inc.,Financial Services,Asset Management,10.06,3749431040.0,4.0,1.5,0.0,5.5,False,7.75
+GNW,"Genworth Financial, Inc.",Financial Services,Insurance - Life,8.66,3554357760.0,3.0,2.5,0.0,5.5,False,0.0
+SII,Sprott Inc.,Financial Services,Asset Management,92.15,2376203776.0,4.0,1.5,0.0,5.5,False,1.74
+SLMBP,SLM Corporation,Financial Services,Credit Services,73.6896,4811569664.0,4.0,1.5,0.0,5.5,False,8.21
+SLM,SLM Corporation,Financial Services,Credit Services,30.66,6392038912.0,4.0,1.5,0.0,5.5,False,1.7
+CSWC,Capital Southwest Corporation,Financial Services,Asset Management,21.88,1257377920.0,4.0,1.5,0.0,5.5,False,14.63
+CSQ,Calamos Strategic Total Return Fund,Financial Services,Asset Management,19.35,3103152384.0,4.0,1.5,0.0,5.5,False,6.36
+OXLC,Oxford Lane Capital Corp.,Financial Services,Asset Management,14.95,1451779328.0,4.0,1.5,0.0,5.5,False,32.11
+ARES,Ares Management Corporation,Financial Services,Asset Management,165.46,54208770048.0,4.0,1.5,0.0,5.5,False,2.71
+OMF,"OneMain Holdings, Inc.",Financial Services,Credit Services,64.65,7684968448.0,4.0,1.5,0.0,5.5,False,6.5
+SUPV,Grupo Supervielle S.A.,Financial Services,Banks - Regional,11.01,1008969088.0,3.0,2.5,0.0,5.5,False,0.0
+JHG,Janus Henderson Group plc,Financial Services,Asset Management,44.71,6973798912.0,4.0,1.5,0.0,5.5,False,3.58
+JFR,Nuveen Floating Rate Income Fund,Financial Services,Asset Management,7.85,1263594240.0,4.0,1.5,0.0,5.5,False,12.99
+OCSL,Oaktree Specialty Lending Corporation,Financial Services,Asset Management,13.65,1202367360.0,4.0,1.5,0.0,5.5,False,11.72
+CRF,"Cornerstone Total Return Fund, Inc.",Financial Services,Asset Management,8.02,1234473728.0,4.0,1.5,0.0,5.5,False,17.48
+JPC,Nuveen Preferred & Income Opportunities Fund,Financial Services,Asset Management,8.24,2941341696.0,4.0,1.5,0.0,5.5,False,9.1
+STEW,"SRH Total Return Fund, Inc.",Financial Services,Asset Management,18.14,1749448832.0,4.0,1.5,0.0,5.5,False,4.41
+GDV,The Gabelli Dividend & Income Trust,Financial Services,Asset Management,27.35,2435067136.0,4.0,1.5,0.0,5.5,False,6.58
+GBDC,"Golub Capital BDC, Inc.",Financial Services,Asset Management,14.27,3759681792.0,4.0,1.5,0.0,5.5,False,10.93
+NZF,Nuveen Municipal Credit Income Fund,Financial Services,Asset Management,12.74,2468108032.0,4.0,1.5,0.0,5.5,False,7.49
+GAM,"General American Investors Company, Inc.",Financial Services,Asset Management,59.18,1387174528.0,4.0,1.5,0.0,5.5,False,0.79
+GAB,The Gabelli Equity Trust Inc.,Financial Services,Asset Management,6.18,1910964096.0,4.0,1.5,0.0,5.5,False,9.71
+BTZ,BlackRock Credit Allocation Income Trust,Financial Services,Asset Management,10.8,1007904128.0,4.0,1.5,0.0,5.5,False,9.32
+BTT,Blackrock Municipal 2030 Target Term Trust,Financial Services,Asset Management,22.54,1478893440.0,4.0,1.5,0.0,5.5,False,2.47
+OBDC,Blue Owl Capital Corporation,Financial Services,Asset Management,13.48,6888929792.0,4.0,1.5,0.0,5.5,False,8.38
+BXMX,Nuveen S&P 500 Buy-Write Income Fund,Financial Services,Asset Management,14.54,1514563328.0,4.0,1.5,0.0,5.5,False,7.5
+KKR,KKR & Co. Inc.,Financial Services,Asset Management,129.42,119832821760.0,4.0,1.5,0.0,5.5,False,0.57
+APAM,Artisan Partners Asset Management Inc.,Financial Services,Asset Management,42.64,3004875520.0,4.0,1.5,0.0,5.5,False,7.34
+AOD,Abrdn Total Dynamic Dividend Fund,Financial Services,Asset Management,9.68,1020572096.0,4.0,1.5,0.0,5.5,False,12.4
+NVG,Nuveen AMT-Free Municipal Credit Income Fund,Financial Services,Asset Management,12.7,2711734016.0,4.0,1.5,0.0,5.5,False,7.46
+NUV,"Nuveen Municipal Value Fund, Inc.",Financial Services,Asset Management,9.13,1894854784.0,4.0,1.5,0.0,5.5,False,4.27
+NU,Nu Holdings Ltd.,Financial Services,Banks - Regional,16.7,80921116672.0,3.0,2.5,0.0,5.5,False,0.0
+FULTP,Fulton Financial Corporation,Financial Services,Banks - Regional,19.2,0.0,3.5,2.0,0.0,5.5,False,6.67
+FSK,FS KKR Capital Corp.,Financial Services,Asset Management,15.46,4329826816.0,4.0,1.5,0.0,5.5,False,18.11
+AMG,"Affiliated Managers Group, Inc.",Financial Services,Asset Management,273.19,7761891840.0,4.0,1.5,0.0,5.5,False,0.01
+NNI,"Nelnet, Inc.",Financial Services,Credit Services,130.48,4719954944.0,4.0,1.5,0.0,5.5,False,1.01
+KYN,"Kayne Anderson Energy Infrastructure Fund, Inc.",Financial Services,Asset Management,12.48,2110692864.0,4.0,1.5,0.0,5.5,False,7.69
+NMZ,Nuveen Municipal High Income Opportunity Fund,Financial Services,Asset Management,10.58,1217769728.0,4.0,1.5,0.0,5.5,False,7.43
+NMFC,New Mountain Finance Corporation,Financial Services,Asset Management,9.75,1005769152.0,4.0,1.5,0.0,5.5,False,13.13
+LAZ,"Lazard, Inc.",Financial Services,Capital Markets,54.75,5194560512.0,4.0,1.5,0.0,5.5,False,3.65
+NFJ,"Virtus Dividend, Interest & Premium Strategy Fund",Financial Services,Asset Management,13.19,1250432896.0,4.0,1.5,0.0,5.5,False,9.25
+TSLX,"Sixth Street Specialty Lending, Inc.",Financial Services,Asset Management,22.29,2106269696.0,4.0,1.5,0.0,5.5,False,8.25
+COF,Capital One Financial Corporation,Financial Services,Credit Services,230.68,147523846144.0,4.0,1.5,0.0,5.5,False,1.39
+TY,Tri-Continental Corporation,Financial Services,Asset Management,34.78,1820007808.0,4.0,1.5,0.0,5.5,False,3.17
+VCTR,"Victory Capital Holdings, Inc.",Financial Services,Asset Management,63.65,4250761984.0,4.0,1.5,0.0,5.5,False,3.08
+NAVI,Navient Corporation,Financial Services,Credit Services,12.39,1231950592.0,4.0,1.5,0.0,5.5,False,5.17
+NEA,Nuveen AMT-Free Quality Municipal Income Fund,Financial Services,Asset Management,11.67,3489241088.0,4.0,1.5,0.0,5.5,False,6.99
+UTG,Reaves Utility Income Fund,Financial Services,Asset Management,37.6,3355067904.0,4.0,1.5,0.0,5.5,False,6.38
+UTF,"Cohen & Steers Infrastructure Fund, Inc",Financial Services,Asset Management,23.91,2340245248.0,4.0,1.5,0.0,5.5,False,7.78
+FHI,"Federated Hermes, Inc.",Financial Services,Asset Management,50.85,3943929088.0,4.0,1.5,0.0,5.5,False,2.62
+NAC,Nuveen California Quality Municipal Income Fund,Financial Services,Asset Management,11.91,1751048448.0,4.0,1.5,0.0,5.5,False,7.41
+CNS,"Cohen & Steers, Inc.",Financial Services,Asset Management,62.2,3172668928.0,4.0,1.5,0.0,5.5,False,3.99
+CCNEP,CNB Financial Corporation,Financial Services,Banks - Regional,25.0031,0.0,3.5,2.0,0.0,5.5,False,7.12
+USA,Liberty All-Star Equity Fund,Financial Services,Asset Management,6.17,1818757120.0,4.0,1.5,0.0,5.5,False,10.86
+FITBP,Fifth Third Bancorp,Financial Services,Banks - Regional,24.65,0.0,3.5,2.0,0.0,5.5,False,6.09
+FITBO,Fifth Third Bancorp,Financial Services,Banks - Regional,19.25,0.0,3.5,2.0,0.0,5.5,False,6.43
+MUC,"BlackRock MuniHoldings California Quality Fund, Inc.",Financial Services,Asset Management,10.69,1006826048.0,4.0,1.5,0.0,5.5,False,6.01
+NAD,Nuveen Quality Municipal Income Fund,Financial Services,Asset Management,12.16,2838200576.0,4.0,1.5,0.0,5.5,False,6.96
+AGM,Federal Agricultural Mortgage Corporation,Financial Services,Credit Services,175.8,1917050368.0,4.0,1.5,0.0,5.5,False,3.41
+CET,Central Securities Corporation,Financial Services,Asset Management,50.65,1465592064.0,4.0,1.5,0.0,5.5,False,5.33
+VRTS,"Virtus Investment Partners, Inc.",Financial Services,Asset Management,161.79,1092795136.0,4.0,1.5,0.0,5.5,False,5.93
+VIRT,"Virtu Financial, Inc.",Financial Services,Capital Markets,35.38,7546024448.0,4.0,1.5,0.0,5.5,False,2.71
+EOS,Eaton Vance Enhanced Equity Income Fund II,Financial Services,Asset Management,23.07,1225565440.0,4.0,1.5,0.0,5.5,False,7.92
+FCNCP,"First Citizens BancShares, Inc.",Financial Services,Banks - Regional,21.6,0.0,3.5,2.0,0.0,5.5,False,6.22
+MSCI,MSCI Inc.,Financial Services,Financial Data & Stock Exchanges,538.26,41642610688.0,3.5,2.0,0.0,5.5,False,1.34
+VOYA,"Voya Financial, Inc.",Financial Services,Financial Conglomerates,70.82,6828307968.0,4.0,1.5,0.0,5.5,False,2.57
+MORN,"Morningstar, Inc.",Financial Services,Financial Data & Stock Exchanges,218.21,9203604480.0,4.0,1.5,0.0,5.5,False,0.83
+MAIN,Main Street Capital Corporation,Financial Services,Asset Management,60.73,5440651264.0,4.0,1.5,0.0,5.5,False,7.11
+ADX,"Adams Diversified Equity Fund, Inc.",Financial Services,Asset Management,23.25,2792909312.0,4.0,1.5,0.0,5.5,False,7.91
+WD,"Walker & Dunlop, Inc.",Financial Services,Mortgage Finance,63.23,2154190336.0,4.0,1.5,0.0,5.5,False,4.24
+WF,Woori Financial Group Inc.,Financial Services,Banks - Regional,58.27,14257161216.0,3.5,2.0,0.0,5.5,False,4.57
+CLM,"Cornerstone Strategic Investment Fund, Inc.",Financial Services,Asset Management,8.33,2364800512.0,4.0,1.5,0.0,5.5,False,17.58
+MC,Moelis & Company,Financial Services,Capital Markets,68.68,5094710272.0,4.0,1.5,0.0,5.5,False,3.79
+MKTX,MarketAxess Holdings Inc.,Financial Services,Capital Markets,167.24,6248717312.0,4.0,1.5,0.0,5.5,False,1.82
+MNSBP,"MainStreet Bancshares, Inc.",Financial Services,Banks - Regional,24.8,0.0,3.5,2.0,0.0,5.5,False,7.56
+FCFS,"FirstCash Holdings, Inc.",Financial Services,Credit Services,153.93,6829037568.0,4.0,1.5,0.0,5.5,False,1.09
+ETV,Eaton Vance Tax-Managed Buy-Write Opportunities Fund,Financial Services,Asset Management,14.43,1684768512.0,4.0,1.5,0.0,5.5,False,8.26
+ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund,Financial Services,Asset Management,22.45,1713426816.0,4.0,1.5,0.0,5.5,False,6.91
+ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,Financial Services,Asset Management,15.67,2468060160.0,4.0,1.5,0.0,5.5,False,7.6
+AAMI,Acadian Asset Management Inc.,Financial Services,Asset Management,46.78,1675281152.0,4.0,1.5,0.0,5.5,False,0.09
+MFIC,MidCap Financial Investment Corporation,Financial Services,Asset Management,12.26,1143902464.0,4.0,1.5,0.0,5.5,False,12.4
+WU,The Western Union Company,Financial Services,Credit Services,9.04,2919624448.0,4.0,1.5,0.0,5.5,False,10.4
+WT,"WisdomTree, Inc.",Financial Services,Asset Management,11.49,1690260736.0,4.0,1.5,0.0,5.5,False,1.04
+PSEC,Prospect Capital Corporation,Financial Services,Asset Management,2.67,1257332352.0,4.0,1.5,0.0,5.5,False,20.22
+DCOMP,"Dime Community Bancshares, Inc.",Financial Services,Banks - Regional,18.78,0.0,3.5,2.0,0.0,5.5,False,7.32
+AB,AllianceBernstein Holding L.P.,Financial Services,Asset Management,42.8,4730996224.0,4.0,1.5,0.0,5.5,False,8.11
+ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund,Financial Services,Asset Management,9.21,1000185600.0,4.0,1.5,0.0,5.5,False,8.65
+ETO,Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund,Financial Services,Asset Management,29.21,478697504.0,4.0,1.0,0.0,5.0,False,7.12
+ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,91.72,34231764992.0,3.0,2.0,0.0,5.0,False,0.0
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,Financial Services,Asset Management,9.3,2845205248.0,3.5,1.5,0.0,5.0,False,8.48
+ACIC,American Coastal Insurance Corporation,Financial Services,Insurance - Property & Casualty,12.11,590547840.0,3.0,2.0,0.0,5.0,False,0.0
+ACP,Abrdn Income Credit Strategies Fund,Financial Services,Asset Management,5.42,680051072.0,4.0,1.0,0.0,5.0,False,17.16
+MIY,"BlackRock MuniYield Michigan Quality Fund, Inc.",Financial Services,Asset Management,11.77,340915136.0,4.0,1.0,0.0,5.0,False,5.56
+MMD,NYLI MacKay DefinedTerm Muni Opportunities Fund,Financial Services,Asset Management,14.93,280377216.0,4.0,1.0,0.0,5.0,False,4.82
+CHW,Calamos Global Dynamic Income Fund,Financial Services,Asset Management,7.37,470680544.0,4.0,1.0,0.0,5.0,False,8.14
+CHY,Calamos Convertible and High Income Fund,Financial Services,Asset Management,11.59,919107328.0,4.0,1.0,0.0,5.0,False,10.35
+MHD,"BlackRock MuniHoldings Fund, Inc.",Financial Services,Asset Management,11.71,610578304.0,4.0,1.0,0.0,5.0,False,6.1
+MPV,Barings Participation Investors,Financial Services,Asset Management,19.5285,209389984.0,4.0,1.0,0.0,5.0,False,7.58
+MCHB,Mechanics Bancorp,Financial Services,Banks - Regional,15.3,3384568832.0,3.5,1.5,0.0,5.0,False,5.49
+MCI,Barings Corporate Investors,Financial Services,Asset Management,20.58,421319200.0,4.0,1.0,0.0,5.0,False,7.77
+MCN,XAI Madison Equity Premium Income Fund,Financial Services,Asset Management,5.97,126066840.0,4.0,1.0,0.0,5.0,False,15.08
+MCR,MFS Charter Income Trust,Financial Services,Asset Management,6.34,264304688.0,4.0,1.0,0.0,5.0,False,8.49
+MMT,MFS Multimarket Income Trust,Financial Services,Asset Management,4.715,260747600.0,4.0,1.0,0.0,5.0,False,8.53
+MMU,Western Asset Managed Municipals Fund Inc.,Financial Services,Asset Management,10.5,573497920.0,4.0,1.0,0.0,5.0,False,6.23
+CHI,Calamos Convertible Opportunities and Income Fund,Financial Services,Asset Management,10.84,844127360.0,4.0,1.0,0.0,5.0,False,10.52
+MQY,"BlackRock MuniYield Quality Fund, Inc.",Financial Services,Asset Management,11.44,821776512.0,4.0,1.0,0.0,5.0,False,6.08
+MRCC,Monroe Capital Corporation,Financial Services,Asset Management,6.685,144839488.0,4.0,1.0,0.0,5.0,False,14.96
+CGBD,"Carlyle Secured Lending, Inc.",Financial Services,Asset Management,12.97,945551744.0,4.0,1.0,0.0,5.0,False,12.34
+CGO,Calamos Global Total Return Fund,Financial Services,Asset Management,11.43,112325984.0,4.0,1.0,0.0,5.0,False,8.4
+MPA,BlackRock MuniYield Pennsylvania Quality Fund,Financial Services,Asset Management,11.31,146460336.0,4.0,1.0,0.0,5.0,False,7.0
+MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc.",Financial Services,Asset Management,7.37,149033136.0,4.0,1.0,0.0,5.0,False,11.47
+CEV,Eaton Vance California Municipal Income Trust,Financial Services,Asset Management,10.415,73254680.0,4.0,1.0,0.0,5.0,False,5.76
+MQT,"BlackRock MuniYield Quality Fund II, Inc.",Financial Services,Asset Management,10.07,223097936.0,4.0,1.0,0.0,5.0,False,6.08
+NAN,Nuveen New York Quality Municipal Income Fund,Financial Services,Asset Management,11.54,358242048.0,4.0,1.0,0.0,5.0,False,7.49
+LPLA,LPL Financial Holdings Inc.,Financial Services,Capital Markets,371.01,29694758912.0,4.0,1.0,0.0,5.0,False,0.32
+MUA,"BlackRock MuniAssets Fund, Inc.",Financial Services,Asset Management,10.86,417874112.0,4.0,1.0,0.0,5.0,False,6.13
+MUE,"BlackRock MuniHoldings Quality Fund II, Inc.",Financial Services,Asset Management,10.06,220495776.0,4.0,1.0,0.0,5.0,False,6.08
+MUJ,"BlackRock MuniHoldings New Jersey Quality Fund, Inc.",Financial Services,Asset Management,12.13,645135232.0,4.0,1.0,0.0,5.0,False,5.34
+CEE,"The Central and Eastern Europe Fund, Inc.",Financial Services,Asset Management,16.46,106304680.0,4.0,1.0,0.0,5.0,False,2.15
+MVF,"BlackRock MuniVest Fund, Inc.",Financial Services,Asset Management,6.97,399629824.0,4.0,1.0,0.0,5.0,False,6.2
+MVT,"BlackRock MuniVest Fund II, Inc.",Financial Services,Asset Management,10.72,223634464.0,4.0,1.0,0.0,5.0,False,6.04
+CMU,MFS High Yield Municipal Trust,Financial Services,Asset Management,3.49,88969808.0,4.0,1.0,0.0,5.0,False,5.42
+MXE,Mexico Equity & Income Fund Inc.,Financial Services,Asset Management,12.03,52934512.0,4.0,1.0,0.0,5.0,False,2.48
+MXF,"The Mexico Fund, Inc.",Financial Services,Asset Management,19.54,281768096.0,4.0,1.0,0.0,5.0,False,5.12
+MYD,"BlackRock MuniYield Fund, Inc.",Financial Services,Asset Management,10.53,481573856.0,4.0,1.0,0.0,5.0,False,6.21
+MYI,"BlackRock MuniYield Quality Fund III, Inc.",Financial Services,Asset Management,11.07,735792448.0,4.0,1.0,0.0,5.0,False,6.02
+MYN,"BlackRock MuniYield New York Quality Fund, Inc.",Financial Services,Asset Management,10.18,390028480.0,4.0,1.0,0.0,5.0,False,6.04
+CCAP,"Crescent Capital BDC, Inc.",Financial Services,Asset Management,14.9,551188608.0,4.0,1.0,0.0,5.0,False,11.28
+LEO,"BNY Mellon Strategic Municipals, Inc.",Financial Services,Asset Management,6.31,402780640.0,4.0,1.0,0.0,5.0,False,4.06
+LGI,"Lazard Global Total Return and Income Fund, Inc.",Financial Services,Asset Management,17.74,230849600.0,4.0,1.0,0.0,5.0,False,9.91
+NCA,Nuveen California Municipal Value Fund,Financial Services,Asset Management,8.8,291352128.0,4.0,1.0,0.0,5.0,False,3.95
+NCV,Virtus Convertible & Income Fund,Financial Services,Asset Management,15.45,349067936.0,4.0,1.0,0.0,5.0,False,10.56
+NCZ,Virtus Convertible & Income Fund II,Financial Services,Asset Management,14.03,266976016.0,4.0,1.0,0.0,5.0,False,10.26
+NAZ,Nuveen Arizona Quality Municipal Income Fund,Financial Services,Asset Management,12.02,147563088.0,4.0,1.0,0.0,5.0,False,6.54
+NBH,Neuberger Berman Municipal Fund Inc.,Financial Services,Asset Management,10.29,304769824.0,4.0,1.0,0.0,5.0,False,6.32
+NMI,"Nuveen Municipal Income Fund, Inc.",Financial Services,Asset Management,10.006,102963000.0,4.0,1.0,0.0,5.0,False,4.56
+NMT,Nuveen Massachusetts Quality Municipal Income Fund,Financial Services,Asset Management,11.58,113022256.0,4.0,1.0,0.0,5.0,False,6.63
+CARE,"Carter Bankshares, Inc.",Financial Services,Banks - Regional,19.03,431407008.0,3.0,2.0,0.0,5.0,False,0.0
+CARV,"Carver Bancorp, Inc.",Financial Services,Banks - Regional,1.41,7454811.0,3.0,2.0,0.0,5.0,False,0.0
+NHS,Neuberger Berman High Yield Strategies Fund Inc.,Financial Services,Asset Management,7.25,222147968.0,4.0,1.0,0.0,5.0,False,14.98
+NIC,"Nicolet Bankshares, Inc.",Financial Services,Banks - Regional,129.69,1919271936.0,3.5,1.5,0.0,5.0,False,0.96
+NIM,Nuveen Select Maturities Municipal Fund,Financial Services,Asset Management,9.3,115753352.0,4.0,1.0,0.0,5.0,False,3.74
+NRO,Neuberger Berman Real Estate Securities Income Fund Inc.,Financial Services,Asset Management,3.03,191986352.0,4.0,1.0,0.0,5.0,False,12.36
+KTF,DWS Municipal Income Trust,Financial Services,Asset Management,9.23,361565280.0,4.0,1.0,0.0,5.0,False,7.93
+COHN,Cohen & Company Inc.,Financial Services,Capital Markets,16.76,34121080.0,4.0,1.0,0.0,5.0,False,5.97
+COLB,"Columbia Banking System, Inc.",Financial Services,Banks - Regional,28.18,8430646272.0,3.5,1.5,0.0,5.0,False,5.25
+NNY,Nuveen New York Municipal Value Fund,Financial Services,Asset Management,8.48,160153712.0,4.0,1.0,0.0,5.0,False,4.17
+NOM,Nuveen Missouri Quality Municipal Income Fund,Financial Services,Asset Management,11.13,26163870.0,4.0,1.0,0.0,5.0,False,6.58
+NKX,Nuveen California AMT-Free Quality Municipal Income Fund,Financial Services,Asset Management,12.73,645022272.0,4.0,1.0,0.0,5.0,False,7.16
+NMCO,Nuveen Municipal Credit Opportunities Fund,Financial Services,Asset Management,10.75,589120320.0,4.0,1.0,0.0,5.0,False,7.65
+BYFC,Broadway Financial Corporation,Financial Services,Banks - Regional,6.175,57002540.0,3.0,2.0,0.0,5.0,False,0.0
+BYM,BlackRock Municipal Income Quality Trust,Financial Services,Asset Management,10.94,283382528.0,4.0,1.0,0.0,5.0,False,6.09
+NPV,Nuveen Virginia Quality Municipal Income Fund,Financial Services,Asset Management,11.29,208430944.0,4.0,1.0,0.0,5.0,False,6.91
+NQP,Nuveen Pennsylvania Quality Municipal Income Fund,Financial Services,Asset Management,12.07,449218848.0,4.0,1.0,0.0,5.0,False,7.75
+NRK,Nuveen New York AMT-Free Quality Municipal Income Fund,Financial Services,Asset Management,10.1,881076608.0,4.0,1.0,0.0,5.0,False,8.2
+NXC,Nuveen California Select Tax-Free Income Portfolio,Financial Services,Asset Management,13.225,85354480.0,4.0,1.0,0.0,5.0,False,3.9
+NXJ,Nuveen New Jersey Quality Municipal Income Fund,Financial Services,Asset Management,12.71,524070624.0,4.0,1.0,0.0,5.0,False,7.41
+NXN,Nuveen New York Select Tax-Free Income Portfolio,Financial Services,Asset Management,12.15,47687460.0,4.0,1.0,0.0,5.0,False,4.15
+NXP,Nuveen Select Tax-Free Income Portfolio,Financial Services,Asset Management,14.28,733453632.0,4.0,1.0,0.0,5.0,False,4.5
+BTO,John Hancock Financial Opportunities Fund,Financial Services,Asset Management,35.29,698746688.0,4.0,1.0,0.0,5.0,False,7.37
+KF,"The Korea Fund, Inc.",Financial Services,Asset Management,35.8,149362928.0,4.0,1.0,0.0,5.0,False,1.27
+KFFB,Kentucky First Federal Bancorp,Financial Services,Banks - Regional,4.45,35985880.0,3.0,2.0,0.0,5.0,False,0.0
+OCCI,"OFS Credit Company, Inc.",Financial Services,Asset Management,5.03,139411552.0,4.0,1.0,0.0,5.0,False,27.44
+BSL,Blackstone Senior Floating Rate 2027 Term Fund,Financial Services,Asset Management,13.68,178057568.0,4.0,1.0,0.0,5.0,False,9.36
+BST,BlackRock Science and Technology Trust,Financial Services,Asset Management,41.22,1431159296.0,3.5,1.5,0.0,5.0,False,7.28
+BSTZ,BlackRock Science and Technology Term Trust,Financial Services,Asset Management,22.75,1604030080.0,3.5,1.5,0.0,5.0,False,8.57
+BTA,BlackRock Long-Term Municipal Advantage Trust,Financial Services,Asset Management,9.5,127678976.0,4.0,1.0,0.0,5.0,False,6.25
+OIA,Invesco Municipal Income Opportunities Trust,Financial Services,Asset Management,6.18,294642752.0,4.0,1.0,0.0,5.0,False,5.65
+BRW,Saba Capital Income & Opportunities Fund,Financial Services,Asset Management,7.29,312645376.0,4.0,1.0,0.0,5.0,False,13.99
+JOF,"Japan Smaller Capitalization Fund, Inc.",Financial Services,Asset Management,10.64,301472640.0,4.0,1.0,0.0,5.0,False,10.0
+JQC,Nuveen Credit Strategies Income Fund,Financial Services,Asset Management,5.06,747952320.0,4.0,1.0,0.0,5.0,False,12.81
+JRS,Nuveen Real Estate Income Fund,Financial Services,Asset Management,7.75,223916656.0,4.0,1.0,0.0,5.0,False,8.77
+JXN,Jackson Financial Inc.,Financial Services,Insurance - Life,98.29,6846041600.0,3.5,1.5,0.0,5.0,False,3.26
+BRBS,"Blue Ridge Bankshares, Inc.",Financial Services,Banks - Regional,4.37,402590432.0,3.0,2.0,0.0,5.0,False,0.0
+JEF,Jefferies Financial Group Inc.,Financial Services,Capital Markets,59.12,12195290112.0,4.0,1.0,0.0,5.0,False,2.71
+JHI,John Hancock Investors Trust,Financial Services,Asset Management,14.17,123910232.0,4.0,1.0,0.0,5.0,False,8.57
+JHS,John Hancock Income Securities Trust,Financial Services,Asset Management,11.63,135449792.0,4.0,1.0,0.0,5.0,False,5.16
+JMM,Nuveen Multi-Market Income Fund,Financial Services,Asset Management,6.11,57814960.0,4.0,1.0,0.0,5.0,False,5.7
+OFS,OFS Capital Corporation,Financial Services,Asset Management,5.28,70741856.0,4.0,1.0,0.0,5.0,False,12.88
+BOE,BlackRock Enhanced Global Dividend Trust,Financial Services,Asset Management,11.71,667771776.0,4.0,1.0,0.0,5.0,False,8.47
+IX,ORIX Corporation,Financial Services,Financial Conglomerates,27.82,30908278784.0,4.0,1.0,0.0,5.0,False,2.93
+OPY,Oppenheimer Holdings Inc.,Financial Services,Capital Markets,67.87,714029696.0,4.0,1.0,0.0,5.0,False,1.06
+OXSQ,Oxford Square Capital Corp.,Financial Services,Asset Management,1.83,149455024.0,4.0,1.0,0.0,5.0,False,22.95
+PAI,Western Asset Investment Grade Income Fund Inc.,Financial Services,Asset Management,12.43,118221272.0,4.0,1.0,0.0,5.0,False,5.07
+BNY,BlackRock New York Municipal Income Trust,Financial Services,Asset Management,10.24,246959152.0,4.0,1.0,0.0,5.0,False,5.98
+PDI,PIMCO Dynamic Income Fund,Financial Services,Asset Management,18.07,7548806656.0,3.5,1.5,0.0,5.0,False,14.64
+INTR,"Inter & Co, Inc.",Financial Services,Banks - Regional,8.25,3631508224.0,3.5,1.5,0.0,5.0,False,0.97
+IQI,Invesco Quality Municipal Income Trust,Financial Services,Asset Management,10.09,533597504.0,4.0,1.0,0.0,5.0,False,7.5
+PCF,High Income Securities Fund,Financial Services,Asset Management,6.26,117164984.0,4.0,1.0,0.0,5.0,False,11.37
+BLW,BlackRock Limited Duration Income Trust,Financial Services,Asset Management,13.8,534523136.0,4.0,1.0,0.0,5.0,False,9.84
+BMA,Banco Macro S.A.,Financial Services,Banks - Regional,86.12,6071074304.0,3.5,1.5,0.0,5.0,False,2.07
+BME,BlackRock Health Sciences Trust,Financial Services,Asset Management,40.65,525364800.0,4.0,1.0,0.0,5.0,False,7.74
+PCM,PCM Fund Inc.,Financial Services,Asset Management,6.2,75863200.0,4.0,1.0,0.0,5.0,False,12.43
+PCN,PIMCO Corporate & Income Strategy Fund,Financial Services,Asset Management,12.58,843514176.0,4.0,1.0,0.0,5.0,False,10.73
+PCQ,PIMCO California Municipal Income Fund,Financial Services,Asset Management,8.76,166273568.0,4.0,1.0,0.0,5.0,False,4.93
+BLE,BlackRock Municipal Income Trust II,Financial Services,Asset Management,10.43,497793216.0,4.0,1.0,0.0,5.0,False,6.21
+PDT,John Hancock Premium Dividend Fund,Financial Services,Asset Management,12.81,630062720.0,4.0,1.0,0.0,5.0,False,7.73
+PEO,"Adams Natural Resources Fund, Inc.",Financial Services,Asset Management,21.81,586442432.0,4.0,1.0,0.0,5.0,False,9.4
+BKN,BlackRock Investment Quality Municipal Trust Inc.,Financial Services,Asset Management,11.29,194254016.0,4.0,1.0,0.0,5.0,False,6.06
+BKT,"BlackRock Income Trust, Inc.",Financial Services,Asset Management,11.01,356602368.0,4.0,1.0,0.0,5.0,False,9.61
+IIF,"Morgan Stanley India Investment Fund, Inc.",Financial Services,Asset Management,26.65,257411120.0,4.0,1.0,0.0,5.0,False,10.12
+IIM,Invesco Value Municipal Income Trust,Financial Services,Asset Management,12.61,593532992.0,4.0,1.0,0.0,5.0,False,7.34
+PFD,Flaherty & Crumrine Preferred Income Fund Inc.,Financial Services,Asset Management,11.82,151917200.0,4.0,1.0,0.0,5.0,False,6.57
+PFG,"Principal Financial Group, Inc.",Financial Services,Asset Management,87.52,19496693760.0,4.0,1.0,0.0,5.0,False,3.61
+PFL,PIMCO Income Strategy Fund,Financial Services,Asset Management,8.51,386141248.0,4.0,1.0,0.0,5.0,False,11.48
+PFLT,PennantPark Floating Rate Capital Ltd.,Financial Services,Asset Management,9.52,944554432.0,4.0,1.0,0.0,5.0,False,12.92
+PFN,PIMCO Income Strategy Fund II,Financial Services,Asset Management,7.44,701398592.0,4.0,1.0,0.0,5.0,False,11.58
+IFN,"The India Fund, Inc.",Financial Services,Asset Management,13.9,560789504.0,4.0,1.0,0.0,5.0,False,26.07
+IGA,Voya Global Advantage and Premium Opportunity Fund,Financial Services,Asset Management,9.71,148964912.0,4.0,1.0,0.0,5.0,False,10.5
+IGD,Voya Global Equity Dividend and Premium Opportunity Fund,Financial Services,Asset Management,5.8,457437376.0,4.0,1.0,0.0,5.0,False,10.34
+IGR,CBRE Global Real Estate Income Fund,Financial Services,Asset Management,4.43,669346816.0,4.0,1.0,0.0,5.0,False,16.25
+BHK,BlackRock Core Bond Trust,Financial Services,Asset Management,9.53,688296832.0,4.0,1.0,0.0,5.0,False,9.39
+BHV,BlackRock Virginia Municipal Bond Trust,Financial Services,Asset Management,10.9563,17402526.0,4.0,1.0,0.0,5.0,False,5.64
+ICMB,"Investcorp Credit Management BDC, Inc.",Financial Services,Asset Management,2.85,41096324.0,4.0,1.0,0.0,5.0,False,18.25
+PFO,Flaherty & Crumrine Preferred Income Opportunity Fund Inc.,Financial Services,Asset Management,9.39,122796096.0,4.0,1.0,0.0,5.0,False,6.71
+PGP,PIMCO Global StocksPLUS & Income Fund,Financial Services,Asset Management,8.91,102937232.0,4.0,1.0,0.0,5.0,False,9.29
+PHK,PIMCO High Income Fund,Financial Services,Asset Management,4.89,851045824.0,4.0,1.0,0.0,5.0,False,11.78
+BGT,BlackRock Floating Rate Income Trust,Financial Services,Asset Management,11.14,307901440.0,4.0,1.0,0.0,5.0,False,12.96
+BGY,BlackRock Enhanced International Dividend Trust,Financial Services,Asset Management,5.82,540898624.0,4.0,1.0,0.0,5.0,False,8.78
+CXE,MFS High Income Municipal Trust,Financial Services,Asset Management,3.73,117591128.0,4.0,1.0,0.0,5.0,False,5.55
+CXH,MFS Investment Grade Municipal Trust,Financial Services,Asset Management,7.94,65101808.0,4.0,1.0,0.0,5.0,False,4.7
+PIM,Putnam Master Intermediate Income Trust,Financial Services,Asset Management,3.29,158526480.0,4.0,1.0,0.0,5.0,False,8.02
+BFK,BlackRock Municipal Income Trust,Financial Services,Asset Management,9.97,437232736.0,4.0,1.0,0.0,5.0,False,6.02
+PPT,Putnam Premier Income Trust,Financial Services,Asset Management,3.57,341176096.0,4.0,1.0,0.0,5.0,False,8.74
+IAF,Abrdn Australia Equity Fund Inc,Financial Services,Asset Management,12.7,117213096.0,4.0,1.0,0.0,5.0,False,11.97
+PML,PIMCO Municipal Income Fund II,Financial Services,Asset Management,7.67,510001312.0,4.0,1.0,0.0,5.0,False,6.18
+PMM,Putnam Managed Municipal Income Trust,Financial Services,Asset Management,6.26,279588704.0,4.0,1.0,0.0,5.0,False,5.08
+PMO,Putnam Municipal Opportunities Trust,Financial Services,Asset Management,10.56,312538432.0,4.0,1.0,0.0,5.0,False,4.47
+PNBK,"Patriot National Bancorp, Inc.",Financial Services,Banks - Regional,1.36,156387776.0,3.0,2.0,0.0,5.0,False,0.0
+BFZ,BlackRock California Municipal Income Trust,Financial Services,Asset Management,10.89,327393120.0,4.0,1.0,0.0,5.0,False,6.5
+BGR,BlackRock Energy and Resources Trust,Financial Services,Asset Management,14.03,366307744.0,4.0,1.0,0.0,5.0,False,8.32
+HTD,John Hancock Tax-Advantaged Dividend Income Fund,Financial Services,Asset Management,24.42,865245120.0,4.0,1.0,0.0,5.0,False,7.27
+BEN,"Franklin Resources, Inc.",Financial Services,Asset Management,23.4,12190711808.0,4.0,1.0,0.0,5.0,False,5.47
+PNI,PIMCO New York Municipal Income Fund II,Financial Services,Asset Management,6.92,77566280.0,4.0,1.0,0.0,5.0,False,5.12
+PNNT,PennantPark Investment Corporation,Financial Services,Asset Management,5.84,381329216.0,4.0,1.0,0.0,5.0,False,16.44
+QQQX,Nuveen Nasdaq 100 Dynamic Overwrite Fund,Financial Services,Asset Management,28.59,1395957760.0,3.5,1.5,0.0,5.0,False,7.83
+BCV,Bancroft Fund Ltd.,Financial Services,Asset Management,22.65,132775608.0,4.0,1.0,0.0,5.0,False,6.18
+HRTG,"Heritage Insurance Holdings, Inc.",Financial Services,Insurance - Property & Casualty,26.73,829099648.0,3.0,2.0,0.0,5.0,False,0.0
+HRZN,Horizon Technology Finance Corporation,Financial Services,Asset Management,6.69,296924224.0,4.0,1.0,0.0,5.0,False,19.73
+RAND,Rand Capital Corporation,Financial Services,Asset Management,15.1,44844192.0,4.0,1.0,0.0,5.0,False,7.68
+BCIC,BCP Investment Corp.,Financial Services,Asset Management,13.09,172682352.0,4.0,1.0,0.0,5.0,False,15.05
+BCSF,"Bain Capital Specialty Finance, Inc.",Financial Services,Asset Management,14.41,934755200.0,4.0,1.0,0.0,5.0,False,11.66
+HPF,John Hancock Preferred Income Fund II,Financial Services,Asset Management,16.34,353279616.0,4.0,1.0,0.0,5.0,False,9.07
+HPI,John Hancock Preferred Income Fund,Financial Services,Asset Management,16.85,451026720.0,4.0,1.0,0.0,5.0,False,8.8
+HPS,John Hancock Preferred Income Fund III,Financial Services,Asset Management,14.7,472028832.0,4.0,1.0,0.0,5.0,False,8.98
+HQL,Abrdn Life Sciences Investors,Financial Services,Asset Management,17.1,493718336.0,4.0,1.0,0.0,5.0,False,10.64
+BBDC,"Barings BDC, Inc.",Financial Services,Asset Management,8.87,932759744.0,4.0,1.0,0.0,5.0,False,11.72
+BBN,BlackRock Taxable Municipal Bond Trust,Financial Services,Asset Management,17.33,1070864320.0,3.5,1.5,0.0,5.0,False,6.83
+DHY,Credit Suisse High Yield Credit Fund,Financial Services,Asset Management,2.05,212399728.0,4.0,1.0,0.0,5.0,False,9.07
+HNNA,"Hennessy Advisors, Inc.",Financial Services,Asset Management,10.0,78919168.0,4.0,1.0,0.0,5.0,False,5.5
+HOOD,"Robinhood Markets, Inc.",Financial Services,Capital Markets,131.95,118647971840.0,3.0,2.0,0.0,5.0,False,0.0
+RCG,"RENN Fund, Inc.",Financial Services,Asset Management,2.55,17890254.0,4.0,1.0,0.0,5.0,False,0.88
+RCS,"PIMCO Strategic Income Fund, Inc.",Financial Services,Asset Management,6.64,310260640.0,4.0,1.0,0.0,5.0,False,7.23
+BAM,Brookfield Asset Management Ltd.,Financial Services,Asset Management,53.26,85982781440.0,3.5,1.5,0.0,5.0,False,3.29
+DHF,BNY Mellon High Yield Strategies Fund,Financial Services,Asset Management,2.52,183522144.0,4.0,1.0,0.0,5.0,False,8.33
+RFI,"Cohen & Steers Total Return Realty Fund, Inc.",Financial Services,Asset Management,11.17,298495296.0,4.0,1.0,0.0,5.0,False,8.59
+BANX,ArrowMark Financial Corp.,Financial Services,Asset Management,21.46,152985584.0,4.0,1.0,0.0,5.0,False,8.39
+BCAT,BlackRock Capital Allocation Term Trust,Financial Services,Asset Management,14.54,1523432448.0,3.5,1.5,0.0,5.0,False,21.86
+RMT,"Royce Micro-Cap Trust, Inc.",Financial Services,Asset Management,10.58,556432512.0,4.0,1.0,0.0,5.0,False,7.47
+RNP,"Cohen & Steers REIT and Preferred Income Fund, Inc.",Financial Services,Asset Management,20.16,966662016.0,4.0,1.0,0.0,5.0,False,8.1
+HIO,Western Asset High Income Opportunity Fund Inc.,Financial Services,Asset Management,3.78,359475040.0,4.0,1.0,0.0,5.0,False,11.27
+HIX,Western Asset High Income Fund II Inc.,Financial Services,Asset Management,4.16,374689984.0,4.0,1.0,0.0,5.0,False,14.13
+DIAX,Nuveen Dow 30 Dynamic Overwrite Fund,Financial Services,Asset Management,15.22,553504384.0,4.0,1.0,0.0,5.0,False,7.91
+RM,Regional Management Corp.,Financial Services,Credit Services,36.69,359527712.0,4.0,1.0,0.0,5.0,False,3.27
+DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc.",Financial Services,Asset Management,10.75,197864192.0,4.0,1.0,0.0,5.0,False,4.02
+DMO,Western Asset Mortgage Opportunity Fund Inc.,Financial Services,Asset Management,11.5,130973040.0,4.0,1.0,0.0,5.0,False,12.52
+AWF,AllianceBernstein Global High Income Fund,Financial Services,Asset Management,10.72,924382208.0,4.0,1.0,0.0,5.0,False,7.33
+AWP,abrdn Global Premier Properties Fund,Financial Services,Asset Management,3.92,339773728.0,4.0,1.0,0.0,5.0,False,12.24
+SABA,Saba Capital Income & Opportunities Fund II,Financial Services,Asset Management,8.78,247028704.0,4.0,1.0,0.0,5.0,False,7.93
+GUT,The Gabelli Utility Trust,Financial Services,Asset Management,6.03,534872992.0,4.0,1.0,0.0,5.0,False,9.95
+AVK,Advent Convertible and Income Fund,Financial Services,Asset Management,12.68,559806080.0,4.0,1.0,0.0,5.0,False,11.09
+SBI,Western Asset Intermediate Muni Fund Inc.,Financial Services,Asset Management,7.83,110264528.0,4.0,1.0,0.0,5.0,False,6.44
+SAMG,Silvercrest Asset Management Group Inc.,Financial Services,Asset Management,14.69,123992040.0,4.0,1.0,0.0,5.0,False,5.58
+SAR,Saratoga Investment Corp.,Financial Services,Asset Management,22.75,366364832.0,4.0,1.0,0.0,5.0,False,13.19
+GRF,"Eagle Capital Growth Fund, Inc.",Financial Services,Asset Management,10.2,40471936.0,4.0,1.0,0.0,5.0,False,8.33
+GROW,"U.S. Global Investors, Inc.",Financial Services,Asset Management,2.43,31496864.0,4.0,1.0,0.0,5.0,False,3.7
+SCD,LMP Capital and Income Fund Inc.,Financial Services,Asset Management,15.01,262914256.0,4.0,1.0,0.0,5.0,False,9.59
+SCM,Stellus Capital Investment Corporation,Financial Services,Asset Management,12.61,365024864.0,4.0,1.0,0.0,5.0,False,12.69
+DTF,DTF Tax-Free Income 2028 Term Fund Inc.,Financial Services,Asset Management,11.38,79996488.0,4.0,1.0,0.0,5.0,False,3.43
+GOF,Guggenheim Strategic Opportunities Fund,Financial Services,Asset Management,12.08,2407155456.0,3.5,1.5,0.0,5.0,False,18.09
+DSL,DoubleLine Income Solutions Fund,Financial Services,Asset Management,11.3,1294691072.0,3.5,1.5,0.0,5.0,False,11.68
+DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc.",Financial Services,Asset Management,6.04,303496160.0,4.0,1.0,0.0,5.0,False,4.16
+DSU,"BlackRock Debt Strategies Fund, Inc.",Financial Services,Asset Management,10.28,637146176.0,4.0,1.0,0.0,5.0,False,11.52
+SF,Stifel Financial Corp.,Financial Services,Capital Markets,126.25,12899392512.0,4.0,1.0,0.0,5.0,False,1.46
+GLQ,Clough Global Equity Fund,Financial Services,Asset Management,7.74,145033056.0,4.0,1.0,0.0,5.0,False,10.08
+GLU,The Gabelli Global Utility & Income Trust,Financial Services,Asset Management,18.51,110773632.0,4.0,1.0,0.0,5.0,False,7.13
+GLV,Clough Global Dividend and Income Fund,Financial Services,Asset Management,6.08,75450880.0,4.0,1.0,0.0,5.0,False,10.38
+SLRC,SLR Investment Corp.,Financial Services,Asset Management,16.02,873965248.0,4.0,1.0,0.0,5.0,False,10.24
+SSBI,Summit State Bank,Financial Services,Banks - Regional,11.125,75333240.0,3.0,2.0,0.0,5.0,False,0.0
+ASA,ASA Gold and Precious Metals Limited,Financial Services,Asset Management,52.98,999856128.0,4.0,1.0,0.0,5.0,False,0.11
+GGT,The Gabelli Multimedia Trust Inc.,Financial Services,Asset Management,4.16,149437552.0,4.0,1.0,0.0,5.0,False,21.15
+GHI,Greystone Housing Impact Investors LP,Financial Services,Mortgage Finance,6.68,157530784.0,4.0,1.0,0.0,5.0,False,17.96
+GLAD,Gladstone Capital Corporation,Financial Services,Asset Management,21.2,478973056.0,4.0,1.0,0.0,5.0,False,8.49
+GLO,Clough Global Opportunities Fund,Financial Services,Asset Management,5.725,244836624.0,4.0,1.0,0.0,5.0,False,10.5
+SOR,Source Capital,Financial Services,Asset Management,47.03,386877760.0,4.0,1.0,0.0,5.0,False,5.31
+SPE,"Special Opportunities Fund, Inc.",Financial Services,Asset Management,15.3,162534272.0,4.0,1.0,0.0,5.0,False,8.61
+ASG,"Liberty All-Star Growth Fund, Inc.",Financial Services,Asset Management,5.36,332098624.0,4.0,1.0,0.0,5.0,False,8.96
+GF,"The New Germany Fund, Inc.",Financial Services,Asset Management,11.1825,180930384.0,4.0,1.0,0.0,5.0,False,0.6
+GGN,"GAMCO Global Gold, Natural Resources & Income Trust",Financial Services,Asset Management,5.13,800580544.0,4.0,1.0,0.0,5.0,False,7.02
+SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,Financial Services,Asset Management,18.03,324117088.0,4.0,1.0,0.0,5.0,False,7.49
+GCV,The Gabelli Convertible and Income Securities Fund Inc.,Financial Services,Asset Management,4.24,84456064.0,4.0,1.0,0.0,5.0,False,11.32
+GECC,Great Elm Capital Corp.,Financial Services,Asset Management,7.88,110305568.0,4.0,1.0,0.0,5.0,False,18.78
+EAD,Wells Fargo Advantage Funds - Allspring Income Opportunities Fund,Financial Services,Asset Management,6.89,407146176.0,4.0,1.0,0.0,5.0,False,9.32
+EBC,"Eastern Bankshares, Inc.",Financial Services,Banks - Regional,19.05,4285293568.0,3.5,1.5,0.0,5.0,False,2.68
+FUND,"Sprott Focus Trust, Inc.",Financial Services,Asset Management,8.735,262209600.0,4.0,1.0,0.0,5.0,False,6.61
+GAIN,Gladstone Investment Corporation,Financial Services,Asset Management,13.94,552671552.0,4.0,1.0,0.0,5.0,False,6.89
+ECC,Eagle Point Credit Company Inc.,Financial Services,Asset Management,6.31,825555840.0,4.0,1.0,0.0,5.0,False,26.62
+FT,Franklin Universal Trust,Financial Services,Asset Management,8.0,201055152.0,4.0,1.0,0.0,5.0,False,6.38
+FTF,Franklin Limited Duration Income Trust,Financial Services,Asset Management,6.1,246472784.0,4.0,1.0,0.0,5.0,False,12.1
+ECF,Ellsworth Growth and Income Fund Ltd.,Financial Services,Asset Management,11.92,163099568.0,4.0,1.0,0.0,5.0,False,7.21
+TCPC,BlackRock TCP Capital Corp.,Financial Services,Asset Management,6.1,517530336.0,4.0,1.0,0.0,5.0,False,16.39
+TDF,"Templeton Dragon Fund, Inc.",Financial Services,Asset Management,11.35,287756928.0,4.0,1.0,0.0,5.0,False,3.52
+TEI,Templeton Emerging Markets Income Fund,Financial Services,Asset Management,6.64,313596672.0,4.0,1.0,0.0,5.0,False,8.58
+TPVG,TriplePoint Venture Growth BDC Corp.,Financial Services,Asset Management,6.75,272698624.0,4.0,1.0,0.0,5.0,False,16.0
+EEA,"The European Equity Fund, Inc.",Financial Services,Asset Management,10.6499,71628304.0,4.0,1.0,0.0,5.0,False,1.6
+FPF,First Trust Intermediate Duration Preferred & Income Fund,Financial Services,Asset Management,18.54,1128118784.0,3.5,1.5,0.0,5.0,False,8.9
+EFR,Eaton Vance Senior Floating-Rate Trust,Financial Services,Asset Management,11.21,330959744.0,4.0,1.0,0.0,5.0,False,8.24
+EFT,Eaton Vance Floating-Rate Income Trust,Financial Services,Asset Management,11.44,304052960.0,4.0,1.0,0.0,5.0,False,8.39
+FRA,"BlackRock Floating Rate Income Strategies Fund, Inc.",Financial Services,Asset Management,11.79,417614528.0,4.0,1.0,0.0,5.0,False,12.6
+TRU,TransUnion,Financial Services,Financial Data & Stock Exchanges,84.47,16454756352.0,4.0,1.0,0.0,5.0,False,0.54
+FMY,First Trust Mortgage Income Fund,Financial Services,Asset Management,12.0111,50604144.0,4.0,1.0,0.0,5.0,False,7.08
+EHI,Western Asset Global High Income Fund Inc.,Financial Services,Asset Management,6.35,192403360.0,4.0,1.0,0.0,5.0,False,13.23
+ALLY,Ally Financial Inc.,Financial Services,Credit Services,42.39,13058374656.0,4.0,1.0,0.0,5.0,False,2.83
+TSI,"TCW Strategic Income Fund, Inc.",Financial Services,Asset Management,4.88,233192960.0,4.0,1.0,0.0,5.0,False,5.33
+FLC,Flaherty & Crumrine Total Return Fund Inc.,Financial Services,Asset Management,17.44,182366960.0,4.0,1.0,0.0,5.0,False,6.88
+EIM,Eaton Vance Municipal Bond Fund,Financial Services,Asset Management,9.925,509873056.0,4.0,1.0,0.0,5.0,False,6.14
+FMN,Federated Hermes Premier Municipal Income Fund,Financial Services,Asset Management,11.15,87178528.0,4.0,1.0,0.0,5.0,False,4.84
+TYG,Tortoise Energy Infrastructure Corporation,Financial Services,Asset Management,43.1,910473408.0,4.0,1.0,0.0,5.0,False,11.18
+VBF,Invesco Bond Fund,Financial Services,Asset Management,15.54,177545888.0,4.0,1.0,0.0,5.0,False,5.52
+VCV,Invesco California Value Municipal Income Trust,Financial Services,Asset Management,10.75,516220256.0,4.0,1.0,0.0,5.0,False,7.21
+FIHL,Fidelis Insurance Holdings Limited,Financial Services,Insurance - Diversified,18.09,1896950400.0,3.5,1.5,0.0,5.0,False,3.32
+FINS,Angel Oak Financial Strategies Income Term Trust,Financial Services,Asset Management,13.08,437092416.0,4.0,1.0,0.0,5.0,False,10.23
+VFL,abrdn National Municipal Income Fund,Financial Services,Asset Management,10.14,124498968.0,4.0,1.0,0.0,5.0,False,5.92
+VGM,Invesco Trust for Investment Grade Municipals,Financial Services,Asset Management,10.36,561843200.0,4.0,1.0,0.0,5.0,False,7.48
+FFWM,First Foundation Inc.,Financial Services,Banks - Regional,5.74,475756448.0,3.0,2.0,0.0,5.0,False,0.0
+FG,"F&G Annuities & Life, Inc.",Financial Services,Insurance - Life,33.72,4540357632.0,3.5,1.5,0.0,5.0,False,2.97
+EMD,Western Asset Emerging Markets Debt Fund Inc.,Financial Services,Asset Management,10.61,616763968.0,4.0,1.0,0.0,5.0,False,10.74
+EMF,Templeton Emerging Markets Fund,Financial Services,Asset Management,17.42,260392368.0,4.0,1.0,0.0,5.0,False,5.05
+VALU,"Value Line, Inc.",Financial Services,Financial Data & Stock Exchanges,37.5,352795072.0,4.0,1.0,0.0,5.0,False,3.47
+AGD,Abrdn Global Dynamic Dividend Fund,Financial Services,Asset Management,11.22,279126176.0,4.0,1.0,0.0,5.0,False,12.83
+FFA,First Trust Enhanced Equity Income Fund,Financial Services,Asset Management,21.82,436140032.0,4.0,1.0,0.0,5.0,False,6.59
+FFC,Flaherty & Crumrine Preferred Securities Income Fund Inc.,Financial Services,Asset Management,16.64,801680192.0,4.0,1.0,0.0,5.0,False,7.05
+VKI,Invesco Advantage Municipal Income Trust II,Financial Services,Asset Management,8.79,390328928.0,4.0,1.0,0.0,5.0,False,7.63
+VKQ,Invesco Municipal Trust,Financial Services,Asset Management,9.63,532881024.0,4.0,1.0,0.0,5.0,False,7.83
+VLT,Invesco High Income Trust II,Financial Services,Asset Management,11.14,72388136.0,4.0,1.0,0.0,5.0,False,10.13
+FCO,"abrdn Global Income Fund, Inc.",Financial Services,Asset Management,2.94,39569848.0,4.0,1.0,0.0,5.0,False,28.57
+FCT,First Trust Senior Floating Rate Income Fund II,Financial Services,Asset Management,9.44,245283168.0,4.0,1.0,0.0,5.0,False,12.33
+EOI,Eaton Vance Enhanced Equity Income Fund,Financial Services,Asset Management,19.68,806914432.0,4.0,1.0,0.0,5.0,False,8.16
+FDUS,Fidus Investment Corporation,Financial Services,Asset Management,19.75,719442944.0,4.0,1.0,0.0,5.0,False,10.13
+VPV,Invesco Pennsylvania Value Municipal Income Trust,Financial Services,Asset Management,10.42,186227888.0,4.0,1.0,0.0,5.0,False,7.68
+VMO,Invesco Municipal Opportunity Trust,Financial Services,Asset Management,9.61,648104960.0,4.0,1.0,0.0,5.0,False,7.8
+AFB,"AllianceBernstein National Municipal Income Fund, Inc.",Financial Services,Asset Management,10.84,311595104.0,4.0,1.0,0.0,5.0,False,4.71
+AEF,"abrdn Emerging Markets ex-China Fund, Inc.",Financial Services,Asset Management,6.87,278931776.0,4.0,1.0,0.0,5.0,False,8.3
+WEA,Western Asset Premier Bond Fund,Financial Services,Asset Management,11.07,131352192.0,4.0,1.0,0.0,5.0,False,7.59
+VTN,Invesco Trust for Investment Grade New York Municipals,Financial Services,Asset Management,11.67,170556688.0,4.0,1.0,0.0,5.0,False,7.04
+VVR,Invesco Senior Income Trust,Financial Services,Asset Management,3.29,506413312.0,4.0,1.0,0.0,5.0,False,13.86
+ACT,"Enact Holdings, Inc.",Financial Services,Insurance - Specialty,37.99,5603738624.0,3.5,1.5,0.0,5.0,False,2.21
+ERC,Allspring Multi-Sector Income Fund,Financial Services,Asset Management,9.42,264266800.0,4.0,1.0,0.0,5.0,False,9.23
+ERH,Allspring Utilities and High Income Fund,Financial Services,Asset Management,12.14,107964824.0,4.0,1.0,0.0,5.0,False,7.92
+FAX,Abrdn Asia-Pacific Income Fund Inc,Financial Services,Asset Management,15.23,628734400.0,4.0,1.0,0.0,5.0,False,13.0
+WHF,"WhiteHorse Finance, Inc.",Financial Services,Asset Management,7.68,178506912.0,4.0,1.0,0.0,5.0,False,18.29
+WHG,"Westwood Holdings Group, Inc.",Financial Services,Asset Management,16.48,155046000.0,4.0,1.0,0.0,5.0,False,3.64
+WIA,Western Asset Inflation-Linked Income Fund,Financial Services,Asset Management,8.29,193341504.0,4.0,1.0,0.0,5.0,False,7.53
+WIW,Western Asset Inflation-Linked Opportunities & Income Fund,Financial Services,Asset Management,8.77,536584896.0,4.0,1.0,0.0,5.0,False,8.55
+EVF,Eaton Vance Senior Income Trust,Financial Services,Asset Management,5.34,97029344.0,4.0,1.0,0.0,5.0,False,8.76
+EVG,Eaton Vance Short Duration Diversified Income Fund,Financial Services,Asset Management,10.98,147712480.0,4.0,1.0,0.0,5.0,False,8.21
+EVN,Eaton Vance Municipal Income Trust,Financial Services,Asset Management,11.01,436735488.0,4.0,1.0,0.0,5.0,False,5.59
+ETB,Eaton Vance Tax-Managed Buy-Write Income Fund,Financial Services,Asset Management,15.27,448551936.0,4.0,1.0,0.0,5.0,False,8.31
+EVR,Evercore Inc.,Financial Services,Capital Markets,331.69,12829144064.0,4.0,1.0,0.0,5.0,False,1.01
+MHF,Western Asset Municipal High Income Fund Inc.,Financial Services,Asset Management,7.01,152045888.0,4.0,1.0,0.0,5.0,False,5.82
+MHN,"BlackRock MuniHoldings New York Quality Fund, Inc.",Financial Services,Asset Management,10.4,314513024.0,4.0,1.0,0.0,5.0,False,5.94
+CIF,MFS Intermediate High Income Fund,Financial Services,Asset Management,1.76,31507496.0,4.0,1.0,0.0,5.0,False,9.92
+CII,"BlackRock Enhanced Large Cap Core Fund, Inc.",Financial Services,Asset Management,23.25,975736640.0,4.0,1.0,0.0,5.0,False,26.12
+CIK,"Credit Suisse Asset Management Income Fund, Inc.",Financial Services,Asset Management,2.82,154601776.0,4.0,1.0,0.0,5.0,False,9.57
+MIN,MFS Intermediate Income Trust,Financial Services,Asset Management,2.62,298151360.0,4.0,1.0,0.0,5.0,False,8.95
+MFIN,Medallion Financial Corp.,Financial Services,Credit Services,10.28,239312592.0,4.0,1.0,0.0,5.0,False,4.67
+MFM,MFS Municipal Income Trust,Financial Services,Asset Management,5.43,223648832.0,4.0,1.0,0.0,5.0,False,5.08
+MGF,MFS Government Markets Income Trust,Financial Services,Asset Management,3.07,100051888.0,4.0,1.0,0.0,5.0,False,7.54
+ETX,Eaton Vance Municipal Income 2028 Term Trust,Financial Services,Asset Management,19.15,208513360.0,3.5,1.0,0.0,4.5,False,4.9
+ESQ,"Esquire Financial Holdings, Inc.",Financial Services,Banks - Regional,103.76,888755392.0,3.5,1.0,0.0,4.5,False,0.67
+TFIN,"Triumph Financial, Inc.",Financial Services,Banks - Regional,61.31,1456934144.0,3.0,1.5,0.0,4.5,False,0.0
+TCBI,"Texas Capital Bancshares, Inc.",Financial Services,Banks - Regional,93.44,4275361024.0,3.0,1.5,0.0,4.5,False,0.0
+TCBS,"Texas Community Bancshares, Inc.",Financial Services,Banks - Regional,15.99,47438236.0,3.5,1.0,0.0,4.5,False,1.25
+LMND,"Lemonade, Inc.",Financial Services,Insurance - Property & Casualty,78.97,5901509120.0,3.0,1.5,0.0,4.5,False,0.0
+LNKB,"LINKBANCORP, Inc.",Financial Services,Banks - Regional,7.72,289157600.0,3.5,1.0,0.0,4.5,False,3.89
+MBI,MBIA Inc.,Financial Services,Insurance - Specialty,7.36,371633088.0,2.5,2.0,0.0,4.5,False,0.0
+EQBK,"Equity Bancshares, Inc.",Financial Services,Banks - Regional,44.88,862505472.0,3.5,1.0,0.0,4.5,False,1.6
+EQH,"Equitable Holdings, Inc.",Financial Services,Asset Management,45.85,13733746688.0,3.5,1.0,0.0,4.5,False,2.36
+RA,Brookfield Real Assets Income Fund Inc.,Financial Services,Asset Management,13.23,731019584.0,3.5,1.0,0.0,4.5,False,10.7
+RIV,"RiverNorth Opportunities Fund, Inc.",Financial Services,Asset Management,11.8,322980928.0,3.5,1.0,0.0,4.5,False,12.99
+BCX,Blackrock Resources & Commodities Strategy Trust,Financial Services,Asset Management,10.66,833536448.0,3.5,1.0,0.0,4.5,False,7.85
+BCML,BayCom Corp,Financial Services,Banks - Regional,29.47,321922144.0,3.5,1.0,0.0,4.5,False,3.05
+LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",Financial Services,Asset Management,21.37,621422976.0,3.5,1.0,0.0,4.5,False,7.36
+THQ,Abrdn Healthcare Opportunities Fund,Financial Services,Asset Management,18.77,776686976.0,3.5,1.0,0.0,4.5,False,11.51
+THW,Abrdn World Healthcare Fund,Financial Services,Asset Management,12.54,499489632.0,3.5,1.0,0.0,4.5,False,11.17
+MCB,Metropolitan Bank Holding Corp.,Financial Services,Banks - Regional,77.49,807553088.0,3.5,1.0,0.0,4.5,False,0.77
+XZO,"Exzeo Group, Inc.",Financial Services,Insurance - Diversified,18.23,1654842624.0,3.0,1.5,0.0,4.5,False,0.0
+RGT,"Royce Global Trust, Inc.",Financial Services,Asset Management,12.79,83378152.0,3.5,1.0,0.0,4.5,False,1.49
+TBBK,"The Bancorp, Inc.",Financial Services,Banks - Regional,65.99,3039854592.0,3.0,1.5,0.0,4.5,False,0.0
+EOT,Eaton Vance National Municipal Opportunities Trust,Financial Services,Asset Management,16.58,259061184.0,3.5,1.0,0.0,4.5,False,4.94
+LC,LendingClub Corporation,Financial Services,Banks - Regional,19.43,2240306944.0,3.0,1.5,0.0,4.5,False,0.0
+CLBK,"Columbia Financial, Inc.",Financial Services,Banks - Regional,16.76,1758578816.0,3.0,1.5,0.0,4.5,False,0.0
+EOD,Wells Fargo Advantage Funds - Allspring Global Dividend Opportunity Fund,Financial Services,Asset Management,5.94,255811520.0,3.5,1.0,0.0,4.5,False,8.57
+COIN,"Coinbase Global, Inc.",Financial Services,Financial Data & Stock Exchanges,269.73,72731025408.0,3.0,1.5,0.0,4.5,False,0.0
+MGYR,"Magyar Bancorp, Inc.",Financial Services,Banks - Regional,16.95,109682576.0,3.5,1.0,0.0,4.5,False,1.89
+RMI,"RiverNorth Opportunistic Municipal Income Fund, Inc.",Financial Services,Asset Management,14.67,93514504.0,3.5,1.0,0.0,4.5,False,7.73
+RMM,Rivernorth Managed Duration Municipal Income Fund Inc.,Financial Services,Asset Management,14.04,277144384.0,3.5,1.0,0.0,4.5,False,7.74
+ARDC,"Ares Dynamic Credit Allocation Fund, Inc.",Financial Services,Asset Management,13.44,320849152.0,3.5,1.0,0.0,4.5,False,10.12
+FGNXP,FG Nexus Inc.,Financial Services,Asset Management,20.4,0.0,3.5,1.0,0.0,4.5,False,9.8
+XFLT,XAI Octagon Floating Rate & Alternative Income Trust,Financial Services,Asset Management,4.58,348788032.0,3.5,1.0,0.0,4.5,False,19.1
+AMTB,Amerant Bancorp Inc.,Financial Services,Banks - Regional,19.28,816490880.0,3.5,1.0,0.0,4.5,False,1.87
+KIO,KKR Income Opportunities Fund,Financial Services,Asset Management,11.7,478185792.0,3.5,1.0,0.0,4.5,False,12.46
+MNSB,"MainStreet Bancshares, Inc.",Financial Services,Banks - Regional,19.82,148582048.0,3.5,1.0,0.0,4.5,False,2.02
+EMO,ClearBridge Energy Midstream Opportunity Fund Inc,Financial Services,Asset Management,45.98,859810368.0,3.5,1.0,0.0,4.5,False,9.4
+PSF,"Cohen & Steers Select Preferred and Income Fund, Inc.",Financial Services,Asset Management,20.45,245976432.0,3.5,1.0,0.0,4.5,False,7.39
+STK,Columbia Seligman Premium Technology Growth Fund,Financial Services,Asset Management,37.91,659278784.0,3.5,1.0,0.0,4.5,False,4.88
+JRI,Nuveen Real Asset Income and Growth Fund,Financial Services,Asset Management,13.79,378076032.0,3.5,1.0,0.0,4.5,False,11.62
+TRUP,"Trupanion, Inc.",Financial Services,Insurance - Property & Casualty,36.93,1595308160.0,3.0,1.5,0.0,4.5,False,0.0
+ARX,Accelerant Holdings,Financial Services,Insurance Brokers,15.24,3380537600.0,3.0,1.5,0.0,4.5,False,0.0
+SRV,NXG Cushing Midstream Energy Fund,Financial Services,Asset Management,40.65,188131136.0,3.5,1.0,0.0,4.5,False,13.28
+JGH,Nuveen Global High Income Fund,Financial Services,Asset Management,12.49,292335520.0,3.5,1.0,0.0,4.5,False,9.94
+ROOT,"Root, Inc.",Financial Services,Insurance - Property & Casualty,80.05,1241492352.0,3.0,1.5,0.0,4.5,False,0.0
+JLS,Nuveen Mortgage and Income Fund,Financial Services,Asset Management,18.604,101887152.0,3.5,1.0,0.0,4.5,False,9.9
+JMSB,"John Marshall Bancorp, Inc.",Financial Services,Banks - Regional,19.56,277273568.0,3.5,1.0,0.0,4.5,False,1.53
+JCE,Nuveen Core Equity Alpha Fund,Financial Services,Asset Management,15.96,271362752.0,3.5,1.0,0.0,4.5,False,8.02
+CRVL,CorVel Corporation,Financial Services,Insurance Brokers,69.17,3549302784.0,3.0,1.5,0.0,4.5,False,0.0
+FINV,FinVolution Group,Financial Services,Credit Services,5.21,1353792640.0,4.0,1.5,-1.0,4.5,False,5.32
+SRBK,"SR Bancorp, Inc.",Financial Services,Banks - Regional,15.97,128424512.0,3.5,1.0,0.0,4.5,False,1.25
+FOF,"Cohen & Steers Closed-End Opportunity Fund, Inc.",Financial Services,Asset Management,13.22,366433408.0,3.5,1.0,0.0,4.5,False,7.9
+RSF,"RiverNorth Capital and Income Fund, Inc.",Financial Services,Asset Management,14.61,64538592.0,3.5,1.0,0.0,4.5,False,11.15
+ISD,"PGIM High Yield Bond Fund, Inc.",Financial Services,Asset Management,14.59,485786656.0,3.5,1.0,0.0,4.5,False,8.64
+NBB,Nuveen Taxable Municipal Income Fund,Financial Services,Asset Management,16.165,475166208.0,3.5,1.0,0.0,4.5,False,7.16
+NBBK,"NB Bancorp, Inc.",Financial Services,Banks - Regional,20.23,925943232.0,3.5,1.0,0.0,4.5,False,1.38
+SPNT,SiriusPoint Ltd.,Financial Services,Insurance - Reinsurance,21.49,2510346496.0,3.0,1.5,0.0,4.5,False,0.0
+BGB,Blackstone Strategic Credit 2027 Term Fund,Financial Services,Asset Management,11.92,532399456.0,3.5,1.0,0.0,4.5,False,9.46
+BGH,Barings Global Short Duration High Yield Fund,Financial Services,Asset Management,15.12,303372384.0,3.5,1.0,0.0,4.5,False,9.71
+FSBC,Five Star Bancorp,Financial Services,Banks - Regional,34.69,741257664.0,3.5,1.0,0.0,4.5,False,2.31
+CCIF,Carlyle Credit Income Fund,Financial Services,Asset Management,5.16,109384888.0,3.5,1.0,0.0,4.5,False,24.42
+RYAN,"Ryan Specialty Holdings, Inc.",Financial Services,Insurance - Specialty,55.14,14581145600.0,3.5,1.0,0.0,4.5,False,0.87
+AX,"Axos Financial, Inc.",Financial Services,Banks - Regional,84.69,4797180416.0,3.0,1.5,0.0,4.5,False,0.0
+CUBI,"Customers Bancorp, Inc.",Financial Services,Banks - Regional,70.95,2424224768.0,3.0,1.5,0.0,4.5,False,0.0
+EDF,Virtus Stone Harbor Emerging Markets Income Fund,Financial Services,Asset Management,4.87,150870960.0,3.5,1.0,0.0,4.5,False,14.78
+CCD,Calamos Dynamic Convertible and Income Fund,Financial Services,Asset Management,21.5,581681088.0,3.5,1.0,0.0,4.5,False,10.88
+CCB,Coastal Financial Corporation,Financial Services,Banks - Regional,113.32,1713541504.0,3.0,1.5,0.0,4.5,False,0.0
+IGI,Western Asset Investment Grade Opportunity Trust Inc.,Financial Services,Asset Management,16.46,98655472.0,3.5,1.0,0.0,4.5,False,5.18
+IHD,Voya Emerging Markets High Dividend Equity Fund,Financial Services,Asset Management,6.23,110494408.0,3.5,1.0,0.0,4.5,False,10.59
+BHF,"Brighthouse Financial, Inc.",Financial Services,Insurance - Life,65.35,3736138752.0,3.0,1.5,0.0,4.5,False,0.0
+EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",Financial Services,Asset Management,5.69,366754912.0,3.5,1.0,0.0,4.5,False,9.84
+PLMR,"Palomar Holdings, Inc.",Financial Services,Insurance - Property & Casualty,116.42,3118130944.0,3.0,1.5,0.0,4.5,False,0.0
+NIE,Virtus Equity & Convertible Income Fund,Financial Services,Asset Management,25.63,710180800.0,3.5,1.0,0.0,4.5,False,7.8
+CBC,"Central Bancompany, Inc.",Financial Services,Banks - Regional,23.25,5130458624.0,3.0,1.5,0.0,4.5,False,0.71
+CBNK,"Capital Bancorp, Inc.",Financial Services,Banks - Regional,28.49,472465120.0,3.5,1.0,0.0,4.5,False,1.54
+IDE,"Voya Infrastructure, Industrials and Materials Fund",Financial Services,Asset Management,11.94,180966448.0,3.5,1.0,0.0,4.5,False,10.05
+FVCB,"FVCBankcorp, Inc.",Financial Services,Banks - Regional,12.95,234068832.0,3.5,1.0,0.0,4.5,False,1.85
+ACV,Virtus Diversified Income & Convertible Fund,Financial Services,Asset Management,26.24,272281632.0,3.5,1.0,0.0,4.5,False,8.23
+BGX,Blackstone Long-Short Credit Income Fund,Financial Services,Asset Management,11.88,150974320.0,3.5,1.0,0.0,4.5,False,9.64
+NMIH,"NMI Holdings, Inc.",Financial Services,Insurance - Specialty,37.57,2914459648.0,3.0,1.5,0.0,4.5,False,0.0
+NML,Neuberger Berman Energy Infrastructure and Income Fund Inc.,Financial Services,Asset Management,8.74,495199008.0,3.5,1.0,0.0,4.5,False,8.02
+NMS,Nuveen Minnesota Quality Municipal Income Fund,Financial Services,Asset Management,11.98,72588048.0,3.5,1.0,0.0,4.5,False,6.66
+DBL,DoubleLine Opportunistic Credit Fund,Financial Services,Asset Management,15.33,299692512.0,3.5,1.0,0.0,4.5,False,8.61
+HYI,Western Asset High Yield Opportunity Fund Inc.,Financial Services,Asset Management,11.09,251376768.0,3.5,1.0,0.0,4.5,False,10.28
+IAE,Voya Asia Pacific High Dividend Equity Income Fund,Financial Services,Asset Management,7.27,78154936.0,3.5,1.0,0.0,4.5,False,10.73
+BIT,BlackRock Multi-Sector Income Trust,Financial Services,Asset Management,13.23,580856576.0,3.5,1.0,0.0,4.5,False,11.22
+PGZ,Principal Real Estate Income Fund,Financial Services,Asset Management,10.1086,67668080.0,3.5,1.0,0.0,4.5,False,12.46
+NPB,"Northpointe Bancshares, Inc.",Financial Services,Banks - Regional,17.55,603099776.0,3.5,1.0,0.0,4.5,False,0.57
+CAF,"Morgan Stanley China A Share Fund, Inc.",Financial Services,Asset Management,16.39,281520672.0,3.5,1.0,0.0,4.5,False,2.0
+USCB,"USCB Financial Holdings, Inc.",Financial Services,Banks - Regional,18.22,365828128.0,3.5,1.0,0.0,4.5,False,2.2
+HNVR,"Hanover Bancorp, Inc.",Financial Services,Banks - Regional,23.095,166634928.0,3.5,1.0,0.0,4.5,False,1.73
+GDL,The GDL Fund,Financial Services,Asset Management,8.465,95177848.0,3.5,1.0,0.0,4.5,False,5.67
+GDO,Western Asset Global Corporate Defined Opportunity Fund Inc.,Financial Services,Asset Management,11.75,88352952.0,3.5,1.0,0.0,4.5,False,12.46
+GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust,Financial Services,Asset Management,15.39,415122304.0,3.5,1.0,0.0,4.5,False,9.8
+DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.,Financial Services,Asset Management,21.04,432122400.0,3.5,1.0,0.0,4.5,False,6.98
+NTRSO,Northern Trust Corporation,Financial Services,Asset Management,19.48,0.0,3.5,1.0,0.0,4.5,False,6.03
+NUW,Nuveen AMT-Free Municipal Value Fund,Financial Services,Asset Management,14.33,257242640.0,3.5,1.0,0.0,4.5,False,4.06
+BWG,Legg Mason BW Global Income Opportunities Fund Inc.,Financial Services,Asset Management,8.49,142562688.0,3.5,1.0,0.0,4.5,False,11.31
+BWIN,"The Baldwin Insurance Group, Inc.",Financial Services,Insurance Brokers,25.05,1794428032.0,3.0,1.5,0.0,4.5,False,0.0
+PDX,PIMCO Dynamic Income Strategy Fund,Financial Services,Asset Management,21.64,967458432.0,3.5,1.0,0.0,4.5,False,7.4
+HG,"Hamilton Insurance Group, Ltd.",Financial Services,Insurance - Reinsurance,26.5,2634907904.0,3.0,1.5,0.0,4.5,False,0.0
+HGLB,Highland Global Allocation Fund,Financial Services,Asset Management,9.64,223479456.0,3.5,1.0,0.0,4.5,False,10.95
+HGTY,"Hagerty, Inc.",Financial Services,Insurance - Property & Casualty,12.62,4332455936.0,3.0,1.5,0.0,4.5,False,0.0
+GGZ,The Gabelli Global Small and Mid Cap Value Trust,Financial Services,Asset Management,14.21,114546952.0,3.5,1.0,0.0,4.5,False,4.86
+NXG,NXG NextGen Infrastructure Income Fund,Financial Services,Asset Management,51.8,238280000.0,3.5,1.0,0.0,4.5,False,12.51
+HFRO,Highland Funds I - Highland Opportunities and Income Fund,Financial Services,Asset Management,6.09,337086336.0,3.5,1.0,0.0,4.5,False,7.59
+SLDE,"Slide Insurance Holdings, Inc.",Financial Services,Insurance - Property & Casualty,16.13,2024273536.0,3.0,1.5,0.0,4.5,False,0.0
+BUI,"BlackRock Utilities, Infrastructure & Power Opportunities Trust",Financial Services,Asset Management,26.12,593308736.0,3.5,1.0,0.0,4.5,False,6.25
+HEQ,John Hancock Diversified Income Fund,Financial Services,Asset Management,11.09,134119712.0,3.5,1.0,0.0,4.5,False,9.02
+AIO,Virtus Artificial Intelligence & Technology Opportunities Fund,Financial Services,Asset Management,23.45,807394112.0,3.5,1.0,0.0,4.5,False,7.68
+SKWD,"Skyward Specialty Insurance Group, Inc.",Financial Services,Insurance - Property & Casualty,46.6,1886711040.0,3.0,1.5,0.0,4.5,False,0.0
+GHY,"PGIM Global High Yield Fund, Inc",Financial Services,Asset Management,12.43,509052352.0,3.5,1.0,0.0,4.5,False,10.14
+VGI,Virtus Global Multi-Sector Income Fund,Financial Services,Asset Management,7.8139,88399384.0,3.5,1.0,0.0,4.5,False,12.29
+BMNR,"Bitmine Immersion Technologies, Inc.",Financial Services,Capital Markets,34.06,13081350144.0,3.5,1.0,0.0,4.5,False,0.03
+AHL,AHL,Financial Services,Insurance - Property & Casualty,37.0,3398019584.0,3.0,1.5,0.0,4.5,False,0.0
+BNT,Brookfield Wealth Solutions Ltd.,Financial Services,Insurance - Diversified,46.65,12799548416.0,3.5,1.0,0.0,4.5,False,0.51
+OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",Financial Services,Asset Management,7.96,198921456.0,3.5,1.0,0.0,4.5,False,14.32
+OXLCP,Oxford Lane Capital Corp.,Financial Services,Asset Management,24.6335,0.0,3.5,1.0,0.0,4.5,False,6.34
+DPG,Duff & Phelps Utility and Infrastructure Fund Inc.,Financial Services,Asset Management,12.93,480091520.0,3.5,1.0,0.0,4.5,False,6.5
+GRX,The Gabelli Healthcare & Wellness Trust,Financial Services,Asset Management,9.57,148316560.0,3.5,1.0,0.0,4.5,False,7.11
+GNT,"GAMCO Natural Resources, Gold & Income Trust",Financial Services,Asset Management,7.28,117921728.0,3.5,1.0,0.0,4.5,False,7.83
+ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund,Financial Services,Asset Management,8.84,594947776.0,3.5,1.0,0.0,4.5,False,8.84
+ABL,"Abacus Global Management, Inc.",Financial Services,Insurance - Life,6.89,673517184.0,3.5,1.0,0.0,4.5,False,2.9
+OZKAP,Bank OZK,Financial Services,Banks - Regional,16.48,0.0,3.0,1.0,0.0,4.0,False,7.02
+GOCO,"GoHealth, Inc.",Financial Services,Insurance Brokers,3.03,87003416.0,3.0,1.0,0.0,4.0,False,0.0
+BOW,Bowhead Specialty Holdings Inc.,Financial Services,Insurance - Property & Casualty,25.51,887277824.0,3.0,1.0,0.0,4.0,False,0.0
+OSG,"Octave Specialty Group, Inc.",Financial Services,Insurance - Specialty,8.33,386526464.0,3.0,1.0,0.0,4.0,False,0.0
+SHFS,"SHF Holdings, Inc.",Financial Services,Banks - Regional,1.58,4868102.0,3.0,1.0,0.0,4.0,False,0.0
+GSHD,"Goosehead Insurance, Inc",Financial Services,Insurance Brokers,76.0,2854413056.0,2.5,1.5,0.0,4.0,False,0.0
+OPHC,"OptimumBank Holdings, Inc.",Financial Services,Banks - Regional,4.1,47289168.0,3.0,1.0,0.0,4.0,False,0.0
+SFST,"Southern First Bancshares, Inc.",Financial Services,Banks - Regional,52.18,427311264.0,3.0,1.0,0.0,4.0,False,0.0
+WAFDP,"WaFd, Inc.",Financial Services,Banks - Regional,16.93,0.0,3.0,1.0,0.0,4.0,False,7.2
+VLYPN,Valley National Bancorp,Financial Services,Banks - Regional,25.82,0.0,3.0,1.0,0.0,4.0,False,7.99
+SIGIP,"Selective Insurance Group, Inc.",Financial Services,Insurance - Property & Casualty,16.8285,0.0,3.0,1.0,0.0,4.0,False,6.83
+ONBPO,Old National Bancorp,Financial Services,Banks - Regional,25.02,0.0,3.0,1.0,0.0,4.0,False,6.99
+ONBPP,Old National Bancorp,Financial Services,Banks - Regional,25.1001,0.0,3.0,1.0,0.0,4.0,False,6.97
+GLRE,"Greenlight Capital Re, Ltd.",Financial Services,Insurance - Reinsurance,13.92,476038272.0,3.0,1.0,0.0,4.0,False,0.0
+AFBI,"Affinity Bancshares, Inc.",Financial Services,Banks - Regional,20.02,125974312.0,3.0,1.0,0.0,4.0,False,0.0
+PAX,Patria Investments Limited,Financial Services,Asset Management,15.22,2427087616.0,3.5,0.5,0.0,4.0,False,3.94
+BSBK,Bogota Financial Corp.,Financial Services,Banks - Regional,8.2901,107511800.0,3.0,1.0,0.0,4.0,False,0.0
+HBANL,Huntington Bancshares Incorporated,Financial Services,Banks - Regional,25.645,0.0,3.0,1.0,0.0,4.0,False,6.7
+HBANM,Huntington Bancshares Incorporated,Financial Services,Banks - Regional,22.03,0.0,3.0,1.0,0.0,4.0,False,6.47
+HBANP,Huntington Bancshares Incorporated,Financial Services,Banks - Regional,17.22,0.0,3.0,1.0,0.0,4.0,False,6.53
+PBBK,"PB Bankshares, Inc.",Financial Services,Banks - Regional,21.46,56662940.0,3.0,1.0,0.0,4.0,False,0.0
+PBFS,"Pioneer Bancorp, Inc.",Financial Services,Banks - Regional,13.47,340892832.0,3.0,1.0,0.0,4.0,False,0.0
+BVFL,"BV Financial, Inc.",Financial Services,Banks - Regional,18.21,180998096.0,3.0,1.0,0.0,4.0,False,0.0
+HIPO,Hippo Holdings Inc.,Financial Services,Insurance - Property & Casualty,30.45,771456256.0,3.0,1.0,0.0,4.0,False,0.0
+SLQT,"SelectQuote, Inc.",Financial Services,Insurance Brokers,1.39,244600720.0,3.0,1.0,0.0,4.0,False,0.0
+BWB,"Bridgewater Bancshares, Inc.",Financial Services,Banks - Regional,17.84,492111616.0,3.0,1.0,0.0,4.0,False,0.0
+BWBBP,"Bridgewater Bancshares, Inc.",Financial Services,Banks - Regional,19.957,0.0,3.0,1.0,0.0,4.0,False,7.36
+AII,"American Integrity Insurance Group, Inc.",Financial Services,Insurance - Property & Casualty,19.79,387424960.0,3.0,1.0,0.0,4.0,False,0.0
+BUR,Burford Capital Limited,Financial Services,Asset Management,9.29,2033474176.0,3.5,0.5,0.0,4.0,False,1.35
+BUSEP,First Busey Corporation,Financial Services,Banks - Regional,25.495,0.0,3.0,1.0,0.0,4.0,False,8.09
+BLFY,Blue Foundry Bancorp,Financial Services,Banks - Regional,11.97,257303024.0,3.0,1.0,0.0,4.0,False,0.0
+PDLB,"Ponce Financial Group, Inc.",Financial Services,Banks - Regional,15.72,377297664.0,3.0,1.0,0.0,4.0,False,0.0
+UWMC,UWM Holdings Corporation,Financial Services,Mortgage Finance,5.73,9443531776.0,3.5,0.5,0.0,4.0,False,6.98
+BXSL,Blackstone Secured Lending Fund,Financial Services,Asset Management,28.31,6545848832.0,3.5,0.5,0.0,4.0,False,10.88
+GBFH,GBank Financial Holdings Inc.,Financial Services,Banks - Regional,35.74,513802304.0,3.0,1.0,0.0,4.0,False,0.0
+ECBK,"ECB Bancorp, Inc.",Financial Services,Banks - Regional,16.47,145776736.0,3.0,1.0,0.0,4.0,False,0.0
+NSTS,"NSTS Bancorp, Inc.",Financial Services,Banks - Regional,11.66,61087184.0,3.0,1.0,0.0,4.0,False,0.0
+AVBH,"Avidbank Holdings, Inc.",Financial Services,Banks - Regional,26.66,291948384.0,3.0,1.0,0.0,4.0,False,0.0
+NODK,"NI Holdings, Inc.",Financial Services,Insurance - Property & Casualty,13.26,274154976.0,3.0,1.0,0.0,4.0,False,0.0
+PFX,PhenixFIN Corporation,Financial Services,Asset Management,41.6406,83442304.0,3.0,1.0,0.0,4.0,False,0.0
+AVBC,"Avidia Bancorp, Inc.",Financial Services,Banks - Regional,16.64,334068800.0,3.0,1.0,0.0,4.0,False,0.0
+NP,Neptune Insurance Holdings Inc.,Financial Services,Insurance Brokers,24.71,3410844928.0,2.5,1.5,0.0,4.0,False,0.0
+UMBFO,UMB Financial Corporation,Financial Services,Banks - Regional,26.68,0.0,3.0,1.0,0.0,4.0,False,7.26
+CBK,"Commercial Bancgroup, Inc.",Financial Services,Banks - Regional,24.6,336970496.0,3.0,1.0,0.0,4.0,False,0.0
+CBNA,"Chain Bridge Bancorp, Inc.",Financial Services,Banks - Regional,32.77,215030784.0,3.0,1.0,0.0,4.0,False,0.0
+BHFAM,"Brighthouse Financial, Inc.",Financial Services,Insurance - Life,11.54,0.0,3.0,1.0,0.0,4.0,False,10.02
+BHFAN,"Brighthouse Financial, Inc.",Financial Services,Insurance - Life,13.3,0.0,3.0,1.0,0.0,4.0,False,10.1
+SOFI,"SoFi Technologies, Inc.",Financial Services,Credit Services,27.78,33499990016.0,3.0,1.0,0.0,4.0,False,0.0
+FSUN,FirstSun Capital Bancorp,Financial Services,Banks - Regional,35.78,997539648.0,3.0,1.0,0.0,4.0,False,0.0
+FRMEP,First Merchants Corporation,Financial Services,Banks - Regional,25.8,0.0,3.0,1.0,0.0,4.0,False,7.27
+WSBCO,"WesBanco, Inc.",Financial Services,Banks - Regional,25.8,0.0,3.0,1.0,0.0,4.0,False,8.26
+NEWTP,"NewtekOne, Inc.",Financial Services,Banks - Regional,23.22,0.0,3.0,1.0,0.0,4.0,False,1.02
+ASIC,Ategrity Specialty Insurance Company Holdings,Financial Services,Insurance - Property & Casualty,17.95,862796800.0,3.0,1.0,0.0,4.0,False,0.0
+FSEA,"First Seacoast Bancorp, Inc.",Financial Services,Banks - Regional,11.94,56148004.0,3.0,1.0,0.0,4.0,False,0.0
+IOR,"Income Opportunity Realty Investors, Inc.",Financial Services,Mortgage Finance,17.85,72581280.0,3.0,1.0,0.0,4.0,False,0.0
+EFSCP,Enterprise Financial Services Corp,Financial Services,Banks - Regional,19.85,0.0,3.0,1.0,0.0,4.0,False,6.3
+PRHI,"Presurance Holdings, Inc.",Financial Services,Insurance - Property & Casualty,0.92,11245052.0,3.0,1.0,0.0,4.0,False,0.0
+TWFG,"TWFG, Inc.",Financial Services,Insurance Brokers,27.83,418248192.0,3.0,1.0,0.0,4.0,False,0.0
+IREN,IREN Limited,Financial Services,Capital Markets,44.71,12905209856.0,3.0,1.0,0.0,4.0,False,0.0
+WTFCN,Wintrust Financial Corporation,Financial Services,Banks - Regional,26.37,0.0,3.0,1.0,0.0,4.0,False,4.83
+EHTH,"eHealth, Inc.",Financial Services,Insurance Brokers,3.81,117213824.0,3.0,1.0,0.0,4.0,False,0.0
+MYFW,"First Western Financial, Inc.",Financial Services,Banks - Regional,24.66,239643984.0,3.0,1.0,0.0,4.0,False,0.0
+SRL,Scully Royalty Ltd.,Financial Services,Capital Markets,6.0,88933504.0,4.0,1.0,-1.0,4.0,False,4.33
+WSBK,"Winchester Bancorp, Inc.",Financial Services,Banks - Regional,9.5967,85993568.0,3.0,1.0,0.0,4.0,False,0.0
+FINW,FinWise Bancorp,Financial Services,Banks - Regional,18.09,245787408.0,3.0,1.0,0.0,4.0,False,0.0
+ACGLN,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,17.07,0.0,3.0,1.0,0.0,4.0,False,6.66
+JCAP,"Jefferson Capital, Inc.",Financial Services,Credit Services,20.35,1186211072.0,3.5,0.5,0.0,4.0,False,4.72
+MSBIP,"Midland States Bancorp, Inc.",Financial Services,Banks - Regional,24.75,0.0,3.0,1.0,0.0,4.0,False,7.83
+TRIN,Trinity Capital Inc.,Financial Services,Asset Management,14.92,1129195648.0,3.5,0.5,0.0,4.0,False,13.67
+MRX,Marex Group plc,Financial Services,Capital Markets,37.47,2731528704.0,3.5,0.5,0.0,4.0,False,1.6
+FGBIP,"First Guaranty Bancshares, Inc.",Financial Services,Banks - Regional,15.3827,0.0,3.0,1.0,0.0,4.0,False,10.97
+FDSB,"Fifth District Bancorp, Inc.",Financial Services,Banks - Regional,13.96,77097592.0,3.0,1.0,0.0,4.0,False,0.0
+KG,Kestrel Group Ltd,Financial Services,Insurance Brokers,13.04,100954952.0,3.0,1.0,0.0,4.0,False,0.0
+COSO,"CoastalSouth Bancshares, Inc.",Financial Services,Banks - Regional,22.8,273119392.0,3.0,1.0,0.0,4.0,False,0.0
+MKL,Markel Group Inc.,Financial Services,Insurance - Property & Casualty,2047.87,25909653504.0,3.0,1.0,0.0,4.0,False,0.0
+CPBI,"Central Plains Bancshares, Inc.",Financial Services,Banks - Regional,16.35,68879920.0,3.0,1.0,0.0,4.0,False,0.0
+XP,XP Inc.,Financial Services,Capital Markets,17.88,9276728320.0,3.5,0.5,0.0,4.0,False,1.01
+CIA,"Citizens, Inc.",Financial Services,Insurance - Life,5.05,253999088.0,3.0,1.0,0.0,4.0,False,0.0
+PX,"P10, Inc.",Financial Services,Asset Management,9.84,1082548480.0,3.5,0.5,0.0,4.0,False,1.52
+PYPL,"PayPal Holdings, Inc.",Financial Services,Credit Services,62.28,59500965888.0,3.5,0.5,0.0,4.0,False,0.9
+FCNCO,"First Citizens BancShares, Inc.",Financial Services,Banks - Regional,22.36,0.0,3.0,1.0,0.0,4.0,False,6.29
+FBLA,"FB Bancorp, Inc.",Financial Services,Banks - Regional,12.86,255110240.0,3.0,1.0,0.0,4.0,False,0.0
+CLST,"Catalyst Bancorp, Inc.",Financial Services,Banks - Regional,15.0,62081476.0,3.0,1.0,0.0,4.0,False,0.0
+MBINN,Merchants Bancorp,Financial Services,Banks - Regional,19.03,0.0,3.0,1.0,0.0,4.0,False,7.88
+MBNKO,Medallion Bank,Financial Services,Banks - Regional,24.98,0.0,3.0,1.0,0.0,4.0,False,9.01
+MBBC,"Marathon Bancorp, Inc.",Financial Services,Banks - Regional,11.062,32507890.0,3.0,1.0,0.0,4.0,False,0.0
+MBINL,Merchants Bancorp,Financial Services,Banks - Regional,23.19,0.0,3.0,1.0,0.0,4.0,False,8.22
+MBINM,Merchants Bancorp,Financial Services,Banks - Regional,24.8862,0.0,3.0,1.0,0.0,4.0,False,8.29
+CNOBP,"ConnectOne Bancorp, Inc.",Financial Services,Banks - Regional,24.15,0.0,3.0,1.0,0.0,4.0,False,5.43
+RBKB,"Rhinebeck Bancorp, Inc.",Financial Services,Banks - Regional,11.66,129958640.0,3.0,1.0,0.0,4.0,False,0.0
+TCBX,"Third Coast Bancshares, Inc.",Financial Services,Banks - Regional,38.73,538117632.0,3.0,1.0,0.0,4.0,False,0.0
+TCBIO,"Texas Capital Bancshares, Inc.",Financial Services,Banks - Regional,20.78,0.0,3.0,1.0,0.0,4.0,False,6.92
+RELI,"Reliance Global Group, Inc.",Financial Services,Insurance Brokers,0.725,7152560.0,3.0,1.0,0.0,4.0,False,0.0
+BCAL,California BanCorp.,Financial Services,Banks - Regional,19.64,638645568.0,3.0,1.0,0.0,4.0,False,0.0
+OXBR,Oxbridge Re Holdings Limited,Financial Services,Insurance - Reinsurance,1.41,10823332.0,3.0,1.0,0.0,4.0,False,0.0
+OTF,Blue Owl Technology Finance Corp.,Financial Services,Asset Management,14.57,6827876864.0,3.5,0.5,0.0,4.0,False,9.61
+ETOR,eToro Group Ltd.,Financial Services,Capital Markets,43.01,3600108544.0,3.0,0.5,0.0,3.5,False,0.0
+EZPW,"EZCORP, Inc.",Financial Services,Credit Services,20.14,1226448128.0,3.0,0.5,0.0,3.5,False,0.0
+ABTC,American Bitcoin Corp,Financial Services,Capital Markets,2.23,2068559104.0,3.0,0.5,0.0,3.5,False,0.0
+RILY,"B. Riley Financial, Inc.",Financial Services,Financial Conglomerates,3.85,117798704.0,2.5,1.0,0.0,3.5,False,0.0
+RIOT,"Riot Platforms, Inc.",Financial Services,Capital Markets,14.94,5554799616.0,3.0,0.5,0.0,3.5,False,0.0
+LIEN,"Chicago Atlantic BDC, Inc.",Financial Services,Asset Management,10.68,243723904.0,3.5,0.0,0.0,3.5,False,12.73
+RKT,"Rocket Companies, Inc.",Financial Services,Mortgage Finance,19.03,53586386944.0,3.0,0.5,0.0,3.5,False,0.0
+TIGR,UP Fintech Holding Limited,Financial Services,Capital Markets,9.24,1643465984.0,3.0,0.5,0.0,3.5,False,0.0
+MARA,"MARA Holdings, Inc.",Financial Services,Capital Markets,11.74,4439884288.0,3.0,0.5,0.0,3.5,False,0.0
+ENVA,"Enova International, Inc.",Financial Services,Credit Services,135.38,3386207488.0,3.0,0.5,0.0,3.5,False,0.0
+PWP,Perella Weinberg Partners,Financial Services,Capital Markets,18.63,1679520000.0,3.0,0.5,0.0,3.5,False,1.5
+PTA,Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund,Financial Services,Asset Management,19.47,1076174208.0,3.0,0.5,0.0,3.5,False,8.26
+RMCO,Royalty Management Holding Corporation,Financial Services,Asset Management,2.32,35126504.0,3.5,0.0,0.0,3.5,False,0.43
+FIGR,"Figure Technology Solutions, Inc.",Financial Services,Capital Markets,39.0,8345748480.0,3.0,0.5,0.0,3.5,False,0.0
+CLSK,"CleanSpark, Inc.",Financial Services,Capital Markets,13.715,3666510336.0,3.0,0.5,0.0,3.5,False,0.0
+WULF,TeraWulf Inc.,Financial Services,Capital Markets,14.5,6070887424.0,3.0,0.5,0.0,3.5,False,0.0
+RWAY,Runway Growth Finance Corp.,Financial Services,Asset Management,9.16,330987776.0,3.5,0.0,0.0,3.5,False,15.28
+EIC,Eagle Point Income Company Inc.,Financial Services,Asset Management,11.3,299612736.0,3.5,0.0,0.0,3.5,False,11.68
+CION,CION Investment Corporation,Financial Services,Asset Management,9.94,517742816.0,3.5,0.0,0.0,3.5,False,14.49
+FSCO,FS Credit Opportunities Corp.,Financial Services,Asset Management,6.3,1249641984.0,3.0,0.5,0.0,3.5,False,12.65
+FRHC,Freedom Holdings Corp.,Financial Services,Financial Conglomerates,132.66,8113476608.0,3.0,0.5,0.0,3.5,False,0.0
+ECPG,"Encore Capital Group, Inc.",Financial Services,Credit Services,52.88,1216862464.0,3.0,0.5,0.0,3.5,False,0.0
+CIFR,Cipher Mining Inc.,Financial Services,Capital Markets,19.28,7617375232.0,3.0,0.5,0.0,3.5,False,0.0
+MIAX,"Miami International Holdings, Inc.",Financial Services,Capital Markets,44.06,3588027648.0,3.0,0.5,0.0,3.5,False,0.0
+MLCI,Mount Logan Capital Inc.,Financial Services,Asset Management,7.22,92320632.0,3.5,0.0,0.0,3.5,False,1.66
+BITF,Bitfarms Ltd.,Financial Services,Capital Markets,2.92,1745936512.0,3.0,0.5,0.0,3.5,False,0.0
+GCMG,GCM Grosvenor Inc.,Financial Services,Asset Management,10.78,2014566400.0,3.0,0.5,0.0,3.5,False,4.45
+ECAT,BlackRock ESG Capital Allocation Term Trust,Financial Services,Asset Management,15.83,1572643840.0,3.0,0.5,0.0,3.5,False,21.36
+TPG,TPG Inc.,Financial Services,Asset Management,61.69,23647950848.0,3.5,0.0,0.0,3.5,False,3.21
+PDO,Pimco Dynamic Income Opportunities Fund,Financial Services,Asset Management,13.94,1836831872.0,3.0,0.5,0.0,3.5,False,11.01
+CRBG,"Corebridge Financial, Inc.",Financial Services,Asset Management,30.37,15318032384.0,3.5,0.0,0.0,3.5,False,3.16
+GEMI,"Gemini Space Station, Inc.",Financial Services,Capital Markets,11.45,1347135104.0,3.0,0.5,0.0,3.5,False,0.0
+EARN,Ellington Credit Company,Financial Services,Asset Management,5.36,201378448.0,3.5,0.0,0.0,3.5,False,17.91
+BMEZ,BlackRock Health Sciences Term Trust,Financial Services,Asset Management,15.51,1570466944.0,3.0,0.5,0.0,3.5,False,8.51
+STEP,StepStone Group Inc.,Financial Services,Asset Management,62.85,7815235584.0,3.0,0.5,0.0,3.5,False,1.78
+KBDC,"Kayne Anderson BDC, Inc.",Financial Services,Asset Management,15.34,1082650880.0,3.0,0.5,0.0,3.5,False,10.43
+WDH,Waterdrop Inc.,Financial Services,Insurance - Diversified,1.8,664092800.0,3.5,1.0,-1.0,3.5,False,3.33
+SEZL,Sezzle Inc.,Financial Services,Credit Services,68.39,2335730688.0,3.0,0.5,0.0,3.5,False,0.0
+OXLCO,Oxford Lane Capital Corp.,Financial Services,Asset Management,23.4999,434828064.0,3.5,0.0,0.0,3.5,False,6.38
+OXBRW,Oxbridge Re Holdings Limited,Financial Services,Insurance - Reinsurance,0.2601,1491306.0,2.5,1.0,0.0,3.5,False,0.0
+GOLD,"Gold.com, Inc.",Financial Services,Capital Markets,30.89,761265152.0,3.5,0.0,0.0,3.5,False,2.59
+MSIF,"MSC Income Fund, Inc.",Financial Services,Asset Management,14.01,664641472.0,3.5,0.0,0.0,3.5,False,10.28
+OWL,Blue Owl Capital Inc.,Financial Services,Asset Management,16.24,25386584064.0,3.5,0.0,0.0,3.5,False,5.54
+BRBI,BRBI BR Partners S.A.,Financial Services,Capital Markets,14.325,376015872.0,3.5,0.0,0.0,3.5,False,21.26
+SHFSW,"SHF Holdings, Inc.",Financial Services,Banks - Regional,0.0319,0.0,2.5,1.0,0.0,3.5,False,0.0
+SSSS,SuRo Capital Corp.,Financial Services,Asset Management,9.43,236873040.0,3.5,0.0,0.0,3.5,False,5.3
+MSDL,Morgan Stanley Direct Lending Fund,Financial Services,Asset Management,17.54,1523086080.0,3.0,0.5,0.0,3.5,False,11.4
+VINP,Vinci Compass Investments Ltd.,Financial Services,Asset Management,12.14,767790208.0,3.5,0.0,0.0,3.5,False,4.94
+BTCS,BTCS Inc.,Financial Services,Capital Markets,3.33,160015744.0,3.5,0.0,0.0,3.5,False,1.5
+BTX,BlackRock Innovation and Growth Term Trust,Financial Services,Asset Management,6.77,1444299264.0,3.0,0.5,0.0,3.5,False,9.31
+NBXG,Neuberger Berman Next Generation Connectivity Fund Inc.,Financial Services,Asset Management,15.01,1182210048.0,3.0,0.5,0.0,3.5,False,9.59
+DHIL,"Diamond Hill Investment Group, Inc.",Financial Services,Asset Management,116.3,314626048.0,3.5,0.0,0.0,3.5,False,5.16
+NPFD,Nuveen Variable Rate Preferred & Income Fund,Financial Services,Asset Management,19.67,475308640.0,3.5,0.0,0.0,3.5,False,9.55
+CACC,Credit Acceptance Corporation,Financial Services,Credit Services,464.68,5221916672.0,3.0,0.5,0.0,3.5,False,0.0
+UPST,"Upstart Holdings, Inc.",Financial Services,Credit Services,46.75,4548143104.0,3.0,0.5,0.0,3.5,False,0.0
+HUT,Hut 8 Corp.,Financial Services,Capital Markets,42.43,4583994368.0,3.0,0.5,0.0,3.5,False,0.0
+SNEX,StoneX Group Inc.,Financial Services,Capital Markets,93.39,4879056896.0,3.0,0.5,0.0,3.5,False,0.0
+BBUC,Brookfield Business Corporation,Financial Services,Asset Management,36.12,2528282112.0,3.0,0.5,0.0,3.5,False,0.69
+RELIW,"Reliance Global Group, Inc.",Financial Services,Insurance Brokers,0.0329,0.0,2.5,1.0,0.0,3.5,False,0.0
+BCAR,D. Boral ARC Acquisition I Corp.,Financial Services,Shell Companies,10.015,423348416.0,3.0,0.0,0.0,3.0,False,0.0
+CNCK,Coincheck Group N.V.,Financial Services,Capital Markets,5.76,782334912.0,3.0,0.0,0.0,3.0,False,0.0
+ASST,"Strive Asset Management, LLC",Financial Services,Asset Management,0.9005,734342976.0,3.0,0.0,0.0,3.0,False,0.0
+NMAI,Nuveen Multi-Asset Income Fund,Financial Services,Asset Management,13.33,445563840.0,3.0,0.0,0.0,3.0,False,10.44
+IBAC,IB Acquisition Corp.,Financial Services,Shell Companies,10.48,165050464.0,3.0,0.0,0.0,3.0,False,0.0
+HYNE,"Hoyne Bancorp, Inc. Common Stock",Financial Services,Banks - Regional,13.8,111737744.0,2.0,1.0,0.0,3.0,False,0.0
+CWD,CaliberCos Inc.,Financial Services,Asset Management,1.82,11843452.0,3.0,0.0,0.0,3.0,False,0.0
+HUIZ,Huize Holding Limited,Financial Services,Insurance Brokers,3.6,36318872.0,3.0,1.0,-1.0,3.0,False,0.0
+ALDF,Aldel Financial II Inc.,Financial Services,Shell Companies,10.495,313466912.0,3.0,0.0,0.0,3.0,False,0.0
+ASGI,Abrdn Global Infrastructure Income Fund,Financial Services,Asset Management,22.44,649507712.0,3.0,0.0,0.0,3.0,False,11.23
+NPCT,Nuveen Core Plus Impact Fund,Financial Services,Asset Management,10.5,301927488.0,3.0,0.0,0.0,3.0,False,11.31
+UCFI,CN Healthy Food Tech Group Corp.,Financial Services,Shell Companies,5.511,287867104.0,3.0,0.0,0.0,3.0,False,0.0
+DEFT,DeFi Technologies Inc.,Financial Services,Capital Markets,1.19,491311168.0,3.0,0.0,0.0,3.0,False,0.0
+NDMO,Nuveen Dynamic Municipal Opportunities Fund,Financial Services,Asset Management,10.36,617064512.0,3.0,0.0,0.0,3.0,False,7.18
+INV,"Innventure, Inc.",Financial Services,Asset Management,5.33,332975616.0,3.0,0.0,0.0,3.0,False,0.0
+SPME,"Sound Point Meridian Capital, Inc.",Financial Services,Asset Management,25.09,0.0,3.0,0.0,0.0,3.0,False,7.85
+SPMA,"Sound Point Meridian Capital, Inc.",Financial Services,Asset Management,25.1963,0.0,3.0,0.0,0.0,3.0,False,7.94
+UYSCU,UY Scuti Acquisition Corp.,Financial Services,Shell Companies,10.03,66975324.0,3.0,0.0,0.0,3.0,False,0.0
+ATCH,"AtlasClear Holdings, Inc.",Financial Services,Capital Markets,0.3456,49966912.0,3.0,0.0,0.0,3.0,False,0.0
+UYSC,UY Scuti Acquisition Corp.,Financial Services,Shell Companies,10.21,78191736.0,3.0,0.0,0.0,3.0,False,0.0
+HGBL,Heritage Global Inc.,Financial Services,Capital Markets,1.28,44469184.0,3.0,0.0,0.0,3.0,False,0.0
+HIVE,HIVE Digital Technologies Ltd.,Financial Services,Capital Markets,3.12,742456960.0,3.0,0.0,0.0,3.0,False,0.0
+NCPL,Netcapital Inc.,Financial Services,Capital Markets,0.8413,4137421.0,3.0,0.0,0.0,3.0,False,0.0
+NCDL,Nuveen Churchill Direct Lending Corp.,Financial Services,Asset Management,14.81,731422464.0,3.0,0.0,0.0,3.0,False,12.15
+CD,Chaince Digital Holdings Inc.,Financial Services,Capital Markets,6.14,424133024.0,3.0,0.0,0.0,3.0,False,0.0
+SLNH,"Soluna Holdings, Inc.",Financial Services,Capital Markets,1.66,113582352.0,3.0,0.0,0.0,3.0,False,0.0
+DMA,Destra Multi-Alternative Fund,Financial Services,Asset Management,8.73,78249080.0,3.0,0.0,0.0,3.0,False,12.1
+DLY,DoubleLine Yield Opportunities Fund,Financial Services,Asset Management,14.65,711101952.0,3.0,0.0,0.0,3.0,False,9.56
+OCCIO,"OFS Credit Company, Inc.",Financial Services,Asset Management,25.0101,0.0,3.0,0.0,0.0,3.0,False,6.12
+OCCIN,"OFS Credit Company, Inc.",Financial Services,Asset Management,24.6,0.0,3.0,0.0,0.0,3.0,False,5.34
+OCCIM,"OFS Credit Company, Inc.",Financial Services,Asset Management,25.12,0.0,3.0,0.0,0.0,3.0,False,7.84
+BTOG,Bit Origin Ltd,Financial Services,Financial Data & Stock Exchanges,0.2699,24123262.0,3.0,0.0,0.0,3.0,False,0.0
+VEL,"Velocity Financial, Inc.",Financial Services,Mortgage Finance,18.85,733265600.0,3.0,0.0,0.0,3.0,False,0.0
+OAKU,Oak Woods Acquisition Corporation,Financial Services,Shell Companies,12.06,64618096.0,3.0,0.0,0.0,3.0,False,0.0
+TWN,"The Taiwan Fund, Inc.",Financial Services,Asset Management,56.0661,342216480.0,3.0,0.0,0.0,3.0,False,0.0
+DOMH,Dominari Holdings Inc.,Financial Services,Capital Markets,3.89,62288372.0,3.0,0.0,0.0,3.0,False,0.0
+BTM,Bitcoin Depot Inc.,Financial Services,Capital Markets,1.33,97365016.0,3.0,0.0,0.0,3.0,False,0.0
+BTBT,"Bit Digital, Inc.",Financial Services,Capital Markets,2.22,718558080.0,3.0,0.0,0.0,3.0,False,0.0
+OMCC,Old Market Capital Corporation,Financial Services,Credit Services,5.15,34969000.0,3.0,0.0,0.0,3.0,False,0.0
+GUG,Guggenheim Active Allocation Fund,Financial Services,Asset Management,15.64,515808512.0,3.0,0.0,0.0,3.0,False,9.11
+AIFU,AIFU Inc.,Financial Services,Insurance Brokers,2.78,37169352.0,3.0,1.0,-1.0,3.0,False,0.0
+ALTI,"AlTi Global, Inc.",Financial Services,Asset Management,4.54,669990656.0,3.0,0.0,0.0,3.0,False,0.0
+JACS,Jackson Acquisition Company II,Financial Services,Shell Companies,10.45,309215488.0,3.0,0.0,0.0,3.0,False,0.0
+CEPF,"Cantor Equity Partners IV, Inc.",Financial Services,Shell Companies,10.29,588073472.0,3.0,0.0,0.0,3.0,False,0.0
+SIEB,Siebert Financial Corp.,Financial Services,Capital Markets,2.97,120068000.0,3.0,0.0,0.0,3.0,False,0.0
+OPFI,OppFi Inc.,Financial Services,Credit Services,10.11,882664896.0,3.0,0.0,0.0,3.0,False,0.0
+ONIT,Onity Group Inc.,Financial Services,Mortgage Finance,43.63,351608672.0,3.0,0.0,0.0,3.0,False,0.0
+DRDBU,Roman DBDR Acquisition Corp. II,Financial Services,Shell Companies,10.74,286400352.0,3.0,0.0,0.0,3.0,False,0.0
+DRDB,Roman DBDR Acquisition Corp. II,Financial Services,Shell Companies,10.42,319546688.0,3.0,0.0,0.0,3.0,False,0.0
+VNME,Vendome Acquisition Corporation I,Financial Services,Shell Companies,10.04,251000000.0,3.0,0.0,0.0,3.0,False,0.0
+ATLCP,Atlanticus Holdings Corporation,Financial Services,Credit Services,23.72,0.0,3.0,0.0,0.0,3.0,False,8.04
+ORIQU,Origin Investment Corp I,Financial Services,Shell Companies,10.69,151584192.0,3.0,0.0,0.0,3.0,False,0.0
+OPRT,Oportun Financial Corporation,Financial Services,Credit Services,5.33,235207680.0,3.0,0.0,0.0,3.0,False,0.0
+SSEA,Starry Sea Acquisition Corp,Financial Services,Shell Companies,9.98,76206000.0,3.0,0.0,0.0,3.0,False,0.0
+ORIQ,Origin Investment Corp I,Financial Services,Shell Companies,10.18,87802512.0,3.0,0.0,0.0,3.0,False,0.0
+VRM,"Vroom, Inc.",Financial Services,Credit Services,20.11,104564360.0,3.0,0.0,0.0,3.0,False,0.0
+ATLC,Atlanticus Holdings Corporation,Financial Services,Credit Services,59.64,903040832.0,3.0,0.0,0.0,3.0,False,0.0
+OXLCN,Oxford Lane Capital Corp.,Financial Services,Asset Management,24.36,0.0,3.0,0.0,0.0,3.0,False,7.31
+GLXY,Galaxy Digital,Financial Services,Capital Markets,25.51,10303004672.0,3.0,0.0,0.0,3.0,False,0.0
+BNBX,BNB Plus Corp.,Financial Services,Asset Management,3.0,17735852.0,3.0,0.0,0.0,3.0,False,0.0
+PAPL,PAPL,Financial Services,Mortgage Finance,3.27,4401230.0,3.0,0.0,0.0,3.0,False,0.0
+WDI,Western Asset Diversified Income Fund,Financial Services,Asset Management,14.35,743770368.0,3.0,0.0,0.0,3.0,False,12.42
+STKE,Sol Strategies Inc.,Financial Services,Capital Markets,2.63,72511208.0,3.0,0.0,0.0,3.0,False,0.0
+SDHY,PGIM Short Duration High Yield Opportunities Fund,Financial Services,Asset Management,16.5,407105408.0,3.0,0.0,0.0,3.0,False,7.85
+SDHI,Siddhi Acquisition Corp.,Financial Services,Shell Companies,10.26,357437888.0,3.0,0.0,0.0,3.0,False,0.0
+BNKK,"Bonk, Inc.",Financial Services,Asset Management,0.1974,36613020.0,3.0,0.0,0.0,3.0,False,0.0
+BMN,Blackrock 2037 Municipal Target Term Trust,Financial Services,Asset Management,25.41,156211888.0,3.0,0.0,0.0,3.0,False,4.43
+PAXS,PIMCO Access Income Fund,Financial Services,Asset Management,15.86,722724352.0,3.0,0.0,0.0,3.0,False,11.3
+TREE,"LendingTree, Inc.",Financial Services,Financial Conglomerates,55.515,758928704.0,3.0,0.0,0.0,3.0,False,0.0
+PDCC,Pearl Diver Credit Company Inc.,Financial Services,Asset Management,15.2,103420176.0,3.0,0.0,0.0,3.0,False,17.37
+AMTD,AMTD IDEA Group,Financial Services,Asset Management,1.01,81030832.0,3.0,0.0,0.0,3.0,False,0.0
+CRCL,Circle Internet Group,Financial Services,Capital Markets,85.62,21784948736.0,3.0,0.0,0.0,3.0,False,0.0
+GEG,"Great Elm Group, Inc.",Financial Services,Asset Management,2.64,88041328.0,3.0,0.0,0.0,3.0,False,0.0
+PELI,Pelican Acquisition Corporation,Financial Services,Shell Companies,10.14,121667336.0,3.0,0.0,0.0,3.0,False,0.0
+WLAC,Willow Lane Acquisition Corp.,Financial Services,Shell Companies,11.51,198877536.0,3.0,0.0,0.0,3.0,False,0.0
+GDOT,Green Dot Corporation,Financial Services,Credit Services,13.03,723798464.0,3.0,0.0,0.0,3.0,False,0.0
+BLNE,"Beeline Holdings, Inc.",Financial Services,Mortgage Finance,2.06,57175380.0,3.0,0.0,0.0,3.0,False,0.0
+ECCF,Eagle Point Credit Company Inc.,Financial Services,Asset Management,25.18,0.0,3.0,0.0,0.0,3.0,False,7.94
+ECCC,Eagle Point Credit Company Inc.,Financial Services,Asset Management,23.75,0.0,3.0,0.0,0.0,3.0,False,6.84
+CPZ,Calamos Long/Short Equity & Dynamic Income Term Trust,Financial Services,Asset Management,14.9,292519680.0,3.0,0.0,0.0,3.0,False,11.28
+CPSS,"Consumer Portfolio Services, Inc.",Financial Services,Credit Services,8.6,191128032.0,3.0,0.0,0.0,3.0,False,0.0
+SUIG,SUI Group Holdings Limited,Financial Services,Credit Services,1.96,162814992.0,3.0,0.0,0.0,3.0,False,0.0
+MKTW,"MarketWise, Inc.",Financial Services,Financial Data & Stock Exchanges,16.02,44199020.0,3.0,0.0,0.0,3.0,False,4.99
+SATA,"Strive Asset Management, LLC",Financial Services,Asset Management,91.65,0.0,3.0,0.0,0.0,3.0,False,14.84
+FUTU,Futu Holdings Limited,Financial Services,Capital Markets,171.3,23849672704.0,3.0,1.0,-1.0,3.0,False,0.0
+TOP,TOP Financial Group Limited,Financial Services,Capital Markets,1.1,40775024.0,3.0,0.0,0.0,3.0,False,0.0
+FUFU,BitFuFu Inc.,Financial Services,Capital Markets,2.91,484463520.0,3.0,0.0,0.0,3.0,False,0.0
+SWKH,SWK Holdings Corporation,Financial Services,Asset Management,17.04,206991552.0,3.0,0.0,0.0,3.0,False,0.0
+AVX,Avax One Technology Ltd.,Financial Services,Asset Management,1.96,182499808.0,3.0,0.0,0.0,3.0,False,0.0
+FTHY,First Trust High Yield Opportunities 2027 Term Fund,Financial Services,Asset Management,14.12,519234656.0,3.0,0.0,0.0,3.0,False,10.62
+FRGE,"Forge Global Holdings, Inc.",Financial Services,Capital Markets,44.31,609091584.0,3.0,0.0,0.0,3.0,False,0.0
+COLAU,Columbus Acquisition Corp,Financial Services,Shell Companies,10.6,84209480.0,3.0,0.0,0.0,3.0,False,0.0
+COLA,Columbus Acquisition Corp,Financial Services,Shell Companies,10.31,81905632.0,3.0,0.0,0.0,3.0,False,0.0
+MGLD,"The Marygold Companies, Inc.",Financial Services,Asset Management,0.91,39206192.0,3.0,0.0,0.0,3.0,False,0.0
+WRLD,World Acceptance Corporation,Financial Services,Credit Services,143.73,782723072.0,3.0,0.0,0.0,3.0,False,0.0
+FSHP,Flag Ship Acquisition Corporation,Financial Services,Shell Companies,10.7,94834096.0,3.0,0.0,0.0,3.0,False,0.0
+PMTR,Perimeter Acquisition Corp. I,Financial Services,Shell Companies,10.275,316732000.0,3.0,0.0,0.0,3.0,False,0.0
+EICA,Eagle Point Income Company Inc.,Financial Services,Asset Management,24.7,0.0,3.0,0.0,0.0,3.0,False,5.06
+PRAA,"PRA Group, Inc.",Financial Services,Credit Services,17.08,667378752.0,3.0,0.0,0.0,3.0,False,0.0
+FOA,Finance of America Companies Inc.,Financial Services,Credit Services,22.51,249394368.0,3.0,0.0,0.0,3.0,False,0.0
+MEGI,NYLI CBRE Global Infrastructure Megatrends Term Fund,Financial Services,Asset Management,13.84,720337920.0,3.0,0.0,0.0,3.0,False,10.84
+TACO,Berto Acquisition Corp.,Financial Services,Shell Companies,10.1401,380443872.0,3.0,0.0,0.0,3.0,False,0.0
+PSBD,Palmer Square Capital BDC Inc.,Financial Services,Asset Management,12.28,388040288.0,3.0,0.0,0.0,3.0,False,11.73
+BETR,Better Home & Finance Holding Company,Financial Services,Mortgage Finance,45.44,713255232.0,3.0,0.0,0.0,3.0,False,0.0
+EICC,Eagle Point Income Company Inc.,Financial Services,Asset Management,25.27,0.0,3.0,0.0,0.0,3.0,False,7.91
+EICB,Eagle Point Income Company Inc.,Financial Services,Asset Management,25.05,0.0,3.0,0.0,0.0,3.0,False,7.73
+FLD,"Fold Holdings, Inc.",Financial Services,Capital Markets,3.0,144922912.0,3.0,0.0,0.0,3.0,False,0.0
+MDBH,"MDB Capital Holdings, LLC",Financial Services,Capital Markets,3.33,33761644.0,3.0,0.0,0.0,3.0,False,0.0
+TBLD,Thornburg Income Builder Opportunities Trust,Financial Services,Asset Management,19.86,637146240.0,3.0,0.0,0.0,3.0,False,6.29
+FGNX,FG Nexus Inc.,Financial Services,Asset Management,2.83,119469080.0,3.0,0.0,0.0,3.0,False,0.0
+FGMCU,FG Merger II Corp.,Financial Services,Shell Companies,10.33,106355616.0,3.0,0.0,0.0,3.0,False,0.0
+FGMC,FG Merger II Corp.,Financial Services,Shell Companies,10.0299,103265840.0,3.0,0.0,0.0,3.0,False,0.0
+TIRX,Tian Ruixiang Holdings Ltd.,Financial Services,Insurance Brokers,0.7689,20269328.0,3.0,1.0,-1.0,3.0,False,0.0
+RMMZ,"RiverNorth Managed Duration Municipal Income Fund II, Inc.",Financial Services,Asset Management,14.73,124542144.0,3.0,0.0,0.0,3.0,False,7.75
+RLTY,Cohen & Steers Real Estate Opportunities & Income Fund,Financial Services,Asset Management,15.02,251170544.0,3.0,0.0,0.0,3.0,False,8.79
+LDI,"loanDepot, Inc.",Financial Services,Mortgage Finance,2.73,941765440.0,3.0,0.0,0.0,3.0,False,0.0
+LGHL,Lion Group Holding Ltd.,Financial Services,Capital Markets,3.99,26301764.0,3.0,0.0,0.0,3.0,False,0.0
+RILYL,"B. Riley Financial, Inc.",Financial Services,Financial Conglomerates,4.2,0.0,2.0,1.0,0.0,3.0,False,0.0
+RIBBU,Ribbon Acquisition Corp.,Financial Services,Shell Companies,10.51,67999704.0,3.0,0.0,0.0,3.0,False,0.0
+QFIN,"Qfin Holdings, Inc.",Financial Services,Credit Services,19.57,2702731520.0,3.5,0.5,-1.0,3.0,False,7.46
+RILYP,"B. Riley Financial, Inc.",Financial Services,Financial Conglomerates,3.9,0.0,2.0,1.0,0.0,3.0,False,0.0
+EQS,"Equus Total Return, Inc.",Financial Services,Asset Management,1.8,25140052.0,3.0,0.0,0.0,3.0,False,0.0
+TGE,The Generation Essentials Group,Financial Services,Asset Management,1.08,52337960.0,3.0,0.0,0.0,3.0,False,0.0
+RFMZ,"RiverNorth Flexible Municipal Income Fund II, Inc.",Financial Services,Asset Management,12.94,315111712.0,3.0,0.0,0.0,3.0,False,7.96
+RFM,"RiverNorth Flexible Municipal Income Fund, Inc.",Financial Services,Asset Management,14.27,87256760.0,3.0,0.0,0.0,3.0,False,7.9
+RIBB,Ribbon Acquisition Corp.,Financial Services,Shell Companies,10.345,66932152.0,3.0,0.0,0.0,3.0,False,0.0
+BCG,"Binah Capital Group, Inc.",Financial Services,Asset Management,2.41,40011932.0,3.0,0.0,0.0,3.0,False,0.0
+RANG,Range Capital Acquisition Corp.,Financial Services,Shell Companies,10.48,168072992.0,3.0,0.0,0.0,3.0,False,0.0
+ANY,Sphere 3D Corp.,Financial Services,Capital Markets,0.4817,16247340.0,3.0,0.0,0.0,3.0,False,0.0
+ANTA,ANTA,Financial Services,Credit Services,10.39,246009232.0,3.0,0.0,0.0,3.0,False,0.0
+LMFA,"LM Funding America, Inc.",Financial Services,Credit Services,0.9324,11384057.0,3.0,0.0,0.0,3.0,False,0.0
+LPRO,Open Lending Corporation,Financial Services,Credit Services,1.83,216286688.0,3.0,0.0,0.0,3.0,False,0.0
+ZBAI,ATIF Holdings Limited,Financial Services,Capital Markets,6.68,8772991.0,3.0,0.0,0.0,3.0,False,0.0
+AAM,AA Mission Acquisition Corp.,Financial Services,Shell Companies,10.61,466564128.0,3.0,0.0,0.0,3.0,False,0.0
+SNFCA,Security National Financial Corporation,Financial Services,Mortgage Finance,8.53,232712112.0,3.0,0.0,0.0,3.0,False,0.0
+CYPH,Cypherpunk Technologies Inc.,Financial Services,Asset Management,1.11,62883544.0,3.0,0.0,0.0,3.0,False,0.0
+ZBAO,Zhibao Technology Inc.,Financial Services,Insurance Brokers,1.08,35706772.0,3.0,1.0,-1.0,3.0,False,0.0
+AACB,Artius II Acquisition Inc.,Financial Services,Shell Companies,10.32,285605984.0,2.5,0.0,0.0,2.5,False,0.0
+XRPN,Armada Acquisition Corp. II,Financial Services,Shell Companies,10.17,321270304.0,2.5,0.0,0.0,2.5,False,0.0
+RDAG,Republic Digital Acquisition Company,Financial Services,Shell Companies,10.13,379875008.0,2.5,0.0,0.0,2.5,False,0.0
+RDAGU,Republic Digital Acquisition Company,Financial Services,Shell Companies,10.54,41738400.0,2.5,0.0,0.0,2.5,False,0.0
+XHG,XChange TEC.INC,Financial Services,Insurance Brokers,0.9401,48460208.0,2.5,1.0,-1.0,2.5,False,0.0
+FERA,Fifth Era Acquisition Corp I,Financial Services,Shell Companies,10.39,324860704.0,2.5,0.0,0.0,2.5,False,0.0
+RFAI,RF Acquisition Corp II,Financial Services,Shell Companies,10.73,161084112.0,2.5,0.0,0.0,2.5,False,0.0
+RFAIU,RF Acquisition Corp II,Financial Services,Shell Companies,10.85,108500000.0,2.5,0.0,0.0,2.5,False,0.0
+EIIA,Eagle Point Institutional Income Fund,Financial Services,Asset Management,25.3,0.0,2.5,0.0,0.0,2.5,False,8.03
+FLDDW,"Fold Holdings, Inc.",Financial Services,Capital Markets,0.223,0.0,2.5,0.0,0.0,2.5,False,0.0
+WSTNU,Westin Acquisition Corp,Financial Services,Shell Companies,10.01,0.0,2.5,0.0,0.0,2.5,False,0.0
+BAYA,Bayview Acquisition Corp,Financial Services,Shell Companies,11.55,40035328.0,2.5,0.0,0.0,2.5,False,0.0
+BCGWW,"Binah Capital Group, Inc.",Financial Services,Asset Management,0.1075,0.0,2.5,0.0,0.0,2.5,False,0.0
+RANGU,Range Capital Acquisition Corp.,Financial Services,Shell Companies,11.0,0.0,2.5,0.0,0.0,2.5,False,0.0
+FSHPU,Flag Ship Acquisition Corporation,Financial Services,Shell Companies,10.6,65932004.0,2.5,0.0,0.0,2.5,False,0.0
+FTW,EQV Ventures Acquisition Corp.,Financial Services,Shell Companies,10.44,465336896.0,2.5,0.0,0.0,2.5,False,0.0
+RAAQ,Real Asset Acquisition Corp.,Financial Services,Shell Companies,10.26,235980000.0,2.5,0.0,0.0,2.5,False,0.0
+FUFUW,BitFuFu Inc.,Financial Services,Capital Markets,0.2323,0.0,2.5,0.0,0.0,2.5,False,0.0
+WLACU,Willow Lane Acquisition Corp.,Financial Services,Shell Companies,14.0,0.0,2.5,0.0,0.0,2.5,False,0.0
+WLACW,Willow Lane Acquisition Corp.,Financial Services,Shell Companies,3.38,0.0,2.5,0.0,0.0,2.5,False,0.0
+BDCI,BTC Development Corp.,Financial Services,Shell Companies,10.05,349204032.0,2.5,0.0,0.0,2.5,False,0.0
+QSEA,QSEA,Financial Services,Shell Companies,10.2,116380976.0,2.5,0.0,0.0,2.5,False,0.0
+QUMS,Quantumsphere Acquisition Corporation,Financial Services,Shell Companies,10.0,114066512.0,2.5,0.0,0.0,2.5,False,0.0
+DYORU,Insight Digital Partners II,Financial Services,Shell Companies,10.03,200600000.0,2.5,0.0,0.0,2.5,False,0.0
+GIG,GigCapital7 Corp.,Financial Services,Shell Companies,10.48,349333312.0,2.5,0.0,0.0,2.5,False,0.0
+DXYZ,Destiny Tech100 Inc.,Financial Services,Asset Management,26.29,379311808.0,2.5,0.0,0.0,2.5,False,0.0
+QETA,Quetta Acquisition Corporation,Financial Services,Shell Companies,11.35,42536952.0,2.5,0.0,0.0,2.5,False,0.0
+DTSQ,DT Cloud Star Acquisition Corporation,Financial Services,Shell Companies,10.72,95417648.0,2.5,0.0,0.0,2.5,False,0.0
+DTSQU,DT Cloud Star Acquisition Corporation,Financial Services,Shell Companies,10.87,84279456.0,2.5,0.0,0.0,2.5,False,0.0
+XYF,X Financial,Financial Services,Credit Services,6.98,285366592.0,3.5,0.0,-1.0,2.5,False,7.59
+AFJK,"Aimei Health Technology Co., Ltd",Financial Services,Shell Companies,8.0,48973864.0,2.5,0.0,0.0,2.5,False,0.0
+RMCOW,Royalty Management Holding Corporation,Financial Services,Asset Management,0.0811,0.0,2.5,0.0,0.0,2.5,False,0.0
+GPAT,GP-Act III Acquisition Corp.,Financial Services,Shell Companies,10.655,382914048.0,2.5,0.0,0.0,2.5,False,0.0
+GREE,Greenidge Generation Holdings Inc.,Financial Services,Capital Markets,1.73,27332266.0,2.5,0.0,0.0,2.5,False,0.0
+GRAF,Graf Global Corp.,Financial Services,Shell Companies,10.7,307624992.0,2.5,0.0,0.0,2.5,False,0.0
+DRDBW,Roman DBDR Acquisition Corp. II,Financial Services,Shell Companies,0.69,18402300.0,2.5,0.0,0.0,2.5,False,0.0
+BEAG,Bold Eagle Acquisition Corp.,Financial Services,Shell Companies,10.65,333536704.0,2.5,0.0,0.0,2.5,False,0.0
+GSHR,GSHR,Financial Services,Shell Companies,10.26,209859152.0,2.5,0.0,0.0,2.5,False,0.0
+GSRF,GSR IV Acquisition Corp.,Financial Services,Shell Companies,9.995,293907968.0,2.5,0.0,0.0,2.5,False,0.0
+GSRFU,GSR IV Acquisition Corp.,Financial Services,Shell Companies,10.42,274676416.0,2.5,0.0,0.0,2.5,False,0.0
+VNMEU,Vendome Acquisition Corporation I,Financial Services,Shell Companies,10.12,0.0,2.5,0.0,0.0,2.5,False,0.0
+VNMEW,Vendome Acquisition Corporation I,Financial Services,Shell Companies,0.26,2600000.0,2.5,0.0,0.0,2.5,False,0.0
+GTERA,Globa Terra Acquisition Corporation,Financial Services,Shell Companies,10.05,285470912.0,2.5,0.0,0.0,2.5,False,0.0
+HAVAU,Harvard Ave Acquisition Corporation,Financial Services,Shell Companies,10.02,183766448.0,2.5,0.0,0.0,2.5,False,0.0
+HCMA,HCM III Acquisition Corp.,Financial Services,Shell Companies,10.11,341043968.0,2.5,0.0,0.0,2.5,False,0.0
+DMAA,Drugs Made In America Acquisition Corp.,Financial Services,Shell Companies,10.34,346567264.0,2.5,0.0,0.0,2.5,False,0.0
+BENF,Beneficient,Financial Services,Asset Management,0.6607,73336240.0,2.5,0.0,0.0,2.5,False,0.0
+BETRW,Better Home & Finance Holding Company,Financial Services,Mortgage Finance,0.36,0.0,2.5,0.0,0.0,2.5,False,0.0
+DMAAU,Drugs Made In America Acquisition Corp.,Financial Services,Shell Companies,10.4,303382560.0,2.5,0.0,0.0,2.5,False,0.0
+VCIC,Vine Hill Capital Investment Corp.,Financial Services,Shell Companies,10.67,312986688.0,2.5,0.0,0.0,2.5,False,0.0
+VACH,Voyager Acquisition Corp.,Financial Services,Shell Companies,10.567,334181376.0,2.5,0.0,0.0,2.5,False,0.0
+HSDT,Solana Company,Financial Services,Asset Management,3.86,159423392.0,2.5,0.0,0.0,2.5,False,0.0
+BACQ,Inflection Point Acquisition Corp. IV,Financial Services,Shell Companies,11.0,463008320.0,2.5,0.0,0.0,2.5,False,0.0
+HSPO,Horizon Space Acquisition I Corp.,Financial Services,Shell Companies,12.3,51275504.0,2.5,0.0,0.0,2.5,False,0.0
+HSPT,Horizon Space Acquisition II Corp.,Financial Services,Shell Companies,10.51,95430800.0,2.5,0.0,0.0,2.5,False,0.0
+HYAC,Haymaker Acquisition Corp. 4,Financial Services,Shell Companies,11.295,329537280.0,2.5,0.0,0.0,2.5,False,0.0
+ALCY,Alchemy Investments Acquisition Corp 1,Financial Services,Shell Companies,11.76,49486600.0,2.5,0.0,0.0,2.5,False,0.0
+ALDFU,Aldel Financial II Inc.,Financial Services,Shell Companies,10.55,0.0,2.5,0.0,0.0,2.5,False,0.0
+ALDFW,Aldel Financial II Inc.,Financial Services,Shell Companies,0.54,0.0,2.5,0.0,0.0,2.5,False,0.0
+ALF,Centurion Acquisition Corp.,Financial Services,Shell Companies,10.61,381296864.0,2.5,0.0,0.0,2.5,False,0.0
+HVII,Hennessy Capital Investment Corp. VII,Financial Services,Shell Companies,10.32,268560768.0,2.5,0.0,0.0,2.5,False,0.0
+RTAC,Renatus Tactical Acquisition Corp I,Financial Services,Shell Companies,10.7,408446560.0,2.5,0.0,0.0,2.5,False,0.0
+DAAQ,Digital Asset Acquisition Corp.,Financial Services,Shell Companies,10.17,233910000.0,2.5,0.0,0.0,2.5,False,0.0
+ALIS,Calisa Acquisition Corp,Financial Services,Shell Companies,9.9,83432248.0,2.5,0.0,0.0,2.5,False,0.0
+ALISU,Calisa Acquisition Corp,Financial Services,Shell Companies,10.23,0.0,2.5,0.0,0.0,2.5,False,0.0
+POLE,Andretti Acquisition Corp. II,Financial Services,Shell Companies,10.53,310740288.0,2.5,0.0,0.0,2.5,False,0.0
+UCFIW,CN Healthy Food Tech Group Corp.,Financial Services,Shell Companies,0.09,0.0,2.5,0.0,0.0,2.5,False,0.0
+INAC,Indigo Acquisition Corp.,Financial Services,Shell Companies,10.04,148140192.0,2.5,0.0,0.0,2.5,False,0.0
+IPOD,Dune Acquisition Corporation II,Financial Services,Shell Companies,10.18,205970032.0,2.5,0.0,0.0,2.5,False,0.0
+IPCX,Inflection Point Acquisition Corp. III,Financial Services,Shell Companies,10.11,348525408.0,2.5,0.0,0.0,2.5,False,0.0
+CUB,Lionheart Holdings,Financial Services,Shell Companies,10.595,324913344.0,2.5,0.0,0.0,2.5,False,0.0
+TVAI,Thayer Ventures Acquisition Corporation II,Financial Services,Shell Companies,10.125,275357792.0,2.5,0.0,0.0,2.5,False,0.0
+IPEX,Inflection Point Acquisition Corp. V,Financial Services,Shell Companies,10.29,122547472.0,2.5,0.0,0.0,2.5,False,0.0
+TVA,Texas Ventures Acquisition III Corp,Financial Services,Shell Companies,10.54,316200000.0,2.5,0.0,0.0,2.5,False,0.0
+PMTRU,PMTRU,Financial Services,Shell Companies,10.75,0.0,2.5,0.0,0.0,2.5,False,0.0
+PMTRW,Perimeter Acquisition Corp. I,Financial Services,Shell Companies,0.83,0.0,2.5,0.0,0.0,2.5,False,0.0
+PMTS,CPI Card Group Inc.,Financial Services,Credit Services,15.82,180150848.0,2.5,0.0,0.0,2.5,False,0.0
+PLMK,Plum Acquisition Corp. IV,Financial Services,Shell Companies,10.4,252125904.0,2.5,0.0,0.0,2.5,False,0.0
+CRACU,Crown Reserve Acquisition Corp. I,Financial Services,Shell Companies,10.12,0.0,2.5,0.0,0.0,2.5,False,0.0
+KFII,K&F Growth Acquisition Corp. II,Financial Services,Shell Companies,10.28,403552288.0,2.5,0.0,0.0,2.5,False,0.0
+KFIIU,K&F Growth Acquisition Corp. II,Financial Services,Shell Companies,11.2,289284800.0,2.5,0.0,0.0,2.5,False,0.0
+KOYN,"CSLM Digital Asset Acquisition Corp III, Ltd",Financial Services,Shell Companies,9.93,313370112.0,2.5,0.0,0.0,2.5,False,0.0
+KVAC,Keen Vision Acquisition Corporation,Financial Services,Shell Companies,11.91,110029592.0,2.5,0.0,0.0,2.5,False,0.0
+PLMKU,Plum Acquisition Corp. IV,Financial Services,Shell Companies,10.36,282993760.0,2.5,0.0,0.0,2.5,False,0.0
+LATA,Galata Acquisition Corp. II,Financial Services,Shell Companies,9.94,228619984.0,2.5,0.0,0.0,2.5,False,0.0
+LEGT,Legato Merger Corp. III,Financial Services,Shell Companies,10.8133,278976384.0,2.5,0.0,0.0,2.5,False,0.0
+PGAC,Pantages Capital Acquisition Corporation.,Financial Services,Shell Companies,10.35,114113928.0,2.5,0.0,0.0,2.5,False,0.0
+TLNC,Talon Capital Corp.,Financial Services,Shell Companies,10.15,429131840.0,2.5,0.0,0.0,2.5,False,0.0
+LCCC,Lakeshore Acquisition III Corp.,Financial Services,Shell Companies,10.17,90563848.0,2.5,0.0,0.0,2.5,False,0.0
+LAFAU,LaFayette Acquisition Corp.,Financial Services,Shell Companies,10.04,137380656.0,2.5,0.0,0.0,2.5,False,0.0
+LKSP,Lake Superior Acquisition Corp.,Financial Services,Shell Companies,9.9,193314000.0,2.5,0.0,0.0,2.5,False,0.0
+LFACU,Leapfrog Acquisition Corporation Units,Financial Services,Shell Companies,10.01,0.0,2.5,0.0,0.0,2.5,False,0.0
+PELIU,PELIU,Financial Services,Shell Companies,10.69,0.0,2.5,0.0,0.0,2.5,False,0.0
+BKHA,Black Hawk Acquisition Corporation,Financial Services,Shell Companies,11.2,46520060.0,2.5,0.0,0.0,2.5,False,0.0
+SBXD,SilverBox Corp IV,Financial Services,Shell Companies,10.54,268295696.0,2.5,0.0,0.0,2.5,False,0.0
+ANSC,Agriculture & Natural Solutions Acquisition Corporation,Financial Services,Shell Companies,11.11,461589824.0,2.5,0.0,0.0,2.5,False,0.0
+LPBBU,Launch Two Acquisition Corp.,Financial Services,Shell Companies,10.69,213799984.0,2.5,0.0,0.0,2.5,False,0.0
+CNCKW,Coincheck Group N.V.,Financial Services,Capital Markets,1.08,0.0,2.5,0.0,0.0,2.5,False,0.0
+LOKV,Live Oak Acquisition Corp. V,Financial Services,Shell Companies,10.25,294687488.0,2.5,0.0,0.0,2.5,False,0.0
+PDPA,Pearl Diver Credit Company Inc.,Financial Services,Asset Management,25.05,0.0,2.5,0.0,0.0,2.5,False,7.99
+ESHA,ESH Acquisition Corp.,Financial Services,Shell Companies,12.2,47609048.0,2.5,0.0,0.0,2.5,False,0.0
+LPAA,Launch One Acquisition Corp.,Financial Services,Shell Companies,10.555,303456256.0,2.5,0.0,0.0,2.5,False,0.0
+LPAAU,Launch One Acquisition Corp.,Financial Services,Shell Companies,10.75,247250000.0,2.5,0.0,0.0,2.5,False,0.0
+LPBB,Launch Two Acquisition Corp.,Financial Services,Shell Companies,10.49,301587488.0,2.5,0.0,0.0,2.5,False,0.0
+LU,Lufax Holding Ltd,Financial Services,Credit Services,2.62,2270724864.0,3.0,0.5,-1.0,2.5,False,0.0
+LX,LexinFintech Holdings Ltd.,Financial Services,Credit Services,3.25,546856384.0,3.5,0.0,-1.0,2.5,False,9.35
+TDAC,Translational Development Acquisition Corp.,Financial Services,Shell Companies,10.4395,228703344.0,2.5,0.0,0.0,2.5,False,0.0
+BLUW,Blue Water Acquisition Corp. III,Financial Services,Shell Companies,10.35,334387808.0,2.5,0.0,0.0,2.5,False,0.0
+MBAVU,M3-Brigade Acquisition V Corp.,Financial Services,Shell Companies,10.2,255000000.0,2.5,0.0,0.0,2.5,False,0.0
+MAAS,Maase Inc.,Financial Services,Asset Management,4.28,1340270720.0,3.0,0.5,-1.0,2.5,False,0.0
+MACI,Melar Acquisition Corp. I,Financial Services,Shell Companies,10.6,229189200.0,2.5,0.0,0.0,2.5,False,0.0
+MACIU,Melar Acquisition Corp. I,Financial Services,Shell Companies,10.79,186127504.0,2.5,0.0,0.0,2.5,False,0.0
+TAVI,Tavia Acquisition Corp.,Financial Services,Shell Companies,10.44,166213504.0,2.5,0.0,0.0,2.5,False,0.0
+TAVIU,Tavia Acquisition Corp.,Financial Services,Shell Companies,10.53,146191152.0,2.5,0.0,0.0,2.5,False,0.0
+TBMC,Trailblazer Merger Corporation I,Financial Services,Shell Companies,11.6978,52629768.0,2.5,0.0,0.0,2.5,False,0.0
+PCSC,Perceptive Capital Solutions Corp,Financial Services,Shell Companies,12.2,135023504.0,2.5,0.0,0.0,2.5,False,0.0
+SDHIU,Siddhi Acquisition Corp.,Financial Services,Shell Companies,10.48,0.0,2.5,0.0,0.0,2.5,False,0.0
+CLSKW,"CleanSpark, Inc.",Financial Services,Capital Markets,0.5669,0.0,2.5,0.0,0.0,2.5,False,0.0
+MBAV,M3-Brigade Acquisition V Corp.,Financial Services,Shell Companies,10.63,382015616.0,2.5,0.0,0.0,2.5,False,0.0
+TACOU,Berto Acquisition Corp.,Financial Services,Shell Companies,10.32,0.0,2.5,0.0,0.0,2.5,False,0.0
+TACOW,Berto Acquisition Corp.,Financial Services,Shell Companies,0.3499,0.0,2.5,0.0,0.0,2.5,False,0.0
+MBVIU,M3-Brigade Acquisition Vi Corp.,Financial Services,Shell Companies,10.28,0.0,2.5,0.0,0.0,2.5,False,0.0
+SZZL,Sizzle Acquisition Corp. II,Financial Services,Shell Companies,10.17,317982016.0,2.5,0.0,0.0,2.5,False,0.0
+ATON,AlphaTON Capital Corp.,Financial Services,Asset Management,1.65,12583705.0,2.5,0.0,0.0,2.5,False,0.0
+TACH,Titan Acquisition Corp,Financial Services,Shell Companies,10.23,352934976.0,2.5,0.0,0.0,2.5,False,0.0
+SVCC,Stellar V Capital Corp.,Financial Services,Shell Companies,10.37,224146784.0,2.5,0.0,0.0,2.5,False,0.0
+SVCCU,Stellar V Capital Corp.,Financial Services,Shell Companies,10.52,227388752.0,2.5,0.0,0.0,2.5,False,0.0
+ARBK,Argo Blockchain plc,Financial Services,Capital Markets,0.1795,12935821.0,2.5,0.0,0.0,2.5,False,0.0
+MIGI,Mawson Infrastructure Group Inc.,Financial Services,Capital Markets,4.0,4573040.0,2.5,0.0,0.0,2.5,False,0.0
+CIFRW,Cipher Mining Inc.,Financial Services,Capital Markets,5.13,0.0,2.5,0.0,0.0,2.5,False,0.0
+OYSE,Oyster Enterprises II Acquisition Corp,Financial Services,Shell Companies,10.145,344060096.0,2.5,0.0,0.0,2.5,False,0.0
+PACH,Pioneer Acquisition I Corp,Financial Services,Shell Companies,10.1,319412512.0,2.5,0.0,0.0,2.5,False,0.0
+BPYPM,Brookfield Property Preferred L.P.,Financial Services,Asset Management,15.5099,0.0,2.5,0.0,0.0,2.5,False,10.07
+ORIQW,Origin Investment Corp I,Financial Services,Shell Companies,0.2,0.0,2.5,0.0,0.0,2.5,False,0.0
+MMTXU,Miluna Acquisition Corp,Financial Services,Shell Companies,10.0,76941000.0,2.5,0.0,0.0,2.5,False,0.0
+CHAR,Charlton Aria Acquisition Corporation,Financial Services,Shell Companies,10.46,114693904.0,2.5,0.0,0.0,2.5,False,0.0
+CHEC,Chenghe Acquisition III Co.,Financial Services,Shell Companies,9.94,171710192.0,2.5,0.0,0.0,2.5,False,0.0
+STEX,Streamex Corp.,Financial Services,Capital Markets,4.31,170420000.0,2.5,0.0,0.0,2.5,False,0.0
+CHPG,ChampionsGate Acquisition Corporation,Financial Services,Shell Companies,10.18,101670576.0,2.5,0.0,0.0,2.5,False,0.0
+OTGA,OTG Acquisition Corp. I,Financial Services,Shell Companies,10.015,345767872.0,2.5,0.0,0.0,2.5,False,0.0
+OTGAU,OTG Acquisition Corp. I,Financial Services,Shell Companies,10.15,0.0,2.5,0.0,0.0,2.5,False,0.0
+OTGAW,OTG Acquisition Corp. I,Financial Services,Shell Companies,0.3015,0.0,2.5,0.0,0.0,2.5,False,0.0
+CHAC,Crane Harbor Acquisition Corp.,Financial Services,Shell Companies,11.2,335701312.0,2.5,0.0,0.0,2.5,False,0.0
+CGCT,Cartesian Growth Corporation III,Financial Services,Shell Companies,10.12,349140000.0,2.5,0.0,0.0,2.5,False,0.0
+CEPV,"Cantor Equity Partners V, Inc.",Financial Services,Shell Companies,10.25,325847488.0,2.5,0.0,0.0,2.5,False,0.0
+SSEAU,Starry Sea Acquisition Corp,Financial Services,Shell Companies,10.14,0.0,2.5,0.0,0.0,2.5,False,0.0
+ONCH,1RT Acquisition Corp.,Financial Services,Shell Companies,10.25,221015632.0,2.5,0.0,0.0,2.5,False,0.0
+ATMC,AlphaTime Acquisition Corp,Financial Services,Shell Companies,15.63,39882088.0,2.5,0.0,0.0,2.5,False,0.0
+ATMV,AlphaVest Acquisition Corp,Financial Services,Shell Companies,8.29,26701650.0,2.5,0.0,0.0,2.5,False,0.0
+CEP,"Cantor Equity Partners, Inc. Class A Ordinary Shares",Financial Services,Shell Companies,14.43,184704000.0,2.5,0.0,0.0,2.5,False,0.0
+CEPO,"Cantor Equity Partners I, Inc.",Financial Services,Shell Companies,10.405,265327488.0,2.5,0.0,0.0,2.5,False,0.0
+CEPT,"Cantor Equity Partners II, Inc.",Financial Services,Shell Companies,10.84,331487200.0,2.5,0.0,0.0,2.5,False,0.0
+CCIX,Churchill Capital Corp IX,Financial Services,Shell Companies,10.59,388255872.0,2.5,0.0,0.0,2.5,False,0.0
+CCCX,Churchill Capital Corp X,Financial Services,Shell Companies,14.51,755245504.0,2.5,0.0,0.0,2.5,False,0.0
+SPKL,Spark I Acquisition Corporation,Financial Services,Shell Companies,11.15,96545520.0,2.5,0.0,0.0,2.5,False,0.0
+NCPLW,Netcapital Inc.,Financial Services,Capital Markets,0.024,0.0,2.5,0.0,0.0,2.5,False,0.0
+CCID,Carlyle Credit Income Fund,Financial Services,Asset Management,25.25,0.0,2.5,0.0,0.0,2.5,False,7.3
+CCII,Cohen Circle Acquisition Corp. II,Financial Services,Shell Companies,10.24,355259744.0,2.5,0.0,0.0,2.5,False,0.0
+BRR,Columbus Circle Capital Corp I,Financial Services,Shell Companies,4.36,148407152.0,2.5,0.0,0.0,2.5,False,0.0
+SIMA,SIM Acquisition Corp. I,Financial Services,Shell Companies,10.56,323840032.0,2.5,0.0,0.0,2.5,False,0.0
+SOUL,Soulpower Acquisition Corporation,Financial Services,Shell Companies,10.15,344626304.0,2.5,0.0,0.0,2.5,False,0.0
+SPEG,Silver Pegasus Acquisition Corp.,Financial Services,Shell Companies,10.1,154866672.0,2.5,0.0,0.0,2.5,False,0.0
+NOEM,CO2 Energy Transition Corp.,Financial Services,Shell Companies,10.22,97966368.0,2.5,0.0,0.0,2.5,False,0.0
+OACC,Oaktree Acquisition Corp. III Life Sciences,Financial Services,Shell Companies,10.57,259839856.0,2.5,0.0,0.0,2.5,False,0.0
+ATII,Archimedes Tech SPAC Partners II Co.,Financial Services,Shell Companies,10.37,306848288.0,2.5,0.0,0.0,2.5,False,0.0
+NPAC,New Providence Acquisition Corp. III,Financial Services,Shell Companies,10.26,393889856.0,2.5,0.0,0.0,2.5,False,0.0
+NOAH,Noah Holdings Limited,Financial Services,Asset Management,10.51,786595072.0,3.5,0.0,-1.0,2.5,False,5.51
+SLNHP,"Soluna Holdings, Inc.",Financial Services,Capital Markets,9.31,0.0,2.5,0.0,0.0,2.5,False,0.0
+OAKUU,Oak Woods Acquisition Corporation,Financial Services,Shell Companies,12.07,0.0,2.5,0.0,0.0,2.5,False,0.0
+OBA,Oxley Bridge Acquisition Limited,Financial Services,Shell Companies,10.03,317198752.0,2.5,0.0,0.0,2.5,False,0.0
+YRD,Yiren Digital Ltd.,Financial Services,Credit Services,4.51,392074816.0,3.5,0.0,-1.0,2.5,False,9.76
+CAEP,"Cantor Equity Partners III, Inc.",Financial Services,Shell Companies,10.19,357465184.0,2.5,0.0,0.0,2.5,False,0.0
+CAPN,Cayson Acquisition Corp,Financial Services,Shell Companies,10.6,82998000.0,2.5,0.0,0.0,2.5,False,0.0
+NTWO,Newbury Street II Acquisition Corp,Financial Services,Shell Companies,10.395,250689744.0,2.5,0.0,0.0,2.5,False,0.0
+BCARU,D. Boral ARC Acquisition I Corp.,Financial Services,Shell Companies,10.37,0.0,2.5,0.0,0.0,2.5,False,0.0
+BCARW,D. Boral ARC Acquisition I Corp.,Financial Services,Shell Companies,0.35,0.0,2.5,0.0,0.0,2.5,False,0.0
+EVAC,EQV Ventures Acquisition Corp. II,Financial Services,Shell Companies,10.01,590818816.0,2.5,0.0,0.0,2.5,False,0.0
+ETHM,Dynamix Corporation,Financial Services,Shell Companies,10.28,227530640.0,2.5,0.0,0.0,2.5,False,0.0
+XRPNU,Armada Acquisition Corp. II,Financial Services,Shell Companies,10.62,0.0,2.0,0.0,0.0,2.0,False,0.0
+XRPNW,Armada Acquisition Corp. II,Financial Services,Shell Companies,0.92,0.0,2.0,0.0,0.0,2.0,False,0.0
+RDAGW,Republic Digital Acquisition Company,Financial Services,Shell Companies,0.7132,0.0,2.0,0.0,0.0,2.0,False,0.0
+NPACU,New Providence Acquisition Corp. III,Financial Services,Shell Companies,10.38,0.0,2.0,0.0,0.0,2.0,False,0.0
+NPACW,New Providence Acquisition Corp. III,Financial Services,Shell Companies,0.4501,0.0,2.0,0.0,0.0,2.0,False,0.0
+CAPNU,Cayson Acquisition Corp,Financial Services,Shell Companies,10.4,0.0,2.0,0.0,0.0,2.0,False,0.0
+NTWOU,Newbury Street II Acquisition Corp,Financial Services,Shell Companies,10.99,0.0,2.0,0.0,0.0,2.0,False,0.0
+NTWOW,Newbury Street II Acquisition Corp,Financial Services,Shell Companies,0.3714,0.0,2.0,0.0,0.0,2.0,False,0.0
+EURK,Eureka Acquisition Corp,Financial Services,Shell Companies,10.87,52455716.0,3.0,0.0,-1.0,2.0,False,0.0
+EURKU,Eureka Acquisition Corp,Financial Services,Shell Companies,10.89,72600912.0,3.0,0.0,-1.0,2.0,False,0.0
+EVOX,Evolution Global Acquisition Corp Class A Ordinary Shares,Financial Services,Shell Companies,9.8999,316796800.0,2.0,0.0,0.0,2.0,False,0.0
+EVOXU,Evolution Global Acquisition Corp,Financial Services,Shell Companies,10.09,0.0,2.0,0.0,0.0,2.0,False,0.0
+EVOXW,Evolution Global Acquisition Corp Warrants,Financial Services,Shell Companies,0.35,0.0,2.0,0.0,0.0,2.0,False,0.0
+OACCU,Oaktree Acquisition Corp. III Life Sciences,Financial Services,Shell Companies,10.95,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATIIU,Archimedes Tech SPAC Partners II Co.,Financial Services,Shell Companies,10.5,270532512.0,2.0,0.0,0.0,2.0,False,0.0
+NOEMU,CO2 Energy Transition Corp.,Financial Services,Shell Companies,11.16,93409200.0,2.0,0.0,0.0,2.0,False,0.0
+NOEMW,CO2 Energy Transition Corp.,Financial Services,Shell Companies,0.1523,0.0,2.0,0.0,0.0,2.0,False,0.0
+SOCA,Solarius Capital Acquisition Corp.,Financial Services,Shell Companies,10.09,236610496.0,2.0,0.0,0.0,2.0,False,0.0
+SOCAU,Solarius Capital Acquisition Corp.,Financial Services,Shell Companies,10.37,0.0,2.0,0.0,0.0,2.0,False,0.0
+SOCAW,Solarius Capital Acquisition Corp.,Financial Services,Shell Companies,0.28,0.0,2.0,0.0,0.0,2.0,False,0.0
+NHICW,NewHold Investment Corp III,Financial Services,Shell Companies,0.4975,0.0,2.0,0.0,0.0,2.0,False,0.0
+ASPC,A SPAC III Acquisition Corp.,Financial Services,Shell Companies,10.52,24591364.0,3.0,0.0,-1.0,2.0,False,0.0
+SOS,SOS Limited,Financial Services,Capital Markets,1.38,12299954.0,3.0,0.0,-1.0,2.0,False,0.0
+SNTG,Sentage Holdings Inc.,Financial Services,Credit Services,2.16,6059504.0,3.0,0.0,-1.0,2.0,False,0.0
+CCCXW,Churchill Capital Corp X,Financial Services,Shell Companies,6.04,0.0,2.0,0.0,0.0,2.0,False,0.0
+CCIIU,Cohen Circle Acquisition Corp. II,Financial Services,Shell Companies,10.3429,0.0,2.0,0.0,0.0,2.0,False,0.0
+CCIIW,Cohen Circle Acquisition Corp. II,Financial Services,Shell Companies,0.65,4111249.0,2.0,0.0,0.0,2.0,False,0.0
+OBAWU,Oxley Bridge Acquisition Limited,Financial Services,Shell Companies,10.24,0.0,2.0,0.0,0.0,2.0,False,0.0
+OBAWW,Oxley Bridge Acquisition Limited,Financial Services,Shell Companies,0.27,0.0,2.0,0.0,0.0,2.0,False,0.0
+BSAA,BEST SPAC I Acquisition Corp.,Financial Services,Shell Companies,10.11,74808944.0,3.0,0.0,-1.0,2.0,False,0.0
+OACCW,Oaktree Acquisition Corp. III Life Sciences,Financial Services,Shell Companies,0.76,0.0,2.0,0.0,0.0,2.0,False,0.0
+BRRWU,Columbus Circle Capital Corp I,Financial Services,Shell Companies,4.05,0.0,2.0,0.0,0.0,2.0,False,0.0
+BRRWW,Columbus Circle Capital Corp I,Financial Services,Shell Companies,0.6119,0.0,2.0,0.0,0.0,2.0,False,0.0
+SIMAU,SIM Acquisition Corp. I,Financial Services,Shell Companies,10.8,248400000.0,2.0,0.0,0.0,2.0,False,0.0
+SIMAW,SIM Acquisition Corp. I,Financial Services,Shell Companies,0.27,0.0,2.0,0.0,0.0,2.0,False,0.0
+CCCXU,CCCXU,Financial Services,Shell Companies,17.56,0.0,2.0,0.0,0.0,2.0,False,0.0
+NCTY,The9 Limited,Financial Services,Capital Markets,7.2,101249144.0,3.0,0.0,-1.0,2.0,False,0.0
+SPEGU,Silver Pegasus Acquisition Corp.,Financial Services,Shell Companies,10.3,0.0,2.0,0.0,0.0,2.0,False,0.0
+SPKLU,Spark I Acquisition Corporation,Financial Services,Shell Companies,11.12,0.0,2.0,0.0,0.0,2.0,False,0.0
+SPKLW,Spark I Acquisition Corporation,Financial Services,Shell Companies,0.3001,0.0,2.0,0.0,0.0,2.0,False,0.0
+ONCHU,1RT Acquisition Corp.,Financial Services,Shell Companies,10.495,0.0,2.0,0.0,0.0,2.0,False,0.0
+ONCHW,1RT Acquisition Corp.,Financial Services,Shell Companies,0.8,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATMCU,AlphaTime Acquisition Corp,Financial Services,Shell Companies,15.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATMCW,AlphaTime Acquisition Corp,Financial Services,Shell Companies,0.07,0.0,2.0,0.0,0.0,2.0,False,0.0
+CCIXU,Churchill Capital Corp IX,Financial Services,Shell Companies,10.65,0.0,2.0,0.0,0.0,2.0,False,0.0
+CCIXW,Churchill Capital Corp IX,Financial Services,Shell Companies,0.8299,26473810.0,2.0,0.0,0.0,2.0,False,0.0
+CGCTU,Cartesian Growth Corporation III,Financial Services,Shell Companies,10.23,0.0,2.0,0.0,0.0,2.0,False,0.0
+CGCTW,Cartesian Growth Corporation III,Financial Services,Shell Companies,0.2999,0.0,2.0,0.0,0.0,2.0,False,0.0
+CHECU,Chenghe Acquisition III Co.,Financial Services,Shell Companies,10.03,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATIIW,Archimedes Tech SPAC Partners II Co.,Financial Services,Shell Companies,0.5,0.0,2.0,0.0,0.0,2.0,False,0.0
+CHACU,Crane Harbor Acquisition Corp.,Financial Services,Shell Companies,12.8,0.0,2.0,0.0,0.0,2.0,False,0.0
+CHARU,Charlton Aria Acquisition Corporation,Financial Services,Shell Companies,10.5,0.0,2.0,0.0,0.0,2.0,False,0.0
+CHECW,Chenghe Acquisition III Co.,Financial Services,Shell Companies,0.171,0.0,2.0,0.0,0.0,2.0,False,0.0
+CHPGU,ChampionsGate Acquisition Corporation,Financial Services,Shell Companies,10.25,0.0,2.0,0.0,0.0,2.0,False,0.0
+MKLYU,McKinley Acquisition Corporation,Financial Services,Shell Companies,10.09,0.0,2.0,0.0,0.0,2.0,False,0.0
+MKLY,McKinley Acquisition Corporation,Financial Services,Shell Companies,9.9646,307669056.0,2.0,0.0,0.0,2.0,False,0.0
+OYSEU,OYSEU,Financial Services,Shell Companies,10.24,0.0,2.0,0.0,0.0,2.0,False,0.0
+PACHU,Pioneer Acquisition I Corp,Financial Services,Shell Companies,10.18,0.0,2.0,0.0,0.0,2.0,False,0.0
+PACHW,Pioneer Acquisition I Corp,Financial Services,Shell Companies,0.28,0.0,2.0,0.0,0.0,2.0,False,0.0
+SVCCW,Stellar V Capital Corp.,Financial Services,Shell Companies,0.3498,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATMVU,AlphaVest Acquisition Corp,Financial Services,Shell Companies,7.75,0.0,2.0,0.0,0.0,2.0,False,0.0
+MEGL,Magic Empire Global Limited,Financial Services,Capital Markets,1.3,6583266.0,3.0,0.0,-1.0,2.0,False,0.0
+APXT,Apex Treasury Corporation,Financial Services,Shell Companies,9.88,454084800.0,2.0,0.0,0.0,2.0,False,0.0
+APXTU,Apex Treasury Corporation,Financial Services,Shell Companies,10.08,0.0,2.0,0.0,0.0,2.0,False,0.0
+APXTW,Apex Treasury Corporation,Financial Services,Shell Companies,0.281,0.0,2.0,0.0,0.0,2.0,False,0.0
+SZZLU,Sizzle Acquisition Corp. II,Financial Services,Shell Companies,10.27,0.0,2.0,0.0,0.0,2.0,False,0.0
+PCAPW,ProCap Acquisition Corp,Financial Services,Shell Companies,0.5,0.0,2.0,0.0,0.0,2.0,False,0.0
+TACHU,Titan Acquisition Corp,Financial Services,Shell Companies,10.35,0.0,2.0,0.0,0.0,2.0,False,0.0
+TACHW,Titan Acquisition Corp,Financial Services,Shell Companies,0.36,0.0,2.0,0.0,0.0,2.0,False,0.0
+MACIW,Melar Acquisition Corp. I,Financial Services,Shell Companies,0.1597,2754825.0,2.0,0.0,0.0,2.0,False,0.0
+BMHL,Bluemount Holdings Limited,Financial Services,Capital Markets,3.37,86002896.0,3.0,0.0,-1.0,2.0,False,0.0
+PCAP,ProCap Acquisition Corp,Financial Services,Shell Companies,10.155,385179136.0,2.0,0.0,0.0,2.0,False,0.0
+PCAPU,PCAPU,Financial Services,Shell Companies,10.35,0.0,2.0,0.0,0.0,2.0,False,0.0
+TDACW,Translational Development Acquisition Corp.,Financial Services,Shell Companies,0.35,4858000.0,2.0,0.0,0.0,2.0,False,0.0
+MBAVW,M3-Brigade Acquisition V Corp.,Financial Services,Shell Companies,0.74,21275000.0,2.0,0.0,0.0,2.0,False,0.0
+MATH,Metalpha Technology Holding Limited,Financial Services,Capital Markets,2.84,112175376.0,3.0,0.0,-1.0,2.0,False,0.0
+TDACU,Translational Development Acquisition Corp.,Financial Services,Shell Companies,10.4,0.0,2.0,0.0,0.0,2.0,False,0.0
+LPAAW,Launch One Acquisition Corp.,Financial Services,Shell Companies,0.2003,0.0,2.0,0.0,0.0,2.0,False,0.0
+APAC,StoneBridge Acquisition II Corporation,Financial Services,Shell Companies,9.9,79699128.0,2.0,0.0,0.0,2.0,False,0.0
+APACU,StoneBridge Acquisition II Corporation,Financial Services,Shell Companies,10.19,0.0,2.0,0.0,0.0,2.0,False,0.0
+APAD,A Paradise Acquisition Corp.,Financial Services,Shell Companies,10.09,275120672.0,3.0,0.0,-1.0,2.0,False,0.0
+LOKVU,Live Oak Acquisition Corp. V,Financial Services,Shell Companies,10.71,0.0,2.0,0.0,0.0,2.0,False,0.0
+LOKVW,Live Oak Acquisition Corp. V,Financial Services,Shell Companies,0.9499,0.0,2.0,0.0,0.0,2.0,False,0.0
+ABTS,Abits Group Inc.,Financial Services,Capital Markets,5.89,13959276.0,3.0,0.0,-1.0,2.0,False,0.0
+BLUWU,Blue Water Acquisition Corp. III,Financial Services,Shell Companies,11.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BLUWW,Blue Water Acquisition Corp. III,Financial Services,Shell Companies,0.71,0.0,2.0,0.0,0.0,2.0,False,0.0
+AURE,Aurelion Inc.,Financial Services,Asset Management,0.49,180423184.0,3.0,0.0,-1.0,2.0,False,0.0
+ANSCU,Agriculture & Natural Solutions Acquisition Corporation,Financial Services,Shell Companies,10.87,0.0,2.0,0.0,0.0,2.0,False,0.0
+ANSCW,Agriculture & Natural Solutions Acquisition Corporation,Financial Services,Shell Companies,0.285,0.0,2.0,0.0,0.0,2.0,False,0.0
+LKSPU,Lake Superior Acquisition Corp.,Financial Services,Shell Companies,10.18,0.0,2.0,0.0,0.0,2.0,False,0.0
+LPBBW,Launch Two Acquisition Corp.,Financial Services,Shell Companies,0.32,0.0,2.0,0.0,0.0,2.0,False,0.0
+CNF,CNFinance Holdings Limited,Financial Services,Mortgage Finance,5.63,38611764.0,3.0,0.0,-1.0,2.0,False,0.0
+BKHAU,Black Hawk Acquisition Corporation,Financial Services,Shell Companies,12.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PGACU,Pantages Capital Acquisition Corporation.,Financial Services,Shell Companies,10.63,0.0,2.0,0.0,0.0,2.0,False,0.0
+TLNCU,Talon Capital Corp.,Financial Services,Shell Companies,10.45,0.0,2.0,0.0,0.0,2.0,False,0.0
+TLNCW,Talon Capital Corp.,Financial Services,Shell Companies,0.6,0.0,2.0,0.0,0.0,2.0,False,0.0
+LCCCU,Lakeshore Acquisition III Corp.,Financial Services,Shell Companies,10.35,0.0,2.0,0.0,0.0,2.0,False,0.0
+LAFA,LaFayette Acquisition Corp.,Financial Services,Shell Companies,9.89,155404864.0,2.0,0.0,0.0,2.0,False,0.0
+KVACW,Keen Vision Acquisition Corporation,Financial Services,Shell Companies,0.0588,0.0,2.0,0.0,0.0,2.0,False,0.0
+LATAU,Galata Acquisition Corp. II,Financial Services,Shell Companies,10.1,0.0,2.0,0.0,0.0,2.0,False,0.0
+LATAW,Galata Acquisition Corp. II,Financial Services,Shell Companies,0.35,0.0,2.0,0.0,0.0,2.0,False,0.0
+KOYNW,"CSLM Digital Asset Acquisition Corp III, Ltd",Financial Services,Shell Companies,0.4,0.0,2.0,0.0,0.0,2.0,False,0.0
+KVACU,Keen Vision Acquisition Corporation,Financial Services,Shell Companies,11.5,0.0,2.0,0.0,0.0,2.0,False,0.0
+PLMKW,Plum Acquisition Corp. IV,Financial Services,Shell Companies,0.3401,0.0,2.0,0.0,0.0,2.0,False,0.0
+KOYNU,"CSLM Digital Asset Acquisition Corp III, Ltd",Financial Services,Shell Companies,10.15,0.0,2.0,0.0,0.0,2.0,False,0.0
+TROO,"TROOPS, Inc.",Financial Services,Credit Services,1.45,183512256.0,3.0,0.0,-1.0,2.0,False,0.0
+AXG,Solowin Holdings,Financial Services,Capital Markets,3.13,585928448.0,3.0,0.0,-1.0,2.0,False,0.0
+AXIN,Axiom Intelligence Acquisition Corp 1,Financial Services,Shell Companies,10.1,342726720.0,2.0,0.0,0.0,2.0,False,0.0
+AXINU,Axiom Intelligence Acquisition Corp 1,Financial Services,Shell Companies,10.24,0.0,2.0,0.0,0.0,2.0,False,0.0
+TVACU,Texas Ventures Acquisition III Corp,Financial Services,Shell Companies,10.81,0.0,2.0,0.0,0.0,2.0,False,0.0
+TVACW,Texas Ventures Acquisition III Corp,Financial Services,Shell Companies,0.9,0.0,2.0,0.0,0.0,2.0,False,0.0
+TVAIU,Thayer Ventures Acquisition Corporation II,Financial Services,Shell Companies,10.3102,0.0,2.0,0.0,0.0,2.0,False,0.0
+IPCXU,Inflection Point Acquisition Corp. III,Financial Services,Shell Companies,10.45,0.0,2.0,0.0,0.0,2.0,False,0.0
+PLUT,Plutus Financial Group Limited,Financial Services,Capital Markets,3.4,52190000.0,3.0,0.0,-1.0,2.0,False,0.0
+INACU,Indigo Acquisition Corp.,Financial Services,Shell Companies,10.15,0.0,2.0,0.0,0.0,2.0,False,0.0
+IPEXU,Inflection Point Acquisition Corp. V,Financial Services,Shell Companies,12.35,0.0,2.0,0.0,0.0,2.0,False,0.0
+IPODU,Dune Acquisition Corporation II,Financial Services,Shell Companies,10.32,0.0,2.0,0.0,0.0,2.0,False,0.0
+IPODW,Dune Acquisition Corporation II,Financial Services,Shell Companies,0.2701,0.0,2.0,0.0,0.0,2.0,False,0.0
+POLEU,Andretti Acquisition Corp. II,Financial Services,Shell Companies,10.6,0.0,2.0,0.0,0.0,2.0,False,0.0
+POLEW,Andretti Acquisition Corp. II,Financial Services,Shell Companies,0.3,0.0,2.0,0.0,0.0,2.0,False,0.0
+DAAQU,Digital Asset Acquisition Corp.,Financial Services,Shell Companies,10.6865,0.0,2.0,0.0,0.0,2.0,False,0.0
+DAAQW,Digital Asset Acquisition Corp.,Financial Services,Shell Companies,0.5022,0.0,2.0,0.0,0.0,2.0,False,0.0
+CUBWU,Lionheart Holdings,Financial Services,Shell Companies,10.66,284267008.0,2.0,0.0,0.0,2.0,False,0.0
+CUBWW,Lionheart Holdings,Financial Services,Shell Companies,0.225,0.0,2.0,0.0,0.0,2.0,False,0.0
+HVIIU,Hennessy Capital Investment Corp. VII,Financial Services,Shell Companies,10.6,254487984.0,2.0,0.0,0.0,2.0,False,0.0
+HVMCU,Highview Merger Corp.,Financial Services,Shell Companies,10.15,0.0,2.0,0.0,0.0,2.0,False,0.0
+RTACU,Renatus Tactical Acquisition Corp I,Financial Services,Shell Companies,11.1,0.0,2.0,0.0,0.0,2.0,False,0.0
+RTACW,Renatus Tactical Acquisition Corp I,Financial Services,Shell Companies,0.8987,0.0,2.0,0.0,0.0,2.0,False,0.0
+HSPTU,Horizon Space Acquisition II Corp.,Financial Services,Shell Companies,10.75,0.0,2.0,0.0,0.0,2.0,False,0.0
+ALCYU,Alchemy Investments Acquisition Corp 1,Financial Services,Shell Companies,11.4,0.0,2.0,0.0,0.0,2.0,False,0.0
+ALFUU,Centurion Acquisition Corp.,Financial Services,Shell Companies,10.89,0.0,2.0,0.0,0.0,2.0,False,0.0
+ALFUW,Centurion Acquisition Corp.,Financial Services,Shell Companies,0.3198,0.0,2.0,0.0,0.0,2.0,False,0.0
+BACCU,Blue Acquisition Corp.,Financial Services,Shell Companies,10.58,0.0,2.0,0.0,0.0,2.0,False,0.0
+HSPOU,Horizon Space Acquisition I Corp.,Financial Services,Shell Companies,12.33,0.0,2.0,0.0,0.0,2.0,False,0.0
+HSPOW,Horizon Space Acquisition I Corp.,Financial Services,Shell Companies,0.0397,0.0,2.0,0.0,0.0,2.0,False,0.0
+VACHU,Voyager Acquisition Corp.,Financial Services,Shell Companies,10.61,0.0,2.0,0.0,0.0,2.0,False,0.0
+VACHW,Voyager Acquisition Corp.,Financial Services,Shell Companies,0.2499,0.0,2.0,0.0,0.0,2.0,False,0.0
+VACI,Viking Acquisition Corp. I,Financial Services,Shell Companies,9.915,310603904.0,2.0,0.0,0.0,2.0,False,0.0
+DMII,Drugs Made In America Acquisition II Corp. Ordinary Shares,Financial Services,Shell Companies,9.88,647881024.0,2.0,0.0,0.0,2.0,False,0.0
+DMIIU,Drugs Made In America Acquisition II Corp.,Financial Services,Shell Companies,10.02,0.0,2.0,0.0,0.0,2.0,False,0.0
+VCICU,Vine Hill Capital Investment Corp.,Financial Services,Shell Companies,11.23,0.0,2.0,0.0,0.0,2.0,False,0.0
+VCICW,Vine Hill Capital Investment Corp.,Financial Services,Shell Companies,1.51,0.0,2.0,0.0,0.0,2.0,False,0.0
+HCMAW,HCM III Acquisition Corp.,Financial Services,Shell Companies,0.56,0.0,2.0,0.0,0.0,2.0,False,0.0
+BENFW,Beneficient,Financial Services,Asset Management,0.0108,0.0,2.0,0.0,0.0,2.0,False,0.0
+GSHRU,Gesher Acquisition Corp. II,Financial Services,Shell Companies,10.3,0.0,2.0,0.0,0.0,2.0,False,0.0
+DNMX,Dynamix Corporation III,Financial Services,Shell Companies,9.9,265649984.0,2.0,0.0,0.0,2.0,False,0.0
+DNMXU,Dynamix Corporation III,Financial Services,Shell Companies,10.08,0.0,2.0,0.0,0.0,2.0,False,0.0
+DNMXW,Dynamix Corporation III,Financial Services,Shell Companies,0.361,0.0,2.0,0.0,0.0,2.0,False,0.0
+HCMAU,HCM III Acquisition Corp.,Financial Services,Shell Companies,10.29,0.0,2.0,0.0,0.0,2.0,False,0.0
+GTERU,Globa Terra Acquisition Corporation,Financial Services,Shell Companies,10.2501,0.0,2.0,0.0,0.0,2.0,False,0.0
+GTERW,Globa Terra Acquisition Corporation,Financial Services,Shell Companies,0.1599,0.0,2.0,0.0,0.0,2.0,False,0.0
+BACC,Blue Acquisition Corp.,Financial Services,Shell Companies,10.27,287171424.0,2.0,0.0,0.0,2.0,False,0.0
+GSHRW,GSHRW,Financial Services,Shell Companies,0.4836,0.0,2.0,0.0,0.0,2.0,False,0.0
+GSIW,Garden Stage Limited,Financial Services,Capital Markets,0.152,33158646.0,3.0,0.0,-1.0,2.0,False,0.0
+QSEAU,Quartzsea Acquisition Corporation,Financial Services,Shell Companies,10.4,0.0,2.0,0.0,0.0,2.0,False,0.0
+GPACU,General Purpose Acquisition Corp. Units,Financial Services,Shell Companies,10.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GRAN,Grande Group Limited,Financial Services,Capital Markets,2.15,53548444.0,3.0,0.0,-1.0,2.0,False,0.0
+GPATU,GP-Act III Acquisition Corp.,Financial Services,Shell Companies,10.72,0.0,2.0,0.0,0.0,2.0,False,0.0
+GPATW,GP-Act III Acquisition Corp.,Financial Services,Shell Companies,0.27,0.0,2.0,0.0,0.0,2.0,False,0.0
+BEAGU,Bold Eagle Acquisition Corp.,Financial Services,Shell Companies,10.92,0.0,2.0,0.0,0.0,2.0,False,0.0
+PURR,Hyperliquid Strategies Inc Common Stock,Financial Services,Capital Markets,3.68,569540096.0,2.0,0.0,0.0,2.0,False,0.0
+AFJKU,"Aimei Health Technology Co., Ltd",Financial Services,Shell Companies,10.56,0.0,2.0,0.0,0.0,2.0,False,0.0
+FACTU,FACT II Acquisition Corp,Financial Services,Shell Companies,10.99,0.0,2.0,0.0,0.0,2.0,False,0.0
+FACTW,FACT II Acquisition Corp,Financial Services,Shell Companies,0.3595,0.0,2.0,0.0,0.0,2.0,False,0.0
+WAI,Top KingWin Ltd,Financial Services,Capital Markets,3.36,5620312.0,3.0,0.0,-1.0,2.0,False,0.0
+YCY,AA Mission Acquisition Corp. II,Financial Services,Shell Companies,9.94,146468384.0,2.0,0.0,0.0,2.0,False,0.0
+QETAU,Quetta Acquisition Corporation,Financial Services,Shell Companies,11.07,0.0,2.0,0.0,0.0,2.0,False,0.0
+DXF,Eason Technology Limited,Financial Services,Credit Services,2.42,3358827.0,3.0,0.0,-1.0,2.0,False,0.0
+BACQU,Inflection Point Acquisition Corp. IV,Financial Services,Shell Companies,11.48,0.0,2.0,0.0,0.0,2.0,False,0.0
+QD,Qudian Inc.,Financial Services,Credit Services,4.89,926184832.0,3.0,0.0,-1.0,2.0,False,0.0
+DYOR,Insight Digital Partners II,Financial Services,Shell Companies,9.9,227699984.0,2.0,0.0,0.0,2.0,False,0.0
+GIGGU,GigCapital7 Corp.,Financial Services,Shell Companies,10.58,0.0,2.0,0.0,0.0,2.0,False,0.0
+GIGGW,GigCapital7 Corp.,Financial Services,Shell Companies,0.4,0.0,2.0,0.0,0.0,2.0,False,0.0
+WENNW,Wen Acquisition Corp,Financial Services,Shell Companies,0.4113,0.0,2.0,0.0,0.0,2.0,False,0.0
+DYORW,Insight Digital Partners II,Financial Services,Shell Companies,0.31,0.0,2.0,0.0,0.0,2.0,False,0.0
+BDCIU,BTC Development Corp.,Financial Services,Shell Companies,10.3,0.0,2.0,0.0,0.0,2.0,False,0.0
+BDCIW,BTC Development Corp.,Financial Services,Shell Companies,0.7499,0.0,2.0,0.0,0.0,2.0,False,0.0
+FVN,Future Vision II Acquisition Corp.,Financial Services,Shell Companies,10.55,79589200.0,3.0,0.0,-1.0,2.0,False,0.0
+QUMSU,Quantumsphere Acquisition Corporation,Financial Services,Shell Companies,10.18,0.0,2.0,0.0,0.0,2.0,False,0.0
+RAAQU,Real Asset Acquisition Corp.,Financial Services,Shell Companies,10.5,0.0,2.0,0.0,0.0,2.0,False,0.0
+RAAQW,Real Asset Acquisition Corp.,Financial Services,Shell Companies,0.46,0.0,2.0,0.0,0.0,2.0,False,0.0
+EGHA,EGH Acquisition Corp.,Financial Services,Shell Companies,10.15,208074992.0,2.0,0.0,0.0,2.0,False,0.0
+EGHAU,EGH Acquisition Corp.,Financial Services,Shell Companies,10.36,0.0,2.0,0.0,0.0,2.0,False,0.0
+BAYAU,Bayview Acquisition Corp,Financial Services,Shell Companies,11.35,0.0,2.0,0.0,0.0,2.0,False,0.0
+WTF,Waton Financial Limited,Financial Services,Asset Management,3.09,149053792.0,3.0,0.0,-1.0,2.0,False,0.0
+WTG,Wintergreen Acquisition Corp.,Financial Services,Shell Companies,10.12,73912176.0,3.0,0.0,-1.0,2.0,False,0.0
+FERAU,Fifth Era Acquisition Corp I,Financial Services,Shell Companies,10.51,0.0,2.0,0.0,0.0,2.0,False,0.0
+FIGXU,FIGX Capital Acquisition Corp.,Financial Services,Shell Companies,10.25,0.0,2.0,0.0,0.0,2.0,False,0.0
+AACBU,Artius II Acquisition Inc.,Financial Services,Shell Companies,10.8,271890016.0,2.0,0.0,0.0,2.0,False,0.0
+ETHMU,Dynamix Corporation,Financial Services,Shell Companies,10.89,0.0,2.0,0.0,0.0,2.0,False,0.0
+ETHMW,Dynamix Corporation,Financial Services,Shell Companies,1.45,0.0,2.0,0.0,0.0,2.0,False,0.0
+WTGUU,WTGUU,Financial Services,Shell Companies,10.2,0.0,2.5,0.0,-1.0,1.5,False,0.0
+FVNNU,Future Vision II Acquisition Corp.,Financial Services,Shell Companies,10.8,0.0,2.5,0.0,-1.0,1.5,False,0.0
+YHNA,YHN Acquisition I Limited,Financial Services,Shell Companies,10.53,81607496.0,2.5,0.0,-1.0,1.5,False,0.0
+COPL,Copley Acquisition Corp,Financial Services,Shell Companies,10.24,242978752.0,2.5,0.0,-1.0,1.5,False,0.0
+APADU,A Paradise Acquisition Corp.,Financial Services,Shell Companies,10.19,0.0,2.5,0.0,-1.0,1.5,False,0.0
+RDAC,Rising Dragon Acquisition Corp.,Financial Services,Shell Companies,10.1,75743688.0,2.5,0.0,-1.0,1.5,False,0.0
+PT,Pintec Technology Holdings Limited,Financial Services,Credit Services,1.08,17223798.0,2.5,0.0,-1.0,1.5,False,0.0
+ASPCU,A SPAC III Acquisition Corp.,Financial Services,Shell Companies,10.51,0.0,2.5,0.0,-1.0,1.5,False,0.0
+BSAAU,BEST SPAC I Acquisition Corp.,Financial Services,Shell Companies,10.115,0.0,2.5,0.0,-1.0,1.5,False,0.0
+CANG,Cango Inc.,Financial Services,Capital Markets,1.21,428981888.0,2.5,0.0,-1.0,1.5,False,0.0
+YHNAU,YHN Acquisition I Limited,Financial Services,Shell Companies,10.62,82305000.0,2.0,0.0,-1.0,1.0,False,0.0
+RDACU,Rising Dragon Acquisition Corp.,Financial Services,Shell Companies,9.9198,0.0,2.0,0.0,-1.0,1.0,False,0.0

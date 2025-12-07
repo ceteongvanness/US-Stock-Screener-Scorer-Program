@@ -1,0 +1,832 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+TBB,AT&T Inc. 5.35% GLB NTS 66,N/A,N/A,0.0,136794308608.0,2.5,1.0,0.0,3.5,False,0.0
+UNMA,Unum Group 6.250% JR NT58,N/A,N/A,0.0,5363139072.0,2.5,0.5,0.0,3.0,False,0.0
+NIQ,NIQ,N/A,N/A,15.73,4640349696.0,2.5,0.5,0.0,3.0,False,0.0
+HCXY,"Hercules Capital, Inc.",N/A,N/A,0.0,1347453440.0,2.5,0.5,0.0,3.0,False,0.0
+CCZ,Comcast Holdings Corp.,N/A,N/A,62.75,59438931968.0,2.5,0.5,0.0,3.0,False,0.0
+JSM,Navient Corporation SR NT 6% 121543,N/A,N/A,0.0,5394366976.0,2.5,0.5,0.0,3.0,False,0.0
+DTW,DTE Energy Company JR SUB DB 2017 E,N/A,N/A,0.0,3776243456.0,2.5,0.5,0.0,3.0,False,0.0
+BHFAL,"Brighthouse Financial, Inc.",N/A,N/A,0.0,3450235904.0,2.5,0.5,0.0,3.0,False,0.0
+FRMI,Fermi Inc.,N/A,N/A,15.16,9308624896.0,2.5,0.5,0.0,3.0,False,0.0
+MHLA,"Maiden Holdings, Ltd. 6.625 NT 2046",N/A,N/A,0.0,1175440128.0,2.5,0.5,0.0,3.0,False,0.0
+CMSA,CMS Energy Corporation 5.6% JRSUB NT 78,N/A,N/A,0.0,6226176000.0,2.5,0.5,0.0,3.0,False,0.0
+RCKTW,"Rocket Pharmaceuticals, Inc.",N/A,N/A,0.0305,0.0,2.5,0.0,0.0,2.5,False,0.0
+EMIS,Emmis Acquisition Corp.,N/A,N/A,10.02,158073856.0,2.5,0.0,0.0,2.5,False,0.0
+EMISR,Emmis Acquisition Corp.,N/A,N/A,0.1505,0.0,2.5,0.0,0.0,2.5,False,0.0
+EMP,"Entergy Mississippi, Inc. 1M BD 66",N/A,N/A,0.0,182166896.0,2.5,0.0,0.0,2.5,False,0.0
+XOSWW,"Xos, Inc.",N/A,N/A,0.0,0.0,2.5,0.0,0.0,2.5,False,0.0
+ENJ,"Entergy Utility Group, Inc. 1ST MTG 5% 52",N/A,N/A,0.0,184746208.0,2.5,0.0,0.0,2.5,False,0.0
+RCB,Ready Capital Corporation,N/A,N/A,0.0,0.0,2.5,0.0,0.0,2.5,False,0.0
+BBBY,"Bed Bath & Beyond, Inc.",N/A,N/A,6.32,435124064.0,2.5,0.0,0.0,2.5,False,0.0
+FNGD,MicroSectors FANG+ Index -3X Inverse Leveraged ETN,N/A,N/A,0.0,2973575936.0,2.0,0.5,0.0,2.5,False,0.0
+FISV,"Fiserv, Inc.",N/A,N/A,66.28,36029353984.0,2.5,0.0,0.0,2.5,False,0.0
+EFTY,"Etoiles Capital Group Co., Ltd",N/A,N/A,15.02,302052224.0,2.5,0.0,0.0,2.5,False,0.0
+ECCX,Eagle Point Credit Company Inc. 6.6875% NT 28,N/A,N/A,0.0,454004224.0,2.5,0.0,0.0,2.5,False,0.0
+EAI,"Entergy Arkansas, Inc. 1M BD 4.875%66",N/A,N/A,0.0,982590912.0,2.5,0.0,0.0,2.5,False,0.0
+GPJA,Georgia Power Company 5% JR SUB NT 77,N/A,N/A,0.0,209309904.0,2.5,0.0,0.0,2.5,False,0.0
+GOODO,Gladstone Commercial Corporation,N/A,N/A,0.0,0.0,2.5,0.0,0.0,2.5,False,0.0
+BEATW,"HeartBeam, Inc.",N/A,N/A,0.08,0.0,2.5,0.0,0.0,2.5,False,0.0
+GRN,iPath Series B Carbon ETN,N/A,N/A,0.0,0.0,2.5,0.0,0.0,2.5,False,0.0
+AGCC,Agencia Comercial Spirits Ltd,N/A,N/A,9.88,196379824.0,2.5,0.0,0.0,2.5,False,0.0
+HCACU,Hall Chadwick Acquisition Corp.,N/A,N/A,10.025,254882000.0,2.5,0.0,0.0,2.5,False,0.0
+VGASW,"Verde Clean Fuels, Inc.",N/A,N/A,0.0802,0.0,2.5,0.0,0.0,2.5,False,0.0
+AIIA,AI Infrastructure Acquisition Corp.,N/A,N/A,9.92,191356800.0,2.5,0.0,0.0,2.5,False,0.0
+HERZ,"Herzfeld Credit Income Fund, Inc.",N/A,N/A,0.0,42084028.0,2.5,0.0,0.0,2.5,False,0.0
+USGOW,U.S. GoldMining Inc.,N/A,N/A,0.6728,0.0,2.5,0.0,0.0,2.5,False,0.0
+HOVNP,"Hovnanian Enterprises, Inc. PFD DEP1/1000A",N/A,N/A,0.0,2910478592.0,2.0,0.5,0.0,2.5,False,0.0
+CXAIW,CXApp Inc.,N/A,N/A,0.0599,0.0,2.5,0.0,0.0,2.5,False,0.0
+UHGWW,"United Homes Group, Inc.",N/A,N/A,0.1425,0.0,2.5,0.0,0.0,2.5,False,0.0
+BFRGW,"Bullfrog AI Holdings, Inc.",N/A,N/A,0.39,0.0,2.5,0.0,0.0,2.5,False,0.0
+BIXIU,Bitcoin Infrastructure Acquisition Corp Ltd.,N/A,N/A,10.0,0.0,2.5,0.0,0.0,2.5,False,0.0
+TNONW,"Tenon Medical, Inc.",N/A,N/A,0.0119,0.0,2.5,0.0,0.0,2.5,False,0.0
+LION,Lionsgate Studios Corp.,N/A,N/A,7.04,2039694336.0,2.0,0.5,0.0,2.5,False,0.0
+COEPW,"Coeptis Therapeutics Holdings, Inc.",N/A,N/A,0.0164,0.0,2.5,0.0,0.0,2.5,False,0.0
+BLZR,Trailblazer Acquisition Corp.,N/A,N/A,10.065,345984352.0,2.5,0.0,0.0,2.5,False,0.0
+BLZRU,Trailblazer Acquisition Corp.,N/A,N/A,10.22,0.0,2.5,0.0,0.0,2.5,False,0.0
+BLZRW,Trailblazer Acquisition Corp.,N/A,N/A,0.59,0.0,2.5,0.0,0.0,2.5,False,0.0
+LVROW,Lavoro Limited,N/A,N/A,0.009,0.0,2.5,0.0,0.0,2.5,False,0.0
+TDWDU,Tailwind 2.0 Acquisition Corp.,N/A,N/A,10.025,0.0,2.5,0.0,0.0,2.5,False,0.0
+LTRYW,Lottery.com Inc.,N/A,N/A,0.0,0.0,2.5,0.0,0.0,2.5,False,0.0
+TCGL,TechCreate Group Ltd.,N/A,N/A,5.52,112787400.0,2.5,0.0,0.0,2.5,False,0.0
+APLMW,"Apollomics, Inc.",N/A,N/A,0.0182,50735560.0,2.5,0.0,0.0,2.5,False,0.0
+MBVIW,M3-Brigade Acquisition Vi Corp.,N/A,N/A,0.44,0.0,2.5,0.0,0.0,2.5,False,0.0
+SDAWW,SunCar Technology Group Inc.,N/A,N/A,0.0452,0.0,2.5,0.0,0.0,2.5,False,0.0
+TALKW,"Talkspace, Inc.",N/A,N/A,0.0496,0.0,2.5,0.0,0.0,2.5,False,0.0
+MBVI,M3-Brigade Acquisition Vi Corp.,N/A,N/A,10.05,433406272.0,2.5,0.0,0.0,2.5,False,0.0
+SEV,Aptera Motors Corp.,N/A,N/A,5.42,149147808.0,2.5,0.0,0.0,2.5,False,0.0
+SWZ,"Total Return Securities, Inc.",N/A,N/A,0.0,79243960.0,2.5,0.0,0.0,2.5,False,0.0
+SWVLW,Swvl Holdings Corp.,N/A,N/A,0.01,0.0,2.5,0.0,0.0,2.5,False,0.0
+SVA,Sinovac Biotech Ltd.,N/A,N/A,6.47,642436736.0,2.5,0.0,0.0,2.5,False,0.0
+MKDW,MKDWELL Tech Inc.,N/A,N/A,0.202,29011108.0,2.5,0.0,0.0,2.5,False,0.0
+MKDWW,MKDWELL Tech Inc.,N/A,N/A,0.0111,0.0,2.5,0.0,0.0,2.5,False,0.0
+OCSAW,Oculis Holding AG,N/A,N/A,9.41,0.0,2.5,0.0,0.0,2.5,False,0.0
+SI,"Shoulder Innovations, Inc.",N/A,N/A,15.2,313145600.0,2.5,0.0,0.0,2.5,False,0.0
+CCHH,CCH Holdings Ltd,N/A,N/A,11.47,220797504.0,2.5,0.0,0.0,2.5,False,0.0
+SOJC,The Southern Company JR 2017B NT 77,N/A,N/A,0.0,21558652928.0,2.5,0.0,0.0,2.5,False,0.0
+NMP,NMP Acquisition Corp.,N/A,N/A,10.0,159708336.0,2.5,0.0,0.0,2.5,False,0.0
+NMPAR,NMP Acquisition Corp.,N/A,N/A,0.24,0.0,2.5,0.0,0.0,2.5,False,0.0
+NMPAU,NMP Acquisition Corp.,N/A,N/A,10.2,0.0,2.5,0.0,0.0,2.5,False,0.0
+NIOBW,NioCorp Developments Ltd.,N/A,N/A,2.53,0.0,2.5,0.0,0.0,2.5,False,0.0
+BTMWW,Bitcoin Depot Inc.,N/A,N/A,0.1201,0.0,2.5,0.0,0.0,2.5,False,0.0
+BTTC,Black Titan Corporation,N/A,N/A,3.18,24561116.0,2.5,0.0,0.0,2.5,False,0.0
+OAKUR,Oak Woods Acquisition Corporation,N/A,N/A,0.25,0.0,2.5,0.0,0.0,2.5,False,0.0
+OAKUW,Oak Woods Acquisition Corporation,N/A,N/A,0.0416,0.0,2.5,0.0,0.0,2.5,False,0.0
+BTBDW,"BT Brands, Inc.",N/A,N/A,0.1093,0.0,2.5,0.0,0.0,2.5,False,0.0
+SMJF,SMJF,N/A,N/A,4.4,0.0,2.5,0.0,0.0,2.5,False,0.0
+ZJZZT,ZJZZT,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+EP-C,EP-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+EPR-C,EPR-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RCC,RCC,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RCD,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+REXR-B,REXR-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+REXR-C,REXR-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ZAZZT,ZAZZT,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ZBZX,ZBZX,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BW-A,BW-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SLG-I,SLG-I,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NRUC,NRUC,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SMHB,ETRACS 2xMonthly Pay Leveraged US Small Cap High Dividend ETN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,20.42
+ATEST,ATEST,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BC-C,BC-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NSA-A,NSA-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NSA-B,NSA-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NPWR+,NPWR+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NREF-A,NREF-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATEST.A,ATEST.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATEST.B,ATEST.B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NTEST,NTEST,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NTEST.A,NTEST.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NTEST.B,NTEST.B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NTEST.C,NTEST.C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+C-N,C-N,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CADE-A,CADE-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NWAX=,NWAX=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NLY-I,NLY-I,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NLY-J,NLY-J,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SLND+,SLND+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BWNB,BWNB,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BWSN,BWSN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NUVB+,NUVB+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+OAK-B,OAK-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SKYH+,SKYH+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ET-I,ET-I,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NLY-F,NLY-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NLY-G,NLY-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NXDT-A,NXDT-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATH-B,ATH-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATH-D,ATH-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATH-E,ATH-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATHS,ATHS,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NOTE+,NOTE+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SNV-E,SNV-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NGL-B,NGL-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NGL-C,NGL-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CBO,CBO,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CBX,CBX,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NHIC,NewHold Investment Corp III,N/A,N/A,10.365,286206304.0,2.0,0.0,0.0,2.0,False,0.0
+NHICU,NewHold Investment Corp III,N/A,N/A,10.45,0.0,2.0,0.0,0.0,2.0,False,0.0
+NMFCZ,New Mountain Finance Corporation 8.250% Notes due 2028,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NEWTI,"NewtekOne, Inc. 8.00% Fixed Rate Senior Notes due 2028",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SOJD,SOJD,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SOJE,SOJE,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SOJF,SOJF,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SOUL=,SOUL=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SOUL^,SOUL^,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SNV-D,SNV-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NEWTG,"NewtekOne, Inc. 8.50% Fixed Rate Senior Notes due 2029",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+OAK-A,OAK-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NEWTZ,Newtek Business Services Corp. 5.50% Notes Due 2026,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NE+,NE+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NE+A,NE+A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NEE-N,NEE-N,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NEE-S,NEE-S,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NEE-T,NEE-T,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NEE-U,NEE-U,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SPEGR,Silver Pegasus Acquisition Corp Rights.,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SPG-J,SPG-J,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ASBA,ASBA,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SPNT-B,SPNT-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CDR-B,CDR-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATEST.C,ATEST.C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+OFSSH,OFS Capital Corporation 4.95% Notes due 2028,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATH-A,ATH-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+OPP-A,OPP-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+OPP-B,OPP-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+OPP-C,OPP-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SHO-H,SHO-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SHO-I,SHO-I,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CDR-C,CDR-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SRG-A,SRG-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CELG^,CELG^,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATLCZ,Atlanticus Holdings Corporation 9.25% Senior Notes due 2029,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATMP,Barclays ETN+ Select MLP ETN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,4.99
+NCV-A,NCV-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+NCZ-A,NCZ-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MTB-K,MTB-K,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MTEST,MTEST,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SRV^,SRV^,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ARR-C,ARR-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MTB-H,MTB-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ASB-E,ASB-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ASB-F,ASB-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MS-E,MS-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SR-A,SR-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SREA,SREA,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MS-F,MS-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MS-I,MS-I,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MS-K,MS-K,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MS-L,MS-L,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MS-O,MS-O,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MS-P,MS-P,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MS-Q,MS-Q,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CFG-E,CFG-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CFG-H,CFG-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CFG-I,CFG-I,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CFR-B,CFR-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CGABL,The Carlyle Group Inc. 4.625% Subordinated Notes due 2061,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MTB-J,MTB-J,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MS-A,MS-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MPTI+,MPTI+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SSSSL,SuRo Capital Corp. 6.00% Notes due 2026,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MOG.B,MOG.B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BRK.A,BRK.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BRK.B,BRK.B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+OPFI+,OPFI+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BOH-B,BOH-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATLCL,Atlanticus Holdings Corporation 6.125% Senior Notes due 2026,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+OXLCL,Oxford Lane Capital Corp. 6.75% Notes due 2031,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+OXLCZ,Oxford Lane Capital Corp. 5.00% Notes due 2027,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+OXSQG,Oxford Square Capital Corp. 5.50% Notes due 2028,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MLAC,Mountain Lake Acquisition Corp.,N/A,N/A,10.405,322476960.0,2.0,0.0,0.0,2.0,False,0.0
+CHMI-A,CHMI-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CHMI-B,CHMI-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MOG.A,MOG.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AREBW,"American Rebel Holdings, Inc.",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ARES-B,ARES-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BPACU,Blueport Acquisition Ltd,N/A,N/A,10.07,0.0,2.0,0.0,0.0,2.0,False,0.0
+BPOPM,Popular Capital Trust II PFD GTD 6.125%,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SF-C,SF-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SF-D,SF-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SFB,SFB,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MGR,MGR,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MGRB,MGRB,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MGRD,MGRD,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MGRE,MGRE,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MLACU,Mountain Lake Acquisition Corp.,N/A,N/A,11.0,296944992.0,2.0,0.0,0.0,2.0,False,0.0
+MLPB,UBS ETRACS Alerian MLP Infrastructure Index ETN Series B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,6.41
+STT-G,STT-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MITN,MITN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MITP,MITP,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MITT-A,MITT-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MITT-B,MITT-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MITT-C,MITT-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MKC.V,MKC.V,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ARBKL,Argo Blockchain plc 8.75% Senior Notes due 2026,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SVAC,Spring Valley Acquisition Corp. III,N/A,N/A,10.26,314640032.0,2.0,0.0,0.0,2.0,False,0.0
+CIG.C,CIG.C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+OXY+,OXY+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BOH-A,BOH-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PBI-B,PBI-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BNH,NASDAQ DM Ex US Industrials Ind,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BNJ,BNJ,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SEAL-B,SEAL-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PAII,Pyrophyte Acquisition Corp. II,N/A,N/A,10.1,348375200.0,2.0,0.0,0.0,2.0,False,0.0
+MFAN,MFAN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MFAO,MFAO,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MHNC,"Maiden Holdings North America, Ltd.",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SVACU,Spring Valley Acquisition Corp. III,N/A,N/A,10.45,278667008.0,2.0,0.0,0.0,2.0,False,0.0
+SVACW,Spring Valley Acquisition Corp. III,N/A,N/A,0.7,0.0,2.0,0.0,0.0,2.0,False,0.0
+SWKHL,SWK Holdings Corporation 9.00% Senior Notes due 2027,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CIM-B,CIM-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CIM-C,CIM-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CIM-D,CIM-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CIMN,CIMN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CIMP,CIMP,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CIO-A,CIO-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AQNB,AQNB,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SEAL-A,SEAL-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CLDT-A,CLDT-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MER-K,MER-K,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SXTPW,"60 Degrees Pharmaceuticals, Inc.",N/A,N/A,0.0398,0.0,2.0,0.0,0.0,2.0,False,0.0
+SYF-A,SYF-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SYF-B,SYF-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+APO-A,APO-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MET-A,MET-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MET-E,MET-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MET-F,MET-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MFA-B,MFA-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MFA-C,MFA-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+T-A,T-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+T-C,T-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PAII+,PAII+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PAII=,PAII=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SES+,SES+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SF-B,SF-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PCG-G,PCG-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PCG-H,PCG-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PCG-I,PCG-I,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PCG-X,PCG-X,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TBMCR,Trailblazer Merger Corporation I,N/A,N/A,0.2786,0.0,2.0,0.0,0.0,2.0,False,0.0
+CMA-B,CMA-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MDV-A,MDV-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TAP.A,TAP.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CIM-A,CIM-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+APOS,APOS,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+MAA-I,MAA-I,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+LWAC,LightWave Acquisition Corp.,N/A,N/A,10.07,302855232.0,2.0,0.0,0.0,2.0,False,0.0
+MCGA,Yorkville Acquisition Corp.,N/A,N/A,10.12,238642272.0,2.0,0.0,0.0,2.0,False,0.0
+MCGAU,Yorkville Acquisition Corp.,N/A,N/A,10.28,0.0,2.0,0.0,0.0,2.0,False,0.0
+MCGAW,Yorkville Acquisition Corp.,N/A,N/A,0.55,0.0,2.0,0.0,0.0,2.0,False,0.0
+BML-G,BML-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BML-H,BML-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BML-J,BML-J,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BML-L,BML-L,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PBR.A,PBR.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SCHW-D,SCHW-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SCHW-J,SCHW-J,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SCIIU,SC II Acquisition Corp.,N/A,N/A,10.04,153160192.0,2.0,0.0,0.0,2.0,False,0.0
+CMRE-B,CMRE-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CMRE-C,CMRE-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CMRE-D,CMRE-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CMS-B,CMS-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CMS-C,CMS-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+LZM+,LZM+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+LXP-C,LXP-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TCPA,TCPA,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PCG-A,PCG-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PCG-B,PCG-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PCG-C,PCG-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PCG-D,PCG-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PCG-E,PCG-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SCCG,SCCG,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SCE-G,SCE-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SCE-J,SCE-J,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SCE-K,SCE-K,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SCE-L,SCE-L,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SCE-M,SCE-M,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SCE-N,SCE-N,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TFC-I,TFC-I,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TFC-O,TFC-O,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CMSC,CMSC,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CMSD,CMSD,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+LVWR+,LVWR+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TDS-U,TDS-U,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TDS-V,TDS-V,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TE+,TE+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AOMD,AOMD,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AOMN,AOMN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+LWACU,LightWave Acquisition Corp.,N/A,N/A,10.2,0.0,2.0,0.0,0.0,2.0,False,0.0
+LWACW,LightWave Acquisition Corp.,N/A,N/A,0.2799,0.0,2.0,0.0,0.0,2.0,False,0.0
+PEB-F,PEB-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PEB-G,PEB-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PEB-H,PEB-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ESHAR,ESH Acquisition Corp.,N/A,N/A,0.18,0.0,2.0,0.0,0.0,2.0,False,0.0
+F-B,F-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+F-C,F-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+F-D,F-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TEN-E,TEN-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TEN-F,TEN-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+LMND+,LMND+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+LNC-D,LNC-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ABR-D,ABR-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ABR-E,ABR-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ABR-F,ABR-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SBXD=,SBXD=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SBXE=,SBXE=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SCCD,SCCD,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SCCE,SCCE,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PEB-E,PEB-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PERF+,PERF+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CNO-A,CNO-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TFC-R,TFC-R,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TFIN-,TFIN-,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TFSA,TFSA,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TGE+,TGE+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CODI-A,CODI-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CODI-B,CODI-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CODI-C,CODI-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+LNZAW,"LanzaTech Global, Inc.",N/A,N/A,0.0161,0.0,2.0,0.0,0.0,2.0,False,0.0
+LOB-A,LOB-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SCCF,SCCF,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BK-K,BK-K,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SAZ,SAZ,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SB-C,SB-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SB-D,SB-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SBXD+,SBXD+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BKKT+,BKKT+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BKSY+,BKSY+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PEW+,PEW+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PFFL,ETRACS 2xMonthly Pay Leveraged Preferred Stock Index ETN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,13.3
+LEGT+,LEGT+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+LEGT=,LEGT=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+LFT-A,LFT-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+LGL+,LGL+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+COF-K,COF-K,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+COF-L,COF-L,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+COF-N,COF-N,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+LEN.B,LEN.B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AUB-A,AUB-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BIPI,BIPI,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BIPJ,Brookfield Infrastructure Finance ULC,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SAT,SAT,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SAY,SAY,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PFH,CABCO Trust for JC Penney Debentures,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PFXNZ,PhenixFIN Corporation  5.25% Notes due 2028,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TMUSI,"T-Mobile US, Inc. 5.500% Senior Notes due June 2070",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TMUSL,"T-Mobile US, Inc. 6.250% Senior Notes due 2069",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TMUSZ,"T-Mobile US, Inc. 5.500% Senior Notes due March 2070",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+COPL+,COPL+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+COPL=,COPL=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KTH,Corts Trust Peco Energy Capital Trust III,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KTN,Credit-Enhanced Corts Trust Aon,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+LANV+,LANV+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ANG-D,ANG-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+COF-I,COF-I,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+COF-J,COF-J,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KMPB,KMPB,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SAC=,SAC=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SACH-A,SACH-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+SAJ,SAJ,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PHXE-,PHXE-,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PINE-A,PINE-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BHR-B,BHR-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BHR-D,BHR-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BIO.B,BIO.B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BIP-A,BIP-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BIP-B,BIP-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KIM-L,KIM-L,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KIM-M,KIM-M,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KIM-N,KIM-N,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KKR-D,KKR-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KKRS,KKRS,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KKRT,KKRT,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TRINI,Trinity Capital Inc. 7.875% Notes Due 2029,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KREF-A,KREF-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KRSP,Rice Acquisition Corporation 3,N/A,N/A,10.3619,476674368.0,2.0,0.0,0.0,2.0,False,0.0
+KRSP+,KRSP+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KRSP=,KRSP=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TPGXL,"TPG Operating Group II, L.P. 6.950% Fixed-Rate Junior Subordinated Notes due 2064",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AMH-G,AMH-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AMH-H,AMH-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CRAQU,Cal Redwood Acquisition Corp.,N/A,N/A,10.5,0.0,2.0,0.0,0.0,2.0,False,0.0
+CRBD,CRBD,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CRD.A,CRD.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CRD.B,CRD.B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KEY-K,KEY-K,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KEY-L,KEY-L,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KCHV,Kochav Defense Acquisition Corp.,N/A,N/A,10.13,347027296.0,2.0,0.0,0.0,2.0,False,0.0
+KCHVR,Kochav Defense Acquisition Corp.,N/A,N/A,0.26,0.0,2.0,0.0,0.0,2.0,False,0.0
+KCHVU,Kochav Defense Acquisition Corp.,N/A,N/A,10.39,0.0,2.0,0.0,0.0,2.0,False,0.0
+AMUB,UBS ETRACS Alerian MLP Index ETN Series B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,6.48
+TPTA,TPTA,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BH.A,BH.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PL+,PL+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KEY-I,KEY-I,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+KEY-J,KEY-J,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CRAQ,Cal Redwood Acquisition Corp.,N/A,N/A,10.14,395376864.0,2.0,0.0,0.0,2.0,False,0.0
+CRAQR,Cal Redwood Acquisition Corp.,N/A,N/A,0.33,0.0,2.0,0.0,0.0,2.0,False,0.0
+AMPX+,AMPX+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TRTN-A,TRTN-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TRTN-B,TRTN-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TRTN-C,TRTN-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+JPM-L,JPM-L,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TRINZ,Trinity Capital Inc. 7.875% Notes due 2029,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TRTN-F,TRTN-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TRTX-C,TRTX-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+JOBY+,JOBY+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+JPM-C,JPM-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+JPM-D,JPM-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+JPM-J,JPM-J,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+JPM-K,JPM-K,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BIPH,Safeplus International Holdings Limited,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AXIA-,AXIA-,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PLTS,Platinum Analytics Cayman Limited,N/A,N/A,17.5,316034400.0,2.0,0.0,0.0,2.0,False,0.0
+JENA^,JENA^,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+JBK,"Corporate Backed Trust Certificates, Goldman Sachs Capital I Securities-Backed Series 2004-6 04-6 A1 3.50",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+IVR-C,IVR-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+JACS=,JACS=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+JACS^,JACS^,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+JPM-M,JPM-M,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+JXN-A,JXN-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TRTN-D,TRTN-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TRTN-E,TRTN-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CTBB,Qwest Corp. NT,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CTDD,Qwest Corp. 6.75% NT 57,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CTEST,CTEST,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ALTG-A,ALTG-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ALUB=,ALUB=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ALUR+,ALUR+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CTEST.O,CTEST.O,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CTEST.S,CTEST.S,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CTEST.V,CTEST.V,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CTO-A,CTO-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+JENA,Jena Acquisition Corporation II,N/A,N/A,10.19,295255232.0,2.0,0.0,0.0,2.0,False,0.0
+JENA=,JENA=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PMT-C,PMT-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RWAYL,RWAYL,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TVE,Tennessee Valley Authority PARRS A 2029,N/A,N/A,24.23,12720750.0,2.0,0.0,0.0,2.0,False,0.0
+TWO-A,TWO-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+IRS+,IRS+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CTEST.E,CTEST.E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CTEST.G,CTEST.G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CTEST.L,CTEST.L,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CTA-A,CTA-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CTA-B,CTA-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ALL-I,ALL-I,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ALL-J,ALL-J,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ALPS,Alps Group Inc,N/A,N/A,1.21,201345776.0,2.0,0.0,0.0,2.0,False,0.0
+IONQ+,IONQ+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CUBB,CUBB,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PMTU,PMTU,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PMTV,PMTV,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RZC,7.125% Fixed-Rate Reset Subordinated Debentures due 2052,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PMT-A,PMT-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PMT-B,PMT-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSA-O,PSA-O,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+INN-E,INN-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+INN-F,INN-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TY-,TY-,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+INBKZ,INBKZ,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CUBI-F,CUBI-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TWO-B,TWO-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+TWO-C,TWO-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+IGZ,IGZ,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+IIPR-A,IIPR-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CVE+,CVE+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RWAYZ,Runway Growth Finance Corp. 8.00% Notes due 2027,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RWT-A,RWT-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RWTN,RWTN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RWTO,RWTO,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BF.B,BF.B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BFH-A,BFH-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BFLY+,BFLY+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BFS-D,BFS-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BFS-E,BFS-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+CWEN.A,CWEN.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+UHAL.B,UHAL.B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+IAUX+,IAUX+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HYAC+,HYAC+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HYAC=,HYAC=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ALL-B,ALL-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ALL-H,ALL-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+UCIB,UBS ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HVMC,Highview Merger Corp.,N/A,N/A,10.03,294982304.0,2.0,0.0,0.0,2.0,False,0.0
+HVMCW,Highview Merger Corp.,N/A,N/A,0.35,0.0,2.0,0.0,0.0,2.0,False,0.0
+PRS,PRS,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PRH,"Prudential Financial, Inc. JR SUB NT 53",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PRIF-D,PRIF-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PRIF-J,PRIF-J,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PRIF-K,PRIF-K,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PRIF-L,PRIF-L,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSA-S,PSA-S,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+IGACU,Invest Green Acquisition Corporation,N/A,N/A,10.0201,0.0,2.0,0.0,0.0,2.0,False,0.0
+ICR-A,ICR-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HTFC,HTFC,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HUBCW,HUB Cyber Security Ltd.,N/A,N/A,0.019,0.0,2.0,0.0,0.0,2.0,False,0.0
+AKO.A,AKO.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AKO.B,AKO.B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ALCYW,Alchemy Investments Acquisition Corp 1,N/A,N/A,0.1213,0.0,2.0,0.0,0.0,2.0,False,0.0
+UMH-D,UMH-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSA-N,PSA-N,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ALB-A,ALB-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+USB-A,USB-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DBRG-H,DBRG-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DBRG-I,DBRG-I,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DBRG-J,DBRG-J,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DC+,DC+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HVT.A,HVT.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HWCPZ,HWCPZ,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HWM-,HWM-,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HPE-C,HPE-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DDT,Dillards Capital Trust I CAP SECS 7.5%,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RPT-C,RPT-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AXS-E,AXS-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BA-A,BA-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSA-F,PSA-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSA-G,PSA-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSA-H,PSA-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSA-I,PSA-I,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSA-J,PSA-J,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSA-K,PSA-K,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSA-L,PSA-L,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSA-M,PSA-M,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HLLY+,HLLY+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AIZN,AIZN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+UWMC+,UWMC+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+UZD,UZD,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+UZE,UZE,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+UZF,UZF,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HPP-C,HPP-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+USB-H,USB-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+USB-P,USB-P,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+USB-Q,USB-Q,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+USB-R,USB-R,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+USB-S,USB-S,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+VACI+,VACI+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+VACI=,VACI=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+VAL+,VAL+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DGP,DB Gold Double Long ETN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DGZ,DB Gold Short ETN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DHCNI,DHCNI,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DHCNL,Diversified Healthcare Trust,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HNNAZ,"Hennessy Advisors, Inc. 4.875% Notes due 2026",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DJP,iPath Bloomberg Commodity Index Total Return(SM) ETN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HL-B,HL-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSA-R,PSA-R,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RNGTU,Range Capital Acquisition Corp II,N/A,N/A,10.21,0.0,2.0,0.0,0.0,2.0,False,0.0
+RNGTW,Range Capital Acquisition Corp II,N/A,N/A,0.568,0.0,2.0,0.0,0.0,2.0,False,0.0
+HFRO-B,HFRO-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HIG-G,HIG-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DLNG-A,DLNG-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DLR-J,DLR-J,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DLR-K,DLR-K,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DLR-L,DLR-L,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HFRO-A,HFRO-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+HEI.A,HEI.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AIIA=,AIIA=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AIIA^,AIIA^,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BEP-A,BEP-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BEPH,BEPH,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BEPI,BEPI,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BEPJ,BEPJ,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BF.A,BF.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSA-P,PSA-P,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSA-Q,PSA-Q,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GUT-C,GUT-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AHL-D,AHL-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GWH+,GWH+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AHL-E,AHL-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AHL-F,AHL-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AHH-A,AHH-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+VNO-L,VNO-L,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+VNO-M,VNO-M,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+VNO-N,VNO-N,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AHT-D,AHT-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AHT-F,AHT-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AHT-G,AHT-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AHT-H,AHT-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AHT-I,AHT-I,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GTENU,"Gores Holdings X, Inc.",N/A,N/A,10.5,0.0,2.0,0.0,0.0,2.0,False,0.0
+GTENW,"Gores Holdings X, Inc.",N/A,N/A,0.8275,0.0,2.0,0.0,0.0,2.0,False,0.0
+GTLS-B,GTLS-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GTN.A,GTN.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BAC-O,BAC-O,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BAC-P,BAC-P,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BAC-Q,BAC-Q,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BAC-S,BAC-S,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GS-D,GS-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AGM-D,AGM-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AGM-E,AGM-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GSL-B,GSL-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GTEN,"Gores Holdings X, Inc.",N/A,N/A,10.305,464497888.0,2.0,0.0,0.0,2.0,False,0.0
+VLN+,VLN+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GRAF+,GRAF+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+VNO-O,VNO-O,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+VOYA-B,VOYA-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DRH-A,DRH-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GS-A,GS-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GS-C,GS-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RNR-F,RNR-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RNR-G,RNR-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BAC-B,BAC-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BAC-E,BAC-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BAC-K,BAC-K,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BAC-L,BAC-L,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BAC-M,BAC-M,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BAC-N,BAC-N,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RNGT,Range Capital Acquisition Corp II,N/A,N/A,10.01,313579968.0,2.0,0.0,0.0,2.0,False,0.0
+AFGB,AFGB,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AGM-F,AGM-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AGM-G,AGM-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AGM-H,AGM-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AGM.A,AGM.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GREEL,Greenidge Generation Holdings Inc. 8.50% Senior Notes due 2026,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GROY+,GROY+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GRP=,GRP=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GPUS-D,GPUS-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GRBK-A,GRBK-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GPMT-A,GPMT-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GNT-A,GNT-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PW-A,PW-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RMSG,Real Messenger Corporation,N/A,N/A,1.9347,18517558.0,2.0,0.0,0.0,2.0,False,0.0
+RMSGW,Real Messenger Corporation,N/A,N/A,0.0502,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSEC-A,PSEC-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PSQH+,PSQH+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GNL-E,GNL-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DUK-A,DUK-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DUKB,DUKB,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AFGC,"American Financial Group, Inc.",N/A,N/A,0.0,18853352.0,2.0,0.0,0.0,2.0,False,0.0
+AFGD,"American Financial Group, Inc.",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AFGE,"American Financial Group, Inc.",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DSX+,DSX+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DSX-B,DSX-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DTB,DTB,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DTG,DTG,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DTK,DTK,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GRAF=,GRAF=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FACT,FACT II Acquisition Corp,N/A,N/A,10.375,252335152.0,2.0,0.0,0.0,2.0,False,0.0
+EQH-A,EQH-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+EQH-C,EQH-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+VXZ,iPath Series B S&P 500 VIX Mid-Term Futures ETN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GME+,GME+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GMRE-A,GMRE-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GMRE-B,GMRE-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GNL-A,GNL-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GNL-B,GNL-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GNL-D,GNL-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GLU-B,GLU-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+WAL-A,WAL-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GLOP-A,GLOP-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GLOP-B,GLOP-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GLOP-C,GLOP-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GLP-B,GLP-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FCRS+,FCRS+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FCRS=,FCRS=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FBRT-E,FBRT-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+YCY+,YCY+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+YCY=,YCY=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RITM-B,RITM-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RITM-C,RITM-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RITM-D,RITM-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GIW,GigCapital8 Corp.,N/A,N/A,9.8966,467975456.0,2.0,0.0,0.0,2.0,False,0.0
+GIWWR,GigCapital8 Corp.,N/A,N/A,0.36,0.0,2.0,0.0,0.0,2.0,False,0.0
+GIWWU,GigCapital8 Corp.,N/A,N/A,10.26,0.0,2.0,0.0,0.0,2.0,False,0.0
+GJH,"STRATS Trust for United States Cellular Corp. Securities, Series 2004-6 STRATS 6.375",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GJO,Strats Trust Wal Mart Stores Inc. STRT CTF 05-4,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GJP,"STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GJR,Strats Trust For Procter &amp; Gambel Security CTF 2006-1,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GJS,"STRATS Trust for Goldman Sachs Group Securities, Series 2006-2",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GJT,"Strats(SM) Trust For Allstate Corp Securities, Series 2006-3 06-3 ASSET BKD",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GL-D,GL-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GLU-A,GLU-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GGT-E,GGT-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AEXA,AEXA,N/A,N/A,10.95,541594816.0,2.0,0.0,0.0,2.0,False,0.0
+WBS-F,WBS-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+WBS-G,WBS-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BANC-F,BANC-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BANFP,BFC Capital Trust II PFD TR 7.20%,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RLJ-A,RLJ-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+PYT,PPLUS Trust Series GSC-2 GSC 2 CT FL RT,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+WFC-A,WFC-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+WFC-C,WFC-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+WFC-D,WFC-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+WFC-L,WFC-L,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+WFC-Y,WFC-Y,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+WFC-Z,WFC-Z,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GFR^,GFR^,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GGN-B,GGN-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AEAQU,Activate Energy Acquisition Corp. Unit,N/A,N/A,10.005,0.0,2.0,0.0,0.0,2.0,False,0.0
+AEFC,AEFC,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DX-C,DX-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+WHFCL,"WhiteHorse Finance, Inc. 7.875% Notes due 2028",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GDV-H,GDV-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GDV-K,GDV-K,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GECCG,Great Elm Capital Corp. 7.75% Notes Due 2030,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GECCH,GECCH,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GECCI,Great Elm Capital Corp. 8.50% NOTES DUE 2029,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GECCO,Great Elm Capital Corp. 5.875% Notes due 2026,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GGT-G,GGT-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+WENN,Wen Acquisition Corp,N/A,N/A,10.11,379314560.0,2.0,0.0,0.0,2.0,False,0.0
+WENNU,WENNU,N/A,N/A,10.3,0.0,2.0,0.0,0.0,2.0,False,0.0
+ECCU,ECCU,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ECCV,ECCV,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ECCW,ECCW,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+DZZ,DB Gold Double Short ETN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GEGGL,"Great Elm Group, Inc.  7.25% Notes due 2027",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RITM-E,RITM-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RIV-A,RIV-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RJF-B,RJF-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BCSS=,BCSS=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BCV-A,BCV-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BDCZ,UBS ETRACS Wells Fargo Business Development Company Index ETN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,10.49
+RILYN,RILYN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BAR,GraniteShares Gold Trust,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BARK+,BARK+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ACP-A,ACP-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GAB-G,GAB-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GAB-H,GAB-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GAB-K,GAB-K,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GAINL,Gladstone Investment Corporation 8.00% Notes due 2028,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GAINN,Gladstone Investment Corporation 5.00% Notes Due 2026,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GAINZ,Gladstone Investment Corporation 4.875% Notes due 2028,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GAM-B,GAM-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GEF.B,GEF.B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+GCTS+,GCTS+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ECC-D,ECC-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ECF-A,ECF-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ADAMI,"New York Mortgage Trust, Inc. 9.125% Senior Notes Due 2029",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ADC-A,ADC-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+QVCC,QVCC,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+QVCD,QVCD,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+QXO-B,QXO-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RAC,Rithm Acquisition Corp.,N/A,N/A,10.35,304393504.0,2.0,0.0,0.0,2.0,False,0.0
+RAC+,RAC+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RAC=,RAC=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RILYT,"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RILYZ,"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RITM-A,RITM-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+EFC-A,EFC-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FRT-C,FRT-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+WRB-F,WRB-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+WRB-G,WRB-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+WRB-H,WRB-H,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FOUR-A,FOUR-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+EFC-B,EFC-B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+EFC-C,EFC-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+EFC-D,EFC-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ACR-C,ACR-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ACR-D,ACR-D,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+WRB-E,WRB-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FTW+,FTW+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FTW=,FTW=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BCSS,Bain Capital GSS Investment Corp.,N/A,N/A,10.07,588088000.0,2.0,0.0,0.0,2.0,False,0.0
+BCSS+,BCSS+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RILYG,"B. Riley Financial, Inc. 5.00% Senior Notes due 2026",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RILYK,"B. Riley Financial, Inc. 5.50% Senior Notes Due 2026",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RF-C,RF-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RF-E,RF-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RF-F,RF-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BBAI+,BBAI+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+BBBY+,BBBY+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FHN-F,FHN-F,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FLYX+,FLYX+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FNGO,MicroSectors FANG+ Index 2X Leveraged ETN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ACHR+,ACHR+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ELC,"Entergy Louisiana, LLC COLLATERAL TR MT",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FLG-A,FLG-A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+WSO.B,WSO.B,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FGSN,FGSN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FHN-C,FHN-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FHN-E,FHN-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RFL+,RFL+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RBOT+,RBOT+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RC-C,RC-C,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+RC-E,RC-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ZBZZT,ZBZZT,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ZCZZT,ZCZZT,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+EPR-E,EPR-E,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+EPR-G,EPR-G,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FCRS,FutureCrest Acquisition Corp.,N/A,N/A,10.1436,364535648.0,2.0,0.0,0.0,2.0,False,0.0
+FGN,FGN,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FLG-U,FLG-U,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+FIGX,FIGX Capital Acquisition Corp.,N/A,N/A,10.1,195794448.0,2.0,0.0,0.0,2.0,False,0.0
+FIGXW,FIGX Capital Acquisition Corp.,N/A,N/A,0.29,0.0,2.0,0.0,0.0,2.0,False,0.0
+AAM=,AAM=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ZVV,ZVV,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ZVZZT,ZVZZT,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ZWZZT,ZWZZT,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ZXIET,ZXIET,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+AAM+,AAM+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ZXYZ.A,ZXYZ.A,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ZXZZT,ZXZZT,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ENO,"Entergy Utility Group, Inc. 1ST MTG BD 66",N/A,N/A,0.0,190566128.0,2.0,0.0,0.0,2.0,False,0.0
+EONR+,EONR+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+EVAC+,EVAC+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+EVAC=,EVAC=,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ABLLL,"Abacus Life, Inc. 9.875% Fixed Rate Senior Notes due 2028",N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ZEXIT,ZEXIT,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ETI-,ETI-,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+EVEX+,EVEX+,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ZTEST,ZTEST,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0
+ZIEXT,ZIEXT,N/A,N/A,0.0,0.0,2.0,0.0,0.0,2.0,False,0.0

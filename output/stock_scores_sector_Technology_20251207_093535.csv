@@ -1,0 +1,830 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+INTU,Intuit Inc.,Technology,Software - Application,673.63,187538587648.0,4.0,4.5,0.0,8.5,True,0.67
+SAP,SAP SE,Technology,Software - Application,247.26,288501563392.0,4.0,4.5,0.0,8.5,True,1.03
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,217.58,620275499008.0,4.0,4.5,0.0,8.5,True,0.92
+ADP,"Automatic Data Processing, Inc.",Technology,Software - Application,261.63,105983565824.0,4.0,4.5,0.0,8.5,True,2.6
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,483.16,3591408713728.0,4.0,4.5,0.0,8.5,True,0.75
+PAYX,"Paychex, Inc.",Technology,Software - Application,112.06,40329736192.0,4.0,4.0,0.0,8.0,True,3.86
+ROP,"Roper Technologies, Inc.",Technology,Software - Application,447.56,48174206976.0,4.0,4.0,0.0,8.0,True,0.81
+PEGA,Pegasystems Inc.,Technology,Software - Application,60.11,10283659264.0,4.0,4.0,0.0,8.0,True,0.2
+NTAP,"NetApp, Inc.",Technology,Software - Infrastructure,117.27,23409246208.0,4.0,4.0,0.0,8.0,True,1.77
+BSY,"Bentley Systems, Incorporated",Technology,Software - Application,43.19,13113820160.0,4.0,4.0,0.0,8.0,True,0.65
+ADEA,Adeia Inc.,Technology,Software - Application,12.51,1369972480.0,4.0,3.5,0.0,7.5,True,1.6
+OTEX,Open Text Corporation,Technology,Software - Application,33.52,8554564096.0,4.0,3.5,0.0,7.5,True,3.21
+CSGS,"CSG Systems International, Inc.",Technology,Software - Infrastructure,77.01,2196338688.0,4.0,3.5,0.0,7.5,True,1.66
+ADBE,Adobe Inc.,Technology,Software - Application,346.26,146883493888.0,3.0,4.5,0.0,7.5,True,0.0
+INFY,Infosys Limited,Technology,Information Technology Services,18.07,75928961024.0,4.0,3.5,0.0,7.5,True,2.87
+DOX,Amdocs Limited,Technology,Software - Infrastructure,77.07,8477083648.0,4.0,3.5,0.0,7.5,True,2.74
+ADSK,"Autodesk, Inc.",Technology,Software - Application,306.74,65335619584.0,3.0,4.5,0.0,7.5,True,0.0
+CSCO,"Cisco Systems, Inc.",Technology,Communication Equipment,77.97,308066844672.0,4.0,3.5,0.0,7.5,True,2.1
+UPBD,"Upbound Group, Inc.",Technology,Software - Application,18.86,1092102144.0,4.0,3.5,0.0,7.5,True,8.27
+EVTC,"EVERTEC, Inc.",Technology,Software - Infrastructure,29.59,1893281792.0,4.0,3.5,0.0,7.5,True,0.68
+MSI,"Motorola Solutions, Inc.",Technology,Communication Equipment,374.39,62374830080.0,4.0,3.5,0.0,7.5,True,1.29
+APH,Amphenol Corporation,Technology,Electronic Components,139.36,170584375296.0,4.0,3.5,0.0,7.5,True,0.72
+SPNS,Sapiens International Corporation N.V.,Technology,Software - Application,43.32,2421615616.0,4.0,3.5,0.0,7.5,True,1.39
+CRM,"Salesforce, Inc.",Technology,Software - Application,260.57,249104924672.0,3.5,4.0,0.0,7.5,True,0.64
+IDCC,"InterDigital, Inc.",Technology,Software - Application,355.18,9164481536.0,4.0,3.5,0.0,7.5,True,0.79
+WDC,Western Digital Corporation,Technology,Computer Hardware,168.89,57894735872.0,4.0,3.5,0.0,7.5,True,0.3
+GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,203.59,39189843968.0,4.0,3.0,0.0,7.0,True,1.77
+MNDO,MIND C.T.I. Ltd,Technology,Software - Application,1.23,25050582.0,4.0,3.0,0.0,7.0,True,17.89
+PLTR,Palantir Technologies Inc.,Technology,Software - Infrastructure,181.76,433213374464.0,3.0,4.0,0.0,7.0,True,0.0
+WIT,Wipro Limited,Technology,Information Technology Services,2.85,30726928384.0,4.0,3.0,0.0,7.0,True,4.42
+SHOP,Shopify Inc.,Technology,Software - Application,161.08,209700864000.0,3.0,4.0,0.0,7.0,True,0.0
+SSNC,"SS&C Technologies Holdings, Inc.",Technology,Software - Application,88.32,21569566720.0,4.0,3.0,0.0,7.0,True,1.22
+STX,Seagate Technology Holdings plc,Technology,Computer Hardware,278.79,60740550656.0,3.5,3.5,0.0,7.0,True,1.06
+JKHY,"Jack Henry & Associates, Inc.",Technology,Information Technology Services,181.71,13203993600.0,4.0,3.0,0.0,7.0,True,1.28
+GEN,Gen Digital Inc.,Technology,Software - Infrastructure,27.09,16706839552.0,4.0,3.0,0.0,7.0,True,1.85
+UBER,"Uber Technologies, Inc.",Technology,Software - Application,91.32,190440423424.0,3.0,4.0,0.0,7.0,True,0.0
+UI,Ubiquiti Inc.,Technology,Communication Equipment,577.92,34963959808.0,4.0,3.0,0.0,7.0,True,0.55
+AAPL,Apple Inc.,Technology,Consumer Electronics,278.78,4137203793920.0,4.0,3.5,-1.0,6.5,False,0.37
+MGIC,Magic Software Enterprises Ltd.,Technology,Information Technology Services,25.15,1234847488.0,4.0,2.5,0.0,6.5,False,4.02
+ESE,ESCO Technologies Inc.,Technology,Scientific & Technical Instruments,195.59,5055243264.0,4.0,2.5,0.0,6.5,False,0.16
+BELFB,Bel Fuse Inc.,Technology,Electronic Components,166.0,2101653504.0,4.0,2.5,0.0,6.5,False,0.17
+MSTR,Strategy Inc,Technology,Software - Application,178.99,51433443328.0,3.0,3.5,0.0,6.5,False,0.0
+RAMP,"LiveRamp Holdings, Inc.",Technology,Software - Infrastructure,29.45,1932079488.0,3.0,3.5,0.0,6.5,False,0.0
+FICO,Fair Isaac Corporation,Technology,Software - Application,1798.53,43171295232.0,2.5,4.0,0.0,6.5,False,0.0
+LRCX,Lam Research Corporation,Technology,Semiconductor Equipment & Materials,158.7,200125825024.0,4.0,3.5,-1.0,6.5,False,0.66
+MU,"Micron Technology, Inc.",Technology,Semiconductors,237.22,266955472896.0,4.0,3.5,-1.0,6.5,False,0.19
+AGYS,"Agilysys, Inc.",Technology,Software - Application,126.02,3533953024.0,3.0,3.5,0.0,6.5,False,0.0
+ACN,Accenture plc,Technology,Information Technology Services,266.59,166046285824.0,4.0,2.5,0.0,6.5,False,2.45
+CDNS,"Cadence Design Systems, Inc.",Technology,Software - Application,337.53,91973541888.0,3.0,3.5,0.0,6.5,False,0.0
+ADI,"Analog Devices, Inc.",Technology,Semiconductors,281.29,137734815744.0,4.0,3.5,-1.0,6.5,False,1.41
+BHE,"Benchmark Electronics, Inc.",Technology,Electronic Components,46.96,1686366592.0,4.0,2.5,0.0,6.5,False,1.45
+IBM,International Business Machines Corporation,Technology,Information Technology Services,307.94,287842369536.0,4.0,2.5,0.0,6.5,False,2.18
+LFUS,"Littelfuse, Inc.",Technology,Electronic Components,259.55,6463233024.0,4.0,2.5,0.0,6.5,False,1.16
+MRVL,"Marvell Technology, Inc.",Technology,Semiconductors,98.91,85270315008.0,4.0,3.5,-1.0,6.5,False,0.24
+AVGO,Broadcom Inc.,Technology,Semiconductors,390.24,1842855673856.0,4.0,3.5,-1.0,6.5,False,0.6
+FORTY,Formula Systems (1985) Ltd.,Technology,Information Technology Services,168.9,2589687296.0,4.0,2.5,0.0,6.5,False,1.44
+SAIC,Science Applications International Corporation,Technology,Information Technology Services,100.61,4715872256.0,4.0,2.5,0.0,6.5,False,1.47
+CTS,CTS Corporation,Technology,Electronic Components,44.46,1310531200.0,4.0,2.5,0.0,6.5,False,0.36
+TXN,Texas Instruments Incorporated,Technology,Semiconductors,182.54,165953896448.0,4.0,3.5,-1.0,6.5,False,3.11
+TSM,Taiwan Semiconductor Manufacturing Company Limited,Technology,Semiconductors,294.72,1528566644736.0,4.0,3.5,-1.0,6.5,False,1.14
+BLKB,"Blackbaud, Inc.",Technology,Software - Application,63.69,3089540096.0,3.0,3.5,0.0,6.5,False,0.0
+BMI,"Badger Meter, Inc.",Technology,Scientific & Technical Instruments,180.14,5308686848.0,4.0,2.5,0.0,6.5,False,0.82
+AMAT,"Applied Materials, Inc.",Technology,Semiconductor Equipment & Materials,268.0,213500166144.0,4.0,3.5,-1.0,6.5,False,0.69
+SNPS,"Synopsys, Inc.",Technology,Software - Infrastructure,466.76,88950636544.0,3.0,3.5,0.0,6.5,False,0.0
+GLW,Corning Incorporated,Technology,Electronic Components,85.97,73707274240.0,4.0,2.5,0.0,6.5,False,1.3
+ASML,ASML Holding N.V.,Technology,Semiconductor Equipment & Materials,1099.47,426756702208.0,4.0,3.5,-1.0,6.5,False,0.67
+CGNX,Cognex Corporation,Technology,Scientific & Technical Instruments,38.42,6439116800.0,4.0,2.5,0.0,6.5,False,0.88
+KSPI,Joint Stock Company Kaspi.kz,Technology,Software - Infrastructure,76.42,15376257024.0,3.5,3.0,0.0,6.5,False,10.03
+OLED,Universal Display Corporation,Technology,Electronic Components,121.3,5766874112.0,4.0,2.5,0.0,6.5,False,1.48
+FTNT,"Fortinet, Inc.",Technology,Software - Infrastructure,86.92,66603843584.0,3.0,3.5,0.0,6.5,False,0.0
+NVDA,NVIDIA Corporation,Technology,Semiconductors,182.41,4441136693248.0,4.0,3.5,-1.0,6.5,False,0.02
+NXPI,NXP Semiconductors N.V.,Technology,Semiconductors,227.95,57469521920.0,4.0,3.5,-1.0,6.5,False,1.78
+G,Genpact Limited,Technology,Information Technology Services,46.37,8080903168.0,4.0,2.5,0.0,6.5,False,1.47
+TEL,TE Connectivity plc,Technology,Electronic Components,234.36,69032648704.0,4.0,2.5,0.0,6.5,False,1.21
+KLAC,KLA Corporation,Technology,Semiconductor Equipment & Materials,1214.46,159925583872.0,4.0,3.5,-1.0,6.5,False,0.63
+PRGS,Progress Software Corporation,Technology,Software - Infrastructure,43.54,1876937472.0,3.0,3.5,0.0,6.5,False,0.0
+BDC,Belden Inc.,Technology,Communication Equipment,121.98,4832828416.0,4.0,2.5,0.0,6.5,False,0.16
+BELFA,Bel Fuse Inc.,Technology,Electronic Components,145.15,2031384064.0,4.0,2.5,0.0,6.5,False,0.17
+XRX,Xerox Holdings Corporation,Technology,Information Technology Services,2.69,344427616.0,4.0,2.0,0.0,6.0,False,3.72
+PTC,PTC Inc.,Technology,Software - Application,173.52,20786429952.0,3.0,3.0,0.0,6.0,False,0.0
+YOU,"Clear Secure, Inc.",Technology,Software - Application,33.5,4516721664.0,3.5,2.5,0.0,6.0,False,1.49
+FFIV,"F5, Inc.",Technology,Software - Infrastructure,248.12,14413195264.0,3.0,3.0,0.0,6.0,False,0.0
+CDW,CDW Corporation,Technology,Information Technology Services,146.25,19167633408.0,4.0,2.0,0.0,6.0,False,1.72
+LYTS,LSI Industries Inc.,Technology,Electronic Components,18.74,582678784.0,4.0,2.0,0.0,6.0,False,1.07
+TER,"Teradyne, Inc.",Technology,Semiconductor Equipment & Materials,200.77,31937193984.0,4.0,3.0,-1.0,6.0,False,0.24
+GDDY,GoDaddy Inc.,Technology,Software - Infrastructure,128.46,17785161728.0,3.0,3.0,0.0,6.0,False,0.0
+MANH,"Manhattan Associates, Inc.",Technology,Software - Application,179.69,10865601536.0,3.0,3.0,0.0,6.0,False,0.0
+KARO,Karooooo Ltd.,Technology,Software - Application,47.13,1456001280.0,3.5,2.5,0.0,6.0,False,4.94
+BR,"Broadridge Financial Solutions, Inc.",Technology,Information Technology Services,232.02,27083128832.0,4.0,2.0,0.0,6.0,False,1.68
+JBL,Jabil Inc.,Technology,Electronic Components,220.06,23616583680.0,4.0,2.0,0.0,6.0,False,0.15
+CPAY,"Corpay, Inc.",Technology,Software - Infrastructure,310.64,21935652864.0,3.0,3.0,0.0,6.0,False,0.0
+FTV,Fortive Corporation,Technology,Scientific & Technical Instruments,53.75,18185578496.0,4.0,2.0,0.0,6.0,False,0.45
+MPWR,"Monolithic Power Systems, Inc.",Technology,Semiconductors,963.275,46147616768.0,4.0,3.0,-1.0,6.0,False,0.65
+CRWD,"CrowdStrike Holdings, Inc.",Technology,Software - Infrastructure,512.03,128496566272.0,3.0,3.0,0.0,6.0,False,0.0
+CSPI,CSP Inc.,Technology,Information Technology Services,12.86,126839472.0,4.0,2.0,0.0,6.0,False,0.93
+ITRN,Ituran Location and Control Ltd.,Technology,Scientific & Technical Instruments,41.08,817228288.0,4.0,2.0,0.0,6.0,False,4.87
+ATEN,"A10 Networks, Inc.",Technology,Software - Infrastructure,17.77,1282152064.0,3.5,2.5,0.0,6.0,False,1.35
+PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,9.8,2860341248.0,3.5,2.5,0.0,6.0,False,1.43
+PANW,"Palo Alto Networks, Inc.",Technology,Software - Infrastructure,198.84,138591469568.0,3.0,3.0,0.0,6.0,False,0.0
+DSWL,"Deswell Industries, Inc.",Technology,Electronic Components,3.5572,56684832.0,4.0,2.0,0.0,6.0,False,5.62
+DT,"Dynatrace, Inc.",Technology,Software - Application,44.45,13401952256.0,3.0,3.0,0.0,6.0,False,0.0
+ANET,"Arista Networks, Inc.",Technology,Computer Hardware,128.59,161931476992.0,3.0,3.0,0.0,6.0,False,0.0
+PAYC,"Paycom Software, Inc.",Technology,Software - Application,165.72,9322842112.0,3.5,2.5,0.0,6.0,False,0.91
+CHKP,Check Point Software Technologies Ltd.,Technology,Software - Infrastructure,193.06,20725901312.0,3.0,3.0,0.0,6.0,False,0.0
+AUDC,AudioCodes Ltd.,Technology,Communication Equipment,8.68,248918352.0,4.0,2.0,0.0,6.0,False,4.61
+NOK,Nokia Oyj,Technology,Communication Equipment,6.07,33661093888.0,4.0,2.0,0.0,6.0,False,2.58
+NOW,"ServiceNow, Inc.",Technology,Software - Application,854.36,177835884544.0,3.0,3.0,0.0,6.0,False,0.0
+CTSH,Cognizant Technology Solutions Corporation,Technology,Information Technology Services,80.72,39423320064.0,4.0,2.0,0.0,6.0,False,1.54
+LDOS,"Leidos Holdings, Inc.",Technology,Information Technology Services,186.82,23968509952.0,4.0,2.0,0.0,6.0,False,0.92
+ALNT,Allient Inc.,Technology,Electronic Components,54.51,923589952.0,4.0,2.0,0.0,6.0,False,0.22
+MKSI,MKS Inc.,Technology,Scientific & Technical Instruments,162.94,10944593920.0,4.0,2.0,0.0,6.0,False,0.54
+MLAB,"Mesa Laboratories, Inc.",Technology,Scientific & Technical Instruments,77.63,428696064.0,4.0,2.0,0.0,6.0,False,0.82
+ALIT,"Alight, Inc.",Technology,Software - Application,2.04,1120959744.0,3.5,2.5,0.0,6.0,False,7.84
+HCKT,"The Hackett Group, Inc.",Technology,Information Technology Services,19.43,534532672.0,4.0,2.0,0.0,6.0,False,2.47
+VRSN,"VeriSign, Inc.",Technology,Software - Infrastructure,249.54,23309178880.0,3.0,3.0,0.0,6.0,False,1.23
+MEI,"Methode Electronics, Inc.",Technology,Electronic Components,6.99,247503648.0,4.0,2.0,0.0,6.0,False,2.86
+PLUS,ePlus inc.,Technology,Software - Application,89.79,2390710272.0,3.5,2.5,0.0,6.0,False,1.11
+UMC,United Microelectronics Corporation,Technology,Semiconductors,8.02,20138668032.0,4.0,3.0,-1.0,6.0,False,6.03
+FIS,"Fidelity National Information Services, Inc.",Technology,Information Technology Services,66.66,34821758976.0,4.0,2.0,0.0,6.0,False,2.4
+LOGI,Logitech International S.A.,Technology,Computer Hardware,117.79,17298364416.0,4.0,2.0,0.0,6.0,False,1.35
+RELL,"Richardson Electronics, Ltd.",Technology,Electronic Components,10.56,153046320.0,4.0,2.0,0.0,6.0,False,2.27
+ZM,"Zoom Communications, Inc.",Technology,Software - Application,87.65,26232715264.0,3.0,3.0,0.0,6.0,False,0.0
+ERIC,Telefonaktiebolaget LM Ericsson (publ),Technology,Communication Equipment,9.5,31666223104.0,4.0,2.0,0.0,6.0,False,3.06
+HPE,Hewlett Packard Enterprise Company,Technology,Communication Equipment,23.33,30782771200.0,4.0,2.0,0.0,6.0,False,2.44
+ESTC,Elastic N.V.,Technology,Software - Application,74.67,7935363072.0,3.0,2.5,0.0,5.5,False,0.0
+CLBT,Cellebrite DI Ltd.,Technology,Software - Infrastructure,18.28,4468895232.0,3.0,2.5,0.0,5.5,False,0.0
+ACIW,"ACI Worldwide, Inc.",Technology,Software - Infrastructure,45.91,4737547776.0,3.0,2.5,0.0,5.5,False,0.0
+DDOG,"Datadog, Inc.",Technology,Software - Application,151.41,53095059456.0,3.0,2.5,0.0,5.5,False,0.0
+DBD,"Diebold Nixdorf, Incorporated",Technology,Software - Application,65.33,2393269504.0,3.0,2.5,0.0,5.5,False,0.0
+DAVE,Dave Inc.,Technology,Software - Application,207.01,2795480064.0,3.0,2.5,0.0,5.5,False,0.0
+HTCR,"HeartCore Enterprises, Inc.",Technology,Software - Application,0.4434,11271143.0,3.5,2.0,0.0,5.5,False,15.1
+PTRN,Pattern Group Inc.,Technology,Software - Application,13.31,2634414336.0,3.0,2.5,0.0,5.5,False,0.0
+POWI,"Power Integrations, Inc.",Technology,Semiconductors,36.51,2048049664.0,4.0,2.5,-1.0,5.5,False,2.3
+QLYS,"Qualys, Inc.",Technology,Software - Infrastructure,146.08,5272886272.0,3.0,2.5,0.0,5.5,False,0.0
+QCOM,QUALCOMM Incorporated,Technology,Semiconductors,174.81,188619997184.0,4.0,2.5,-1.0,5.5,False,2.04
+HPQ,HP Inc.,Technology,Computer Hardware,25.91,24336560128.0,3.5,2.0,0.0,5.5,False,4.63
+RDWR,Radware Ltd.,Technology,Software - Infrastructure,23.75,1031566080.0,3.0,2.5,0.0,5.5,False,0.0
+BB,BlackBerry Limited,Technology,Software - Infrastructure,4.32,2578883840.0,3.0,2.5,0.0,5.5,False,0.0
+DFIN,"Donnelley Financial Solutions, Inc.",Technology,Software - Application,45.81,1259535872.0,3.0,2.5,0.0,5.5,False,0.0
+RELY,"Remitly Global, Inc.",Technology,Software - Infrastructure,13.43,2807486976.0,3.0,2.5,0.0,5.5,False,0.0
+CXM,"Sprinklr, Inc.",Technology,Software - Application,7.79,1901672704.0,3.0,2.5,0.0,5.5,False,0.0
+HIMX,"Himax Technologies, Inc.",Technology,Semiconductors,9.07,1586464512.0,4.0,2.5,-1.0,5.5,False,4.08
+RPD,"Rapid7, Inc.",Technology,Software - Infrastructure,15.97,1045728000.0,3.0,2.5,0.0,5.5,False,0.0
+DLO,DLocal Limited,Technology,Software - Infrastructure,13.29,3916929280.0,3.0,2.5,0.0,5.5,False,0.0
+CWAN,"Clearwater Analytics Holdings, Inc.",Technology,Software - Application,21.71,7069834240.0,3.0,2.5,0.0,5.5,False,0.0
+ROG,Rogers Corporation,Technology,Electronic Components,86.99,1576405376.0,3.0,2.5,0.0,5.5,False,0.0
+SABR,Sabre Corporation,Technology,Software - Infrastructure,1.63,643662400.0,2.5,3.0,0.0,5.5,False,0.0
+S,"SentinelOne, Inc.",Technology,Software - Infrastructure,14.52,4866537472.0,3.0,2.5,0.0,5.5,False,0.0
+AVT,"Avnet, Inc.",Technology,Electronics & Computer Distribution,49.67,4039634432.0,4.0,2.5,-1.0,5.5,False,2.82
+BL,"BlackLine, Inc.",Technology,Software - Application,57.99,3588875008.0,3.0,2.5,0.0,5.5,False,0.0
+BILL,"BILL Holdings, Inc.",Technology,Software - Application,53.45,5365249536.0,3.0,2.5,0.0,5.5,False,0.0
+PGY,Pagaya Technologies Ltd.,Technology,Software - Infrastructure,24.83,1996231040.0,3.0,2.5,0.0,5.5,False,0.0
+CVLT,"Commvault Systems, Inc.",Technology,Software - Application,120.99,5379174400.0,3.0,2.5,0.0,5.5,False,0.0
+AVPT,"AvePoint, Inc.",Technology,Software - Infrastructure,13.4,2891576576.0,3.0,2.5,0.0,5.5,False,0.0
+GTM,ZoomInfo Technologies Inc.,Technology,Software - Application,9.94,3167189760.0,3.0,2.5,0.0,5.5,False,0.0
+GTLB,GitLab Inc.,Technology,Software - Infrastructure,37.35,6289739776.0,3.0,2.5,0.0,5.5,False,0.0
+PCTY,Paylocity Holding Corporation,Technology,Software - Application,146.52,7967993344.0,3.0,2.5,0.0,5.5,False,0.0
+INTA,"Intapp, Inc.",Technology,Software - Application,43.2,3539224064.0,3.0,2.5,0.0,5.5,False,0.0
+IMMR,Immersion Corporation,Technology,Software - Application,6.82,227826256.0,3.5,2.0,0.0,5.5,False,2.64
+GRND,Grindr Inc.,Technology,Software - Application,13.49,2589778432.0,3.0,2.5,0.0,5.5,False,0.0
+PDFS,"PDF Solutions, Inc.",Technology,Software - Application,29.75,1175510528.0,3.0,2.5,0.0,5.5,False,0.0
+PD,"PagerDuty, Inc.",Technology,Software - Application,12.28,1145065728.0,3.0,2.5,0.0,5.5,False,0.0
+DSGX,The Descartes Systems Group Inc.,Technology,Software - Application,92.75,8004907520.0,3.0,2.5,0.0,5.5,False,0.0
+PAYO,Payoneer Global Inc.,Technology,Software - Infrastructure,5.68,2046592256.0,3.0,2.5,0.0,5.5,False,0.0
+PAY,"Paymentus Holdings, Inc.",Technology,Software - Infrastructure,35.19,4413829120.0,3.0,2.5,0.0,5.5,False,0.0
+PATH,UiPath Inc.,Technology,Software - Infrastructure,18.67,9989175296.0,3.0,2.5,0.0,5.5,False,0.0
+BLSH,Bullish,Technology,Software - Infrastructure,46.45,6999260160.0,3.0,2.5,0.0,5.5,False,0.0
+SEMR,"Semrush Holdings, Inc.",Technology,Software - Application,11.84,1767074944.0,3.0,2.5,0.0,5.5,False,0.0
+DUOL,"Duolingo, Inc.",Technology,Software - Application,199.75,9233913856.0,3.0,2.5,0.0,5.5,False,0.0
+SNOW,Snowflake Inc.,Technology,Software - Application,228.79,77514047488.0,3.0,2.5,0.0,5.5,False,0.0
+OSPN,OneSpan Inc.,Technology,Software - Infrastructure,12.22,468326912.0,3.5,2.0,0.0,5.5,False,3.93
+PAR,PAR Technology Corporation,Technology,Software - Application,34.33,1393490176.0,3.0,2.5,0.0,5.5,False,0.0
+JAMF,Jamf Holding Corp.,Technology,Software - Application,12.97,1727895296.0,3.0,2.5,0.0,5.5,False,0.0
+SOUN,"SoundHound AI, Inc.",Technology,Software - Application,12.76,5360423424.0,3.0,2.5,0.0,5.5,False,0.0
+SONY,Sony Group Corporation,Technology,Consumer Electronics,28.03,168728477696.0,4.0,2.5,-1.0,5.5,False,0.54
+OS,"OneStream, Inc.",Technology,Software - Infrastructure,18.36,4489535488.0,3.0,2.5,0.0,5.5,False,0.0
+SRAD,Sportradar Group AG,Technology,Software - Application,22.46,6647073792.0,3.0,2.5,0.0,5.5,False,0.0
+SPSC,"SPS Commerce, Inc.",Technology,Software - Application,83.7,3172963328.0,3.0,2.5,0.0,5.5,False,0.0
+ASAN,"Asana, Inc.",Technology,Software - Application,14.18,3362077952.0,3.0,2.5,0.0,5.5,False,0.0
+DXC,DXC Technology Company,Technology,Information Technology Services,14.12,2527461120.0,3.0,2.5,0.0,5.5,False,0.0
+BRZE,"Braze, Inc.",Technology,Software - Application,30.3,3371397120.0,3.0,2.5,0.0,5.5,False,0.0
+STRD,Strategy Inc,Technology,Software - Application,79.3,932940736.0,3.5,2.0,0.0,5.5,False,15.41
+STNE,StoneCo Ltd.,Technology,Software - Infrastructure,14.68,3927258624.0,3.0,2.5,0.0,5.5,False,0.0
+GCT,GigaCloud Technology Inc.,Technology,Software - Infrastructure,40.06,1508902528.0,3.0,2.5,0.0,5.5,False,0.0
+APPF,"AppFolio, Inc.",Technology,Software - Application,235.41,8456249344.0,3.0,2.5,0.0,5.5,False,0.0
+BULL,Webull Corporation,Technology,Software - Application,9.47,4752205312.0,3.0,2.5,0.0,5.5,False,0.0
+NYAX,Nayax Ltd.,Technology,Software - Infrastructure,47.63,1788074880.0,3.0,2.5,0.0,5.5,False,0.0
+BTDR,Bitdeer Technologies Group,Technology,Software - Application,11.81,2744710656.0,3.0,2.5,0.0,5.5,False,0.0
+TENB,"Tenable Holdings, Inc.",Technology,Software - Infrastructure,26.4,3196907008.0,3.0,2.5,0.0,5.5,False,0.0
+KLIC,"Kulicke and Soffa Industries, Inc.",Technology,Semiconductor Equipment & Materials,48.49,2539081984.0,4.0,2.5,-1.0,5.5,False,1.69
+TDC,Teradata Corporation,Technology,Software - Infrastructure,29.86,2821769984.0,3.0,2.5,0.0,5.5,False,0.0
+NTCT,"NetScout Systems, Inc.",Technology,Software - Infrastructure,26.9,1942009728.0,3.0,2.5,0.0,5.5,False,0.0
+FRSH,Freshworks Inc.,Technology,Software - Application,12.84,3741944320.0,3.0,2.5,0.0,5.5,False,0.0
+FROG,JFrog Ltd.,Technology,Software - Application,64.77,7663121920.0,3.0,2.5,0.0,5.5,False,0.0
+KVYO,"Klaviyo, Inc.",Technology,Software - Application,29.49,8904366080.0,3.0,2.5,0.0,5.5,False,0.0
+FSLY,"Fastly, Inc.",Technology,Software - Application,10.52,1571688064.0,3.0,2.5,0.0,5.5,False,0.0
+EEFT,"Euronet Worldwide, Inc.",Technology,Software - Infrastructure,74.75,3142839808.0,3.0,2.5,0.0,5.5,False,0.0
+CALX,"Calix, Inc.",Technology,Software - Infrastructure,54.17,3590196480.0,3.0,2.5,0.0,5.5,False,0.0
+TRAK,"ReposiTrak, Inc.",Technology,Software - Application,13.54,247625696.0,3.5,2.0,0.0,5.5,False,0.59
+FOUR,"Shift4 Payments, Inc.",Technology,Software - Infrastructure,68.88,6104092672.0,3.0,2.5,0.0,5.5,False,0.0
+NICE,NICE Ltd.,Technology,Software - Application,106.2,6556968960.0,3.0,2.5,0.0,5.5,False,0.0
+AMPL,"Amplitude, Inc.",Technology,Software - Application,11.16,1491937664.0,3.0,2.5,0.0,5.5,False,0.0
+ALKT,"Alkami Technology, Inc.",Technology,Software - Application,21.54,2261786368.0,3.0,2.5,0.0,5.5,False,0.0
+TTAN,"ServiceTitan, Inc.",Technology,Software - Application,105.6,9815386112.0,3.0,2.5,0.0,5.5,False,0.0
+ALRM,"Alarm.com Holdings, Inc.",Technology,Software - Application,52.1,2600051968.0,3.0,2.5,0.0,5.5,False,0.0
+FLYW,Flywire Corporation,Technology,Software - Infrastructure,13.61,1664643584.0,3.0,2.5,0.0,5.5,False,0.0
+NCNO,"nCino, Inc.",Technology,Software - Application,23.39,2708906240.0,3.0,2.5,0.0,5.5,False,0.0
+LIF,"Life360, Inc.",Technology,Software - Application,78.0,6115240448.0,3.0,2.5,0.0,5.5,False,0.0
+CCC,CCC Intelligent Solutions Holdings Inc.,Technology,Software - Application,7.42,4832315392.0,3.0,2.5,0.0,5.5,False,0.0
+NATL,NCR Atleos Corporation,Technology,Software - Application,36.9,2727062784.0,3.0,2.5,0.0,5.5,False,0.0
+NET,"Cloudflare, Inc.",Technology,Software - Infrastructure,200.95,70388998144.0,3.0,2.5,0.0,5.5,False,0.0
+FIVN,"Five9, Inc.",Technology,Software - Infrastructure,20.65,1615161344.0,3.0,2.5,0.0,5.5,False,0.0
+VERX,"Vertex, Inc.",Technology,Software - Application,19.68,3139510528.0,3.0,2.5,0.0,5.5,False,0.0
+LSPD,Lightspeed Commerce Inc.,Technology,Software - Application,11.59,1576050176.0,3.0,2.5,0.0,5.5,False,0.0
+AI,"C3.ai, Inc.",Technology,Software - Infrastructure,15.08,2078773376.0,3.0,2.5,0.0,5.5,False,0.0
+VICR,Vicor Corporation,Technology,Electronic Components,96.83,4349532160.0,3.0,2.5,0.0,5.5,False,0.0
+VIA,VIA,Technology,Software - Application,32.29,2739386880.0,3.0,2.5,0.0,5.5,False,0.0
+LYFT,"Lyft, Inc.",Technology,Software - Application,22.97,9335960576.0,3.0,2.5,0.0,5.5,False,0.0
+MQ,"Marqeta, Inc.",Technology,Software - Infrastructure,4.66,2088764672.0,3.0,2.5,0.0,5.5,False,0.0
+CFLT,"Confluent, Inc.",Technology,Software - Infrastructure,23.14,8094894592.0,3.0,2.5,0.0,5.5,False,0.0
+VSH,"Vishay Intertechnology, Inc.",Technology,Semiconductors,15.2,2060943616.0,4.0,2.5,-1.0,5.5,False,2.63
+WDAY,"Workday, Inc.",Technology,Software - Application,219.96,58729320448.0,3.0,2.5,0.0,5.5,False,0.0
+VRNS,"Varonis Systems, Inc.",Technology,Software - Infrastructure,30.2,3560498944.0,3.0,2.5,0.0,5.5,False,0.0
+WEX,WEX Inc.,Technology,Software - Infrastructure,153.8,5273574912.0,3.0,2.5,0.0,5.5,False,0.0
+CHYM,"Chime Financial, Inc.",Technology,Software - Application,24.12,9034821632.0,3.0,2.5,0.0,5.5,False,0.0
+MNDY,monday.com Ltd.,Technology,Software - Application,156.94,8090486784.0,3.0,2.5,0.0,5.5,False,0.0
+EVCM,EverCommerce Inc.,Technology,Software - Infrastructure,9.94,1801910656.0,3.0,2.5,0.0,5.5,False,0.0
+YALA,Yalla Group Limited,Technology,Software - Application,7.15,1135910912.0,3.0,2.5,0.0,5.5,False,0.0
+QTWO,"Q2 Holdings, Inc.",Technology,Software - Application,73.52,4597205504.0,3.0,2.5,0.0,5.5,False,0.0
+ZETA,Zeta Global Holdings Corp.,Technology,Software - Infrastructure,19.05,4684706304.0,3.0,2.5,0.0,5.5,False,0.0
+YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,11.52,12048701440.0,3.5,3.0,-1.0,5.5,False,1.67
+YEXT,"Yext, Inc.",Technology,Software - Infrastructure,8.87,1093110400.0,3.0,2.5,0.0,5.5,False,0.0
+ZENV,Zenvia Inc.,Technology,Software - Application,1.22,64132092.0,3.0,2.0,0.0,5.0,False,0.0
+YYAI,AiRWA Inc.,Technology,Software - Infrastructure,1.04,19740576.0,3.0,2.0,0.0,5.0,False,0.0
+EXFY,"Expensify, Inc.",Technology,Software - Application,1.6,148862256.0,3.0,2.0,0.0,5.0,False,0.0
+EXOD,"Exodus Movement, Inc.",Technology,Software - Infrastructure,14.61,427845888.0,3.0,2.0,0.0,5.0,False,0.0
+MDB,"MongoDB, Inc.",Technology,Software - Infrastructure,409.62,33339693056.0,3.0,2.0,0.0,5.0,False,0.0
+CISO,CISO Global Inc.,Technology,Software - Infrastructure,0.4577,20160012.0,3.0,2.0,0.0,5.0,False,0.0
+MCHP,Microchip Technology Incorporated,Technology,Semiconductors,65.81,35566804992.0,4.0,2.0,-1.0,5.0,False,2.77
+MCRP,MCRP,Technology,Software - Infrastructure,0.9374,32704430.0,3.0,2.0,0.0,5.0,False,0.0
+CLMB,"Climb Global Solutions, Inc.",Technology,Electronics & Computer Distribution,109.67,505956736.0,4.0,2.0,-1.0,5.0,False,0.62
+MNTN,"MNTN, Inc.",Technology,Software - Application,13.05,955563840.0,3.0,2.0,0.0,5.0,False,0.0
+CGNT,Cognyte Software Ltd.,Technology,Software - Infrastructure,8.65,631182784.0,3.0,2.0,0.0,5.0,False,0.0
+MAPS,"WM Technology, Inc.",Technology,Software - Application,0.8739,149454736.0,3.0,2.0,0.0,5.0,False,0.0
+MOGO,Mogo Inc.,Technology,Software - Infrastructure,1.19,28844352.0,3.0,2.0,0.0,5.0,False,0.0
+MTLS,Materialise NV,Technology,Software - Application,5.84,364018400.0,3.0,2.0,0.0,5.0,False,0.0
+MSAI,"MultiSensor AI Holdings, Inc.",Technology,Software - Infrastructure,0.548,28790760.0,3.0,2.0,0.0,5.0,False,0.0
+CETX,"Cemtrex, Inc.",Technology,Software - Infrastructure,3.07,2268690.0,3.0,2.0,0.0,5.0,False,0.0
+MYSZ,"My Size, Inc.",Technology,Software - Application,0.9643,3711571.0,3.0,2.0,0.0,5.0,False,0.0
+LSAK,"Lesaka Technologies, Inc.",Technology,Software - Infrastructure,4.06,341390784.0,3.0,2.0,0.0,5.0,False,0.0
+CMRC,"Commerce.com, Inc.",Technology,Software - Application,4.64,377061920.0,3.0,2.0,0.0,5.0,False,0.0
+CMTL,Comtech Telecommunications Corp.,Technology,Communication Equipment,3.25,96295040.0,3.0,2.0,0.0,5.0,False,0.0
+MYSE,"Myseum, Inc.",Technology,Software - Application,2.495,10639503.0,3.0,2.0,0.0,5.0,False,0.0
+LGL,"The LGL Group, Inc.",Technology,Scientific & Technical Instruments,5.82,32193546.0,3.0,2.0,0.0,5.0,False,0.0
+LIDR,"AEye, Inc.",Technology,Software - Infrastructure,2.64,118945192.0,3.0,2.0,0.0,5.0,False,0.0
+NAVN,"Navan, Inc.",Technology,Software - Application,13.99,3472619776.0,2.5,2.5,0.0,5.0,False,0.0
+NN,NextNav Inc.,Technology,Software - Infrastructure,15.89,2142434304.0,2.5,2.5,0.0,5.0,False,0.0
+LAW,"CS Disco, Inc.",Technology,Software - Application,7.46,466187264.0,3.0,2.0,0.0,5.0,False,0.0
+CNXC,Concentrix Corporation,Technology,Information Technology Services,37.61,2370374912.0,3.5,1.5,0.0,5.0,False,3.83
+BZAI,"Blaize Holdings, Inc.",Technology,Software - Application,2.41,291938112.0,3.0,2.0,0.0,5.0,False,0.0
+NRDY,"Nerdy, Inc.",Technology,Software - Application,1.32,247280960.0,3.0,2.0,0.0,5.0,False,0.0
+KLAR,KLAR,Technology,Software - Infrastructure,31.34,11823172608.0,3.0,2.0,0.0,5.0,False,0.0
+KLTR,"Kaltura, Inc.",Technology,Software - Application,1.64,253366032.0,3.0,2.0,0.0,5.0,False,0.0
+CORZ,"Core Scientific, Inc.",Technology,Software - Infrastructure,17.11,5305149440.0,2.5,2.5,0.0,5.0,False,0.0
+NTSK,"Netskope, Inc.",Technology,Software - Infrastructure,20.73,7920376832.0,2.5,2.5,0.0,5.0,False,0.0
+NTWK,"NetSol Technologies, Inc.",Technology,Software - Application,2.8,33030970.0,3.0,2.0,0.0,5.0,False,0.0
+NUAI,"New Era Energy & Digital, Inc.",Technology,Software - Infrastructure,4.32,230900432.0,3.0,2.0,0.0,5.0,False,0.0
+NVEC,NVE Corporation,Technology,Semiconductors,67.99,328878976.0,4.0,2.0,-1.0,5.0,False,5.88
+NXPL,NextPlat Corp,Technology,Software - Application,0.647,17019328.0,3.0,2.0,0.0,5.0,False,0.0
+NXT,Nextpower Inc.,Technology,Solar,90.585,13749139456.0,3.0,2.0,0.0,5.0,False,0.0
+BTQ,BTQ Technologies Corp.,Technology,Software - Infrastructure,6.54,915769600.0,3.0,2.0,0.0,5.0,False,0.0
+CRCT,"Cricut, Inc.",Technology,Computer Hardware,4.97,1055957952.0,3.5,1.5,0.0,5.0,False,4.02
+KEYS,"Keysight Technologies, Inc.",Technology,Scientific & Technical Instruments,210.49,36174024704.0,3.0,2.0,0.0,5.0,False,0.0
+OBLG,"Oblong, Inc.",Technology,Software - Application,2.09,6703070.0,3.0,2.0,0.0,5.0,False,0.0
+JTAI,Jet.AI Inc.,Technology,Software - Application,1.61,6821982.0,3.0,2.0,0.0,5.0,False,0.0
+CREX,"Creative Realities, Inc.",Technology,Software - Application,2.9,30504904.0,3.0,2.0,0.0,5.0,False,0.0
+OCC,Optical Cable Corporation,Technology,Communication Equipment,8.05,71407072.0,3.0,2.0,0.0,5.0,False,0.0
+ONTF,"ON24, Inc.",Technology,Software - Application,5.95,251722432.0,3.0,2.0,0.0,5.0,False,0.0
+OOMA,"Ooma, Inc.",Technology,Software - Application,11.74,323562880.0,3.0,2.0,0.0,5.0,False,0.0
+CRNC,Cerence Inc.,Technology,Software - Application,12.64,568025920.0,3.0,2.0,0.0,5.0,False,0.0
+BNZI,"Banzai International, Inc.",Technology,Software - Application,1.21,9143732.0,3.0,2.0,0.0,5.0,False,0.0
+CRWV,"CoreWeave, Inc.",Technology,Software - Infrastructure,88.3,44001435648.0,3.0,2.0,0.0,5.0,False,0.0
+CSAI,Cloudastructure Inc.,Technology,Software - Infrastructure,1.11,21734368.0,3.0,2.0,0.0,5.0,False,0.0
+ORKT,Orangekloud Technology Inc.,Technology,Software - Application,0.9409,5494621.0,3.0,2.0,0.0,5.0,False,0.0
+BOX,"Box, Inc.",Technology,Software - Infrastructure,31.62,4581289472.0,2.5,2.5,0.0,5.0,False,0.0
+OKTA,"Okta, Inc.",Technology,Software - Infrastructure,85.89,15222303744.0,3.0,2.0,0.0,5.0,False,0.0
+OLB,"The OLB Group, Inc.",Technology,Software - Infrastructure,1.07,9395402.0,3.0,2.0,0.0,5.0,False,0.0
+PAYS,"Paysign, Inc.",Technology,Software - Infrastructure,5.33,293378592.0,3.0,2.0,0.0,5.0,False,0.0
+BMR,Beamr Imaging Ltd.,Technology,Software - Application,2.28,35408068.0,3.0,2.0,0.0,5.0,False,0.0
+BNAI,"Brand Engagement Network, Inc.",Technology,Software - Infrastructure,0.2651,11966584.0,3.0,2.0,0.0,5.0,False,0.0
+INTZ,Intrusion Inc.,Technology,Software - Infrastructure,1.49,29953380.0,3.0,2.0,0.0,5.0,False,0.0
+INUV,"Inuvo, Inc.",Technology,Software - Application,2.75,40165332.0,3.0,2.0,0.0,5.0,False,0.0
+IOT,Samsara Inc.,Technology,Software - Infrastructure,45.22,25939759104.0,3.0,2.0,0.0,5.0,False,0.0
+IPM,Intelligent Protection Management Corp.,Technology,Software - Application,1.87,24753166.0,3.0,2.0,0.0,5.0,False,0.0
+CTLP,"Cantaloupe, Inc.",Technology,Software - Infrastructure,10.59,780453696.0,3.0,2.0,0.0,5.0,False,0.0
+BLZE,"Backblaze, Inc.",Technology,Software - Infrastructure,4.99,287815168.0,3.0,2.0,0.0,5.0,False,0.0
+IMXI,"International Money Express, Inc.",Technology,Software - Infrastructure,15.4,457668448.0,3.0,2.0,0.0,5.0,False,0.0
+CURR,CURRENC Group Inc.,Technology,Software - Application,2.25,172343920.0,3.0,2.0,0.0,5.0,False,0.0
+INGM,Ingram Micro Holding Corporation,Technology,Information Technology Services,21.7,5101076992.0,3.5,1.5,0.0,5.0,False,1.47
+INLX,"Intellinetics, Inc.",Technology,Software - Application,8.45,37848588.0,3.0,2.0,0.0,5.0,False,0.0
+PCOR,"Procore Technologies, Inc.",Technology,Software - Application,77.57,12059796480.0,3.0,2.0,0.0,5.0,False,0.0
+BLIN,"Bridgeline Digital, Inc.",Technology,Software - Infrastructure,1.045,12657111.0,3.0,2.0,0.0,5.0,False,0.0
+BLIV,BeLive Holdings,Technology,Software - Application,3.48,37809512.0,3.0,2.0,0.0,5.0,False,0.0
+PDYN,Palladyne AI Corp.,Technology,Software - Infrastructure,5.69,254396624.0,3.0,2.0,0.0,5.0,False,0.0
+BKTI,BK Technologies Corporation,Technology,Communication Equipment,66.02,246496480.0,3.0,2.0,0.0,5.0,False,0.0
+IIIV,"i3 Verticals, Inc.",Technology,Software - Infrastructure,23.21,750931328.0,3.0,2.0,0.0,5.0,False,0.0
+IMOS,ChipMOS TECHNOLOGIES INC.,Technology,Semiconductors,27.97,974760064.0,4.0,2.0,-1.0,5.0,False,2.99
+BKKT,"Bakkt Holdings, Inc.",Technology,Software - Infrastructure,14.0,336538080.0,3.0,2.0,0.0,5.0,False,0.0
+IDAI,T Stamp Inc.,Technology,Software - Application,4.37,22915546.0,3.0,2.0,0.0,5.0,False,0.0
+CXAI,CXApp Inc.,Technology,Software - Application,0.4158,11904070.0,3.0,2.0,0.0,5.0,False,0.0
+IDN,"Intellicheck, Inc.",Technology,Software - Application,6.38,128907312.0,3.0,2.0,0.0,5.0,False,0.0
+BLBX,Blackboxstocks Inc.,Technology,Software - Application,8.78,36367576.0,3.0,2.0,0.0,5.0,False,0.0
+PERF,Perfect Corp.,Technology,Software - Application,1.79,182309120.0,3.0,2.0,0.0,5.0,False,0.0
+IBTA,"Ibotta, Inc.",Technology,Software - Application,23.25,618050240.0,3.0,2.0,0.0,5.0,False,0.0
+CYBR,CyberArk Software Ltd.,Technology,Software - Infrastructure,478.7,24163317760.0,3.0,2.0,0.0,5.0,False,0.0
+CYN,Cyngn Inc.,Technology,Software - Application,3.73,29744442.0,3.0,2.0,0.0,5.0,False,0.0
+PHUN,"Phunware, Inc.",Technology,Software - Application,2.07,41787768.0,3.0,2.0,0.0,5.0,False,0.0
+DAKT,"Daktronics, Inc.",Technology,Electronic Components,17.51,860105216.0,3.0,2.0,0.0,5.0,False,0.0
+PSQH,"PSQ Holdings, Inc.",Technology,Software - Application,1.46,67508800.0,3.0,2.0,0.0,5.0,False,0.0
+PUBM,"PubMatic, Inc.",Technology,Software - Application,9.18,426087872.0,3.0,2.0,0.0,5.0,False,0.0
+HUBS,"HubSpot, Inc.",Technology,Software - Application,379.85,20015478784.0,3.0,2.0,0.0,5.0,False,0.0
+DAVA,Endava plc,Technology,Software - Infrastructure,6.74,366168032.0,3.0,2.0,0.0,5.0,False,0.0
+DAY,"Dayforce, Inc.",Technology,Software - Application,69.07,11053615104.0,3.0,2.0,0.0,5.0,False,0.0
+PRO,"PROS Holdings, Inc.",Technology,Software - Application,23.24,1122440448.0,2.5,2.5,0.0,5.0,False,0.0
+DBX,"Dropbox, Inc.",Technology,Software - Infrastructure,29.34,7673206272.0,2.5,2.5,0.0,5.0,False,0.0
+DCBO,Docebo Inc.,Technology,Software - Application,21.68,624226432.0,3.0,2.0,0.0,5.0,False,0.0
+PSFE,Paysafe Limited,Technology,Software - Infrastructure,8.22,483720160.0,3.0,2.0,0.0,5.0,False,0.0
+RAL,Ralliant Corporation,Technology,Electronic Components,51.1,5764377600.0,3.5,1.5,0.0,5.0,False,0.39
+HPAI,Helport AI Limited,Technology,Software - Infrastructure,3.64,136248720.0,3.0,2.0,0.0,5.0,False,0.0
+DFDV,DeFi Development Corp.,Technology,Software - Infrastructure,6.0,188407264.0,3.0,2.0,0.0,5.0,False,0.0
+RBBN,Ribbon Communications Inc.,Technology,Software - Application,2.89,511766592.0,3.0,2.0,0.0,5.0,False,0.0
+BAND,Bandwidth Inc.,Technology,Software - Infrastructure,14.86,453550656.0,3.0,2.0,0.0,5.0,False,0.0
+DHX,"DHI Group, Inc.",Technology,Software - Application,1.77,84978320.0,3.0,2.0,0.0,5.0,False,0.0
+RDVT,"Red Violet, Inc.",Technology,Software - Application,53.46,753156800.0,3.0,2.0,0.0,5.0,False,0.0
+REKR,"Rekor Systems, Inc.",Technology,Software - Infrastructure,1.89,239443728.0,3.0,2.0,0.0,5.0,False,0.0
+RNG,"RingCentral, Inc.",Technology,Software - Application,29.69,2688213504.0,2.5,2.5,0.0,5.0,False,0.0
+HIT,"Health In Tech, Inc.",Technology,Software - Application,1.14,64876040.0,3.0,2.0,0.0,5.0,False,0.0
+HKD,AMTD Digital Inc.,Technology,Software - Application,1.55,487132992.0,3.0,2.0,0.0,5.0,False,0.0
+DJCO,Daily Journal Corporation,Technology,Software - Application,460.85,634786752.0,3.0,2.0,0.0,5.0,False,0.0
+RSKD,Riskified Ltd.,Technology,Software - Application,4.91,805512896.0,3.0,2.0,0.0,5.0,False,0.0
+RSSS,"Research Solutions, Inc.",Technology,Software - Application,2.93,96297584.0,3.0,2.0,0.0,5.0,False,0.0
+RYDE,RYDE,Technology,Software - Application,0.471899,19141084.0,3.0,2.0,0.0,5.0,False,0.0
+AWRE,"Aware, Inc.",Technology,Software - Application,2.2,47022132.0,3.0,2.0,0.0,5.0,False,0.0
+RPAY,Repay Holdings Corporation,Technology,Software - Infrastructure,3.5,319677440.0,3.0,2.0,0.0,5.0,False,0.0
+RPGL,Republic Power Group Limited,Technology,Software - Application,0.5356,9292660.0,3.0,2.0,0.0,5.0,False,0.0
+AZ,A2Z Cust2Mate Solutions Corp.,Technology,Software - Application,6.47,271243776.0,3.0,2.0,0.0,5.0,False,0.0
+AUUD,Auddia Inc.,Technology,Software - Application,1.13,3504608.0,3.0,2.0,0.0,5.0,False,0.0
+GWRE,"Guidewire Software, Inc.",Technology,Software - Application,210.55,17900787712.0,3.0,2.0,0.0,5.0,False,0.0
+DMRC,Digimarc Corporation,Technology,Software - Application,8.89,193419632.0,3.0,2.0,0.0,5.0,False,0.0
+DOCN,"DigitalOcean Holdings, Inc.",Technology,Software - Infrastructure,48.3,4419070464.0,2.5,2.5,0.0,5.0,False,0.0
+DOCU,"DocuSign, Inc.",Technology,Software - Application,65.67,13269462016.0,3.0,2.0,0.0,5.0,False,0.0
+SAGT,Sagtec Global Limited,Technology,Software - Application,2.38,30345002.0,3.0,2.0,0.0,5.0,False,0.0
+SAIL,"SailPoint, Inc.",Technology,Software - Infrastructure,20.24,11266297856.0,3.0,2.0,0.0,5.0,False,0.0
+SANG,Sangoma Technologies Corporation,Technology,Software - Infrastructure,5.37,180852288.0,3.0,2.0,0.0,5.0,False,0.0
+GRAB,Grab Holdings Limited,Technology,Software - Application,5.19,21211531264.0,3.0,2.0,0.0,5.0,False,0.0
+GRRR,Gorilla Technology Group Inc.,Technology,Software - Infrastructure,14.97,339355168.0,3.0,2.0,0.0,5.0,False,0.0
+AUID,authID Inc.,Technology,Software - Infrastructure,1.24,18687026.0,3.0,2.0,0.0,5.0,False,0.0
+SILC,Silicom Ltd.,Technology,Communication Equipment,14.7,83739504.0,3.0,2.0,0.0,5.0,False,0.0
+DSP,Viant Technology Inc.,Technology,Software - Application,11.21,710438080.0,3.0,2.0,0.0,5.0,False,0.0
+SMSI,"Smith Micro Software, Inc.",Technology,Software - Application,0.6208,15852886.0,3.0,2.0,0.0,5.0,False,0.0
+SMWB,Similarweb Ltd.,Technology,Software - Application,7.57,653149568.0,3.0,2.0,0.0,5.0,False,0.0
+SNCR,"Synchronoss Technologies, Inc.",Technology,Software - Infrastructure,8.66,99654376.0,3.0,2.0,0.0,5.0,False,0.0
+DUOT,"Duos Technologies Group, Inc.",Technology,Software - Application,9.77,199457376.0,3.0,2.0,0.0,5.0,False,0.0
+ATHR,"Aether Holdings, Inc.",Technology,Software - Application,6.46,78174224.0,3.0,2.0,0.0,5.0,False,0.0
+ASUR,"Asure Software, Inc.",Technology,Software - Application,8.19,227386128.0,3.0,2.0,0.0,5.0,False,0.0
+ASX,"ASE Technology Holding Co., Ltd.",Technology,Semiconductors,15.21,33182144512.0,4.0,2.0,-1.0,5.0,False,2.34
+SNX,TD SYNNEX Corporation,Technology,Electronics & Computer Distribution,154.8,12765903872.0,4.0,2.0,-1.0,5.0,False,1.14
+SMRT,"SmartRent, Inc.",Technology,Software - Application,1.97,372725408.0,3.0,2.0,0.0,5.0,False,0.0
+STRC,Strategy Inc,Technology,Software - Application,98.19,0.0,3.0,2.0,0.0,5.0,False,4.34
+STRF,Strategy Inc,Technology,Software - Application,109.06,0.0,3.0,2.0,0.0,5.0,False,9.17
+DVLT,Datavault AI Inc.,Technology,Software - Infrastructure,1.7,484869184.0,3.0,2.0,0.0,5.0,False,0.0
+SSTI,"SoundThinking, Inc.",Technology,Software - Application,6.79,86852600.0,3.0,2.0,0.0,5.0,False,0.0
+ST,Sensata Technologies Holding plc,Technology,Scientific & Technical Instruments,33.55,4887521280.0,3.5,1.5,0.0,5.0,False,1.43
+ARM,Arm Holdings plc,Technology,Semiconductors,141.31,149929705472.0,3.0,3.0,-1.0,5.0,False,0.0
+ARQQ,Arqit Quantum Inc.,Technology,Software - Infrastructure,30.43,465340672.0,3.0,2.0,0.0,5.0,False,0.0
+SPT,"Sprout Social, Inc.",Technology,Software - Application,10.71,633917888.0,3.0,2.0,0.0,5.0,False,0.0
+SWKS,"Skyworks Solutions, Inc.",Technology,Semiconductors,69.32,10306482176.0,4.0,2.0,-1.0,5.0,False,4.1
+STRK,Strategy Inc,Technology,Software - Application,84.0,0.0,3.0,2.0,0.0,5.0,False,9.52
+SUPX,SuperX AI Technology Limited,Technology,Software - Infrastructure,19.72,621302784.0,3.0,2.0,0.0,5.0,False,0.0
+ARAI,Arrive AI Inc.,Technology,Software - Infrastructure,3.84,131379408.0,3.0,2.0,0.0,5.0,False,0.0
+STM,STMicroelectronics N.V.,Technology,Semiconductors,26.0,23107401728.0,4.0,2.0,-1.0,5.0,False,1.38
+APPN,Appian Corporation,Technology,Software - Infrastructure,40.96,3032348928.0,2.5,2.5,0.0,5.0,False,0.0
+APPS,"Digital Turbine, Inc.",Technology,Software - Application,5.01,561865984.0,3.0,2.0,0.0,5.0,False,0.0
+TACT,TransAct Technologies Incorporated,Technology,Computer Hardware,4.41,44596500.0,3.0,2.0,0.0,5.0,False,0.0
+TAOX,TAO Synergies Inc.,Technology,Software - Infrastructure,5.99,42702180.0,3.0,2.0,0.0,5.0,False,0.0
+API,"Agora, Inc.",Technology,Software - Application,3.78,342940512.0,3.0,2.0,0.0,5.0,False,0.0
+SVCO,"Silvaco Group, Inc.",Technology,Software - Application,4.02,123168280.0,3.0,2.0,0.0,5.0,False,0.0
+TLS,Telos Corporation,Technology,Software - Infrastructure,5.44,401223552.0,3.0,2.0,0.0,5.0,False,0.0
+FTFT,Future FinTech Group Inc.,Technology,Software - Application,1.22,24587042.0,3.0,2.0,0.0,5.0,False,0.0
+TGL,Treasure Global Inc.,Technology,Software - Application,25.44,431513376.0,3.0,2.0,0.0,5.0,False,0.0
+TEAM,Atlassian Corporation,Technology,Software - Application,159.33,41940652032.0,3.0,2.0,0.0,5.0,False,0.0
+AMKR,"Amkor Technology, Inc.",Technology,Semiconductor Equipment & Materials,43.23,10686172160.0,4.0,2.0,-1.0,5.0,False,0.77
+FRGT,"Freight Technologies, Inc.",Technology,Software - Application,0.7,4128583.0,3.0,2.0,0.0,5.0,False,0.0
+FSLR,"First Solar, Inc.",Technology,Solar,257.61,27643650048.0,3.0,2.0,0.0,5.0,False,0.0
+TONX,TON Strategy Co,Technology,Software - Application,3.06,182244832.0,3.0,2.0,0.0,5.0,False,0.0
+TOST,"Toast, Inc.",Technology,Software - Infrastructure,35.67,20973959168.0,3.0,2.0,0.0,5.0,False,0.0
+ALTS,ALT5 Sigma Corporation,Technology,Software - Application,1.43,178673808.0,3.0,2.0,0.0,5.0,False,0.0
+EGAN,eGain Corporation,Technology,Software - Application,10.08,272675648.0,3.0,2.0,0.0,5.0,False,0.0
+AMBR,Amber International Holding Limited,Technology,Software - Infrastructure,1.78,166755616.0,3.0,2.0,0.0,5.0,False,0.0
+AMST,Amesite Inc.,Technology,Software - Application,2.36,10791602.0,3.0,2.0,0.0,5.0,False,0.0
+EGHT,"8x8, Inc.",Technology,Software - Application,2.03,281439936.0,3.0,2.0,0.0,5.0,False,0.0
+TUYA,Tuya Inc.,Technology,Software - Infrastructure,2.29,1394983296.0,3.5,2.5,-1.0,5.0,False,5.01
+TWLO,Twilio Inc.,Technology,Software - Infrastructure,127.32,19535165440.0,3.0,2.0,0.0,5.0,False,0.0
+ALLT,Allot Ltd.,Technology,Software - Infrastructure,9.53,461496096.0,3.0,2.0,0.0,5.0,False,0.0
+ALOT,"AstroNova, Inc.",Technology,Computer Hardware,7.2,54996644.0,3.0,2.0,0.0,5.0,False,0.0
+TTEC,"TTEC Holdings, Inc.",Technology,Information Technology Services,3.58,173807792.0,3.0,2.0,0.0,5.0,False,0.0
+ALAR,Alarum Technologies Ltd.,Technology,Software - Infrastructure,8.16,60971396.0,3.0,2.0,0.0,5.0,False,0.0
+TYL,"Tyler Technologies, Inc.",Technology,Software - Application,469.33,20304066560.0,3.0,2.0,0.0,5.0,False,0.0
+U,Unity Software Inc.,Technology,Software - Application,45.78,19589849088.0,3.0,2.0,0.0,5.0,False,0.0
+FIG,"Figma, Inc.",Technology,Software - Application,37.97,18817617920.0,3.0,2.0,0.0,5.0,False,0.0
+ELSE,"Electro-Sensors, Inc.",Technology,Scientific & Technical Instruments,4.605,16027799.0,3.0,2.0,0.0,5.0,False,0.0
+USIO,"Usio, Inc.",Technology,Software - Infrastructure,1.41,38504052.0,3.0,2.0,0.0,5.0,False,0.0
+AIXC,"AIxCrypto Holdings, Inc.",Technology,Software - Infrastructure,2.5,12900960.0,3.0,2.0,0.0,5.0,False,0.0
+AKAM,"Akamai Technologies, Inc.",Technology,Software - Infrastructure,83.49,12011308032.0,3.0,2.0,0.0,5.0,False,0.0
+VERI,"Veritone, Inc.",Technology,Software - Infrastructure,5.21,478309376.0,3.0,2.0,0.0,5.0,False,0.0
+VHC,VirnetX Holding Corporation,Technology,Software - Infrastructure,18.555,79249928.0,3.0,2.0,0.0,5.0,False,0.0
+AIFF,"Firefly Neuroscience, Inc.",Technology,Software - Application,1.63,21976492.0,3.0,2.0,0.0,5.0,False,0.0
+ELWS,"Earlyworks Co., Ltd",Technology,Software - Application,5.365,16366313.0,3.0,2.0,0.0,5.0,False,0.0
+FEIM,"Frequency Electronics, Inc.",Technology,Communication Equipment,31.32,305347168.0,3.0,2.0,0.0,5.0,False,0.0
+AIOT,"PowerFleet, Inc.",Technology,Software - Infrastructure,5.26,703917568.0,3.0,2.0,0.0,5.0,False,0.0
+AEVA,"Aeva Technologies, Inc.",Technology,Software - Infrastructure,14.7,883174656.0,3.0,2.0,0.0,5.0,False,0.0
+ENTG,"Entegris, Inc.",Technology,Semiconductor Equipment & Materials,89.15,13515140096.0,4.0,2.0,-1.0,5.0,False,0.45
+VRAR,"The Glimpse Group, Inc.",Technology,Software - Infrastructure,1.06,22341096.0,3.0,2.0,0.0,5.0,False,0.0
+VS,Versus Systems Inc.,Technology,Software - Application,1.31,6421198.0,3.0,2.0,0.0,5.0,False,0.0
+AFRM,"Affirm Holdings, Inc.",Technology,Software - Infrastructure,67.99,22441705472.0,3.0,2.0,0.0,5.0,False,0.0
+VTEX,VTEX,Technology,Software - Application,3.89,707836992.0,3.0,2.0,0.0,5.0,False,0.0
+VNT,Vontier Corporation,Technology,Scientific & Technical Instruments,36.2,5310540288.0,3.5,1.5,0.0,5.0,False,0.28
+WK,Workiva Inc.,Technology,Software - Application,92.37,5184547840.0,2.5,2.5,0.0,5.0,False,0.0
+ADTN,"ADTRAN Holdings, Inc.",Technology,Communication Equipment,8.53,683389376.0,3.0,2.0,0.0,5.0,False,0.0
+AEYE,"AudioEye, Inc.",Technology,Software - Application,13.11,162808064.0,3.0,2.0,0.0,5.0,False,0.0
+VTSI,"VirTra, Inc.",Technology,Software - Application,5.0,56503036.0,3.0,2.0,0.0,5.0,False,0.0
+FATN,"FatPipe, Inc.",Technology,Software - Infrastructure,2.67,37178332.0,3.0,2.0,0.0,5.0,False,0.0
+WIX,Wix.com Ltd.,Technology,Software - Infrastructure,100.22,5580873728.0,2.5,2.5,0.0,5.0,False,0.0
+WYFI,"WhiteFiber, Inc.",Technology,Software - Application,19.43,743391552.0,3.0,2.0,0.0,5.0,False,0.0
+XBP,"XBP Global Holdings, Inc.",Technology,Software - Infrastructure,0.5279,62036676.0,3.0,2.0,0.0,5.0,False,0.0
+XPER,Xperi Inc.,Technology,Software - Application,6.02,278939008.0,3.0,2.0,0.0,5.0,False,0.0
+XTKG,"X3 Holdings Co., Ltd.",Technology,Software - Application,1.69,164367472.0,3.0,2.0,0.0,5.0,False,0.0
+XYZ,"Block, Inc.",Technology,Software - Infrastructure,61.11,37251678208.0,3.0,2.0,0.0,5.0,False,0.0
+MITK,"Mitek Systems, Inc.",Technology,Software - Application,9.3,424517568.0,3.0,2.0,0.0,5.0,False,0.0
+CINT,CI&T Inc.,Technology,Software - Infrastructure,4.61,620411072.0,3.0,2.0,0.0,5.0,False,0.0
+ZS,"Zscaler, Inc.",Technology,Software - Infrastructure,242.68,38700470272.0,3.0,2.0,0.0,5.0,False,0.0
+RDZN,"Roadzen, Inc.",Technology,Software - Application,1.65,130671864.0,2.5,2.0,0.0,4.5,False,0.0
+RCT,RedCloud Holdings plc,Technology,Software - Application,1.6,70762624.0,2.5,2.0,0.0,4.5,False,0.0
+TCX,Tucows Inc.,Technology,Software - Infrastructure,20.79,230850480.0,2.5,2.0,0.0,4.5,False,0.0
+TGHL,The Growhub Limited,Technology,Software - Infrastructure,0.4667,11807422.0,2.5,2.0,0.0,4.5,False,0.0
+RBRK,RBRK,Technology,Software - Infrastructure,86.27,17034760192.0,2.5,2.0,0.0,4.5,False,0.0
+BBAI,"BigBear.ai Holdings, Inc.",Technology,Information Technology Services,6.82,2977279488.0,3.0,1.5,0.0,4.5,False,0.0
+EXLS,"ExlService Holdings, Inc.",Technology,Information Technology Services,40.72,6576815616.0,3.0,1.5,0.0,4.5,False,0.0
+EXTR,"Extreme Networks, Inc.",Technology,Communication Equipment,17.59,2352108032.0,3.0,1.5,0.0,4.5,False,0.0
+APLD,Applied Digital Corporation,Technology,Information Technology Services,31.22,8731793408.0,3.0,1.5,0.0,4.5,False,0.0
+MAPSW,"WM Technology, Inc.",Technology,Software - Application,0.0116,0.0,2.5,2.0,0.0,4.5,False,0.0
+LIDRW,"AEye, Inc.",Technology,Software - Infrastructure,0.095,0.0,2.5,2.0,0.0,4.5,False,0.0
+CLVT,Clarivate Plc,Technology,Information Technology Services,3.62,2433433088.0,3.0,1.5,0.0,4.5,False,0.0
+YB,Yuanbao Inc.,Technology,Software - Application,21.97,1012381952.0,3.0,2.5,-1.0,4.5,False,0.0
+RGTI,"Rigetti Computing, Inc.",Technology,Computer Hardware,28.11,9277033472.0,3.0,1.5,0.0,4.5,False,0.0
+TASK,"TaskUs, Inc.",Technology,Information Technology Services,12.36,1117561856.0,3.0,1.5,0.0,4.5,False,0.0
+Q,"Qnity Electronics, Inc.",Technology,Semiconductor Equipment & Materials,82.04,17184360448.0,3.5,2.0,-1.0,4.5,False,0.29
+QBTS,D-Wave Quantum Inc.,Technology,Computer Hardware,27.0,9639588864.0,3.0,1.5,0.0,4.5,False,0.0
+QUBT,Quantum Computing Inc.,Technology,Computer Hardware,12.84,2877743104.0,3.0,1.5,0.0,4.5,False,0.0
+COHU,"Cohu, Inc.",Technology,Semiconductor Equipment & Materials,24.98,1166381568.0,3.0,2.5,-1.0,4.5,False,0.0
+KN,Knowles Corporation,Technology,Electronic Components,23.37,2007193472.0,3.0,1.5,0.0,4.5,False,0.0
+KNRX,Knorex Ltd.,Technology,Software - Application,1.98,60237768.0,2.5,2.0,0.0,4.5,False,0.0
+KPLT,"Katapult Holdings, Inc.",Technology,Software - Infrastructure,6.5,30181672.0,2.5,2.0,0.0,4.5,False,0.0
+PSN,Parsons Corporation,Technology,Information Technology Services,66.65,7117809152.0,3.0,1.5,0.0,4.5,False,0.0
+ENPH,"Enphase Energy, Inc.",Technology,Solar,31.25,4089366016.0,3.0,1.5,0.0,4.5,False,0.0
+RMNI,"Rimini Street, Inc.",Technology,Software - Application,4.16,384874880.0,2.5,2.0,0.0,4.5,False,0.0
+KC,Kingsoft Cloud Holdings Limited,Technology,Software - Application,11.86,3508408064.0,3.0,2.5,-1.0,4.5,False,0.0
+KD,"Kyndryl Holdings, Inc.",Technology,Information Technology Services,26.2,6055972352.0,3.0,1.5,0.0,4.5,False,0.0
+AMOD,"Alpha Modus Holdings, Inc.",Technology,Software - Application,0.6913,29006920.0,2.5,2.0,0.0,4.5,False,0.0
+ELTK,Eltek Ltd.,Technology,Electronic Components,9.53,64039948.0,3.5,1.0,0.0,4.5,False,1.99
+ARQQW,Arqit Quantum Inc.,Technology,Software - Infrastructure,0.42,0.0,2.5,2.0,0.0,4.5,False,0.0
+MSAIW,"MultiSensor AI Holdings, Inc.",Technology,Software - Infrastructure,0.0919,0.0,2.5,2.0,0.0,4.5,False,0.0
+MRT,"Marti Technologies, Inc.",Technology,Software - Application,2.36,185751984.0,2.5,2.0,0.0,4.5,False,0.0
+PRTH,"Priority Technology Holdings, Inc.",Technology,Software - Infrastructure,5.67,464211808.0,2.5,2.0,0.0,4.5,False,0.0
+XBPEW,"XBP Global Holdings, Inc.",Technology,Software - Infrastructure,0.0454,0.0,2.5,2.0,0.0,4.5,False,0.0
+CSIQ,Canadian Solar Inc.,Technology,Solar,23.84,1596618368.0,3.0,1.5,0.0,4.5,False,0.0
+TSAT,Telesat Corporation,Technology,Communication Equipment,28.34,1444384768.0,3.0,1.5,0.0,4.5,False,0.0
+RUN,Sunrun Inc.,Technology,Solar,17.58,4079295232.0,3.0,1.5,0.0,4.5,False,0.0
+TTMI,"TTM Technologies, Inc.",Technology,Electronic Components,73.74,7619607552.0,3.0,1.5,0.0,4.5,False,0.0
+ITRI,"Itron, Inc.",Technology,Scientific & Technical Instruments,97.87,4482580480.0,3.0,1.5,0.0,4.5,False,0.0
+MYSEW,"Myseum, Inc.",Technology,Software - Application,0.1108,0.0,2.5,2.0,0.0,4.5,False,0.0
+NABL,"N-able, Inc.",Technology,Information Technology Services,7.5,1403220736.0,3.0,1.5,0.0,4.5,False,0.0
+PRCH,"Porch Group, Inc.",Technology,Software - Application,9.36,986275840.0,2.5,2.0,0.0,4.5,False,0.0
+CCSI,"Consensus Cloud Solutions, Inc.",Technology,Software - Infrastructure,22.41,425919424.0,2.5,2.0,0.0,4.5,False,0.0
+INTC,Intel Corporation,Technology,Semiconductors,41.41,197525700608.0,3.0,2.5,-1.0,4.5,False,0.0
+WRD,WeRide Inc.,Technology,Software - Application,9.51,3254373888.0,3.0,2.5,-1.0,4.5,False,0.0
+RVYL,Ryvyl Inc.,Technology,Software - Infrastructure,0.3159,11399560.0,2.5,2.0,0.0,4.5,False,0.0
+ASGN,ASGN Incorporated,Technology,Information Technology Services,45.45,1990710016.0,3.0,1.5,0.0,4.5,False,0.0
+INOD,Innodata Inc.,Technology,Information Technology Services,57.78,1840925824.0,3.0,1.5,0.0,4.5,False,0.0
+RZLV,Rezolve AI PLC,Technology,Software - Infrastructure,2.79,900507776.0,2.5,2.0,0.0,4.5,False,0.0
+ILLR,Triller Group Inc.,Technology,Software - Application,0.547,82933928.0,2.5,2.0,0.0,4.5,False,0.0
+RXT,"Rackspace Technology, Inc.",Technology,Software - Infrastructure,1.02,248463968.0,2.5,2.0,0.0,4.5,False,0.0
+SOUNW,"SoundHound AI, Inc.",Technology,Software - Application,5.2,0.0,2.5,2.0,0.0,4.5,False,0.0
+III,"Information Services Group, Inc.",Technology,Information Technology Services,5.97,287726944.0,3.5,1.0,0.0,4.5,False,3.02
+PLXS,Plexus Corp.,Technology,Electronic Components,150.37,4057993984.0,3.0,1.5,0.0,4.5,False,0.0
+UIS,Unisys Corporation,Technology,Information Technology Services,2.82,201083216.0,2.5,2.0,0.0,4.5,False,0.0
+FUSE,Fusemachines Inc.,Technology,Software - Application,1.78,47171864.0,2.5,2.0,0.0,4.5,False,0.0
+SANM,Sanmina Corporation,Technology,Electronic Components,158.09,8782697472.0,3.0,1.5,0.0,4.5,False,0.0
+DAVEW,Dave Inc.,Technology,Software - Application,0.9,0.0,2.5,2.0,0.0,4.5,False,0.0
+NOVT,Novanta Inc.,Technology,Scientific & Technical Instruments,115.94,4170782976.0,3.0,1.5,0.0,4.5,False,0.0
+AUUDW,Auddia Inc.,Technology,Software - Application,0.0231,0.0,2.5,2.0,0.0,4.5,False,0.0
+ULY,Urgent.ly Inc.,Technology,Software - Application,2.23,4885807.0,2.5,2.0,0.0,4.5,False,0.0
+PGYWW,Pagaya Technologies Ltd.,Technology,Software - Infrastructure,0.39,0.0,2.5,2.0,0.0,4.5,False,0.0
+UPLD,"Upland Software, Inc.",Technology,Software - Application,1.66,47959636.0,2.5,2.0,0.0,4.5,False,0.0
+DELL,Dell Technologies Inc.,Technology,Computer Hardware,138.91,93399351296.0,3.0,1.5,0.0,4.5,False,1.51
+HUBC,HUB Cyber Security Ltd.,Technology,Software - Infrastructure,0.8501,21584398.0,2.5,2.0,0.0,4.5,False,0.0
+NTNX,"Nutanix, Inc.",Technology,Software - Infrastructure,47.32,12813574144.0,2.5,2.0,0.0,4.5,False,0.0
+HPAIW,Helport AI Limited,Technology,Software - Infrastructure,0.17,0.0,2.5,2.0,0.0,4.5,False,0.0
+DFDVW,DeFi Development Corp.,Technology,Software - Infrastructure,3.96,0.0,2.5,2.0,0.0,4.5,False,0.0
+DGII,Digi International Inc.,Technology,Communication Equipment,45.09,1678817536.0,3.0,1.5,0.0,4.5,False,0.0
+AISP,"Airship AI Holdings, Inc.",Technology,Software - Infrastructure,3.71,126791344.0,2.5,2.0,0.0,4.5,False,0.0
+BZAIW,"Blaize Holdings, Inc.",Technology,Software - Application,0.5101,7734493.0,2.5,2.0,0.0,4.5,False,0.0
+NUAIW,"New Era Energy & Digital, Inc.",Technology,Software - Infrastructure,1.3701,0.0,2.5,2.0,0.0,4.5,False,0.0
+NUKK,Nukkleus Inc.,Technology,Software - Application,6.46,107531648.0,2.5,2.0,0.0,4.5,False,0.0
+NUKKW,Nukkleus Inc.,Technology,Software - Application,0.1764,1936639360.0,2.0,2.5,0.0,4.5,False,0.0
+PDYNW,Palladyne AI Corp.,Technology,Software - Infrastructure,0.0945,0.0,2.5,2.0,0.0,4.5,False,0.0
+PENG,"Penguin Solutions, Inc.",Technology,Information Technology Services,21.58,1140704512.0,3.0,1.5,0.0,4.5,False,0.0
+BLND,"Blend Labs, Inc.",Technology,Software - Application,3.11,807812864.0,2.5,2.0,0.0,4.5,False,0.0
+AUR,"Aurora Innovation, Inc.",Technology,Information Technology Services,4.46,8631754752.0,3.0,1.5,0.0,4.5,False,0.0
+HLIT,Harmonic Inc.,Technology,Communication Equipment,9.69,1102329728.0,3.0,1.5,0.0,4.5,False,0.0
+NXPLW,NextPlat Corp,Technology,Software - Application,0.0439,0.0,2.5,2.0,0.0,4.5,False,0.0
+BULLW,Webull Corporation,Technology,Software - Application,3.719,0.0,2.5,2.0,0.0,4.5,False,0.0
+GIB,CGI Inc.,Technology,Information Technology Services,92.26,20636420096.0,3.5,1.0,0.0,4.5,False,0.52
+VIAV,Viavi Solutions Inc.,Technology,Communication Equipment,18.32,4089003008.0,3.0,1.5,0.0,4.5,False,0.0
+SEDG,"SolarEdge Technologies, Inc.",Technology,Solar,29.52,1765297536.0,3.0,1.5,0.0,4.5,False,0.0
+AEVAW,"Aeva Technologies, Inc.",Technology,Software - Infrastructure,0.19,0.0,2.5,2.0,0.0,4.5,False,0.0
+DOMO,"Domo, Inc.",Technology,Software - Application,8.835,364277856.0,2.5,2.0,0.0,4.5,False,0.0
+GLOB,Globant S.A.,Technology,Information Technology Services,71.21,3137064448.0,3.0,1.5,0.0,4.5,False,0.0
+SIMO,Silicon Motion Technology Corporation,Technology,Semiconductors,92.21,3133634304.0,4.0,2.5,-2.0,4.5,False,2.17
+ONDS,Ondas Holdings Inc.,Technology,Communication Equipment,9.07,3379087104.0,3.0,1.5,0.0,4.5,False,0.0
+SHLS,"Shoals Technologies Group, Inc.",Technology,Solar,8.03,1344128896.0,3.0,1.5,0.0,4.5,False,0.0
+VYX,NCR Voyix Corporation,Technology,Information Technology Services,9.92,1373895424.0,3.0,1.5,0.0,4.5,False,0.0
+GRRRW,Gorilla Technology Group Inc.,Technology,Software - Infrastructure,0.5101,0.0,2.5,2.0,0.0,4.5,False,0.0
+BNZIW,"Banzai International, Inc.",Technology,Software - Application,0.0158,0.0,2.5,2.0,0.0,4.5,False,0.0
+BNAIW,"Brand Engagement Network, Inc.",Technology,Software - Infrastructure,0.0396,0.0,2.5,2.0,0.0,4.5,False,0.0
+GRABW,Grab Holdings Limited,Technology,Software - Application,0.3512,0.0,2.5,2.0,0.0,4.5,False,0.0
+OSIS,"OSI Systems, Inc.",Technology,Electronic Components,266.0,4516113920.0,3.0,1.5,0.0,4.5,False,0.0
+VRRM,Verra Mobility Corporation,Technology,Information Technology Services,21.38,3411487744.0,3.0,1.5,0.0,4.5,False,0.0
+VSAT,"Viasat, Inc.",Technology,Communication Equipment,34.96,4728828416.0,3.0,1.5,0.0,4.5,False,0.0
+OUST,"Ouster, Inc.",Technology,Electronic Components,24.78,1486929408.0,3.0,1.5,0.0,4.5,False,0.0
+OWLS,Obook Holdings Inc.,Technology,Software - Infrastructure,7.13,630132800.0,2.5,2.0,0.0,4.5,False,0.0
+VSSYW,Versus Systems Inc.,Technology,Software - Application,0.03,0.0,2.5,2.0,0.0,4.5,False,0.0
+SGN,"Signing Day Sports, Inc.",Technology,Software - Application,1.2,4821337.0,2.5,2.0,0.0,4.5,False,0.0
+ZENA,ZENA,Technology,Software - Infrastructure,3.39,128756016.0,2.5,2.0,0.0,4.5,False,0.0
+LPSN,"LivePerson, Inc.",Technology,Software - Application,4.93,57545984.0,2.5,2.0,0.0,4.5,False,0.0
+AAOI,"Applied Optoelectronics, Inc.",Technology,Communication Equipment,26.59,1815562240.0,3.0,1.5,0.0,4.5,False,0.0
+LTRX,"Lantronix, Inc.",Technology,Communication Equipment,5.55,218440288.0,3.0,1.0,0.0,4.0,False,0.0
+CNDT,Conduent Incorporated,Technology,Information Technology Services,1.95,308049344.0,3.0,1.0,0.0,4.0,False,0.0
+TDY,Teledyne Technologies Incorporated,Technology,Scientific & Technical Instruments,522.3,24522500096.0,3.0,1.0,0.0,4.0,False,0.0
+LPTH,"LightPath Technologies, Inc.",Technology,Electronic Components,8.8,399756928.0,3.0,1.0,0.0,4.0,False,0.0
+GNSS,Genasys Inc.,Technology,Scientific & Technical Instruments,2.35,106113080.0,3.0,1.0,0.0,4.0,False,0.0
+OSS,"One Stop Systems, Inc.",Technology,Computer Hardware,6.98,171118128.0,3.0,1.0,0.0,4.0,False,0.0
+VVPR,VivoPower International PLC,Technology,Solar,2.5,31318030.0,3.0,1.0,0.0,4.0,False,0.0
+DTSS,Datasea Inc.,Technology,Software - Infrastructure,1.2586,10787099.0,3.0,2.0,-1.0,4.0,False,0.0
+DTST,Data Storage Corporation,Technology,Information Technology Services,4.42,33142742.0,3.0,1.0,0.0,4.0,False,0.0
+VPG,"Vishay Precision Group, Inc.",Technology,Scientific & Technical Instruments,39.01,518017088.0,3.0,1.0,0.0,4.0,False,0.0
+OPTX,"Syntec Optics Holdings, Inc.",Technology,Electronic Components,1.38,50949916.0,3.0,1.0,0.0,4.0,False,0.0
+WATT,Energous Corporation,Technology,Scientific & Technical Instruments,6.26,13616358.0,3.0,1.0,0.0,4.0,False,0.0
+GLOO,"Gloo Holdings, Inc.",Technology,Software - Application,7.72,607264320.0,2.0,2.0,0.0,4.0,False,0.0
+SELX,Semilux International Ltd.,Technology,Electronic Components,0.6002,22464500.0,3.0,1.0,0.0,4.0,False,0.0
+WBX,Wallbox N.V.,Technology,Electronic Components,3.36,58834552.0,3.0,1.0,0.0,4.0,False,0.0
+ATGL,Alpha Technology Group Limited,Technology,Software - Infrastructure,26.068,429144448.0,3.0,2.0,-1.0,4.0,False,0.0
+ODYS,Odysight.ai Inc.,Technology,Scientific & Technical Instruments,3.39,55444276.0,3.0,1.0,0.0,4.0,False,0.0
+GILT,Gilat Satellite Networks Ltd.,Technology,Communication Equipment,11.86,762250688.0,3.0,1.0,0.0,4.0,False,0.0
+WCT,Wellchange Holdings Company Limited,Technology,Software - Application,0.2422,35183180.0,3.0,2.0,-1.0,4.0,False,0.0
+VELO,"Velo3D, Inc.",Technology,Computer Hardware,5.57,116480800.0,3.0,1.0,0.0,4.0,False,0.0
+SLAI,SLAI,Technology,Information Technology Services,1.42,26523520.0,3.0,1.0,0.0,4.0,False,0.0
+AIMD,"Ainos, Inc.",Technology,Scientific & Technical Instruments,2.39,11502198.0,3.0,1.0,0.0,4.0,False,0.0
+BTCT,BTC Digital Ltd.,Technology,Computer Hardware,1.86,17701574.0,3.0,1.0,0.0,4.0,False,0.0
+NXTT,Next Technology Holding Inc.,Technology,Software - Application,7.21,29435228.0,3.0,2.0,-1.0,4.0,False,0.0
+WETO,Webus International Limited,Technology,Software - Application,0.92,20240000.0,3.0,2.0,-1.0,4.0,False,0.0
+SCKT,"Socket Mobile, Inc.",Technology,Computer Hardware,1.28,10209871.0,3.0,1.0,0.0,4.0,False,0.0
+NVNI,Nvni Group Limited,Technology,Software - Application,4.05,40632312.0,2.0,2.0,0.0,4.0,False,0.0
+NVNIW,Nvni Group Limited,Technology,Software - Application,0.089,0.0,2.0,2.0,0.0,4.0,False,0.0
+HKIT,Hitek Global Inc.,Technology,Software - Application,1.46,42777072.0,3.0,2.0,-1.0,4.0,False,0.0
+GDYN,"Grid Dynamics Holdings, Inc.",Technology,Information Technology Services,9.49,804801344.0,3.0,1.0,0.0,4.0,False,0.0
+GAUZ,Gauzy Ltd.,Technology,Electronic Components,1.83,34299940.0,3.0,1.0,0.0,4.0,False,0.0
+AISPW,"Airship AI Holdings, Inc.",Technology,Software - Infrastructure,1.3,0.0,2.0,2.0,0.0,4.0,False,0.0
+ASTI,"Ascent Solar Technologies, Inc.",Technology,Solar,1.93,6714757.0,3.0,1.0,0.0,4.0,False,0.0
+ASTS,"AST SpaceMobile, Inc.",Technology,Communication Equipment,73.92,27158304768.0,3.0,1.0,0.0,4.0,False,0.0
+AIRG,"Airgain, Inc.",Technology,Communication Equipment,3.95,47234864.0,3.0,1.0,0.0,4.0,False,0.0
+DDD,3D Systems Corporation,Technology,Computer Hardware,2.16,278074112.0,3.0,1.0,0.0,4.0,False,0.0
+ALAB,"Astera Labs, Inc.",Technology,Semiconductors,161.23,27232329728.0,3.0,2.0,-1.0,4.0,False,0.0
+NTCL,NetClass Technology Inc,Technology,Software - Application,1.07,21921124.0,3.0,2.0,-1.0,4.0,False,0.0
+NTGR,"NETGEAR, Inc.",Technology,Communication Equipment,26.62,772207808.0,3.0,1.0,0.0,4.0,False,0.0
+CACI,CACI International Inc,Technology,Information Technology Services,595.65,13151779840.0,3.0,1.0,0.0,4.0,False,0.0
+BIYA,Baiya International Group Inc.,Technology,Software - Application,0.258,5572411.0,3.0,2.0,-1.0,4.0,False,0.0
+SMCI,"Super Micro Computer, Inc.",Technology,Computer Hardware,34.69,20708927488.0,3.0,1.0,0.0,4.0,False,0.0
+HUBCZ,HUB Cyber Security Ltd.,Technology,Software - Infrastructure,0.0076,0.0,2.0,2.0,0.0,4.0,False,0.0
+CAN,Canaan Inc.,Technology,Computer Hardware,0.9336,633310400.0,3.0,1.0,0.0,4.0,False,0.0
+RZLVW,Rezolve AI PLC,Technology,Software - Infrastructure,1.04,0.0,2.0,2.0,0.0,4.0,False,0.0
+SNDK,Sandisk Corporation,Technology,Computer Hardware,228.47,33483005952.0,3.0,1.0,0.0,4.0,False,0.0
+UMAC,"Unusual Machines, Inc.",Technology,Computer Hardware,10.67,393462144.0,3.0,1.0,0.0,4.0,False,0.0
+NNAVW,NextNav Inc.,Technology,Software - Infrastructure,6.52,0.0,2.0,2.0,0.0,4.0,False,0.0
+NNDM,Nano Dimension Ltd.,Technology,Computer Hardware,1.82,397419328.0,3.0,1.0,0.0,4.0,False,0.0
+NOTE,"FiscalNote Holdings, Inc.",Technology,Information Technology Services,1.99,31262692.0,3.0,1.0,0.0,4.0,False,0.0
+FUSEW,Fusemachines Inc.,Technology,Software - Application,0.09,0.0,2.0,2.0,0.0,4.0,False,0.0
+SAIH,SAIHEAT Limited,Technology,Information Technology Services,7.97,15217846.0,3.0,1.0,0.0,4.0,False,0.0
+DAIO,Data I/O Corporation,Technology,Electronic Components,2.97,27893892.0,3.0,1.0,0.0,4.0,False,0.0
+IBEX,IBEX Limited,Technology,Information Technology Services,36.78,495322720.0,3.0,1.0,0.0,4.0,False,0.0
+CYCU,"Cycurion, Inc.",Technology,Information Technology Services,4.15,13829805.0,3.0,1.0,0.0,4.0,False,0.0
+ASTC,Astrotech Corporation,Technology,Scientific & Technical Instruments,3.4,5980444.0,3.0,1.0,0.0,4.0,False,0.0
+SOBR,"SOBR Safe, Inc.",Technology,Scientific & Technical Instruments,2.0,3032478.0,3.0,1.0,0.0,4.0,False,0.0
+WRAP,"Wrap Technologies, Inc.",Technology,Scientific & Technical Instruments,2.79,143821968.0,3.0,1.0,0.0,4.0,False,0.0
+SOTK,Sono-Tek Corporation,Technology,Scientific & Technical Instruments,3.81,59922548.0,3.0,1.0,0.0,4.0,False,0.0
+SOL,Emeren Group Ltd,Technology,Solar,1.8,92378920.0,3.0,1.0,0.0,4.0,False,0.0
+IFBD,"Infobird Co., Ltd",Technology,Software - Application,0.9999,8187755.0,3.0,2.0,-1.0,4.0,False,0.0
+ILLRW,Triller Group Inc.,Technology,Software - Application,0.0321,0.0,2.0,2.0,0.0,4.0,False,0.0
+AVNW,"Aviat Networks, Inc.",Technology,Communication Equipment,21.02,269843584.0,3.0,1.0,0.0,4.0,False,0.0
+TYGO,"Tigo Energy, Inc.",Technology,Solar,1.49,104824848.0,3.0,1.0,0.0,4.0,False,0.0
+UAVS,"AgEagle Aerial Systems, Inc.",Technology,Computer Hardware,1.26,50491460.0,3.0,1.0,0.0,4.0,False,0.0
+UBXG,U-BX Technology Ltd.,Technology,Software - Infrastructure,2.0758,62863820.0,3.0,2.0,-1.0,4.0,False,0.0
+IMTE,Integrated Media Technology Limited,Technology,Electronic Components,0.759,2604458.0,3.0,1.0,0.0,4.0,False,0.0
+NEON,Neonode Inc.,Technology,Electronic Components,2.34,39272036.0,3.0,1.0,0.0,4.0,False,0.0
+ASNS,"Actelis Networks, Inc.",Technology,Communication Equipment,2.72,4754135.0,3.0,1.0,0.0,4.0,False,0.0
+BGIN,Bgin Blockchain Limited,Technology,Computer Hardware,3.04,343933280.0,3.0,1.0,0.0,4.0,False,0.0
+SPRU,Spruce Power Holding Corporation,Technology,Solar,5.3,96294984.0,3.0,1.0,0.0,4.0,False,0.0
+IONQ,"IonQ, Inc.",Technology,Computer Hardware,52.69,18666991616.0,3.0,1.0,0.0,4.0,False,0.0
+TURB,"Turbo Energy, S.A.",Technology,Solar,0.9699,10685524.0,3.0,1.0,0.0,4.0,False,0.0
+CTM,"Castellum, Inc.",Technology,Information Technology Services,1.04,98397256.0,3.0,1.0,0.0,4.0,False,0.0
+MVIS,"MicroVision, Inc.",Technology,Scientific & Technical Instruments,0.917,280049312.0,3.0,1.0,0.0,4.0,False,0.0
+IT,"Gartner, Inc.",Technology,Information Technology Services,229.77,17401812992.0,3.0,1.0,0.0,4.0,False,0.0
+FN,Fabrinet,Technology,Electronic Components,478.45,17141528576.0,3.0,1.0,0.0,4.0,False,0.0
+ACFN,"Acorn Energy, Inc.",Technology,Scientific & Technical Instruments,15.0,37569392.0,3.0,1.0,0.0,4.0,False,0.0
+TTGT,"TechTarget, Inc.",Technology,Information Technology Services,5.39,388931104.0,3.0,1.0,0.0,4.0,False,0.0
+MTEK,Maris-Tech Ltd.,Technology,Electronic Components,1.5,12108886.0,3.0,1.0,0.0,4.0,False,0.0
+FKWL,Franklin Wireless Corp.,Technology,Communication Equipment,4.485,52852496.0,3.0,1.0,0.0,4.0,False,0.0
+FLEX,Flex Ltd.,Technology,Electronic Components,62.41,23338625024.0,3.0,1.0,0.0,4.0,False,0.0
+JKS,"JinkoSolar Holding Co., Ltd.",Technology,Solar,24.22,1251022080.0,3.5,1.5,-1.0,4.0,False,5.37
+ARRY,"Array Technologies, Inc.",Technology,Solar,7.92,1209762304.0,2.5,1.5,0.0,4.0,False,0.0
+TSSI,"TSS, Inc.",Technology,Information Technology Services,8.63,248932656.0,3.0,1.0,0.0,4.0,False,0.0
+AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,217.97,354864234496.0,3.0,2.0,-1.0,4.0,False,0.0
+CRNT,Ceragon Networks Ltd.,Technology,Communication Equipment,1.99,178881040.0,3.0,1.0,0.0,4.0,False,0.0
+JG,Aurora Mobile Limited,Technology,Software - Infrastructure,6.74,40461176.0,3.0,2.0,-1.0,4.0,False,0.0
+SSYS,Stratasys Ltd.,Technology,Computer Hardware,9.05,773195840.0,3.0,1.0,0.0,4.0,False,0.0
+CRSR,"Corsair Gaming, Inc.",Technology,Computer Hardware,6.53,695936128.0,3.0,1.0,0.0,4.0,False,0.0
+CRDO,Credo Technology Group Holding Ltd,Technology,Semiconductors,176.04,31798405120.0,3.0,2.0,-1.0,4.0,False,0.0
+WYY,WidePoint Corporation,Technology,Information Technology Services,6.69,66170804.0,3.0,1.0,0.0,4.0,False,0.0
+XNET,Xunlei Limited,Technology,Software - Infrastructure,7.17,448546144.0,3.0,2.0,-1.0,4.0,False,0.0
+TRMB,Trimble Inc.,Technology,Scientific & Technical Instruments,83.52,19875176448.0,3.0,1.0,0.0,4.0,False,0.0
+STEC,Santech Holdings Limited,Technology,Software - Application,0.9633,80917200.0,3.0,2.0,-1.0,4.0,False,0.0
+AMODW,"Alpha Modus Holdings, Inc.",Technology,Software - Application,0.0776,0.0,2.0,2.0,0.0,4.0,False,0.0
+AMPG,"AmpliTech Group, Inc.",Technology,Communication Equipment,3.32,68518480.0,3.0,1.0,0.0,4.0,False,0.0
+MPTI,"M-tron Industries, Inc.",Technology,Electronic Components,51.5,150884592.0,3.0,1.0,0.0,4.0,False,0.0
+CHOW,ChowChow Cloud International Holdings Limited,Technology,Software - Infrastructure,9.48,332747968.0,3.0,2.0,-1.0,4.0,False,0.0
+PSTG,"Pure Storage, Inc.",Technology,Computer Hardware,70.43,23145873408.0,3.0,1.0,0.0,4.0,False,0.0
+RMBS,Rambus Inc.,Technology,Semiconductors,101.6,10937253888.0,3.0,2.0,-1.0,4.0,False,0.0
+CPSH,CPS Technologies Corporation,Technology,Electronic Components,3.29,59151824.0,3.0,1.0,0.0,4.0,False,0.0
+CORZW,"Core Scientific, Inc.",Technology,Software - Infrastructure,10.81,0.0,2.0,2.0,0.0,4.0,False,0.0
+CORZZ,"Core Scientific, Inc.",Technology,Software - Infrastructure,17.04,0.0,2.0,2.0,0.0,4.0,False,0.0
+MITQ,"Moving iMage Technologies, Inc.",Technology,Communication Equipment,0.7412,7367329.0,3.0,1.0,0.0,4.0,False,0.0
+TOYO,"TOYO Co., Ltd.",Technology,Solar,7.1,268195360.0,3.0,1.0,0.0,4.0,False,0.0
+KOPN,Kopin Corporation,Technology,Electronic Components,2.69,474407552.0,3.0,1.0,0.0,4.0,False,0.0
+KOSS,Koss Corporation,Technology,Consumer Electronics,4.82,45580032.0,3.0,2.0,-1.0,4.0,False,0.0
+KPLTW,"Katapult Holdings, Inc.",Technology,Software - Infrastructure,0.0058,0.0,2.0,2.0,0.0,4.0,False,0.0
+MLGO,MicroAlgo Inc.,Technology,Software - Infrastructure,6.51,79099400.0,3.0,2.0,-1.0,4.0,False,0.0
+SUNE,SUNation Energy Inc.,Technology,Solar,1.34,4564864.0,3.0,1.0,0.0,4.0,False,0.0
+FCUV,Focus Universal Inc.,Technology,Scientific & Technical Instruments,3.69,30301192.0,3.0,1.0,0.0,4.0,False,0.0
+ARBB,ARB IOT Group Limited,Technology,Information Technology Services,6.02,10626841.0,3.0,1.0,0.0,4.0,False,0.0
+ARBE,Arbe Robotics Ltd.,Technology,Scientific & Technical Instruments,1.52,165466448.0,3.0,1.0,0.0,4.0,False,0.0
+CIEN,Ciena Corporation,Technology,Communication Equipment,201.71,28515182592.0,3.0,1.0,0.0,4.0,False,0.0
+COMM,"CommScope Holding Company, Inc.",Technology,Communication Equipment,19.17,4247088640.0,2.5,1.5,0.0,4.0,False,0.0
+KTCC,Key Tronic Corporation,Technology,Computer Hardware,2.54,27582542.0,3.0,1.0,0.0,4.0,False,0.0
+COHR,Coherent Corp.,Technology,Scientific & Technical Instruments,181.79,28568954880.0,3.0,1.0,0.0,4.0,False,0.0
+KULR,"KULR Technology Group, Inc.",Technology,Electronic Components,3.93,179530368.0,3.0,1.0,0.0,4.0,False,0.0
+SYNX,Silynxcom Ltd.,Technology,Communication Equipment,1.01,6700744.0,3.0,1.0,0.0,4.0,False,0.0
+MIND,"MIND Technology, Inc.",Technology,Scientific & Technical Instruments,10.24,81606880.0,3.0,1.0,0.0,4.0,False,0.0
+SVRE,SaverOne 2014 Ltd.,Technology,Scientific & Technical Instruments,1.07,10436863.0,3.0,1.0,0.0,4.0,False,0.0
+BEEM,Beam Global,Technology,Solar,1.9,36155756.0,3.0,1.0,0.0,4.0,False,0.0
+TAOP,Taoping Inc.,Technology,Software - Infrastructure,2.5,23096718.0,3.0,2.0,-1.0,4.0,False,0.0
+MFI,mF International Limited,Technology,Software - Application,17.83,921034688.0,3.0,2.0,-1.0,4.0,False,0.0
+QCLS,"Q/C Technologies, Inc.",Technology,Computer Hardware,6.85,28542306.0,3.0,1.0,0.0,4.0,False,0.0
+EPAM,"EPAM Systems, Inc.",Technology,Information Technology Services,203.6,11339891712.0,3.0,1.0,0.0,4.0,False,0.0
+CLFD,"Clearfield, Inc.",Technology,Communication Equipment,28.74,397735616.0,3.0,1.0,0.0,4.0,False,0.0
+CNXN,"PC Connection, Inc.",Technology,Electronics & Computer Distribution,58.26,1479163392.0,3.5,1.5,-1.0,4.0,False,1.03
+YAAS,Youxin Technology Ltd,Technology,Software - Application,1.61,6568306.0,3.0,2.0,-1.0,4.0,False,0.0
+QH,Quhuo Limited,Technology,Software - Application,1.0,996612.0,3.0,2.0,-1.0,4.0,False,0.0
+LHSW,Lianhe Sowell International Group Ltd,Technology,Software - Infrastructure,1.01,52520000.0,3.0,2.0,-1.0,4.0,False,0.0
+CLRO,"ClearOne, Inc.",Technology,Communication Equipment,5.2861,9167419.0,3.0,1.0,0.0,4.0,False,0.0
+CLS,Celestica Inc.,Technology,Electronic Components,325.09,37397254144.0,3.0,1.0,0.0,4.0,False,0.0
+LGCL,Lucas GC Limited,Technology,Software - Application,2.51,7009953.0,3.0,2.0,-1.0,4.0,False,0.0
+LINK,"Interlink Electronics, Inc.",Technology,Electronic Components,3.61,56857524.0,3.0,1.0,0.0,4.0,False,0.0
+LITE,Lumentum Holdings Inc.,Technology,Communication Equipment,331.41,23501142016.0,3.0,1.0,0.0,4.0,False,0.0
+MASK,3 E Network Technology Group Limited,Technology,Software - Application,0.37,6233800.0,3.0,2.0,-1.0,4.0,False,0.0
+CMBM,Cambium Networks Corporation,Technology,Communication Equipment,1.9,53663236.0,3.0,1.0,0.0,4.0,False,0.0
+YXT,YXT.COM Group Holding Limited,Technology,Software - Application,1.0,60075532.0,3.0,2.0,-1.0,4.0,False,0.0
+RDZNW,"Roadzen, Inc.",Technology,Software - Application,0.165,0.0,2.0,2.0,0.0,4.0,False,0.0
+REFR,Research Frontiers Incorporated,Technology,Electronic Components,1.62,54510124.0,3.0,1.0,0.0,4.0,False,0.0
+BOSC,B.O.S. Better Online Solutions Ltd.,Technology,Communication Equipment,4.6,28455600.0,3.0,1.0,0.0,4.0,False,0.0
+ZBRA,Zebra Technologies Corporation,Technology,Communication Equipment,264.81,13464304640.0,3.0,1.0,0.0,4.0,False,0.0
+ZSPC,"zSpace, Inc.",Technology,Computer Hardware,0.5283,15347151.0,2.5,1.0,0.0,3.5,False,0.0
+TDTH,Trident Digital Tech Holdings Ltd,Technology,Information Technology Services,0.5985,68884736.0,2.5,1.0,0.0,3.5,False,0.0
+LPL,"LG Display Co., Ltd.",Technology,Consumer Electronics,4.54,4539999744.0,3.0,1.5,-1.0,3.5,False,0.0
+YMT,Yimutian Inc.,Technology,Software - Application,1.3,148690192.0,2.5,2.0,-1.0,3.5,False,0.0
+RGTIW,"Rigetti Computing, Inc.",Technology,Computer Hardware,17.04,0.0,2.5,1.0,0.0,3.5,False,0.0
+EPWK,EPWK Holdings Ltd.,Technology,Software - Application,1.38,1041545.0,2.5,2.0,-1.0,3.5,False,0.0
+QMCO,Quantum Corporation,Technology,Computer Hardware,8.72,142786512.0,2.5,1.0,0.0,3.5,False,0.0
+QRVO,"Qorvo, Inc.",Technology,Semiconductors,89.96,8335177728.0,3.0,1.5,-1.0,3.5,False,0.0
+MAXN,"Maxeon Solar Technologies, Ltd.",Technology,Solar,2.97,50290296.0,2.5,1.0,0.0,3.5,False,0.0
+PONY,Pony AI Inc.,Technology,Information Technology Services,14.2,6737381376.0,3.0,1.5,-1.0,3.5,False,0.0
+SYNA,Synaptics Incorporated,Technology,Semiconductors,77.57,3029125120.0,3.0,1.5,-1.0,3.5,False,0.0
+FORM,"FormFactor, Inc.",Technology,Semiconductor Equipment & Materials,57.45,4453357056.0,3.0,1.5,-1.0,3.5,False,0.0
+ACMR,"ACM Research, Inc.",Technology,Semiconductor Equipment & Materials,35.1,2277163264.0,3.0,1.5,-1.0,3.5,False,0.0
+ACLS,"Axcelis Technologies, Inc.",Technology,Semiconductor Equipment & Materials,90.82,2853460736.0,3.0,1.5,-1.0,3.5,False,0.0
+LASR,"nLIGHT, Inc.",Technology,Semiconductors,36.44,1850642048.0,3.0,1.5,-1.0,3.5,False,0.0
+SVREW,SaverOne 2014 Ltd.,Technology,Scientific & Technical Instruments,0.0147,0.0,2.5,1.0,0.0,3.5,False,0.0
+FTCI,"FTC Solar, Inc.",Technology,Solar,9.32,139244592.0,2.5,1.0,0.0,3.5,False,0.0
+PLAB,"Photronics, Inc.",Technology,Semiconductor Equipment & Materials,24.15,1452634880.0,3.0,1.5,-1.0,3.5,False,0.0
+PI,"Impinj, Inc.",Technology,Semiconductors,158.26,4765070848.0,3.0,1.5,-1.0,3.5,False,0.0
+SAIHW,SAIHEAT Limited,Technology,Information Technology Services,0.0792,0.0,2.5,1.0,0.0,3.5,False,0.0
+ARBEW,Arbe Robotics Ltd.,Technology,Scientific & Technical Instruments,0.2351,0.0,2.5,1.0,0.0,3.5,False,0.0
+AUROW,"Aurora Innovation, Inc.",Technology,Information Technology Services,0.32,0.0,2.5,1.0,0.0,3.5,False,0.0
+GDS,GDS Holdings Limited,Technology,Information Technology Services,35.21,6743141888.0,3.0,1.5,-1.0,3.5,False,0.0
+AMPGW,"AmpliTech Group, Inc.",Technology,Communication Equipment,0.2,0.0,2.5,1.0,0.0,3.5,False,0.0
+DTSTW,Data Storage Corporation,Technology,Information Technology Services,0.2284,0.0,2.5,1.0,0.0,3.5,False,0.0
+OUSTZ,"Ouster, Inc.",Technology,Electronic Components,0.08,0.0,2.5,1.0,0.0,3.5,False,0.0
+AMBA,"Ambarella, Inc.",Technology,Semiconductor Equipment & Materials,74.1,3163255552.0,3.0,1.5,-1.0,3.5,False,0.0
+OPTXW,"Syntec Optics Holdings, Inc.",Technology,Electronic Components,0.1466,0.0,2.5,1.0,0.0,3.5,False,0.0
+MTEKW,Maris-Tech Ltd.,Technology,Electronic Components,0.163,0.0,2.5,1.0,0.0,3.5,False,0.0
+ARW,"Arrow Electronics, Inc.",Technology,Electronics & Computer Distribution,112.48,5793997312.0,3.0,1.5,-1.0,3.5,False,0.0
+MTC,"MMTec, Inc.",Technology,Software - Application,2.49,62715352.0,2.5,2.0,-1.0,3.5,False,0.0
+CRUS,"Cirrus Logic, Inc.",Technology,Semiconductors,123.82,6355950592.0,3.0,1.5,-1.0,3.5,False,0.0
+VNET,"VNET Group, Inc.",Technology,Information Technology Services,8.94,2405091328.0,3.0,1.5,-1.0,3.5,False,0.0
+ONTO,Onto Innovation Inc.,Technology,Semiconductor Equipment & Materials,157.4,7815371776.0,3.0,1.5,-1.0,3.5,False,0.0
+SITM,SiTime Corporation,Technology,Semiconductors,352.05,9188726784.0,3.0,1.5,-1.0,3.5,False,0.0
+SPWR,SunPower Inc.,Technology,Solar,1.6,154697552.0,2.5,1.0,0.0,3.5,False,0.0
+MXL,"MaxLinear, Inc.",Technology,Semiconductors,18.82,1644356608.0,3.0,1.5,-1.0,3.5,False,0.0
+SLAB,Silicon Laboratories Inc.,Technology,Semiconductors,141.52,4649348608.0,3.0,1.5,-1.0,3.5,False,0.0
+IPGP,IPG Photonics Corporation,Technology,Semiconductor Equipment & Materials,81.92,3458655744.0,3.0,1.5,-1.0,3.5,False,0.0
+AIMDW,"Ainos, Inc.",Technology,Scientific & Technical Instruments,0.1215,0.0,2.5,1.0,0.0,3.5,False,0.0
+NVTS,Navitas Semiconductor Corporation,Technology,Semiconductors,9.48,2185103616.0,3.0,1.5,-1.0,3.5,False,0.0
+VEEA,Veea Inc.,Technology,Information Technology Services,0.4707,23610628.0,2.5,1.0,0.0,3.5,False,0.0
+VECO,Veeco Instruments Inc.,Technology,Semiconductor Equipment & Materials,32.05,1928208512.0,3.0,1.5,-1.0,3.5,False,0.0
+NVMI,Nova Ltd.,Technology,Semiconductor Equipment & Materials,324.45,9620742144.0,3.0,1.5,-1.0,3.5,False,0.0
+DIOD,Diodes Incorporated,Technology,Semiconductors,52.58,2441959168.0,3.0,1.5,-1.0,3.5,False,0.0
+AIXI,Xiao-I Corporation,Technology,Software - Application,0.6774,8949924.0,2.5,2.0,-1.0,3.5,False,0.0
+INSG,Inseego Corp.,Technology,Communication Equipment,11.73,179791280.0,2.5,1.0,0.0,3.5,False,0.0
+NSIT,"Insight Enterprises, Inc.",Technology,Electronics & Computer Distribution,86.06,2708374784.0,3.0,1.5,-1.0,3.5,False,0.0
+USBC,"USBC, Inc.",Technology,Scientific & Technical Instruments,0.85,333245248.0,2.5,1.0,0.0,3.5,False,0.0
+ALGM,"Allegro MicroSystems, Inc.",Technology,Semiconductors,29.22,5409178112.0,3.0,1.5,-1.0,3.5,False,0.0
+SONO,"Sonos, Inc.",Technology,Consumer Electronics,19.15,2314857216.0,3.0,1.5,-1.0,3.5,False,0.0
+SONM,"Sonim Technologies, Inc.",Technology,Communication Equipment,6.285,6465530.0,2.5,1.0,0.0,3.5,False,0.0
+CAMT,Camtek Ltd.,Technology,Semiconductor Equipment & Materials,117.07,5357855744.0,3.0,1.5,-1.0,3.5,False,0.0
+SMTC,Semtech Corporation,Technology,Semiconductors,79.61,7367113728.0,3.0,1.5,-1.0,3.5,False,0.0
+UCTT,"Ultra Clean Holdings, Inc.",Technology,Semiconductor Equipment & Materials,26.24,1190957184.0,3.0,1.5,-1.0,3.5,False,0.0
+SMXT,"SolarMax Technology, Inc.",Technology,Solar,0.8905,48356780.0,2.5,1.0,0.0,3.5,False,0.0
+NOVTU,Novanta Inc.,Technology,Scientific & Technical Instruments,54.51,0.0,2.5,1.0,0.0,3.5,False,0.0
+DAIC,"CID HoldCo, Inc.",Technology,Information Technology Services,1.77,49158780.0,2.5,1.0,0.0,3.5,False,0.0
+CYCUW,"Cycurion, Inc.",Technology,Information Technology Services,0.047,0.0,2.5,1.0,0.0,3.5,False,0.0
+ZEO,Zeo Energy Corp.,Technology,Solar,1.26,151313312.0,2.5,1.0,0.0,3.5,False,0.0
+ZEPP,Zepp Health Corporation,Technology,Consumer Electronics,28.58,417982496.0,3.0,1.0,-1.0,3.0,False,0.0
+ZEOWW,Zeo Energy Corp.,Technology,Solar,0.065,0.0,2.0,1.0,0.0,3.0,False,0.0
+AOSL,Alpha and Omega Semiconductor Limited,Technology,Semiconductors,21.24,638505216.0,3.0,1.0,-1.0,3.0,False,0.0
+LSCC,Lattice Semiconductor Corporation,Technology,Semiconductors,78.85,10794215424.0,3.0,1.0,-1.0,3.0,False,0.0
+DAICW,"CID HoldCo, Inc.",Technology,Information Technology Services,0.15,0.0,2.0,1.0,0.0,3.0,False,0.0
+ICHR,"Ichor Holdings, Ltd.",Technology,Semiconductor Equipment & Materials,17.61,605506368.0,3.0,1.0,-1.0,3.0,False,0.0
+UTSI,UTStarcom Holdings Corp.,Technology,Communication Equipment,2.45,23202126.0,3.0,1.0,-1.0,3.0,False,0.0
+ASYS,"Amtech Systems, Inc.",Technology,Semiconductor Equipment & Materials,8.91,127537408.0,3.0,1.0,-1.0,3.0,False,0.0
+INDI,"indie Semiconductor, Inc.",Technology,Semiconductor Equipment & Materials,4.62,936063936.0,3.0,1.0,-1.0,3.0,False,0.0
+INTT,inTEST Corporation,Technology,Semiconductor Equipment & Materials,7.87,98244616.0,3.0,1.0,-1.0,3.0,False,0.0
+HOLO,MicroCloud Hologram Inc.,Technology,Electronic Components,3.57,52005316.0,3.0,1.0,-1.0,3.0,False,0.0
+ALMU,"Aeluma, Inc.",Technology,Semiconductors,16.14,288225920.0,3.0,1.0,-1.0,3.0,False,0.0
+IPWR,Ideal Power Inc.,Technology,Semiconductors,3.9,33194472.0,3.0,1.0,-1.0,3.0,False,0.0
+VEEAW,Veea Inc.,Technology,Information Technology Services,0.0375,0.0,2.0,1.0,0.0,3.0,False,0.0
+SKYT,"SkyWater Technology, Inc.",Technology,Semiconductors,17.98,872173824.0,3.0,1.0,-1.0,3.0,False,0.0
+SPWRW,SunPower Inc.,Technology,Solar,0.3475,0.0,2.0,1.0,0.0,3.0,False,0.0
+MX,Magnachip Semiconductor Corporation,Technology,Semiconductors,2.99,107585656.0,3.0,1.0,-1.0,3.0,False,0.0
+GSIT,"GSI Technology, Inc.",Technology,Semiconductors,6.75,237881504.0,3.0,1.0,-1.0,3.0,False,0.0
+SQNS,Sequans Communications S.A.,Technology,Semiconductors,6.32,98542392.0,3.0,1.0,-1.0,3.0,False,0.0
+ON,ON Semiconductor Corporation,Technology,Semiconductors,54.74,22387236864.0,3.0,1.0,-1.0,3.0,False,0.0
+VLN,Valens Semiconductor Ltd.,Technology,Semiconductors,1.68,171974064.0,3.0,1.0,-1.0,3.0,False,0.0
+JDZG,JIADE Limited,Technology,Information Technology Services,1.4301,4818273.0,3.0,1.0,-1.0,3.0,False,0.0
+AGMH,AGM Group Holdings Inc.,Technology,Computer Hardware,2.8099,5555712.0,3.0,1.0,-1.0,3.0,False,0.0
+MTSI,"MACOM Technology Solutions Holdings, Inc.",Technology,Semiconductors,184.1,13795161088.0,3.0,1.0,-1.0,3.0,False,0.0
+TSEM,Tower Semiconductor Ltd.,Technology,Semiconductors,114.01,12783235072.0,3.0,1.0,-1.0,3.0,False,0.0
+GPRO,"GoPro, Inc.",Technology,Consumer Electronics,1.83,292302752.0,3.0,1.0,-1.0,3.0,False,0.0
+MSN,Emerson Radio Corp.,Technology,Consumer Electronics,0.4335,9121989.0,3.0,1.0,-1.0,3.0,False,0.0
+JZ,Jianzhi Education Technology Group Company Limited,Technology,Information Technology Services,1.4,12065900.0,3.0,1.0,-1.0,3.0,False,0.0
+OST,"Ostin Technology Group Co., Ltd.",Technology,Electronic Components,1.695,8978754.0,3.0,1.0,-1.0,3.0,False,0.0
+GMM,Global Mofy AI Limited,Technology,Information Technology Services,1.34,39621192.0,3.0,1.0,-1.0,3.0,False,0.0
+VUZI,Vuzix Corporation,Technology,Consumer Electronics,2.77,221950368.0,3.0,1.0,-1.0,3.0,False,0.0
+JFU,9F Inc.,Technology,Information Technology Services,4.8,56512004.0,3.0,1.0,-1.0,3.0,False,0.0
+TRT,Trio-Tech International,Technology,Semiconductor Equipment & Materials,8.72,37936840.0,3.0,1.0,-1.0,3.0,False,0.0
+CEVA,"CEVA, Inc.",Technology,Semiconductors,23.0,621409472.0,3.0,1.0,-1.0,3.0,False,0.0
+AMBQ,AMBQ,Technology,Semiconductors,29.0,531082400.0,3.0,1.0,-1.0,3.0,False,0.0
+GLE,Global Engine Group Holding Limited,Technology,Information Technology Services,0.4488,10295472.0,3.0,1.0,-1.0,3.0,False,0.0
+ATOM,Atomera Incorporated,Technology,Semiconductor Equipment & Materials,2.49,78885768.0,3.0,1.0,-1.0,3.0,False,0.0
+AEHR,"Aehr Test Systems, Inc.",Technology,Semiconductor Equipment & Materials,24.74,742363008.0,3.0,1.0,-1.0,3.0,False,0.0
+SCSC,"ScanSource, Inc.",Technology,Electronics & Computer Distribution,40.95,903648896.0,3.0,1.0,-1.0,3.0,False,0.0
+MRAM,"Everspin Technologies, Inc.",Technology,Semiconductors,8.67,198165984.0,3.0,1.0,-1.0,3.0,False,0.0
+WETH,Wetouch Technology Inc.,Technology,Electronic Components,1.82,21715392.0,3.0,1.0,-1.0,3.0,False,0.0
+GFS,GLOBALFOUNDRIES Inc.,Technology,Semiconductors,38.95,21643804672.0,3.0,1.0,-1.0,3.0,False,0.0
+MOBX,"Mobix Labs, Inc.",Technology,Semiconductors,0.5438,33468572.0,3.0,1.0,-1.0,3.0,False,0.0
+WKEY,WISeKey International Holding AG,Technology,Semiconductors,9.06,101923520.0,3.0,1.0,-1.0,3.0,False,0.0
+EBON,Ebang International Holdings Inc.,Technology,Computer Hardware,3.52,22107772.0,3.0,1.0,-1.0,3.0,False,0.0
+WLDS,Wearable Devices Ltd.,Technology,Consumer Electronics,1.9,12569963.0,3.0,1.0,-1.0,3.0,False,0.0
+MGRT,Mega Fortune Company Limited,Technology,Information Technology Services,5.54,76175000.0,3.0,1.0,-1.0,3.0,False,0.0
+AXIL,"AXIL Brands, Inc.",Technology,Consumer Electronics,5.03,33991324.0,3.0,1.0,-1.0,3.0,False,0.0
+LAES,SEALSQ Corp,Technology,Semiconductors,4.86,869457920.0,3.0,1.0,-1.0,3.0,False,0.0
+PN,Skycorp Solar Group Ltd,Technology,Solar,0.7703,20798100.0,3.0,1.0,-1.0,3.0,False,0.0
+PRSO,Peraso Inc.,Technology,Semiconductors,1.0,9265014.0,3.0,1.0,-1.0,3.0,False,0.0
+POET,POET Technologies Inc.,Technology,Semiconductors,6.05,797206336.0,3.0,1.0,-1.0,3.0,False,0.0
+AXTI,"AXT, Inc.",Technology,Semiconductor Equipment & Materials,11.58,539896256.0,3.0,1.0,-1.0,3.0,False,0.0
+MCHPP,Microchip Technology Incorporated,Technology,Semiconductors,60.34,0.0,3.0,1.0,-1.0,3.0,False,6.21
+LEDS,SemiLEDs Corporation,Technology,Semiconductors,1.88,15465168.0,3.0,1.0,-1.0,3.0,False,0.0
+TBCH,Turtle Beach Corporation,Technology,Consumer Electronics,14.56,288384640.0,3.0,1.0,-1.0,3.0,False,0.0
+CLPS,CLPS Incorporation,Technology,Information Technology Services,0.8879,26409210.0,3.0,1.0,-1.0,3.0,False,0.0
+FIEE,"FiEE, Inc.",Technology,Communication Equipment,2.35,14795510.0,3.0,1.0,-1.0,3.0,False,0.0
+LZMH,LZ Technology Holdings Limited,Technology,Information Technology Services,2.41,366488704.0,3.0,1.0,-1.0,3.0,False,0.0
+QUIK,QuickLogic Corporation,Technology,Semiconductors,6.29,107497688.0,3.0,1.0,-1.0,3.0,False,0.0
+RIME,"Algorhythm Holdings, Inc.",Technology,Consumer Electronics,1.9,5171378.0,3.0,1.0,-1.0,3.0,False,0.0
+YIBO,Planet Image International Limited,Technology,Computer Hardware,1.01,59826560.0,3.0,1.0,-1.0,3.0,False,0.0
+UEIC,Universal Electronics Inc.,Technology,Consumer Electronics,3.24,43306184.0,3.0,1.0,-1.0,3.0,False,0.0
+FOXX,Foxx Development Holdings Inc.,Technology,Consumer Electronics,4.92,33832444.0,2.5,1.0,-1.0,2.5,False,0.0
+WOLF,"Wolfspeed, Inc.",Technology,Semiconductors,22.07,571446272.0,2.5,1.0,-1.0,2.5,False,0.0
+GCTS,"GCT Semiconductor Holding, Inc.",Technology,Semiconductors,1.42,81081376.0,2.5,1.0,-1.0,2.5,False,0.0
+WLDSW,Wearable Devices Ltd.,Technology,Consumer Electronics,1.95,0.0,2.5,1.0,-1.0,2.5,False,0.0
+PXLW,"Pixelworks, Inc.",Technology,Semiconductors,6.91,43488400.0,2.5,1.0,-1.0,2.5,False,0.0
+DQ,Daqo New Energy Corp.,Technology,Semiconductor Equipment & Materials,31.25,2095522432.0,3.0,1.5,-2.0,2.5,False,0.0
+AIP,"Arteris, Inc.",Technology,Semiconductors,17.55,766650176.0,2.5,1.0,-1.0,2.5,False,0.0
+HOLOW,MicroCloud Hologram Inc.,Technology,Electronic Components,0.1352,0.0,2.5,1.0,-1.0,2.5,False,0.0
+MOBXW,"Mobix Labs, Inc.",Technology,Semiconductors,0.1102,0.0,2.5,1.0,-1.0,2.5,False,0.0
+BOXL,Boxlight Corporation,Technology,Consumer Electronics,0.8089,4619821.0,2.5,1.0,-1.0,2.5,False,0.0
+SMTK,"SmartKem, Inc.",Technology,Semiconductor Equipment & Materials,1.52,9325144.0,2.5,1.0,-1.0,2.5,False,0.0
+FEBO,Fenbo Holdings Limited,Technology,Consumer Electronics,0.716,7920750.0,3.0,1.0,-2.0,2.0,False,0.0
+IZM,ICZOOM Group Inc.,Technology,Electronics & Computer Distribution,0.8999,10815098.0,3.0,1.0,-2.0,2.0,False,0.0
+ICG,Intchains Group Limited,Technology,Semiconductors,1.84,111709952.0,3.0,1.0,-2.0,2.0,False,0.0
+FOXXW,Foxx Development Holdings Inc.,Technology,Consumer Electronics,0.1603,0.0,2.0,1.0,-1.0,2.0,False,0.0
+WTO,UTime Limited,Technology,Consumer Electronics,1.13,2196935.0,2.5,1.0,-2.0,1.5,False,0.0

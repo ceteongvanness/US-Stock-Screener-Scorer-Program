@@ -1,0 +1,1170 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+AMGN,Amgen Inc.,Healthcare,Drug Manufacturers - General,329.89,177639391232.0,4.0,3.5,0.0,7.5,True,2.89
+ZTS,Zoetis Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,118.65,52583723008.0,4.0,3.5,0.0,7.5,True,1.69
+PFE,Pfizer Inc.,Healthcare,Drug Manufacturers - General,26.03,147998982144.0,4.0,3.5,0.0,7.5,True,6.61
+AZN,AstraZeneca PLC,Healthcare,Drug Manufacturers - General,90.18,279609147392.0,4.0,3.5,0.0,7.5,True,1.74
+SNY,Sanofi,Healthcare,Drug Manufacturers - General,49.53,120898920448.0,4.0,3.5,0.0,7.5,True,4.43
+GILD,"Gilead Sciences, Inc.",Healthcare,Drug Manufacturers - General,121.22,150410608640.0,4.0,3.5,0.0,7.5,True,2.61
+ABT,Abbott Laboratories,Healthcare,Medical Devices,125.08,217696616448.0,4.0,3.5,0.0,7.5,True,1.89
+MRK,"Merck & Co., Inc.",Healthcare,Drug Manufacturers - General,99.72,249078956032.0,4.0,3.5,0.0,7.5,True,3.41
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,201.93,486508953600.0,4.0,3.5,0.0,7.5,True,2.58
+TMO,Thermo Fisher Scientific Inc.,Healthcare,Diagnostics & Research,572.77,215194320896.0,4.0,3.5,0.0,7.5,True,0.3
+NVS,Novartis AG,Healthcare,Drug Manufacturers - General,132.16,253587570688.0,4.0,3.5,0.0,7.5,True,3.02
+NVO,Novo Nordisk A/S,Healthcare,Drug Manufacturers - General,47.86,212664926208.0,4.0,3.5,0.0,7.5,True,3.61
+GSK,GSK plc,Healthcare,Drug Manufacturers - General,48.41,97718542336.0,4.0,3.5,0.0,7.5,True,3.49
+LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,1010.31,905699262464.0,4.0,3.5,0.0,7.5,True,0.59
+A,"Agilent Technologies, Inc.",Healthcare,Diagnostics & Research,145.49,41246478336.0,4.0,3.0,0.0,7.0,True,0.7
+RMD,ResMed Inc.,Healthcare,Medical Instruments & Supplies,256.55,37447651328.0,4.0,3.0,0.0,7.0,True,0.94
+RDY,Dr. Reddy's Laboratories Limited,Healthcare,Drug Manufacturers - Specialty & Generic,14.19,11868736512.0,4.0,3.0,0.0,7.0,True,0.64
+RPRX,Royalty Pharma plc,Healthcare,Biotechnology,39.73,23169513472.0,4.0,3.0,0.0,7.0,True,2.21
+WST,"West Pharmaceutical Services, Inc.",Healthcare,Medical Instruments & Supplies,280.23,20160702464.0,4.0,3.0,0.0,7.0,True,0.31
+CNMD,CONMED Corporation,Healthcare,Medical Devices,40.07,1240885888.0,4.0,2.5,0.0,6.5,False,2.0
+BAX,Baxter International Inc.,Healthcare,Medical Instruments & Supplies,18.54,9530595328.0,4.0,2.5,0.0,6.5,False,2.8
+DHR,Danaher Corporation,Healthcare,Diagnostics & Research,226.25,162006663168.0,4.0,2.5,0.0,6.5,False,0.57
+ELV,"Elevance Health, Inc.",Healthcare,Healthcare Plans,330.75,74477723648.0,4.0,2.5,0.0,6.5,False,2.07
+LMAT,"LeMaitre Vascular, Inc.",Healthcare,Medical Instruments & Supplies,84.53,1917647104.0,4.0,2.5,0.0,6.5,False,0.95
+UNH,UnitedHealth Group Incorporated,Healthcare,Healthcare Plans,330.91,299751047168.0,4.0,2.5,0.0,6.5,False,2.67
+MDT,Medtronic plc,Healthcare,Medical Devices,101.36,130005966848.0,4.0,2.5,0.0,6.5,False,2.8
+USPH,"U.S. Physical Therapy, Inc.",Healthcare,Medical Care Facilities,75.03,1140765056.0,4.0,2.5,0.0,6.5,False,2.4
+CVS,CVS Health Corporation,Healthcare,Healthcare Plans,75.63,96007176192.0,4.0,2.5,0.0,6.5,False,3.52
+ATR,"AptarGroup, Inc.",Healthcare,Medical Instruments & Supplies,121.91,8031494656.0,4.0,2.5,0.0,6.5,False,1.57
+NHC,National HealthCare Corporation,Healthcare,Medical Care Facilities,134.73,2090369920.0,4.0,2.5,0.0,6.5,False,1.9
+GRFS,"Grifols, S.A.",Healthcare,Drug Manufacturers - General,8.85,7301627904.0,4.0,2.5,0.0,6.5,False,1.99
+BMY,Bristol-Myers Squibb Company,Healthcare,Drug Manufacturers - General,52.15,106164527104.0,4.0,2.5,0.0,6.5,False,4.76
+COR,"Cencora, Inc.",Healthcare,Medical Distribution,339.66,65891811328.0,4.0,2.5,0.0,6.5,False,0.71
+PAHC,Phibro Animal Health Corporation,Healthcare,Drug Manufacturers - Specialty & Generic,39.16,1587296128.0,4.0,2.5,0.0,6.5,False,1.23
+BRKR,Bruker Corporation,Healthcare,Medical Devices,48.03,7297733120.0,4.0,2.5,0.0,6.5,False,0.42
+CHE,Chemed Corporation,Healthcare,Medical Care Facilities,421.97,6148817920.0,4.0,2.5,0.0,6.5,False,0.52
+TFX,Teleflex Incorporated,Healthcare,Medical Instruments & Supplies,120.5,5325426176.0,4.0,2.5,0.0,6.5,False,1.13
+SYK,Stryker Corporation,Healthcare,Medical Devices,364.02,139209850880.0,4.0,2.5,0.0,6.5,False,0.92
+TECH,Bio-Techne Corporation,Healthcare,Biotechnology,61.68,9610527744.0,4.0,2.5,0.0,6.5,False,0.52
+PRGO,Perrigo Company plc,Healthcare,Drug Manufacturers - Specialty & Generic,13.44,1849666688.0,4.0,2.5,0.0,6.5,False,8.63
+BDX,"Becton, Dickinson and Company",Healthcare,Medical Instruments & Supplies,193.96,55594262528.0,4.0,2.5,0.0,6.5,False,2.17
+CI,The Cigna Group,Healthcare,Healthcare Plans,265.44,70905880576.0,4.0,2.5,0.0,6.5,False,2.28
+XRAY,DENTSPLY SIRONA Inc.,Healthcare,Medical Instruments & Supplies,11.25,2244959744.0,4.0,2.5,0.0,6.5,False,5.69
+ABBV,AbbVie Inc.,Healthcare,Drug Manufacturers - General,226.08,399570305024.0,3.5,2.5,0.0,6.0,False,3.06
+ZBH,"Zimmer Biomet Holdings, Inc.",Healthcare,Medical Devices,94.28,18684557312.0,4.0,2.0,0.0,6.0,False,1.02
+STE,STERIS plc,Healthcare,Medical Devices,263.28,25930606592.0,4.0,2.0,0.0,6.0,False,0.96
+VTRS,Viatris Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,10.93,12618327040.0,4.0,2.0,0.0,6.0,False,4.39
+SPOK,"Spok Holdings, Inc.",Healthcare,Health Information Services,13.02,268188160.0,4.0,2.0,0.0,6.0,False,9.6
+ENSG,"The Ensign Group, Inc.",Healthcare,Medical Care Facilities,177.97,10308874240.0,4.0,2.0,0.0,6.0,False,0.14
+NRC,National Research Corporation,Healthcare,Health Information Services,15.87,366017984.0,4.0,2.0,0.0,6.0,False,3.28
+MCK,McKesson Corporation,Healthcare,Medical Distribution,808.62,100579704832.0,3.5,2.5,0.0,6.0,False,0.41
+SNN,Smith & Nephew plc,Healthcare,Medical Devices,33.48,14209313792.0,4.0,2.0,0.0,6.0,False,2.28
+SLP,"Simulations Plus, Inc.",Healthcare,Health Information Services,19.64,395639232.0,4.0,2.0,0.0,6.0,False,1.76
+ISRG,"Intuitive Surgical, Inc.",Healthcare,Medical Instruments & Supplies,575.34,206245888000.0,3.0,3.0,0.0,6.0,False,0.0
+FBIOP,"Fortress Biotech, Inc.",Healthcare,Biotechnology,7.45,39990632.0,4.0,2.0,0.0,6.0,False,25.97
+FMS,Fresenius Medical Care AG,Healthcare,Medical Care Facilities,23.25,13477975040.0,4.0,2.0,0.0,6.0,False,3.39
+EHC,Encompass Health Corporation,Healthcare,Medical Care Facilities,112.5,11331430400.0,4.0,2.0,0.0,6.0,False,0.68
+UHS,"Universal Health Services, Inc.",Healthcare,Medical Care Facilities,231.08,14705629184.0,4.0,2.0,0.0,6.0,False,0.35
+HCA,"HCA Healthcare, Inc.",Healthcare,Medical Care Facilities,486.7,113884643328.0,3.5,2.5,0.0,6.0,False,0.59
+PHG,Koninklijke Philips N.V.,Healthcare,Medical Devices,27.05,25723981824.0,4.0,2.0,0.0,6.0,False,3.58
+RVTY,"Revvity, Inc.",Healthcare,Diagnostics & Research,100.79,11698955264.0,4.0,2.0,0.0,6.0,False,0.28
+VRTX,Vertex Pharmaceuticals Incorporated,Healthcare,Biotechnology,455.48,116780818432.0,3.0,3.0,0.0,6.0,False,0.0
+UTMD,"Utah Medical Products, Inc.",Healthcare,Medical Instruments & Supplies,56.01,179552544.0,4.0,2.0,0.0,6.0,False,2.21
+HUM,Humana Inc.,Healthcare,Healthcare Plans,257.85,31012411392.0,4.0,2.0,0.0,6.0,False,1.37
+DGX,Quest Diagnostics Incorporated,Healthcare,Diagnostics & Research,182.51,20408895488.0,4.0,2.0,0.0,6.0,False,1.75
+REGN,"Regeneron Pharmaceuticals, Inc.",Healthcare,Biotechnology,718.36,76137136128.0,3.5,2.5,0.0,6.0,False,0.49
+TAK,Takeda Pharmaceutical Company Limited,Healthcare,Drug Manufacturers - Specialty & Generic,14.18,47187509248.0,4.0,2.0,0.0,6.0,False,4.66
+EW,Edwards Lifesciences Corporation,Healthcare,Medical Devices,86.19,50602151936.0,3.0,2.5,0.0,5.5,False,0.0
+QGEN,Qiagen N.V.,Healthcare,Diagnostics & Research,47.01,10193694720.0,3.5,2.0,0.0,5.5,False,0.53
+BGMSP,"Bio Green Med Solution, Inc.",Healthcare,Biotechnology,4.17,0.0,3.5,2.0,0.0,5.5,False,14.39
+AZTA,"Azenta, Inc.",Healthcare,Medical Instruments & Supplies,35.05,1607357184.0,3.0,2.5,0.0,5.5,False,0.0
+HCSG,"Healthcare Services Group, Inc.",Healthcare,Medical Care Facilities,18.88,1367152256.0,3.0,2.5,0.0,5.5,False,0.0
+IDXX,"IDEXX Laboratories, Inc.",Healthcare,Diagnostics & Research,714.1,57131352064.0,3.0,2.5,0.0,5.5,False,0.0
+ARGX,argenx SE,Healthcare,Biotechnology,901.17,56121487360.0,3.0,2.5,0.0,5.5,False,0.0
+CAH,"Cardinal Health, Inc.",Healthcare,Medical Distribution,198.83,47241023488.0,3.5,2.0,0.0,5.5,False,1.03
+EXEL,"Exelixis, Inc.",Healthcare,Biotechnology,44.36,11941824512.0,3.0,2.0,0.0,5.0,False,0.0
+MEDP,"Medpace Holdings, Inc.",Healthcare,Diagnostics & Research,548.12,15439566848.0,3.0,2.0,0.0,5.0,False,0.0
+NBIX,"Neurocrine Biosciences, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,155.51,15505231872.0,3.0,2.0,0.0,5.0,False,0.0
+CON,"Concentra Group Holdings Parent, Inc.",Healthcare,Medical Care Facilities,19.47,2495488256.0,3.5,1.5,0.0,5.0,False,1.28
+COO,"The Cooper Companies, Inc.",Healthcare,Medical Instruments & Supplies,81.4,16240318464.0,3.0,2.0,0.0,5.0,False,0.0
+BSX,Boston Scientific Corporation,Healthcare,Medical Devices,97.52,144567730176.0,3.0,2.0,0.0,5.0,False,0.0
+OGN,Organon & Co.,Healthcare,Drug Manufacturers - General,7.14,1856278016.0,3.5,1.5,0.0,5.0,False,1.12
+BMRN,BioMarin Pharmaceutical Inc.,Healthcare,Biotechnology,53.4,10258906112.0,3.0,2.0,0.0,5.0,False,0.0
+IRMD,IRADIMED CORPORATION,Healthcare,Medical Devices,94.57,1203039744.0,3.5,1.5,0.0,5.0,False,0.72
+INCY,Incyte Corporation,Healthcare,Biotechnology,102.52,20127002624.0,3.0,2.0,0.0,5.0,False,0.0
+ILMN,"Illumina, Inc.",Healthcare,Diagnostics & Research,128.96,19821152256.0,3.0,2.0,0.0,5.0,False,0.0
+PETS,"PetMed Express, Inc.",Healthcare,Pharmaceutical Retailers,1.65,34675672.0,3.0,2.0,0.0,5.0,False,0.0
+BIIB,Biogen Inc.,Healthcare,Drug Manufacturers - General,181.3,26597122048.0,3.0,2.0,0.0,5.0,False,0.0
+BHC,Bausch Health Companies Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,6.93,2570681600.0,2.5,2.5,0.0,5.0,False,0.0
+SEM,Select Medical Holdings Corporation,Healthcare,Medical Care Facilities,14.91,1848679936.0,3.5,1.5,0.0,5.0,False,1.68
+GMAB,Genmab A/S,Healthcare,Biotechnology,31.74,19676715008.0,3.0,2.0,0.0,5.0,False,0.0
+GMED,"Globus Medical, Inc.",Healthcare,Medical Devices,91.1,12303715328.0,3.0,2.0,0.0,5.0,False,0.0
+DXR,Daxor Corporation,Healthcare,Medical Instruments & Supplies,12.85,64050212.0,3.0,2.0,0.0,5.0,False,0.0
+SOLV,Solventum Corporation,Healthcare,Medical Instruments & Supplies,85.43,14817624064.0,3.0,2.0,0.0,5.0,False,0.0
+DXCM,"DexCom, Inc.",Healthcare,Medical Devices,65.49,25682247680.0,3.0,2.0,0.0,5.0,False,0.0
+STVN,Stevanato Group S.p.A.,Healthcare,Medical Instruments & Supplies,22.11,6036111360.0,3.5,1.5,0.0,5.0,False,0.28
+TBRG,"TruBridge, Inc.",Healthcare,Health Information Services,23.02,345568032.0,3.0,2.0,0.0,5.0,False,0.0
+TEVA,Teva Pharmaceutical Industries Limited,Healthcare,Drug Manufacturers - Specialty & Generic,28.46,32651661312.0,3.0,2.0,0.0,5.0,False,0.0
+AMS,American Shared Hospital Services,Healthcare,Medical Care Facilities,2.07,13544010.0,3.0,2.0,0.0,5.0,False,0.0
+THC,Tenet Healthcare Corporation,Healthcare,Medical Care Facilities,210.0,18553710592.0,3.0,2.0,0.0,5.0,False,0.0
+VEEV,Veeva Systems Inc.,Healthcare,Health Information Services,242.0,39780409344.0,3.0,2.0,0.0,5.0,False,0.0
+UTHR,United Therapeutics Corporation,Healthcare,Drug Manufacturers - Specialty & Generic,489.31,22129664000.0,3.0,2.0,0.0,5.0,False,0.0
+VERU,Veru Inc.,Healthcare,Biotechnology,2.49,39965476.0,3.0,2.0,0.0,5.0,False,0.0
+WAT,Waters Corporation,Healthcare,Diagnostics & Research,394.81,23504910336.0,3.0,2.0,0.0,5.0,False,0.0
+ABCL,AbCellera Biologics Inc.,Healthcare,Biotechnology,3.56,1065632704.0,3.0,1.5,0.0,4.5,False,0.0
+RCUS,"Arcus Biosciences, Inc.",Healthcare,Biotechnology,25.45,3148891392.0,3.0,1.5,0.0,4.5,False,0.0
+EVO,Evotec SE,Healthcare,Drug Manufacturers - Specialty & Generic,3.12,1115541632.0,3.0,1.5,0.0,4.5,False,0.0
+ESTA,Establishment Labs Holdings Inc.,Healthcare,Medical Devices,70.73,2055263104.0,3.0,1.5,0.0,4.5,False,0.0
+LQDA,Liquidia Corporation,Healthcare,Biotechnology,34.41,2993514496.0,3.0,1.5,0.0,4.5,False,0.0
+TERN,"Terns Pharmaceuticals, Inc.",Healthcare,Biotechnology,29.36,2644742400.0,3.0,1.5,0.0,4.5,False,0.0
+TDOC,"Teladoc Health, Inc.",Healthcare,Health Information Services,7.59,1347023232.0,3.0,1.5,0.0,4.5,False,0.0
+TGTX,"TG Therapeutics, Inc.",Healthcare,Biotechnology,30.76,4883441152.0,3.0,1.5,0.0,4.5,False,0.0
+ANIP,"ANI Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,81.77,1836404352.0,3.0,1.5,0.0,4.5,False,0.0
+EWTX,"Edgewise Therapeutics, Inc.",Healthcare,Biotechnology,23.59,2497436416.0,3.0,1.5,0.0,4.5,False,0.0
+RGEN,Repligen Corporation,Healthcare,Medical Instruments & Supplies,164.98,9286847488.0,3.0,1.5,0.0,4.5,False,0.0
+BBNX,"Beta Bionics, Inc.",Healthcare,Medical Devices,29.38,1293443712.0,3.0,1.5,0.0,4.5,False,0.0
+BBOT,"BridgeBio Oncology Therapeutics, Inc.",Healthcare,Biotechnology,13.69,1095045120.0,3.0,1.5,0.0,4.5,False,0.0
+LNTH,"Lantheus Holdings, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,63.3,4304029696.0,3.0,1.5,0.0,4.5,False,0.0
+APGE,"Apogee Therapeutics, Inc.",Healthcare,Biotechnology,76.75,5243577856.0,3.0,1.5,0.0,4.5,False,0.0
+EYPT,"EyePoint Pharmaceuticals, Inc.",Healthcare,Biotechnology,17.74,1468645248.0,3.0,1.5,0.0,4.5,False,0.0
+RAPP,"Rapport Therapeutics, Inc.",Healthcare,Biotechnology,29.5,1406003456.0,3.0,1.5,0.0,4.5,False,0.0
+RARE,Ultragenyx Pharmaceutical Inc.,Healthcare,Biotechnology,36.38,3509853952.0,3.0,1.5,0.0,4.5,False,0.0
+CNTA,Centessa Pharmaceuticals plc,Healthcare,Biotechnology,29.91,4421294080.0,3.0,1.5,0.0,4.5,False,0.0
+APLS,"Apellis Pharmaceuticals, Inc.",Healthcare,Biotechnology,23.63,2989790720.0,3.0,1.5,0.0,4.5,False,0.0
+LFST,"LifeStance Health Group, Inc.",Healthcare,Medical Care Facilities,6.48,2520721920.0,3.0,1.5,0.0,4.5,False,0.0
+LIVN,LivaNova PLC,Healthcare,Medical Devices,63.36,3459806208.0,3.0,1.5,0.0,4.5,False,0.0
+LGND,Ligand Pharmaceuticals Incorporated,Healthcare,Biotechnology,184.87,3638559488.0,3.0,1.5,0.0,4.5,False,0.0
+MASI,Masimo Corporation,Healthcare,Medical Devices,141.68,7610191872.0,3.0,1.5,0.0,4.5,False,0.0
+MAZE,"Maze Therapeutics, Inc.",Healthcare,Biotechnology,41.71,2007062016.0,3.0,1.5,0.0,4.5,False,0.0
+LH,Labcorp Holdings Inc.,Healthcare,Diagnostics & Research,258.39,21472210944.0,3.5,1.0,0.0,4.5,False,1.11
+MBX,"MBX Biosciences, Inc.",Healthcare,Biotechnology,31.97,1435526656.0,3.0,1.5,0.0,4.5,False,0.0
+QURE,uniQure N.V.,Healthcare,Biotechnology,21.33,1328681216.0,3.0,1.5,0.0,4.5,False,0.0
+CLDX,"Celldex Therapeutics, Inc.",Healthcare,Biotechnology,29.45,1956936960.0,3.0,1.5,0.0,4.5,False,0.0
+TARS,"Tarsus Pharmaceuticals, Inc.",Healthcare,Biotechnology,81.77,3471063040.0,3.0,1.5,0.0,4.5,False,0.0
+CLOV,"Clover Health Investments, Corp.",Healthcare,Healthcare Plans,2.58,1333029376.0,3.0,1.5,0.0,4.5,False,0.0
+LEGN,Legend Biotech Corporation,Healthcare,Biotechnology,28.13,5195317248.0,3.0,1.5,0.0,4.5,False,0.0
+MESO,Mesoblast Limited,Healthcare,Biotechnology,17.87,2300686592.0,3.0,1.5,0.0,4.5,False,0.0
+MD,"Pediatrix Medical Group, Inc.",Healthcare,Medical Care Facilities,22.12,1926302464.0,3.0,1.5,0.0,4.5,False,0.0
+TLX,Telix Pharmaceuticals Limited,Healthcare,Biotechnology,9.85,3297036288.0,3.0,1.5,0.0,4.5,False,0.0
+QDEL,QuidelOrtho Corporation,Healthcare,Medical Devices,27.76,1885779456.0,3.0,1.5,0.0,4.5,False,0.0
+BEAM,Beam Therapeutics Inc.,Healthcare,Biotechnology,27.09,2748956160.0,3.0,1.5,0.0,4.5,False,0.0
+MDXG,"MiMedx Group, Inc.",Healthcare,Biotechnology,6.93,1026347968.0,3.0,1.5,0.0,4.5,False,0.0
+PVLA,"Palvella Therapeutics, Inc.",Healthcare,Biotechnology,100.49,1189448832.0,3.0,1.5,0.0,4.5,False,0.0
+RLAY,"Relay Therapeutics, Inc.",Healthcare,Biotechnology,7.68,1331115904.0,3.0,1.5,0.0,4.5,False,0.0
+COGT,"Cogent Biosciences, Inc.",Healthcare,Biotechnology,38.77,5951410688.0,3.0,1.5,0.0,4.5,False,0.0
+KURA,"Kura Oncology, Inc.",Healthcare,Biotechnology,11.95,1039859328.0,3.0,1.5,0.0,4.5,False,0.0
+SYRE,"Spyre Therapeutics, Inc.",Healthcare,Biotechnology,33.45,2595456768.0,3.0,1.5,0.0,4.5,False,0.0
+SVRA,Savara Inc.,Healthcare,Biotechnology,6.5,1322540928.0,3.0,1.5,0.0,4.5,False,0.0
+KYMR,"Kymera Therapeutics, Inc.",Healthcare,Biotechnology,66.62,4793244160.0,3.0,1.5,0.0,4.5,False,0.0
+TMDX,"TransMedics Group, Inc.",Healthcare,Medical Devices,136.51,4665136640.0,3.0,1.5,0.0,4.5,False,0.0
+TNDM,"Tandem Diabetes Care, Inc.",Healthcare,Medical Devices,20.92,1418425344.0,3.0,1.5,0.0,4.5,False,0.0
+TNGX,"Tango Therapeutics, Inc.",Healthcare,Biotechnology,9.63,1296940416.0,3.0,1.5,0.0,4.5,False,0.0
+COLL,"Collegium Pharmaceutical, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,47.91,1514481792.0,3.0,1.5,0.0,4.5,False,0.0
+CORT,Corcept Therapeutics Incorporated,Healthcare,Biotechnology,86.105,9073033216.0,3.0,1.5,0.0,4.5,False,0.0
+SUPN,"Supernus Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,45.68,2619261696.0,3.0,1.5,0.0,4.5,False,0.0
+MIRM,"Mirum Pharmaceuticals, Inc.",Healthcare,Biotechnology,68.48,3519432192.0,3.0,1.5,0.0,4.5,False,0.0
+KRYS,"Krystal Biotech, Inc.",Healthcare,Biotechnology,234.13,6789189632.0,3.0,1.5,0.0,4.5,False,0.0
+KNSA,"Kiniksa Pharmaceuticals International, plc",Healthcare,Drug Manufacturers - Specialty & Generic,41.67,3158409216.0,3.0,1.5,0.0,4.5,False,0.0
+KOD,Kodiak Sciences Inc.,Healthcare,Biotechnology,24.34,1291198720.0,3.0,1.5,0.0,4.5,False,0.0
+MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,14.9,1055626240.0,3.0,1.5,0.0,4.5,False,0.0
+MLYS,"Mineralys Therapeutics, Inc.",Healthcare,Biotechnology,38.5,3046888192.0,3.0,1.5,0.0,4.5,False,0.0
+MMSI,"Merit Medical Systems, Inc.",Healthcare,Medical Instruments & Supplies,83.43,4946585600.0,3.0,1.5,0.0,4.5,False,0.0
+KMTS,"Kestra Medical Technologies, Ltd.",Healthcare,Medical Instruments & Supplies,24.07,1238378624.0,3.0,1.5,0.0,4.5,False,0.0
+ARDT,"Ardent Health, Inc.",Healthcare,Medical Care Facilities,8.79,1258619648.0,3.0,1.5,0.0,4.5,False,0.0
+ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,5.98,1452986368.0,3.0,1.5,0.0,4.5,False,0.0
+PTGX,"Protagonist Therapeutics, Inc.",Healthcare,Biotechnology,89.65,5604529152.0,3.0,1.5,0.0,4.5,False,0.0
+CPRX,"Catalyst Pharmaceuticals, Inc.",Healthcare,Biotechnology,23.53,2892128512.0,3.0,1.5,0.0,4.5,False,0.0
+STOK,"Stoke Therapeutics, Inc.",Healthcare,Biotechnology,30.87,1763206528.0,3.0,1.5,0.0,4.5,False,0.0
+XENE,Xenon Pharmaceuticals Inc.,Healthcare,Biotechnology,45.01,3478148096.0,3.0,1.5,0.0,4.5,False,0.0
+ENOV,Enovis Corporation,Healthcare,Medical Devices,27.02,1545257088.0,3.0,1.5,0.0,4.5,False,0.0
+MNMD,Mind Medicine (MindMed) Inc.,Healthcare,Biotechnology,12.35,1200657024.0,3.0,1.5,0.0,4.5,False,0.0
+TRIB,Trinity Biotech plc,Healthcare,Medical Devices,0.96,18426316.0,2.5,2.0,0.0,4.5,False,0.0
+ARQT,"Arcutis Biotherapeutics, Inc.",Healthcare,Biotechnology,31.2,3821756416.0,3.0,1.5,0.0,4.5,False,0.0
+MOH,"Molina Healthcare, Inc.",Healthcare,Healthcare Plans,151.86,8230812160.0,3.0,1.5,0.0,4.5,False,0.0
+AMLX,"Amylyx Pharmaceuticals, Inc.",Healthcare,Biotechnology,14.2,1559437824.0,3.0,1.5,0.0,4.5,False,0.0
+AMPH,"Amphastar Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,26.77,1244673280.0,3.0,1.5,0.0,4.5,False,0.0
+XNCR,"Xencor, Inc.",Healthcare,Biotechnology,17.3,1235401088.0,3.0,1.5,0.0,4.5,False,0.0
+STAA,STAAR Surgical Company,Healthcare,Medical Instruments & Supplies,25.38,1252907776.0,3.0,1.5,0.0,4.5,False,0.0
+CGON,"CG Oncology, Inc.",Healthcare,Biotechnology,43.3,3492845312.0,3.0,1.5,0.0,4.5,False,0.0
+MRUS,Merus N.V.,Healthcare,Biotechnology,96.14,7291947520.0,3.0,1.5,0.0,4.5,False,0.0
+MRVI,"Maravai LifeSciences Holdings, Inc.",Healthcare,Biotechnology,3.7,1355646336.0,3.0,1.5,0.0,4.5,False,0.0
+ARWR,"Arrowhead Pharmaceuticals, Inc.",Healthcare,Biotechnology,61.44,8494543872.0,3.0,1.5,0.0,4.5,False,0.0
+TRVI,"Trevi Therapeutics, Inc.",Healthcare,Biotechnology,13.47,1727259904.0,3.0,1.5,0.0,4.5,False,0.0
+CRNX,"Crinetics Pharmaceuticals, Inc.",Healthcare,Biotechnology,46.67,4428601856.0,3.0,1.5,0.0,4.5,False,0.0
+CRSP,CRISPR Therapeutics AG,Healthcare,Biotechnology,56.88,5420677120.0,3.0,1.5,0.0,4.5,False,0.0
+PRVA,"Privia Health Group, Inc.",Healthcare,Health Information Services,23.84,2932356352.0,3.0,1.5,0.0,4.5,False,0.0
+ELVN,"Enliven Therapeutics, Inc.",Healthcare,Biotechnology,21.81,1294364928.0,3.0,1.5,0.0,4.5,False,0.0
+CRL,"Charles River Laboratories International, Inc.",Healthcare,Diagnostics & Research,184.31,9070903296.0,3.0,1.5,0.0,4.5,False,0.0
+SSII,"SS Innovations International, Inc.",Healthcare,Medical Devices,6.21,1202387328.0,3.0,1.5,0.0,4.5,False,0.0
+TSHA,"Taysha Gene Therapies, Inc.",Healthcare,Biotechnology,5.05,1383292800.0,3.0,1.5,0.0,4.5,False,0.0
+ACHC,"Acadia Healthcare Company, Inc.",Healthcare,Medical Care Facilities,15.47,1428601856.0,3.0,1.5,0.0,4.5,False,0.0
+AXSM,"Axsome Therapeutics, Inc.",Healthcare,Biotechnology,149.22,7522574336.0,3.0,1.5,0.0,4.5,False,0.0
+SRPT,"Sarepta Therapeutics, Inc.",Healthcare,Biotechnology,22.26,2332562688.0,3.0,1.5,0.0,4.5,False,0.0
+SRRK,Scholar Rock Holding Corporation,Healthcare,Biotechnology,45.02,4592375808.0,3.0,1.5,0.0,4.5,False,0.0
+CERT,"Certara, Inc.",Healthcare,Health Information Services,9.22,1468500480.0,3.0,1.5,0.0,4.5,False,0.0
+MTD,Mettler-Toledo International Inc.,Healthcare,Diagnostics & Research,1414.86,29144758272.0,2.5,2.0,0.0,4.5,False,0.0
+CDTX,"Cidara Therapeutics, Inc.",Healthcare,Biotechnology,220.36,6929507840.0,3.0,1.5,0.0,4.5,False,0.0
+WVE,Wave Life Sciences Ltd.,Healthcare,Biotechnology,7.49,1252191616.0,3.0,1.5,0.0,4.5,False,0.0
+ACAD,ACADIA Pharmaceuticals Inc.,Healthcare,Biotechnology,27.44,4642349568.0,3.0,1.5,0.0,4.5,False,0.0
+PRAX,"Praxis Precision Medicines, Inc.",Healthcare,Biotechnology,247.99,6201528832.0,3.0,1.5,0.0,4.5,False,0.0
+CELC,Celcuity Inc.,Healthcare,Biotechnology,105.63,4887632896.0,3.0,1.5,0.0,4.5,False,0.0
+ITGR,Integer Holdings Corporation,Healthcare,Medical Devices,69.84,2447083520.0,3.0,1.5,0.0,4.5,False,0.0
+CSTL,"Castle Biosciences, Inc.",Healthcare,Diagnostics & Research,38.64,1127849856.0,3.0,1.5,0.0,4.5,False,0.0
+NAMS,NewAmsterdam Pharma Company N.V.,Healthcare,Biotechnology,35.26,3998159360.0,3.0,1.5,0.0,4.5,False,0.0
+FOLD,"Amicus Therapeutics, Inc.",Healthcare,Biotechnology,9.9,3054481920.0,3.0,1.5,0.0,4.5,False,0.0
+TVTX,"Travere Therapeutics, Inc.",Healthcare,Biotechnology,35.0,3131531520.0,3.0,1.5,0.0,4.5,False,0.0
+IRON,"Disc Medicine, Inc.",Healthcare,Biotechnology,93.26,3520580096.0,3.0,1.5,0.0,4.5,False,0.0
+PRCT,PROCEPT BioRobotics Corporation,Healthcare,Medical Devices,35.86,2003806208.0,3.0,1.5,0.0,4.5,False,0.0
+IRTC,"iRhythm Technologies, Inc.",Healthcare,Medical Devices,178.37,5746928640.0,3.0,1.5,0.0,4.5,False,0.0
+TWST,Twist Bioscience Corporation,Healthcare,Diagnostics & Research,32.3,1975081088.0,3.0,1.5,0.0,4.5,False,0.0
+ALMS,Alumis Inc.,Healthcare,Biotechnology,11.12,1160854656.0,3.0,1.5,0.0,4.5,False,0.0
+ALNY,"Alnylam Pharmaceuticals, Inc.",Healthcare,Biotechnology,458.12,60523978752.0,3.0,1.5,0.0,4.5,False,0.0
+TXG,"10x Genomics, Inc.",Healthcare,Health Information Services,17.77,2248847616.0,3.0,1.5,0.0,4.5,False,0.0
+INVA,"Innoviva, Inc.",Healthcare,Biotechnology,20.74,1550710400.0,3.0,1.5,0.0,4.5,False,0.0
+INSP,"Inspire Medical Systems, Inc.",Healthcare,Medical Devices,136.81,4046062080.0,3.0,1.5,0.0,4.5,False,0.0
+WRBY,Warby Parker Inc.,Healthcare,Medical Instruments & Supplies,18.77,2293033728.0,3.0,1.5,0.0,4.5,False,0.0
+ACLX,"Arcellx, Inc.",Healthcare,Biotechnology,69.56,4022158848.0,3.0,1.5,0.0,4.5,False,0.0
+RXRX,"Recursion Pharmaceuticals, Inc.",Healthcare,Biotechnology,4.71,2455147520.0,3.0,1.5,0.0,4.5,False,0.0
+NEO,"NeoGenomics, Inc.",Healthcare,Diagnostics & Research,11.9,1539714816.0,3.0,1.5,0.0,4.5,False,0.0
+NEOG,Neogen Corporation,Healthcare,Diagnostics & Research,5.98,1299445760.0,3.0,1.5,0.0,4.5,False,0.0
+CVAC,CureVac N.V.,Healthcare,Biotechnology,5.12,1152884480.0,3.0,1.5,0.0,4.5,False,0.0
+TYRA,"Tyra Biosciences, Inc.",Healthcare,Biotechnology,21.5,1147500032.0,3.0,1.5,0.0,4.5,False,0.0
+RYTM,"Rhythm Pharmaceuticals, Inc.",Healthcare,Biotechnology,104.6,6980591104.0,3.0,1.5,0.0,4.5,False,0.0
+IMTX,Immatics N.V.,Healthcare,Biotechnology,10.18,1237519872.0,3.0,1.5,0.0,4.5,False,0.0
+IMVT,"Immunovant, Inc.",Healthcare,Biotechnology,22.84,4003315968.0,3.0,1.5,0.0,4.5,False,0.0
+INBX,"Inhibrx Biosciences, Inc.",Healthcare,Biotechnology,89.47,1301228288.0,3.0,1.5,0.0,4.5,False,0.0
+IMCR,Immunocore Holdings plc,Healthcare,Biotechnology,38.78,1959569664.0,3.0,1.5,0.0,4.5,False,0.0
+IMNM,"Immunome, Inc.",Healthcare,Biotechnology,19.76,1812195200.0,3.0,1.5,0.0,4.5,False,0.0
+AXGN,"Axogen, Inc.",Healthcare,Medical Devices,33.32,1536794624.0,3.0,1.5,0.0,4.5,False,0.0
+FTRE,Fortrea Holdings Inc.,Healthcare,Biotechnology,14.24,1315776000.0,3.0,1.5,0.0,4.5,False,0.0
+AVTR,"Avantor, Inc.",Healthcare,Medical Instruments & Supplies,10.93,7452236288.0,3.0,1.5,0.0,4.5,False,0.0
+PNTG,"The Pennant Group, Inc.",Healthcare,Medical Care Facilities,29.21,1010482560.0,3.0,1.5,0.0,4.5,False,0.0
+ALHC,"Alignment Healthcare, Inc.",Healthcare,Healthcare Plans,19.55,3911793408.0,3.0,1.5,0.0,4.5,False,0.0
+ALKS,Alkermes plc,Healthcare,Drug Manufacturers - Specialty & Generic,29.52,4874268672.0,3.0,1.5,0.0,4.5,False,0.0
+IDYA,"IDEAYA Biosciences, Inc.",Healthcare,Biotechnology,35.87,3144593920.0,3.0,1.5,0.0,4.5,False,0.0
+ICUI,"ICU Medical, Inc.",Healthcare,Medical Instruments & Supplies,142.51,3518095872.0,3.0,1.5,0.0,4.5,False,0.0
+UFPT,"UFP Technologies, Inc.",Healthcare,Medical Devices,217.14,1674680064.0,3.0,1.5,0.0,4.5,False,0.0
+ASTH,"Astrana Health, Inc.",Healthcare,Medical Care Facilities,22.07,1106934400.0,3.0,1.5,0.0,4.5,False,0.0
+NKTR,Nektar Therapeutics,Healthcare,Biotechnology,56.9,1157436416.0,3.0,1.5,0.0,4.5,False,0.0
+NNNN,Anbio Biotechnology,Healthcare,Medical Instruments & Supplies,37.0,1623974400.0,3.0,1.5,0.0,4.5,False,0.0
+SANA,"Sana Biotechnology, Inc.",Healthcare,Biotechnology,5.13,1366458240.0,3.0,1.5,0.0,4.5,False,0.0
+IART,Integra LifeSciences Holdings Corporation,Healthcare,Medical Devices,13.24,1031538880.0,3.0,1.5,0.0,4.5,False,0.0
+ALC,Alcon Inc.,Healthcare,Medical Instruments & Supplies,80.73,39806783488.0,3.5,1.0,0.0,4.5,False,0.41
+SNDX,"Syndax Pharmaceuticals, Inc.",Healthcare,Biotechnology,20.32,1766109568.0,3.0,1.5,0.0,4.5,False,0.0
+CAPR,"Capricor Therapeutics, Inc.",Healthcare,Biotechnology,26.89,1229369728.0,3.0,1.5,0.0,4.5,False,0.0
+BIO,"Bio-Rad Laboratories, Inc.",Healthcare,Medical Devices,317.69,8569635840.0,3.0,1.5,0.0,4.5,False,0.0
+PHR,"Phreesia, Inc.",Healthcare,Health Information Services,20.29,1215664640.0,3.0,1.5,0.0,4.5,False,0.0
+PHVS,Pharvaris N.V.,Healthcare,Biotechnology,26.42,1716228864.0,3.0,1.5,0.0,4.5,False,0.0
+AVAH,Aveanna Healthcare Holdings Inc.,Healthcare,Medical Care Facilities,9.31,1944964992.0,3.0,1.5,0.0,4.5,False,0.0
+CAI,"Caris Life Sciences, Inc.",Healthcare,Biotechnology,28.86,8142759936.0,3.0,1.5,0.0,4.5,False,0.0
+PGEN,"Precigen, Inc.",Healthcare,Biotechnology,3.6,1273768192.0,3.0,1.5,0.0,4.5,False,0.0
+PGNY,"Progyny, Inc.",Healthcare,Healthcare Plans,24.02,2070803968.0,3.0,1.5,0.0,4.5,False,0.0
+PHAR,Pharming Group N.V.,Healthcare,Biotechnology,16.75,1147622272.0,3.0,1.5,0.0,4.5,False,0.0
+UPB,"Upstream Bio, Inc.",Healthcare,Biotechnology,27.75,1499570944.0,3.0,1.5,0.0,4.5,False,0.0
+NRIX,"Nurix Therapeutics, Inc.",Healthcare,Biotechnology,18.09,1833769472.0,3.0,1.5,0.0,4.5,False,0.0
+HSTM,"HealthStream, Inc.",Healthcare,Health Information Services,24.26,719748992.0,3.5,1.0,0.0,4.5,False,0.51
+HTFL,"Heartflow, Inc.",Healthcare,Health Information Services,27.53,2344419584.0,3.0,1.5,0.0,4.5,False,0.0
+AVBP,"ArriVent BioPharma, Inc.",Healthcare,Biotechnology,24.69,1019236800.0,3.0,1.5,0.0,4.5,False,0.0
+AVDL,Avadel Pharmaceuticals plc,Healthcare,Drug Manufacturers - Specialty & Generic,21.34,2094331904.0,3.0,1.5,0.0,4.5,False,0.0
+AKRO,"Akero Therapeutics, Inc.",Healthcare,Biotechnology,54.55,4490798592.0,3.0,1.5,0.0,4.5,False,0.0
+NTLA,"Intellia Therapeutics, Inc.",Healthcare,Biotechnology,9.61,1113125632.0,3.0,1.5,0.0,4.5,False,0.0
+HQY,"HealthEquity, Inc.",Healthcare,Health Information Services,94.51,8172785664.0,3.0,1.5,0.0,4.5,False,0.0
+HRMY,"Harmony Biosciences Holdings, Inc.",Healthcare,Biotechnology,39.83,2294063104.0,3.0,1.5,0.0,4.5,False,0.0
+HROW,"Harrow, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,45.75,1694463488.0,3.0,1.5,0.0,4.5,False,0.0
+HSIC,"Henry Schein, Inc.",Healthcare,Medical Distribution,73.62,8927779840.0,3.0,1.5,0.0,4.5,False,0.0
+ATAI,Atai Beckley N.V.,Healthcare,Biotechnology,4.32,1568983168.0,3.0,1.5,0.0,4.5,False,0.0
+ATEC,"Alphatec Holdings, Inc.",Healthcare,Medical Devices,21.45,3186401792.0,3.0,1.5,0.0,4.5,False,0.0
+HLN,Haleon plc,Healthcare,Drug Manufacturers - Specialty & Generic,9.52,42392186880.0,3.5,1.0,0.0,4.5,False,1.94
+HNGE,"Hinge Health, Inc.",Healthcare,Health Information Services,50.04,3939119616.0,3.0,1.5,0.0,4.5,False,0.0
+AUPH,Aurinia Pharmaceuticals Inc.,Healthcare,Biotechnology,15.62,2059349504.0,3.0,1.5,0.0,4.5,False,0.0
+NVST,Envista Holdings Corporation,Healthcare,Medical Instruments & Supplies,20.23,3361856256.0,3.0,1.5,0.0,4.5,False,0.0
+NUTX,Nutex Health Inc.,Healthcare,Medical Care Facilities,160.95,1138224896.0,3.0,1.5,0.0,4.5,False,0.0
+DYN,"Dyne Therapeutics, Inc.",Healthcare,Biotechnology,20.28,2896484864.0,3.0,1.5,0.0,4.5,False,0.0
+GEHC,GE HealthCare Technologies Inc.,Healthcare,Health Information Services,85.46,39017791488.0,3.5,1.0,0.0,4.5,False,0.16
+WGS,GeneDx Holdings Corp.,Healthcare,Diagnostics & Research,158.96,4594673664.0,3.0,1.5,0.0,4.5,False,0.0
+ADMA,"ADMA Biologics, Inc.",Healthcare,Biotechnology,19.85,4736819712.0,3.0,1.5,0.0,4.5,False,0.0
+ADPT,Adaptive Biotechnologies Corporation,Healthcare,Biotechnology,14.75,2251811584.0,3.0,1.5,0.0,4.5,False,0.0
+BLCO,Bausch + Lomb Corporation,Healthcare,Medical Instruments & Supplies,16.82,5957472256.0,3.0,1.5,0.0,4.5,False,0.0
+ADUS,Addus HomeCare Corporation,Healthcare,Medical Care Facilities,113.19,2092121600.0,3.0,1.5,0.0,4.5,False,0.0
+NUVB,Nuvation Bio Inc.,Healthcare,Biotechnology,8.55,2931225856.0,3.0,1.5,0.0,4.5,False,0.0
+NUVL,"Nuvalent, Inc.",Healthcare,Biotechnology,109.6,8511230976.0,3.0,1.5,0.0,4.5,False,0.0
+NVCR,NovoCure Limited,Healthcare,Medical Devices,12.11,1356101760.0,3.0,1.5,0.0,4.5,False,0.0
+SDGR,"Schrödinger, Inc.",Healthcare,Health Information Services,17.64,1299445376.0,3.0,1.5,0.0,4.5,False,0.0
+ATRC,"AtriCure, Inc.",Healthcare,Medical Instruments & Supplies,39.86,1981719168.0,3.0,1.5,0.0,4.5,False,0.0
+PCVX,"Vaxcyte, Inc.",Healthcare,Biotechnology,46.48,6084523008.0,3.0,1.5,0.0,4.5,False,0.0
+BLFS,"BioLife Solutions, Inc.",Healthcare,Medical Instruments & Supplies,25.46,1225849216.0,3.0,1.5,0.0,4.5,False,0.0
+HIMS,"Hims & Hers Health, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,39.2,8923822080.0,3.0,1.5,0.0,4.5,False,0.0
+VCEL,Vericel Corporation,Healthcare,Biotechnology,36.23,1832296832.0,3.0,1.5,0.0,4.5,False,0.0
+SLNO,"Soleno Therapeutics, Inc.",Healthcare,Biotechnology,51.37,2759083776.0,3.0,1.5,0.0,4.5,False,0.0
+VCYT,"Veracyte, Inc.",Healthcare,Diagnostics & Research,44.61,3526383872.0,3.0,1.5,0.0,4.5,False,0.0
+BTSG,"BrightSpring Health Services, Inc.",Healthcare,Health Information Services,35.79,6454809088.0,3.0,1.5,0.0,4.5,False,0.0
+PBH,Prestige Consumer Healthcare Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,60.82,2993206016.0,3.0,1.5,0.0,4.5,False,0.0
+BLTE,"Belite Bio, Inc",Healthcare,Biotechnology,150.0,5627194880.0,3.0,1.5,0.0,4.5,False,0.0
+PCRX,"Pacira BioSciences, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,23.99,1077936000.0,3.0,1.5,0.0,4.5,False,0.0
+VERA,"Vera Therapeutics, Inc.",Healthcare,Biotechnology,44.9,2870370048.0,3.0,1.5,0.0,4.5,False,0.0
+DNLI,Denali Therapeutics Inc.,Healthcare,Biotechnology,19.96,2927370240.0,3.0,1.5,0.0,4.5,False,0.0
+HAE,Haemonetics Corporation,Healthcare,Medical Devices,83.94,4043998976.0,3.0,1.5,0.0,4.5,False,0.0
+OCS,Oculis Holding AG,Healthcare,Biotechnology,21.68,1253253760.0,3.0,1.5,0.0,4.5,False,0.0
+HALO,"Halozyme Therapeutics, Inc.",Healthcare,Biotechnology,63.33,7447418368.0,3.0,1.5,0.0,4.5,False,0.0
+OCUL,"Ocular Therapeutix, Inc.",Healthcare,Biotechnology,12.58,2680137216.0,3.0,1.5,0.0,4.5,False,0.0
+GKOS,Glaukos Corporation,Healthcare,Medical Devices,108.51,6232243712.0,3.0,1.5,0.0,4.5,False,0.0
+DNTH,"Dianthus Therapeutics, Inc.",Healthcare,Biotechnology,44.26,1897692416.0,3.0,1.5,0.0,4.5,False,0.0
+DOCS,"Doximity, Inc.",Healthcare,Health Information Services,45.93,8647299072.0,3.0,1.5,0.0,4.5,False,0.0
+WAY,Waystar Holding Corp.,Healthcare,Health Information Services,34.35,6571724288.0,3.0,1.5,0.0,4.5,False,0.0
+GLPG,Galapagos NV,Healthcare,Biotechnology,31.59,2112125952.0,3.0,1.5,0.0,4.5,False,0.0
+SEPN,"Septerna, Inc.",Healthcare,Biotechnology,26.76,1198157440.0,3.0,1.5,0.0,4.5,False,0.0
+PACS,"PACS Group, Inc.",Healthcare,Medical Care Facilities,30.76,4817481728.0,3.0,1.5,0.0,4.5,False,0.0
+SION,"Sionna Therapeutics, Inc.",Healthcare,Biotechnology,40.29,1798093952.0,3.0,1.5,0.0,4.5,False,0.0
+VKTX,"Viking Therapeutics, Inc.",Healthcare,Biotechnology,38.55,4357551104.0,3.0,1.5,0.0,4.5,False,0.0
+AHCO,AdaptHealth Corp.,Healthcare,Medical Devices,9.42,1275697280.0,3.0,1.5,0.0,4.5,False,0.0
+OLMA,"Olema Pharmaceuticals, Inc.",Healthcare,Biotechnology,27.21,2181151232.0,3.0,1.5,0.0,4.5,False,0.0
+OMCL,"Omnicell, Inc.",Healthcare,Health Information Services,40.495,1860107520.0,3.0,1.5,0.0,4.5,False,0.0
+OMDA,"Omada Health, Inc.",Healthcare,Health Information Services,17.49,1012811776.0,3.0,1.5,0.0,4.5,False,0.0
+OMI,"Owens & Minor, Inc.",Healthcare,Medical Distribution,2.59,200327664.0,2.5,2.0,0.0,4.5,False,0.0
+OPK,"OPKO Health, Inc.",Healthcare,Diagnostics & Research,1.34,1063668928.0,3.0,1.5,0.0,4.5,False,0.0
+DVAX,Dynavax Technologies Corporation,Healthcare,Drug Manufacturers - Specialty & Generic,10.89,1278757888.0,3.0,1.5,0.0,4.5,False,0.0
+GLUE,"Monte Rosa Therapeutics, Inc.",Healthcare,Biotechnology,17.41,1133700224.0,3.0,1.5,0.0,4.5,False,0.0
+AGIO,"Agios Pharmaceuticals, Inc.",Healthcare,Biotechnology,27.73,1617041920.0,3.0,1.5,0.0,4.5,False,0.0
+OPCH,"Option Care Health, Inc.",Healthcare,Medical Care Facilities,29.89,4850999296.0,3.0,1.5,0.0,4.5,False,0.0
+ORIC,"ORIC Pharmaceuticals, Inc.",Healthcare,Biotechnology,11.0,1071282048.0,3.0,1.5,0.0,4.5,False,0.0
+ORKA,"Oruka Therapeutics, Inc.",Healthcare,Biotechnology,30.84,1492940672.0,3.0,1.5,0.0,4.5,False,0.0
+GRAL,"GRAIL, Inc.",Healthcare,Diagnostics & Research,100.98,3936425216.0,3.0,1.5,0.0,4.5,False,0.0
+GRDN,"Guardian Pharmacy Services, Inc.",Healthcare,Medical Care Facilities,29.76,1884437760.0,3.0,1.5,0.0,4.5,False,0.0
+GPCR,Structure Therapeutics Inc.,Healthcare,Biotechnology,34.56,2097019264.0,3.0,1.5,0.0,4.5,False,0.0
+SHC,Sotera Health Company,Healthcare,Diagnostics & Research,16.75,4758573056.0,3.0,1.5,0.0,4.5,False,0.0
+OSCR,"Oscar Health, Inc.",Healthcare,Healthcare Plans,16.77,4829042176.0,3.0,1.5,0.0,4.5,False,0.0
+VRDN,"Viridian Therapeutics, Inc.",Healthcare,Biotechnology,32.02,3056053248.0,3.0,1.5,0.0,4.5,False,0.0
+SGRY,"Surgery Partners, Inc.",Healthcare,Medical Care Facilities,17.19,2223385088.0,3.0,1.5,0.0,4.5,False,0.0
+RDNT,"RadNet, Inc.",Healthcare,Diagnostics & Research,78.59,6062930944.0,3.0,1.5,0.0,4.5,False,0.0
+ZBIO,"Zenas BioPharma, Inc.",Healthcare,Biotechnology,39.38,2113885696.0,3.0,1.5,0.0,4.5,False,0.0
+AORT,"Artivion, Inc.",Healthcare,Medical Devices,44.59,2112448640.0,3.0,1.5,0.0,4.5,False,0.0
+ZYME,Zymeworks Inc.,Healthcare,Biotechnology,26.69,2021377408.0,3.0,1.5,0.0,4.5,False,0.0
+ZNTL,"Zentalis Pharmaceuticals, Inc.",Healthcare,Biotechnology,1.39,100428576.0,3.0,1.0,0.0,4.0,False,0.0
+AARD,"Aardvark Therapeutics, Inc.",Healthcare,Biotechnology,13.56,295245568.0,3.0,1.0,0.0,4.0,False,0.0
+LUCY,"Lucyd, Inc",Healthcare,Medical Instruments & Supplies,1.44,7704264.0,3.0,1.0,0.0,4.0,False,0.0
+TEM,"Tempus AI, Inc.",Healthcare,Health Information Services,76.66,13638371328.0,3.0,1.0,0.0,4.0,False,0.0
+TELO,"Telomir Pharmaceuticals, Inc.",Healthcare,Biotechnology,1.37,47101932.0,3.0,1.0,0.0,4.0,False,0.0
+TELA,"TELA Bio, Inc.",Healthcare,Medical Devices,1.15,51210116.0,3.0,1.0,0.0,4.0,False,0.0
+TECX,"Tectonic Therapeutic, Inc.",Healthcare,Biotechnology,19.92,372828288.0,3.0,1.0,0.0,4.0,False,0.0
+LTRN,Lantern Pharma Inc.,Healthcare,Biotechnology,3.75,41941588.0,3.0,1.0,0.0,4.0,False,0.0
+LSTA,"Lisata Therapeutics, Inc.",Healthcare,Biotechnology,1.97,17376846.0,3.0,1.0,0.0,4.0,False,0.0
+LRMR,"Larimar Therapeutics, Inc.",Healthcare,Biotechnology,3.7,316684448.0,3.0,1.0,0.0,4.0,False,0.0
+EVH,"Evolent Health, Inc.",Healthcare,Health Information Services,3.94,456926272.0,3.0,1.0,0.0,4.0,False,0.0
+EVOK,"Evoke Pharma, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,10.93,18825942.0,3.0,1.0,0.0,4.0,False,0.0
+RAPT,"RAPT Therapeutics, Inc.",Healthcare,Biotechnology,34.465,955055232.0,3.0,1.0,0.0,4.0,False,0.0
+TENX,"Tenax Therapeutics, Inc.",Healthcare,Biotechnology,9.65,60250496.0,3.0,1.0,0.0,4.0,False,0.0
+LPCN,Lipocine Inc.,Healthcare,Biotechnology,3.15,17488584.0,3.0,1.0,0.0,4.0,False,0.0
+VTAK,"Catheter Precision, Inc.",Healthcare,Medical Devices,2.38,3970732.0,3.0,1.0,0.0,4.0,False,0.0
+DTIL,"Precision BioSciences, Inc.",Healthcare,Biotechnology,5.02,120840192.0,3.0,1.0,0.0,4.0,False,0.0
+GNPX,"Genprex, Inc.",Healthcare,Biotechnology,3.36,7628362.0,3.0,1.0,0.0,4.0,False,0.0
+VTGN,"Vistagen Therapeutics, Inc.",Healthcare,Biotechnology,4.33,171015312.0,3.0,1.0,0.0,4.0,False,0.0
+PACB,"Pacific Biosciences of California, Inc.",Healthcare,Medical Devices,2.39,721558784.0,3.0,1.0,0.0,4.0,False,0.0
+VTVT,vTv Therapeutics Inc.,Healthcare,Biotechnology,27.35,107704792.0,3.0,1.0,0.0,4.0,False,0.0
+GNTA,Genenta Science S.p.A.,Healthcare,Biotechnology,1.87,43818184.0,3.0,1.0,0.0,4.0,False,0.0
+GOVX,"GeoVax Labs, Inc.",Healthcare,Biotechnology,0.3771,11201891.0,3.0,1.0,0.0,4.0,False,0.0
+DRIO,DarioHealth Corp.,Healthcare,Health Information Services,11.84,80135312.0,3.0,1.0,0.0,4.0,False,0.0
+DRMA,"Dermata Therapeutics, Inc.",Healthcare,Biotechnology,2.8,2874079.0,3.0,1.0,0.0,4.0,False,0.0
+OSRH,"OSR Holdings, Inc.",Healthcare,Biotechnology,0.735,18869500.0,3.0,1.0,0.0,4.0,False,0.0
+DRTS,Alpha Tau Medical Ltd.,Healthcare,Biotechnology,3.89,331677536.0,3.0,1.0,0.0,4.0,False,0.0
+DRUG,Bright Minds Biosciences Inc.,Healthcare,Biotechnology,80.5,570635456.0,3.0,1.0,0.0,4.0,False,0.0
+DSGN,"Design Therapeutics, Inc.",Healthcare,Biotechnology,9.77,556535936.0,3.0,1.0,0.0,4.0,False,0.0
+VREX,Varex Imaging Corporation,Healthcare,Medical Devices,11.58,482766400.0,3.0,1.0,0.0,4.0,False,0.0
+OVID,Ovid Therapeutics Inc.,Healthcare,Biotechnology,1.67,118924624.0,3.0,1.0,0.0,4.0,False,0.0
+SGHT,"Sight Sciences, Inc.",Healthcare,Medical Devices,8.05,425617440.0,3.0,1.0,0.0,4.0,False,0.0
+SGMO,"Sangamo Therapeutics, Inc.",Healthcare,Biotechnology,0.4959,166867616.0,3.0,1.0,0.0,4.0,False,0.0
+SGMT,Sagimet Biosciences Inc.,Healthcare,Biotechnology,6.39,207813024.0,3.0,1.0,0.0,4.0,False,0.0
+ORMP,Oramed Pharmaceuticals Inc.,Healthcare,Biotechnology,2.69,107191744.0,3.0,1.0,0.0,4.0,False,0.0
+VTYX,"Ventyx Biosciences, Inc.",Healthcare,Biotechnology,8.72,622247360.0,3.0,1.0,0.0,4.0,False,0.0
+VVOS,"Vivos Therapeutics, Inc.",Healthcare,Medical Devices,2.07,18605378.0,3.0,1.0,0.0,4.0,False,0.0
+GNLX,Genelux Corporation,Healthcare,Biotechnology,4.64,176560224.0,3.0,1.0,0.0,4.0,False,0.0
+BNTX,BioNTech SE,Healthcare,Biotechnology,96.25,23143837696.0,3.0,1.0,0.0,4.0,False,0.0
+BOLD,"Boundless Bio, Inc.",Healthcare,Biotechnology,1.14,25519598.0,3.0,1.0,0.0,4.0,False,0.0
+BOLT,"Bolt Biotherapeutics, Inc.",Healthcare,Biotechnology,5.42,10403376.0,3.0,1.0,0.0,4.0,False,0.0
+DVA,DaVita Inc.,Healthcare,Medical Care Facilities,117.39,8393384960.0,2.5,1.5,0.0,4.0,False,0.0
+GRCE,"Grace Therapeutics, Inc.",Healthcare,Biotechnology,3.22,49826368.0,3.0,1.0,0.0,4.0,False,0.0
+ONCO,"Onconetix, Inc.",Healthcare,Biotechnology,2.575,4004150.0,3.0,1.0,0.0,4.0,False,0.0
+BRKRP,Bruker Corporation,Healthcare,Medical Devices,369.51,0.0,3.0,1.0,0.0,4.0,False,3.94
+OPRX,OptimizeRx Corporation,Healthcare,Health Information Services,14.24,265442880.0,3.0,1.0,0.0,4.0,False,0.0
+AGL,"agilon health, inc.",Healthcare,Medical Care Facilities,0.6522,270390112.0,3.0,1.0,0.0,4.0,False,0.0
+VRAX,Virax Biolabs Group Limited,Healthcare,Biotechnology,0.6296,4119744.0,3.0,1.0,0.0,4.0,False,0.0
+GRI,"GRI Bio, Inc.",Healthcare,Biotechnology,2.06,6733577.0,3.0,1.0,0.0,4.0,False,0.0
+ORGO,Organogenesis Holdings Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,4.74,601563520.0,3.0,1.0,0.0,4.0,False,0.0
+GLTO,"Galecto, Inc.",Healthcare,Biotechnology,27.46,43730624.0,3.0,1.0,0.0,4.0,False,0.0
+VYGR,"Voyager Therapeutics, Inc.",Healthcare,Biotechnology,4.28,237968368.0,3.0,1.0,0.0,4.0,False,0.0
+VYNE,VYNE Therapeutics Inc.,Healthcare,Biotechnology,0.37,12315976.0,3.0,1.0,0.0,4.0,False,0.0
+GHRS,GH Research PLC,Healthcare,Biotechnology,14.89,923617728.0,3.0,1.0,0.0,4.0,False,0.0
+VMD,"Viemed Healthcare, Inc.",Healthcare,Medical Devices,6.77,262579600.0,3.0,1.0,0.0,4.0,False,0.0
+VNDA,Vanda Pharmaceuticals Inc.,Healthcare,Biotechnology,5.39,318530848.0,3.0,1.0,0.0,4.0,False,0.0
+SIGA,"SIGA Technologies, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,6.2,443990080.0,3.0,1.0,0.0,4.0,False,0.0
+BRTX,"BioRestorative Therapies, Inc.",Healthcare,Biotechnology,1.11,9852629.0,3.0,1.0,0.0,4.0,False,0.0
+OKUR,"OnKure Therapeutics, Inc.",Healthcare,Biotechnology,3.06,41457492.0,3.0,1.0,0.0,4.0,False,0.0
+SILO,"Silo Pharma, Inc.",Healthcare,Biotechnology,0.4388,5844058.0,3.0,1.0,0.0,4.0,False,0.0
+SINT,"Sintx Technologies, Inc.",Healthcare,Medical Devices,4.03,15523383.0,3.0,1.0,0.0,4.0,False,0.0
+ONCY,Oncolytics Biotech Inc.,Healthcare,Biotechnology,0.9921,105307824.0,3.0,1.0,0.0,4.0,False,0.0
+GTBP,"GT Biopharma, Inc.",Healthcare,Biotechnology,0.6094,6481661.0,3.0,1.0,0.0,4.0,False,0.0
+OM,"Outset Medical, Inc.",Healthcare,Medical Devices,4.39,79692064.0,3.0,1.0,0.0,4.0,False,0.0
+SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,1.75,2805750.0,3.0,1.0,0.0,4.0,False,0.0
+SIBN,"SI-BONE, Inc.",Healthcare,Medical Devices,19.68,853939904.0,3.0,1.0,0.0,4.0,False,0.0
+GLSI,"Greenwich LifeSciences, Inc.",Healthcare,Biotechnology,8.94,123859576.0,3.0,1.0,0.0,4.0,False,0.0
+ONC,BeOne Medicines AG,Healthcare,Biotechnology,322.9,35731447808.0,3.0,1.0,0.0,4.0,False,0.0
+VIR,"Vir Biotechnology, Inc.",Healthcare,Biotechnology,6.5,904312640.0,3.0,1.0,0.0,4.0,False,0.0
+VIVS,"VivoSim Labs, Inc.",Healthcare,Biotechnology,2.32,6050471.0,3.0,1.0,0.0,4.0,False,0.0
+GLMD,Galmed Pharmaceuticals Ltd.,Healthcare,Biotechnology,1.12,6136740.0,3.0,1.0,0.0,4.0,False,0.0
+SERA,"Sera Prognostics, Inc.",Healthcare,Medical Devices,3.08,118871960.0,3.0,1.0,0.0,4.0,False,0.0
+PALI,"Palisade Bio, Inc.",Healthcare,Biotechnology,1.8,268565792.0,3.0,1.0,0.0,4.0,False,0.0
+BNTC,Benitec Biopharma Inc.,Healthcare,Biotechnology,13.58,459848992.0,3.0,1.0,0.0,4.0,False,0.0
+PASG,"Passage Bio, Inc.",Healthcare,Biotechnology,9.21,29275920.0,3.0,1.0,0.0,4.0,False,0.0
+PAVM,PAVmed Inc.,Healthcare,Medical Devices,0.329,9134030.0,3.0,1.0,0.0,4.0,False,0.0
+BRNS,Barinthus Biotherapeutics plc,Healthcare,Biotechnology,0.7213,29450934.0,3.0,1.0,0.0,4.0,False,0.0
+SEER,"Seer, Inc.",Healthcare,Biotechnology,1.88,105917960.0,3.0,1.0,0.0,4.0,False,0.0
+ATXS,"Astria Therapeutics, Inc.",Healthcare,Biotechnology,12.93,738107008.0,3.0,1.0,0.0,4.0,False,0.0
+BMGL,Basel Medical Group Ltd,Healthcare,Medical Care Facilities,1.05,19725036.0,3.0,1.0,0.0,4.0,False,0.0
+BMRA,"Biomerica, Inc.",Healthcare,Medical Devices,2.34,6898240.0,3.0,1.0,0.0,4.0,False,0.0
+OGEN,"Oragenics, Inc.",Healthcare,Biotechnology,0.8835,3682625.0,3.0,1.0,0.0,4.0,False,0.0
+OGI,Organigram Global Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,1.65,221136576.0,3.0,1.0,0.0,4.0,False,0.0
+ATHA,"Athira Pharma, Inc.",Healthcare,Biotechnology,3.95,15578532.0,3.0,1.0,0.0,4.0,False,0.0
+ATHE,Alterity Therapeutics Limited,Healthcare,Biotechnology,3.42,61989876.0,3.0,1.0,0.0,4.0,False,0.0
+OBIO,"Orchestra BioMed Holdings, Inc.",Healthcare,Biotechnology,4.4,248444832.0,3.0,1.0,0.0,4.0,False,0.0
+OCGN,"Ocugen, Inc.",Healthcare,Biotechnology,1.22,381030560.0,3.0,1.0,0.0,4.0,False,0.0
+HBIO,"Harvard Bioscience, Inc.",Healthcare,Medical Instruments & Supplies,0.7577,33778012.0,3.0,1.0,0.0,4.0,False,0.0
+VERO,Venus Concept Inc.,Healthcare,Medical Devices,1.93,3588107.0,3.0,1.0,0.0,4.0,False,0.0
+OFIX,Orthofix Medical Inc.,Healthcare,Medical Devices,15.9,629634560.0,3.0,1.0,0.0,4.0,False,0.0
+PBM,Psyence Biomedical Ltd.,Healthcare,Biotechnology,1.76,3294809.0,3.0,1.0,0.0,4.0,False,0.0
+BNGO,"Bionano Genomics, Inc.",Healthcare,Medical Instruments & Supplies,1.68,17095680.0,3.0,1.0,0.0,4.0,False,0.0
+ADXN,Addex Therapeutics Ltd,Healthcare,Biotechnology,7.77,9565282.0,3.0,1.0,0.0,4.0,False,0.0
+SCNX,"Scienture Holdings, Inc.",Healthcare,Pharmaceutical Retailers,0.61,24784798.0,3.0,1.0,0.0,4.0,False,0.0
+BMEA,"Biomea Fusion, Inc.",Healthcare,Biotechnology,1.22,86258440.0,3.0,1.0,0.0,4.0,False,0.0
+PCSA,"Processa Pharmaceuticals, Inc.",Healthcare,Biotechnology,0.278,15747094.0,3.0,1.0,0.0,4.0,False,0.0
+DMAC,DiaMedica Therapeutics Inc.,Healthcare,Biotechnology,8.78,457239904.0,3.0,1.0,0.0,4.0,False,0.0
+DNA,"Ginkgo Bioworks Holdings, Inc.",Healthcare,Biotechnology,9.25,560459520.0,3.0,1.0,0.0,4.0,False,0.0
+HCAT,"Health Catalyst, Inc.",Healthcare,Health Information Services,2.6,183900288.0,3.0,1.0,0.0,4.0,False,0.0
+GYRE,"Gyre Therapeutics, Inc.",Healthcare,Biotechnology,7.98,768738624.0,3.0,1.0,0.0,4.0,False,0.0
+BVS,Bioventus Inc.,Healthcare,Medical Devices,7.09,474863232.0,3.0,1.0,0.0,4.0,False,0.0
+BWAY,BrainsWay Ltd.,Healthcare,Medical Devices,17.27,343980192.0,3.0,1.0,0.0,4.0,False,0.0
+SLDB,Solid Biosciences Inc.,Healthcare,Biotechnology,5.77,449542080.0,3.0,1.0,0.0,4.0,False,0.0
+BTSGU,"BrightSpring Health Services, Inc.",Healthcare,Health Information Services,120.59,0.0,3.0,1.0,0.0,4.0,False,2.8
+NYXH,Nyxoah SA,Healthcare,Medical Instruments & Supplies,4.89,210399376.0,3.0,1.0,0.0,4.0,False,0.0
+OABI,"OmniAb, Inc.",Healthcare,Biotechnology,1.95,280713024.0,3.0,1.0,0.0,4.0,False,0.0
+HCTI,"Healthcare Triangle, Inc.",Healthcare,Health Information Services,2.19,15902346.0,3.0,1.0,0.0,4.0,False,0.0
+SKYE,"Skye Bioscience, Inc.",Healthcare,Biotechnology,1.2,38468952.0,3.0,1.0,0.0,4.0,False,0.0
+HIND,"Vyome Holdings, Inc.",Healthcare,Biotechnology,5.01,28278916.0,3.0,1.0,0.0,4.0,False,0.0
+HITI,High Tide Inc.,Healthcare,Pharmaceutical Retailers,2.51,218649136.0,3.0,1.0,0.0,4.0,False,0.0
+SLRX,"Salarius Pharmaceuticals, Inc.",Healthcare,Biotechnology,0.825,4836297.0,3.0,1.0,0.0,4.0,False,0.0
+NXGL,"NEXGEL, Inc.",Healthcare,Medical Instruments & Supplies,1.58,12866152.0,3.0,1.0,0.0,4.0,False,0.0
+NXL,"Nexalin Technology, Inc.",Healthcare,Medical Devices,0.97,18092382.0,3.0,1.0,0.0,4.0,False,0.0
+NXTC,"NextCure, Inc.",Healthcare,Biotechnology,12.335,41794064.0,3.0,1.0,0.0,4.0,False,0.0
+SLGL,Sol-Gel Technologies Ltd.,Healthcare,Biotechnology,40.5,112824376.0,3.0,1.0,0.0,4.0,False,0.0
+SLN,Silence Therapeutics plc,Healthcare,Biotechnology,6.96,328748288.0,3.0,1.0,0.0,4.0,False,0.0
+SCYX,"SCYNEXIS, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,0.6556,27512292.0,3.0,1.0,0.0,4.0,False,0.0
+AEMD,"Aethlon Medical, Inc.",Healthcare,Medical Devices,3.7,2816876.0,3.0,1.0,0.0,4.0,False,0.0
+WEAV,"Weave Communications, Inc.",Healthcare,Health Information Services,6.44,502485888.0,3.0,1.0,0.0,4.0,False,0.0
+PBYI,"Puma Biotechnology, Inc.",Healthcare,Biotechnology,5.3,267072880.0,3.0,1.0,0.0,4.0,False,0.0
+ATNM,"Actinium Pharmaceuticals, Inc.",Healthcare,Biotechnology,1.43,44610124.0,3.0,1.0,0.0,4.0,False,0.0
+ATOS,"Atossa Therapeutics, Inc.",Healthcare,Biotechnology,0.7993,103246720.0,3.0,1.0,0.0,4.0,False,0.0
+BLLN,"BillionToOne, Inc.",Healthcare,Diagnostics & Research,111.64,5068795904.0,2.5,1.5,0.0,4.0,False,0.0
+PDEX,"Pro-Dex, Inc.",Healthcare,Medical Instruments & Supplies,40.22,131921808.0,3.0,1.0,0.0,4.0,False,0.0
+WGRX,"Wellgistics Health, Inc.",Healthcare,Pharmaceutical Retailers,0.5669,57987984.0,3.0,1.0,0.0,4.0,False,0.0
+GERN,Geron Corporation,Healthcare,Biotechnology,1.31,836245376.0,3.0,1.0,0.0,4.0,False,0.0
+SCNI,Scinai Immunotherapeutics Ltd.,Healthcare,Biotechnology,1.2,4161870.0,3.0,1.0,0.0,4.0,False,0.0
+AURA,"Aura Biosciences, Inc.",Healthcare,Biotechnology,6.43,408326016.0,3.0,1.0,0.0,4.0,False,0.0
+AUTL,Autolus Therapeutics plc,Healthcare,Biotechnology,1.55,412522080.0,3.0,1.0,0.0,4.0,False,0.0
+PDSB,PDS Biotechnology Corporation,Healthcare,Biotechnology,0.87,47607540.0,3.0,1.0,0.0,4.0,False,0.0
+NVNO,enVVeno Medical Corporation,Healthcare,Medical Devices,0.3536,7148439.0,3.0,1.0,0.0,4.0,False,0.0
+PEN,"Penumbra, Inc.",Healthcare,Medical Devices,300.66,11774499840.0,3.0,1.0,0.0,4.0,False,0.0
+DYAI,"Dyadic International, Inc.",Healthcare,Biotechnology,0.95,34378408.0,3.0,1.0,0.0,4.0,False,0.0
+GELS,Gelteq Limited,Healthcare,Drug Manufacturers - Specialty & Generic,1.09,11675056.0,3.0,1.0,0.0,4.0,False,0.0
+PEPG,PepGen Inc.,Healthcare,Biotechnology,5.44,373990336.0,3.0,1.0,0.0,4.0,False,0.0
+NUWE,"Nuwellis, Inc.",Healthcare,Medical Devices,2.43,2193476.0,3.0,1.0,0.0,4.0,False,0.0
+NVAX,"Novavax, Inc.",Healthcare,Biotechnology,6.91,1122867968.0,2.5,1.5,0.0,4.0,False,0.0
+NVCT,"Nuvectis Pharma, Inc.",Healthcare,Biotechnology,6.71,171875952.0,3.0,1.0,0.0,4.0,False,0.0
+VALN,Valneva SE,Healthcare,Biotechnology,8.9,771151744.0,3.0,1.0,0.0,4.0,False,0.0
+VANI,"Vivani Medical, Inc.",Healthcare,Biotechnology,1.4,102133136.0,3.0,1.0,0.0,4.0,False,0.0
+SLS,"SELLAS Life Sciences Group, Inc.",Healthcare,Biotechnology,1.74,256549504.0,3.0,1.0,0.0,4.0,False,0.0
+BLRX,BioLineRx Ltd.,Healthcare,Biotechnology,3.38,15865700.0,3.0,1.0,0.0,4.0,False,0.0
+ADVB,Advanced Biomed Inc.,Healthcare,Diagnostics & Research,0.3831,8290284.0,3.0,1.0,0.0,4.0,False,0.0
+GDRX,"GoodRx Holdings, Inc.",Healthcare,Health Information Services,2.71,941589440.0,3.0,1.0,0.0,4.0,False,0.0
+GDTC,CytoMed Therapeutics Limited,Healthcare,Biotechnology,1.77,20768670.0,3.0,1.0,0.0,4.0,False,0.0
+GBIO,Generation Bio Co.,Healthcare,Biotechnology,5.33,35913000.0,3.0,1.0,0.0,4.0,False,0.0
+AUNA,AUNA,Healthcare,Medical Care Facilities,4.97,367844448.0,3.0,1.0,0.0,4.0,False,0.0
+EBS,Emergent BioSolutions Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,11.9,634878080.0,3.0,1.0,0.0,4.0,False,0.0
+DERM,Journey Medical Corporation,Healthcare,Drug Manufacturers - Specialty & Generic,7.93,215187712.0,3.0,1.0,0.0,4.0,False,0.0
+HOTH,"Hoth Therapeutics, Inc.",Healthcare,Biotechnology,1.2,18617176.0,3.0,1.0,0.0,4.0,False,0.0
+AIRS,"AirSculpt Technologies, Inc.",Healthcare,Medical Care Facilities,3.04,189807488.0,3.0,1.0,0.0,4.0,False,0.0
+HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,1.31,240204896.0,3.0,1.0,0.0,4.0,False,0.0
+HSCS,HeartSciences Inc.,Healthcare,Medical Devices,2.67,8386833.0,3.0,1.0,0.0,4.0,False,0.0
+HOWL,"Werewolf Therapeutics, Inc.",Healthcare,Biotechnology,0.9517,46195708.0,3.0,1.0,0.0,4.0,False,0.0
+DH,Definitive Healthcare Corp.,Healthcare,Health Information Services,2.48,258133792.0,3.0,1.0,0.0,4.0,False,0.0
+HOLX,"Hologic, Inc.",Healthcare,Medical Instruments & Supplies,74.97,16711205888.0,3.0,1.0,0.0,4.0,False,0.0
+NSPR,"InspireMD, Inc.",Healthcare,Medical Devices,1.88,79657472.0,3.0,1.0,0.0,4.0,False,0.0
+URGN,UroGen Pharma Ltd.,Healthcare,Biotechnology,22.98,1075668352.0,2.5,1.5,0.0,4.0,False,0.0
+AKAN,Akanda Corp.,Healthcare,Drug Manufacturers - Specialty & Generic,0.9378,682990.0,3.0,1.0,0.0,4.0,False,0.0
+AKBA,"Akebia Therapeutics, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,1.54,408663616.0,3.0,1.0,0.0,4.0,False,0.0
+AKTX,"Akari Therapeutics, Plc",Healthcare,Biotechnology,0.339,12115769.0,3.0,1.0,0.0,4.0,False,0.0
+DBVT,DBV Technologies S.A.,Healthcare,Biotechnology,13.9,557856704.0,3.0,1.0,0.0,4.0,False,0.0
+DCGO,DocGo Inc.,Healthcare,Medical Care Facilities,1.05,102704040.0,3.0,1.0,0.0,4.0,False,0.0
+DCTH,"Delcath Systems, Inc.",Healthcare,Medical Devices,9.78,345368160.0,3.0,1.0,0.0,4.0,False,0.0
+NSYS,Nortech Systems Incorporated,Healthcare,Medical Devices,6.9427,19343300.0,3.0,1.0,0.0,4.0,False,0.0
+NTRA,"Natera, Inc.",Healthcare,Diagnostics & Research,244.55,33751437312.0,3.0,1.0,0.0,4.0,False,0.0
+NTRB,Nutriband Inc.,Healthcare,Biotechnology,4.82,57917040.0,3.0,1.0,0.0,4.0,False,0.0
+CABR,"Caring Brands, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,1.3,19158002.0,3.0,1.0,0.0,4.0,False,0.0
+CADL,"Candel Therapeutics, Inc.",Healthcare,Biotechnology,5.33,292607968.0,3.0,1.0,0.0,4.0,False,0.0
+GCTK,"GlucoTrack, Inc.",Healthcare,Medical Instruments & Supplies,6.0,5464134.0,3.0,1.0,0.0,4.0,False,0.0
+WHWK,"Whitehawk Therapeutics, Inc.",Healthcare,Biotechnology,2.49,117349616.0,3.0,1.0,0.0,4.0,False,0.0
+PHIO,Phio Pharmaceuticals Corp.,Healthcare,Biotechnology,1.31,14462312.0,3.0,1.0,0.0,4.0,False,0.0
+BIVI,BioVie Inc.,Healthcare,Biotechnology,1.58,11909217.0,3.0,1.0,0.0,4.0,False,0.0
+BJDX,"Bluejay Diagnostics, Inc.",Healthcare,Medical Devices,1.22,2213243.0,3.0,1.0,0.0,4.0,False,0.0
+BKD,Brookdale Senior Living Inc.,Healthcare,Medical Care Facilities,10.78,2562236928.0,2.5,1.5,0.0,4.0,False,0.0
+SBFM,"Sunshine Biopharma, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,1.43,7015501.0,3.0,1.0,0.0,4.0,False,0.0
+ATYR,"aTyr Pharma, Inc.",Healthcare,Biotechnology,0.8239,80731184.0,3.0,1.0,0.0,4.0,False,0.0
+AVIR,"Atea Pharmaceuticals, Inc.",Healthcare,Biotechnology,3.17,247661968.0,3.0,1.0,0.0,4.0,False,0.0
+AVNS,"Avanos Medical, Inc.",Healthcare,Medical Devices,11.26,522676928.0,3.0,1.0,0.0,4.0,False,0.0
+HURA,"TuHURA Biosciences, Inc.",Healthcare,Biotechnology,1.94,99440688.0,3.0,1.0,0.0,4.0,False,0.0
+UNCY,"Unicycive Therapeutics, Inc.",Healthcare,Biotechnology,6.23,133891400.0,3.0,1.0,0.0,4.0,False,0.0
+NRXS,"NeurAxis, Inc.",Healthcare,Biotechnology,2.67,28443008.0,3.0,1.0,0.0,4.0,False,0.0
+SLXN,Silexion Therapeutics Corp,Healthcare,Biotechnology,3.02,9442459.0,3.0,1.0,0.0,4.0,False,0.0
+SMLR,"Semler Scientific, Inc.",Healthcare,Medical Devices,18.67,283035232.0,3.0,1.0,0.0,4.0,False,0.0
+SMMT,Summit Therapeutics Inc.,Healthcare,Biotechnology,18.31,13630742528.0,3.0,1.0,0.0,4.0,False,0.0
+CABA,"Cabaletta Bio, Inc.",Healthcare,Biotechnology,2.55,245476256.0,3.0,1.0,0.0,4.0,False,0.0
+SMTI,Sanara MedTech Inc.,Healthcare,Medical Instruments & Supplies,21.69,193814400.0,3.0,1.0,0.0,4.0,False,0.0
+CAMP,CAMP,Healthcare,Biotechnology,3.25,152363696.0,3.0,1.0,0.0,4.0,False,0.0
+CANF,Can-Fite BioPharma Ltd.,Healthcare,Biotechnology,0.313,7205395.0,3.0,1.0,0.0,4.0,False,0.0
+SAVA,"Cassava Sciences, Inc.",Healthcare,Biotechnology,3.19,154102192.0,3.0,1.0,0.0,4.0,False,0.0
+PHAT,"Phathom Pharmaceuticals, Inc.",Healthcare,Biotechnology,14.58,1037198464.0,2.5,1.5,0.0,4.0,False,0.0
+GANX,"Gain Therapeutics, Inc.",Healthcare,Biotechnology,3.85,148079024.0,3.0,1.0,0.0,4.0,False,0.0
+PIII,P3 Health Partners Inc.,Healthcare,Medical Care Facilities,5.24,1064571840.0,2.5,1.5,0.0,4.0,False,0.0
+BHVN,Biohaven Ltd.,Healthcare,Biotechnology,9.55,1267175040.0,2.5,1.5,0.0,4.0,False,0.0
+BIAF,"bioAffinity Technologies, Inc.",Healthcare,Diagnostics & Research,1.63,7332895.0,3.0,1.0,0.0,4.0,False,0.0
+ADIL,"Adial Pharmaceuticals, Inc.",Healthcare,Biotechnology,0.3086,7402570.0,3.0,1.0,0.0,4.0,False,0.0
+NPCE,"NeuroPace, Inc.",Healthcare,Medical Devices,16.4,546246848.0,3.0,1.0,0.0,4.0,False,0.0
+BIOA,"BioAge Labs, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,11.61,416276960.0,3.0,1.0,0.0,4.0,False,0.0
+AVXL,Anavex Life Sciences Corp.,Healthcare,Biotechnology,4.4,393131680.0,3.0,1.0,0.0,4.0,False,0.0
+SABS,"SAB Biotherapeutics, Inc.",Healthcare,Biotechnology,3.98,189475264.0,3.0,1.0,0.0,4.0,False,0.0
+FULC,"Fulcrum Therapeutics, Inc.",Healthcare,Biotechnology,8.9,481654080.0,3.0,1.0,0.0,4.0,False,0.0
+SNDA,"Sonida Senior Living, Inc.",Healthcare,Medical Care Facilities,30.79,577928512.0,3.0,1.0,0.0,4.0,False,0.0
+ALDX,"Aldeyra Therapeutics, Inc.",Healthcare,Biotechnology,4.7,282765024.0,3.0,1.0,0.0,4.0,False,0.0
+ALEC,"Alector, Inc.",Healthcare,Biotechnology,1.22,133164800.0,3.0,1.0,0.0,4.0,False,0.0
+DARE,"Daré Bioscience, Inc.",Healthcare,Biotechnology,1.78,25434828.0,3.0,1.0,0.0,4.0,False,0.0
+SNGX,"Soligenix, Inc.",Healthcare,Biotechnology,1.61,16238669.0,3.0,1.0,0.0,4.0,False,0.0
+DAWN,"Day One Biopharmaceuticals, Inc.",Healthcare,Biotechnology,7.92,813190016.0,3.0,1.0,0.0,4.0,False,0.0
+HYFT,MindWalk Holdings Corp.,Healthcare,Biotechnology,2.0,92308376.0,3.0,1.0,0.0,4.0,False,0.0
+HYPD,"Hyperion DeFi, Inc.",Healthcare,Biotechnology,3.89,38397628.0,3.0,1.0,0.0,4.0,False,0.0
+HYPR,"Hyperfine, Inc.",Healthcare,Medical Devices,1.08,104942152.0,3.0,1.0,0.0,4.0,False,0.0
+CARL,"Carlsmed, Inc.",Healthcare,Health Information Services,13.26,352621952.0,3.0,1.0,0.0,4.0,False,0.0
+NOTV,"Inotiv, Inc.",Healthcare,Diagnostics & Research,0.8077,27748736.0,3.0,1.0,0.0,4.0,False,0.0
+CYTK,"Cytokinetics, Incorporated",Healthcare,Biotechnology,65.67,8029137408.0,2.5,1.5,0.0,4.0,False,0.0
+ACRS,"Aclaris Therapeutics, Inc.",Healthcare,Biotechnology,2.92,316368096.0,3.0,1.0,0.0,4.0,False,0.0
+ACRV,"Acrivon Therapeutics, Inc.",Healthcare,Biotechnology,2.37,74785648.0,3.0,1.0,0.0,4.0,False,0.0
+ACTU,"Actuate Therapeutics, Inc. Common stock",Healthcare,Biotechnology,7.35,170838464.0,3.0,1.0,0.0,4.0,False,0.0
+PLRZ,Polyrizon Ltd.,Healthcare,Biotechnology,13.1,13645969.0,3.0,1.0,0.0,4.0,False,0.0
+PLSE,"Pulse Biosciences, Inc.",Healthcare,Medical Instruments & Supplies,13.27,899275776.0,3.0,1.0,0.0,4.0,False,0.0
+NMRA,"Neumora Therapeutics, Inc.",Healthcare,Biotechnology,2.22,377263360.0,3.0,1.0,0.0,4.0,False,0.0
+NMTC,NeuroOne Medical Technologies Corporation,Healthcare,Medical Devices,0.712,35599660.0,3.0,1.0,0.0,4.0,False,0.0
+IBRX,"ImmunityBio, Inc.",Healthcare,Biotechnology,2.29,2255570176.0,2.5,1.5,0.0,4.0,False,0.0
+ICCC,ImmuCell Corporation,Healthcare,Biotechnology,5.64,51018600.0,3.0,1.0,0.0,4.0,False,0.0
+ASRT,"Assertio Holdings, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,0.7675,73873472.0,3.0,1.0,0.0,4.0,False,0.0
+CYBN,Cybin Inc.,Healthcare,Biotechnology,5.99,299084096.0,3.0,1.0,0.0,4.0,False,0.0
+CYCN,"Cyclerion Therapeutics, Inc.",Healthcare,Biotechnology,1.68,6394436.0,3.0,1.0,0.0,4.0,False,0.0
+ICCM,IceCure Medical Ltd,Healthcare,Medical Devices,0.6864,47336344.0,3.0,1.0,0.0,4.0,False,0.0
+SNOA,"Sonoma Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,3.49,5936755.0,3.0,1.0,0.0,4.0,False,0.0
+SNSE,"Sensei Biotherapeutics, Inc.",Healthcare,Biotechnology,9.72,12259749.0,3.0,1.0,0.0,4.0,False,0.0
+CATX,"Perspective Therapeutics, Inc.",Healthcare,Medical Devices,2.4,178411184.0,3.0,1.0,0.0,4.0,False,0.0
+NNOX,Nano-X Imaging Ltd.,Healthcare,Medical Devices,3.64,237993728.0,3.0,1.0,0.0,4.0,False,0.0
+NNVC,"NanoViricides, Inc.",Healthcare,Biotechnology,1.23,22136310.0,3.0,1.0,0.0,4.0,False,0.0
+CVRX,"CVRx, Inc.",Healthcare,Medical Devices,9.05,237201488.0,3.0,1.0,0.0,4.0,False,0.0
+ICLR,ICON Public Limited Company,Healthcare,Diagnostics & Research,185.87,14455504896.0,3.0,1.0,0.0,4.0,False,0.0
+NIVF,NewGenIvf Group Limited,Healthcare,Medical Care Facilities,1.45,1911036.0,3.0,1.0,0.0,4.0,False,0.0
+SNTI,"Senti Biosciences, Inc.",Healthcare,Biotechnology,2.13,55999488.0,3.0,1.0,0.0,4.0,False,0.0
+CBIO,"Crescent Biopharma, Inc.",Healthcare,Biotechnology,13.07,219348112.0,3.0,1.0,0.0,4.0,False,0.0
+CBLL,CBLL,Healthcare,Medical Devices,19.72,731526912.0,3.0,1.0,0.0,4.0,False,0.0
+NKTX,"Nkarta, Inc.",Healthcare,Biotechnology,1.8,127853120.0,3.0,1.0,0.0,4.0,False,0.0
+ICU,SeaStar Medical Holding Corporation,Healthcare,Biotechnology,0.3595,12958945.0,3.0,1.0,0.0,4.0,False,0.0
+IBIO,"iBio, Inc.",Healthcare,Biotechnology,1.2,26984770.0,3.0,1.0,0.0,4.0,False,0.0
+IFRX,InflaRx N.V.,Healthcare,Biotechnology,1.06,71811952.0,3.0,1.0,0.0,4.0,False,0.0
+ACXP,"Acurx Pharmaceuticals, Inc.",Healthcare,Biotechnology,3.21,6694015.0,3.0,1.0,0.0,4.0,False,0.0
+WORX,SCWorx Corp.,Healthcare,Health Information Services,0.238,3766786.0,3.0,1.0,0.0,4.0,False,0.0
+EDAP,EDAP TMS S.A.,Healthcare,Medical Distribution,2.4,89741016.0,3.0,1.0,0.0,4.0,False,0.0
+PLX,"Protalix BioTherapeutics, Inc.",Healthcare,Biotechnology,1.73,139128656.0,3.0,1.0,0.0,4.0,False,0.0
+PMCB,"PharmaCyte Biotech, Inc.",Healthcare,Biotechnology,1.22,8290850.0,3.0,1.0,0.0,4.0,False,0.0
+PMI,"Picard Medical, Inc.",Healthcare,Medical Devices,3.05,224788576.0,3.0,1.0,0.0,4.0,False,0.0
+PMN,"ProMIS Neurosciences, Inc.",Healthcare,Biotechnology,7.905,17015070.0,3.0,1.0,0.0,4.0,False,0.0
+CVKD,"Cadrenal Therapeutics, Inc.",Healthcare,Biotechnology,10.18,21132112.0,3.0,1.0,0.0,4.0,False,0.0
+CVM,CEL-SCI Corporation,Healthcare,Biotechnology,6.45,51557144.0,3.0,1.0,0.0,4.0,False,0.0
+ALGN,"Align Technology, Inc.",Healthcare,Medical Instruments & Supplies,157.21,11395581952.0,3.0,1.0,0.0,4.0,False,0.0
+ALGS,"Aligos Therapeutics, Inc.",Healthcare,Biotechnology,9.99,61474284.0,3.0,1.0,0.0,4.0,False,0.0
+SOPH,SOPHiA GENETICS SA,Healthcare,Health Information Services,4.85,329058208.0,3.0,1.0,0.0,4.0,False,0.0
+NGNE,Neurogene Inc.,Healthcare,Biotechnology,20.28,314133152.0,3.0,1.0,0.0,4.0,False,0.0
+CBUS,"Cibus, Inc.",Healthcare,Biotechnology,1.64,89224984.0,3.0,1.0,0.0,4.0,False,0.0
+CCCC,"C4 Therapeutics, Inc.",Healthcare,Biotechnology,2.67,258761504.0,3.0,1.0,0.0,4.0,False,0.0
+IGC,"IGC Pharma, Inc.",Healthcare,Biotechnology,0.2979,27665448.0,3.0,1.0,0.0,4.0,False,0.0
+IINN,Inspira Technologies Oxy B.H.N. Ltd.,Healthcare,Medical Devices,1.11,36612596.0,3.0,1.0,0.0,4.0,False,0.0
+IKT,"Inhibikase Therapeutics, Inc.",Healthcare,Biotechnology,1.5,181900576.0,3.0,1.0,0.0,4.0,False,0.0
+IMCC,IM Cannabis Corp.,Healthcare,Drug Manufacturers - Specialty & Generic,1.74,9129453.0,3.0,1.0,0.0,4.0,False,0.0
+IMMP,Immutep Limited,Healthcare,Biotechnology,1.8,264945648.0,3.0,1.0,0.0,4.0,False,0.0
+IMMX,"Immix Biopharma, Inc.",Healthcare,Biotechnology,5.56,186692960.0,3.0,1.0,0.0,4.0,False,0.0
+AVR,Anteris Technologies Global Corp.,Healthcare,Medical Instruments & Supplies,4.67,192392640.0,3.0,1.0,0.0,4.0,False,0.0
+AVTX,"Avalo Therapeutics, Inc.",Healthcare,Biotechnology,17.56,318432480.0,3.0,1.0,0.0,4.0,False,0.0
+PLRX,"Pliant Therapeutics, Inc.",Healthcare,Biotechnology,1.21,74353760.0,3.0,1.0,0.0,4.0,False,0.0
+RXST,"RxSight, Inc.",Healthcare,Medical Devices,12.63,519303168.0,3.0,1.0,0.0,4.0,False,0.0
+IMNN,"Imunon, Inc.",Healthcare,Biotechnology,3.9,11974381.0,3.0,1.0,0.0,4.0,False,0.0
+IMRN,Immuron Limited,Healthcare,Biotechnology,1.51,11610434.0,3.0,1.0,0.0,4.0,False,0.0
+IMRX,Immuneering Corporation,Healthcare,Biotechnology,6.4,413247808.0,3.0,1.0,0.0,4.0,False,0.0
+RZLT,"Rezolute, Inc.",Healthcare,Biotechnology,10.42,966220928.0,3.0,1.0,0.0,4.0,False,0.0
+EDIT,"Editas Medicine, Inc.",Healthcare,Biotechnology,2.42,236237152.0,3.0,1.0,0.0,4.0,False,0.0
+EDSA,"Edesa Biotech, Inc.",Healthcare,Biotechnology,1.76,12921401.0,3.0,1.0,0.0,4.0,False,0.0
+POCI,"Precision Optics Corporation, Inc.",Healthcare,Medical Instruments & Supplies,4.14,31938866.0,3.0,1.0,0.0,4.0,False,0.0
+PODD,Insulet Corporation,Healthcare,Medical Devices,304.49,21433823232.0,3.0,1.0,0.0,4.0,False,0.0
+PPBT,Purple Biotech Ltd,Healthcare,Biotechnology,0.8305,8625684.0,3.0,1.0,0.0,4.0,False,0.0
+PMVP,"PMV Pharmaceuticals, Inc.",Healthcare,Biotechnology,1.19,63321696.0,3.0,1.0,0.0,4.0,False,0.0
+IMUX,"Immunic, Inc.",Healthcare,Biotechnology,0.6646,79941224.0,3.0,1.0,0.0,4.0,False,0.0
+INAB,"IN8bio, Inc.",Healthcare,Biotechnology,1.77,8202881.0,3.0,1.0,0.0,4.0,False,0.0
+INBS,Intelligent Bio Solutions Inc.,Healthcare,Medical Devices,0.7246,6849320.0,3.0,1.0,0.0,4.0,False,0.0
+INCR,InterCure Ltd.,Healthcare,Drug Manufacturers - Specialty & Generic,1.36,74366616.0,3.0,1.0,0.0,4.0,False,0.0
+IMA,"ImageneBio, Inc.",Healthcare,Biotechnology,6.47,72345440.0,3.0,1.0,0.0,4.0,False,0.0
+NEPH,"Nephros, Inc.",Healthcare,Medical Instruments & Supplies,5.65,60040760.0,3.0,1.0,0.0,4.0,False,0.0
+NEUP,Neuphoria Therapeutics Inc.,Healthcare,Biotechnology,4.27,22961194.0,3.0,1.0,0.0,4.0,False,0.0
+NDRA,ENDRA Life Sciences Inc.,Healthcare,Diagnostics & Research,5.96,6951994.0,3.0,1.0,0.0,4.0,False,0.0
+INDP,"Indaptus Therapeutics, Inc.",Healthcare,Biotechnology,2.5,4377907.0,3.0,1.0,0.0,4.0,False,0.0
+INDV,Indivior PLC,Healthcare,Drug Manufacturers - Specialty & Generic,35.12,4390857728.0,2.5,1.5,0.0,4.0,False,0.0
+INFU,"InfuSystem Holdings, Inc.",Healthcare,Medical Instruments & Supplies,8.89,181586832.0,3.0,1.0,0.0,4.0,False,0.0
+CCEL,"Cryo-Cell International, Inc.",Healthcare,Medical Care Facilities,3.99,32140052.0,3.0,1.0,0.0,4.0,False,15.04
+INM,InMed Pharmaceuticals Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,1.43,4009985.0,3.0,1.0,0.0,4.0,False,0.0
+NCNA,NuCana plc,Healthcare,Biotechnology,4.17,17355002.0,3.0,1.0,0.0,4.0,False,0.0
+NBP,NovaBridge Biosciences,Healthcare,Biotechnology,4.18,481812096.0,3.0,1.0,0.0,4.0,False,0.0
+ASMB,"Assembly Biosciences, Inc.",Healthcare,Biotechnology,35.01,553758016.0,3.0,1.0,0.0,4.0,False,0.0
+INMB,"INmune Bio, Inc.",Healthcare,Biotechnology,1.91,50777840.0,3.0,1.0,0.0,4.0,False,0.0
+INMD,InMode Ltd.,Healthcare,Medical Devices,14.42,978667840.0,3.0,1.0,0.0,4.0,False,0.0
+INNV,InnovAge Holding Corp.,Healthcare,Medical Care Facilities,5.03,682477568.0,3.0,1.0,0.0,4.0,False,0.0
+INSM,Insmed Incorporated,Healthcare,Biotechnology,204.0,43507789824.0,3.0,1.0,0.0,4.0,False,0.0
+CUE,"Cue Biopharma, Inc.",Healthcare,Biotechnology,0.5488,43211268.0,3.0,1.0,0.0,4.0,False,0.0
+TXMD,"TherapeuticsMD, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,1.74,20139392.0,3.0,1.0,0.0,4.0,False,0.0
+CURX,Curanex Pharmaceuticals Inc,Healthcare,Biotechnology,0.435,12328253.0,3.0,1.0,0.0,4.0,False,0.0
+CV,"CapsoVision, Inc.",Healthcare,Medical Devices,6.9,323218240.0,3.0,1.0,0.0,4.0,False,0.0
+CTOR,"Citius Oncology, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,1.1199,93526704.0,3.0,1.0,0.0,4.0,False,0.0
+ACHV,"Achieve Life Sciences, Inc.",Healthcare,Biotechnology,4.62,245941024.0,3.0,1.0,0.0,4.0,False,0.0
+ACIU,AC Immune SA,Healthcare,Biotechnology,2.8,281680000.0,3.0,1.0,0.0,4.0,False,0.0
+BGMS,"Bio Green Med Solution, Inc.",Healthcare,Biotechnology,1.66,8134235.0,3.0,1.0,0.0,4.0,False,0.0
+FONR,FONAR Corporation,Healthcare,Diagnostics & Research,14.61,91988592.0,3.0,1.0,0.0,4.0,False,0.0
+RVPH,"Reviva Pharmaceuticals Holdings, Inc.",Healthcare,Biotechnology,0.6161,70887616.0,3.0,1.0,0.0,4.0,False,0.0
+CTSO,Cytosorbents Corporation,Healthcare,Medical Devices,0.7301,45853420.0,3.0,1.0,0.0,4.0,False,0.0
+CTXR,"Citius Pharmaceuticals, Inc.",Healthcare,Biotechnology,1.18,21797186.0,3.0,1.0,0.0,4.0,False,0.0
+INTS,"Intensity Therapeutics, Inc.",Healthcare,Biotechnology,0.51,30633132.0,3.0,1.0,0.0,4.0,False,0.0
+INGN,"Inogen, Inc.",Healthcare,Medical Devices,6.94,188410464.0,3.0,1.0,0.0,4.0,False,0.0
+IPHA,Innate Pharma S.A.,Healthcare,Biotechnology,1.89,174216320.0,3.0,1.0,0.0,4.0,False,0.0
+IPSC,"Century Therapeutics, Inc.",Healthcare,Biotechnology,0.5256,45940232.0,3.0,1.0,0.0,4.0,False,0.0
+ALLO,"Allogene Therapeutics, Inc.",Healthcare,Biotechnology,1.43,321364096.0,3.0,1.0,0.0,4.0,False,0.0
+ALLR,"Allarity Therapeutics, Inc.",Healthcare,Biotechnology,1.14,18025550.0,3.0,1.0,0.0,4.0,False,0.0
+SPRY,"ARS Pharmaceuticals, Inc.",Healthcare,Biotechnology,9.93,981566720.0,3.0,1.0,0.0,4.0,False,0.0
+CDIO,"Cardio Diagnostics Holdings, Inc.",Healthcare,Biotechnology,3.65,6665090.0,3.0,1.0,0.0,4.0,False,0.0
+CCLD,"CareCloud, Inc.",Healthcare,Health Information Services,3.11,131854792.0,3.0,1.0,0.0,4.0,False,0.0
+CCLDO,"CareCloud, Inc.",Healthcare,Health Information Services,25.4,0.0,3.0,1.0,0.0,4.0,False,8.61
+CCRN,"Cross Country Healthcare, Inc.",Healthcare,Medical Care Facilities,8.0,262079616.0,3.0,1.0,0.0,4.0,False,0.0
+NBTX,Nanobiotix S.A.,Healthcare,Biotechnology,21.15,1019754688.0,2.5,1.5,0.0,4.0,False,0.0
+SPRB,"Spruce Biosciences, Inc.",Healthcare,Biotechnology,79.99,85618896.0,3.0,1.0,0.0,4.0,False,0.0
+SPRC,SciSparc Ltd.,Healthcare,Biotechnology,1.74,5700899.0,3.0,1.0,0.0,4.0,False,0.0
+SPRO,"Spero Therapeutics, Inc.",Healthcare,Biotechnology,2.26,127326808.0,3.0,1.0,0.0,4.0,False,0.0
+IOVA,"Iovance Biotherapeutics, Inc.",Healthcare,Biotechnology,2.2,873329536.0,3.0,1.0,0.0,4.0,False,0.0
+PPCB,"Propanc Biopharma, Inc.",Healthcare,Biotechnology,0.8393,11216610.0,3.0,1.0,0.0,4.0,False,0.0
+BFLY,"Butterfly Network, Inc.",Healthcare,Medical Devices,3.06,772962432.0,3.0,1.0,0.0,4.0,False,0.0
+BFRG,"Bullfrog AI Holdings, Inc.",Healthcare,Health Information Services,1.13,12893012.0,3.0,1.0,0.0,4.0,False,0.0
+ACOG,Alpha Cognition Inc. Common Stock,Healthcare,Biotechnology,6.53,141975936.0,3.0,1.0,0.0,4.0,False,0.0
+ACON,"Aclarion, Inc.",Healthcare,Health Information Services,6.14,4122217.0,3.0,1.0,0.0,4.0,False,0.0
+FORA,Forian Inc.,Healthcare,Health Information Services,2.145,66735908.0,3.0,1.0,0.0,4.0,False,0.0
+PRFX,PainReform Ltd.,Healthcare,Drug Manufacturers - Specialty & Generic,0.9606,3761075.0,3.0,1.0,0.0,4.0,False,0.0
+CTNM,"Contineum Therapeutics, Inc.",Healthcare,Biotechnology,11.04,322174944.0,3.0,1.0,0.0,4.0,False,0.0
+ISPC,iSpecimen Inc.,Healthcare,Diagnostics & Research,0.4832,4721361.0,3.0,1.0,0.0,4.0,False,0.0
+CDNA,"CareDx, Inc",Healthcare,Diagnostics & Research,18.53,986295360.0,3.0,1.0,0.0,4.0,False,0.0
+NAUT,"Nautilus Biotechnology, Inc.",Healthcare,Biotechnology,2.03,256399392.0,3.0,1.0,0.0,4.0,False,0.0
+TVRD,"Tvardi Therapeutics, Inc.",Healthcare,Biotechnology,4.18,39214016.0,3.0,1.0,0.0,4.0,False,0.0
+IQV,IQVIA Holdings Inc.,Healthcare,Diagnostics & Research,225.85,38462255104.0,3.0,1.0,0.0,4.0,False,0.0
+IRD,"Opus Genetics, Inc.",Healthcare,Biotechnology,2.27,156548752.0,3.0,1.0,0.0,4.0,False,0.0
+IOBT,"IO Biotech, Inc.",Healthcare,Biotechnology,0.6967,50126756.0,3.0,1.0,0.0,4.0,False,0.0
+IONS,"Ionis Pharmaceuticals, Inc.",Healthcare,Biotechnology,81.68,13230068736.0,3.0,1.0,0.0,4.0,False,0.0
+EHAB,"Enhabit, Inc.",Healthcare,Medical Care Facilities,9.33,472941280.0,3.0,1.0,0.0,4.0,False,0.0
+PRPO,"Precipio, Inc.",Healthcare,Diagnostics & Research,24.02,42083208.0,3.0,1.0,0.0,4.0,False,0.0
+PRQR,ProQR Therapeutics N.V.,Healthcare,Biotechnology,2.09,220171440.0,3.0,1.0,0.0,4.0,False,0.0
+NAOV,"NanoVibronix, Inc.",Healthcare,Medical Devices,4.15,4515934.0,3.0,1.0,0.0,4.0,False,0.0
+ALXO,ALX Oncology Holdings Inc.,Healthcare,Biotechnology,1.42,76989560.0,3.0,1.0,0.0,4.0,False,0.0
+ALZN,"Alzamend Neuro, Inc.",Healthcare,Biotechnology,2.25,8553609.0,3.0,1.0,0.0,4.0,False,0.0
+CTKB,"Cytek Biosciences, Inc.",Healthcare,Medical Devices,4.99,638045504.0,3.0,1.0,0.0,4.0,False,0.0
+CTMX,"CytomX Therapeutics, Inc.",Healthcare,Biotechnology,3.95,669269824.0,3.0,1.0,0.0,4.0,False,0.0
+MXCT,"MaxCyte, Inc.",Healthcare,Medical Devices,1.47,156810800.0,3.0,1.0,0.0,4.0,False,0.0
+MYGN,"Myriad Genetics, Inc.",Healthcare,Diagnostics & Research,7.09,660885312.0,3.0,1.0,0.0,4.0,False,0.0
+MYNZ,Mainz Biomed N.V.,Healthcare,Diagnostics & Research,1.16,9957370.0,3.0,1.0,0.0,4.0,False,0.0
+MYO,"Myomo, Inc.",Healthcare,Medical Devices,1.04,39972944.0,3.0,1.0,0.0,4.0,False,0.0
+ALT,"Altimmune, Inc.",Healthcare,Biotechnology,5.24,546754048.0,3.0,1.0,0.0,4.0,False,0.0
+ALVO,Alvotech,Healthcare,Drug Manufacturers - Specialty & Generic,5.47,1704458240.0,2.5,1.5,0.0,4.0,False,0.0
+NAGE,"Niagen Bioscience, Inc.",Healthcare,Biotechnology,6.45,514749568.0,3.0,1.0,0.0,4.0,False,0.0
+NAKA,"Kindly MD, Inc.",Healthcare,Medical Care Facilities,0.5103,224455888.0,3.0,1.0,0.0,4.0,False,0.0
+RVP,"Retractable Technologies, Inc.",Healthcare,Medical Instruments & Supplies,0.82,24548470.0,3.0,1.0,0.0,4.0,False,0.0
+ELDN,"Eledon Pharmaceuticals, Inc.",Healthcare,Biotechnology,1.58,118554144.0,3.0,1.0,0.0,4.0,False,0.0
+ACB,Aurora Cannabis Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,4.6,260246352.0,3.0,1.0,0.0,4.0,False,0.0
+RVMD,"Revolution Medicines, Inc.",Healthcare,Biotechnology,79.64,15395989504.0,3.0,1.0,0.0,4.0,False,0.0
+ACET,"Adicet Bio, Inc.",Healthcare,Biotechnology,0.5342,81869136.0,3.0,1.0,0.0,4.0,False,0.0
+TTRX,Turn Therapeutics Inc.,Healthcare,Biotechnology,4.31,126908744.0,3.0,1.0,0.0,4.0,False,0.0
+IVVD,"Invivyd, Inc.",Healthcare,Biotechnology,2.23,617854656.0,3.0,1.0,0.0,4.0,False,0.0
+IXHL,Incannex Healthcare Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,0.4566,158086576.0,3.0,1.0,0.0,4.0,False,0.0
+MTNB,"Matinas BioPharma Holdings, Inc.",Healthcare,Biotechnology,0.79,5060891.0,3.0,1.0,0.0,4.0,False,0.0
+CELZ,"Creative Medical Technology Holdings, Inc.",Healthcare,Biotechnology,2.34,6038444.0,3.0,1.0,0.0,4.0,False,0.0
+CERS,Cerus Corporation,Healthcare,Medical Devices,2.07,397621120.0,3.0,1.0,0.0,4.0,False,0.0
+MTVA,MetaVia Inc.,Healthcare,Biotechnology,8.1819,207820256.0,3.0,1.0,0.0,4.0,False,0.0
+CRVS,"Corvus Pharmaceuticals, Inc.",Healthcare,Biotechnology,8.81,657947328.0,3.0,1.0,0.0,4.0,False,0.0
+CSBR,"Champions Oncology, Inc.",Healthcare,Biotechnology,6.04,83282064.0,3.0,1.0,0.0,4.0,False,0.0
+JBIO,"Jade Biosciences, Inc.",Healthcare,Biotechnology,13.5,621056768.0,3.0,1.0,0.0,4.0,False,0.0
+MURA,Mural Oncology plc,Healthcare,Biotechnology,2.04,35382752.0,3.0,1.0,0.0,4.0,False,0.0
+CDT,CDT Equity Inc.,Healthcare,Biotechnology,1.79,2916631.0,3.0,1.0,0.0,4.0,False,0.0
+CDXS,"Codexis, Inc.",Healthcare,Biotechnology,1.83,165293632.0,3.0,1.0,0.0,4.0,False,0.0
+EKSO,"Ekso Bionics Holdings, Inc.",Healthcare,Medical Instruments & Supplies,4.29,11253674.0,3.0,1.0,0.0,4.0,False,0.0
+ELAB,PMGC Holdings Inc.,Healthcare,Biotechnology,4.96,3690790.0,3.0,1.0,0.0,4.0,False,0.0
+ELAN,Elanco Animal Health Incorporated,Healthcare,Drug Manufacturers - Specialty & Generic,21.9,10881309696.0,3.0,1.0,0.0,4.0,False,0.0
+PRME,"Prime Medicine, Inc.",Healthcare,Biotechnology,3.74,675109824.0,3.0,1.0,0.0,4.0,False,0.0
+PROF,Profound Medical Corp.,Healthcare,Medical Devices,6.6,202485344.0,3.0,1.0,0.0,4.0,False,0.0
+PRPH,"ProPhase Labs, Inc.",Healthcare,Diagnostics & Research,0.13,6003272.0,3.0,1.0,0.0,4.0,False,0.0
+AYTU,"Aytu BioPharma, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,2.22,22617822.0,3.0,1.0,0.0,4.0,False,0.0
+AZTR,"Azitra, Inc.",Healthcare,Biotechnology,0.3626,3894576.0,3.0,1.0,0.0,4.0,False,0.0
+PRTA,Prothena Corporation plc,Healthcare,Biotechnology,11.07,595897920.0,3.0,1.0,0.0,4.0,False,0.0
+JAGX,"Jaguar Health, Inc.",Healthcare,Biotechnology,1.08,4034705.0,3.0,1.0,0.0,4.0,False,0.0
+JANX,"Janux Therapeutics, Inc.",Healthcare,Biotechnology,16.51,993040320.0,3.0,1.0,0.0,4.0,False,0.0
+JAZZ,Jazz Pharmaceuticals plc,Healthcare,Biotechnology,169.7,10311839744.0,3.0,1.0,0.0,4.0,False,0.0
+CRVO,CervoMed Inc.,Healthcare,Biotechnology,8.69,80406128.0,3.0,1.0,0.0,4.0,False,0.0
+FLGC,Flora Growth Corp.,Healthcare,Drug Manufacturers - Specialty & Generic,10.15,7580131.0,3.0,1.0,0.0,4.0,False,0.0
+FLGT,"Fulgent Genetics, Inc.",Healthcare,Diagnostics & Research,27.79,859055424.0,3.0,1.0,0.0,4.0,False,0.0
+RNXT,"RenovoRx, Inc.",Healthcare,Biotechnology,0.9413,34498564.0,3.0,1.0,0.0,4.0,False,0.0
+ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,20.97,14584458240.0,3.0,1.0,0.0,4.0,False,0.0
+RPID,"Rapid Micro Biosystems, Inc.",Healthcare,Medical Devices,3.98,176403776.0,3.0,1.0,0.0,4.0,False,0.0
+CRMD,CorMedix Inc.,Healthcare,Biotechnology,10.56,832012352.0,3.0,1.0,0.0,4.0,False,0.0
+CGTX,"Cognition Therapeutics, Inc.",Healthcare,Biotechnology,1.73,152714464.0,3.0,1.0,0.0,4.0,False,0.0
+ARTV,"Artiva Biotherapeutics, Inc.",Healthcare,Biotechnology,3.36,82470872.0,3.0,1.0,0.0,4.0,False,0.0
+ARVN,"Arvinas, Inc.",Healthcare,Biotechnology,12.79,939011008.0,3.0,1.0,0.0,4.0,False,0.0
+SSKN,"STRATA Skin Sciences, Inc.",Healthcare,Medical Devices,1.44,8479007.0,3.0,1.0,0.0,4.0,False,0.0
+CRON,Cronos Group Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,2.49,953448000.0,3.0,1.0,0.0,4.0,False,0.0
+SRTA,"Strata Critical Medical, Inc.",Healthcare,Medical Care Facilities,4.35,375694400.0,3.0,1.0,0.0,4.0,False,0.0
+SRTS,"Sensus Healthcare, Inc.",Healthcare,Medical Devices,3.9,64116144.0,3.0,1.0,0.0,4.0,False,0.0
+PRTC,PureTech Health plc,Healthcare,Biotechnology,18.05,436239680.0,3.0,1.0,0.0,4.0,False,0.0
+PRLD,Prelude Therapeutics Incorporated,Healthcare,Biotechnology,1.46,91783296.0,3.0,1.0,0.0,4.0,False,0.0
+KAPA,KAPA,Healthcare,Biotechnology,0.89,18531002.0,3.0,1.0,0.0,4.0,False,0.0
+MREO,Mereo BioPharma Group plc,Healthcare,Biotechnology,2.06,327811296.0,3.0,1.0,0.0,4.0,False,0.0
+MRKR,"Marker Therapeutics, Inc.",Healthcare,Biotechnology,1.32,22008528.0,3.0,1.0,0.0,4.0,False,0.0
+MRNA,"Moderna, Inc.",Healthcare,Biotechnology,27.7,10823321600.0,3.0,1.0,0.0,4.0,False,0.0
+JSPR,"Jasper Therapeutics, Inc.",Healthcare,Biotechnology,1.71,47852708.0,3.0,1.0,0.0,4.0,False,0.0
+JUNS,"Jupiter Neurosciences, Inc.",Healthcare,Biotechnology,1.14,39246044.0,3.0,1.0,0.0,4.0,False,0.0
+JYNT,The Joint Corp.,Healthcare,Medical Care Facilities,8.47,128646280.0,3.0,1.0,0.0,4.0,False,0.0
+CGC,Canopy Growth Corporation,Healthcare,Drug Manufacturers - Specialty & Generic,1.15,423726048.0,3.0,1.0,0.0,4.0,False,0.0
+CGEM,"Cullinan Therapeutics, Inc.",Healthcare,Biotechnology,10.59,625617600.0,3.0,1.0,0.0,4.0,False,0.0
+CGEN,Compugen Ltd.,Healthcare,Biotechnology,1.51,142140768.0,3.0,1.0,0.0,4.0,False,0.0
+KALV,"KalVista Pharmaceuticals, Inc.",Healthcare,Biotechnology,16.43,830475584.0,3.0,1.0,0.0,4.0,False,0.0
+RPTX,Repare Therapeutics Inc.,Healthcare,Biotechnology,2.215,95213448.0,3.0,1.0,0.0,4.0,False,0.0
+ELMD,"Electromed, Inc.",Healthcare,Medical Devices,27.81,232940640.0,3.0,1.0,0.0,4.0,False,0.0
+ELTX,"Elicio Therapeutics, Inc.",Healthcare,Biotechnology,8.0,138069216.0,3.0,1.0,0.0,4.0,False,0.0
+XAIR,"Beyond Air, Inc.",Healthcare,Medical Devices,1.15,9210911.0,3.0,1.0,0.0,4.0,False,0.0
+XBIO,"Xenetic Biosciences, Inc.",Healthcare,Biotechnology,2.53,5796371.0,3.0,1.0,0.0,4.0,False,0.0
+XBIT,XBiotech Inc.,Healthcare,Biotechnology,2.48,75609576.0,3.0,1.0,0.0,4.0,False,0.0
+XOMA,XOMA Royalty Corporation,Healthcare,Biotechnology,29.91,370378624.0,3.0,1.0,0.0,4.0,False,0.0
+XOMAO,XOMA Royalty Corporation,Healthcare,Biotechnology,25.44,0.0,3.0,1.0,0.0,4.0,False,8.23
+XCUR,"Exicure, Inc.",Healthcare,Biotechnology,4.9,31231958.0,3.0,1.0,0.0,4.0,False,0.0
+AMIX,"Autonomix Medical, Inc.",Healthcare,Medical Devices,0.845,5836988.0,3.0,1.0,0.0,4.0,False,0.0
+CRBP,"Corbus Pharmaceuticals Holdings, Inc.",Healthcare,Biotechnology,10.24,179743088.0,3.0,1.0,0.0,4.0,False,0.0
+CRBU,"Caribou Biosciences, Inc.",Healthcare,Biotechnology,1.9,177589280.0,3.0,1.0,0.0,4.0,False,0.0
+MOLN,Molecular Partners AG,Healthcare,Biotechnology,4.52,169044160.0,3.0,1.0,0.0,4.0,False,0.0
+STIM,"Neuronetics, Inc.",Healthcare,Medical Devices,1.35,92455992.0,3.0,1.0,0.0,4.0,False,0.0
+CRDL,Cardiol Therapeutics Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,1.05,104997528.0,3.0,1.0,0.0,4.0,False,0.0
+AMN,"AMN Healthcare Services, Inc.",Healthcare,Medical Care Facilities,16.26,624608064.0,3.0,1.0,0.0,4.0,False,0.0
+MODD,"Modular Medical, Inc.",Healthcare,Medical Devices,0.4564,29026836.0,3.0,1.0,0.0,4.0,False,0.0
+XERS,"Xeris Biopharma Holdings, Inc.",Healthcare,Biotechnology,6.51,1080167168.0,2.5,1.5,0.0,4.0,False,0.0
+EMBC,Embecta Corp.,Healthcare,Medical Instruments & Supplies,11.69,684015104.0,3.0,1.0,0.0,4.0,False,5.13
+RNAZ,"TransCode Therapeutics, Inc.",Healthcare,Biotechnology,8.61,7895094.0,3.0,1.0,0.0,4.0,False,0.0
+RNTX,Rein Therapeutics Inc.,Healthcare,Biotechnology,1.36,35749480.0,3.0,1.0,0.0,4.0,False,0.0
+RMTI,"Rockwell Medical, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,0.9869,38889092.0,3.0,1.0,0.0,4.0,False,0.0
+RNA,"Avidity Biosciences, Inc.",Healthcare,Biotechnology,71.63,10792902656.0,3.0,1.0,0.0,4.0,False,0.0
+MNDR,Mobile-health Network Solutions,Healthcare,Health Information Services,1.52,2779760.0,3.0,1.0,0.0,4.0,False,0.0
+MNKD,MannKind Corporation,Healthcare,Biotechnology,5.68,1744159104.0,2.5,1.5,0.0,4.0,False,0.0
+MNOV,"MediciNova, Inc.",Healthcare,Biotechnology,1.56,76512144.0,3.0,1.0,0.0,4.0,False,0.0
+AMRX,"Amneal Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,12.18,3828940288.0,2.5,1.5,0.0,4.0,False,0.0
+CHRS,"Coherus Oncology, Inc.",Healthcare,Biotechnology,1.2,145045232.0,3.0,1.0,0.0,4.0,False,0.0
+CRDF,"Cardiff Oncology, Inc.",Healthcare,Biotechnology,2.11,142130768.0,3.0,1.0,0.0,4.0,False,0.0
+TPST,"Tempest Therapeutics, Inc.",Healthcare,Biotechnology,3.12,15372745.0,3.0,1.0,0.0,4.0,False,0.0
+TRAW,"Traws Pharma, Inc.",Healthcare,Biotechnology,2.29,18299086.0,3.0,1.0,0.0,4.0,False,0.0
+TRDA,"Entrada Therapeutics, Inc.",Healthcare,Biotechnology,10.32,394422464.0,3.0,1.0,0.0,4.0,False,0.0
+KIDS,OrthoPediatrics Corp.,Healthcare,Medical Devices,18.41,461673632.0,3.0,1.0,0.0,4.0,False,0.0
+MNPR,Monopar Therapeutics Inc.,Healthcare,Biotechnology,80.38,537146112.0,3.0,1.0,0.0,4.0,False,0.0
+PSNL,"Personalis, Inc.",Healthcare,Diagnostics & Research,9.56,848969664.0,3.0,1.0,0.0,4.0,False,0.0
+PSTV,"Plus Therapeutics, Inc.",Healthcare,Biotechnology,0.65,89328880.0,3.0,1.0,0.0,4.0,False,0.0
+PTCT,"PTC Therapeutics, Inc.",Healthcare,Biotechnology,77.255,6202672640.0,2.5,1.5,0.0,4.0,False,0.0
+XFOR,"X4 Pharmaceuticals, Inc.",Healthcare,Biotechnology,3.98,347998016.0,3.0,1.0,0.0,4.0,False,0.0
+XGN,Exagen Inc.,Healthcare,Diagnostics & Research,7.2,163174320.0,3.0,1.0,0.0,4.0,False,0.0
+BDTX,"Black Diamond Therapeutics, Inc.",Healthcare,Biotechnology,2.67,152123024.0,3.0,1.0,0.0,4.0,False,0.0
+RLYB,Rallybio Corporation,Healthcare,Biotechnology,0.6618,27956932.0,3.0,1.0,0.0,4.0,False,0.0
+KLRS,"Kalaris Therapeutics, Inc.",Healthcare,Biotechnology,5.885,110063736.0,3.0,1.0,0.0,4.0,False,0.0
+KLTO,"Klotho Neurosciences, Inc.",Healthcare,Biotechnology,0.501,36340896.0,3.0,1.0,0.0,4.0,False,0.0
+AMRN,Amarin Corporation plc,Healthcare,Drug Manufacturers - General,16.54,343911008.0,3.0,1.0,0.0,4.0,False,0.0
+KMDA,Kamada Ltd.,Healthcare,Drug Manufacturers - Specialty & Generic,7.08,408946656.0,3.0,1.0,0.0,4.0,False,0.0
+COSM,Cosmos Health Inc.,Healthcare,Medical Distribution,0.4616,16119035.0,3.0,1.0,0.0,4.0,False,0.0
+COYA,"Coya Therapeutics, Inc.",Healthcare,Biotechnology,6.02,125965224.0,3.0,1.0,0.0,4.0,False,0.0
+ARCT,Arcturus Therapeutics Holdings Inc.,Healthcare,Biotechnology,7.13,202581392.0,3.0,1.0,0.0,4.0,False,0.0
+MIST,Milestone Pharmaceuticals Inc.,Healthcare,Biotechnology,2.68,228253840.0,3.0,1.0,0.0,4.0,False,0.0
+APYX,Apyx Medical Corporation,Healthcare,Medical Devices,3.94,161656720.0,3.0,1.0,0.0,4.0,False,0.0
+KROS,"Keros Therapeutics, Inc.",Healthcare,Biotechnology,21.69,660809024.0,3.0,1.0,0.0,4.0,False,0.0
+KRRO,"Korro Bio, Inc.",Healthcare,Biotechnology,7.02,66109412.0,3.0,1.0,0.0,4.0,False,0.0
+TOVX,"Theriva Biologics, Inc.",Healthcare,Biotechnology,0.2255,7608290.0,3.0,1.0,0.0,4.0,False,0.0
+CPIX,Cumberland Pharmaceuticals Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,2.39,35754252.0,3.0,1.0,0.0,4.0,False,0.0
+MLEC,Moolec Science SA,Healthcare,Biotechnology,0.4673,5089720.0,3.0,1.0,0.0,4.0,False,0.0
+MLSS,Milestone Scientific Inc.,Healthcare,Medical Instruments & Supplies,0.354,27834636.0,3.0,1.0,0.0,4.0,False,0.0
+STXS,"Stereotaxis, Inc.",Healthcare,Medical Instruments & Supplies,2.41,224912672.0,3.0,1.0,0.0,4.0,False,0.0
+XOMAP,XOMA Royalty Corporation,Healthcare,Biotechnology,26.5,0.0,3.0,1.0,0.0,4.0,False,8.14
+FEMY,Femasys Inc.,Healthcare,Medical Instruments & Supplies,0.88,51462244.0,3.0,1.0,0.0,4.0,False,0.0
+EMPG,Empro Group Inc.,Healthcare,Medical Distribution,17.36,143046400.0,3.0,1.0,0.0,4.0,False,0.0
+ENGN,enGene Holdings Inc.,Healthcare,Biotechnology,8.07,539659456.0,3.0,1.0,0.0,4.0,False,0.0
+ENLV,Enlivex Therapeutics Ltd.,Healthcare,Biotechnology,1.21,285914336.0,3.0,1.0,0.0,4.0,False,0.0
+FDMT,"4D Molecular Therapeutics, Inc.",Healthcare,Biotechnology,10.7,611345280.0,3.0,1.0,0.0,4.0,False,0.0
+FATE,"Fate Therapeutics, Inc.",Healthcare,Biotechnology,1.08,124580472.0,3.0,1.0,0.0,4.0,False,0.0
+ENSC,"Ensysce Biosciences, Inc.",Healthcare,Biotechnology,1.64,5956973.0,3.0,1.0,0.0,4.0,False,0.0
+ENTA,"Enanta Pharmaceuticals, Inc.",Healthcare,Biotechnology,14.6,421393984.0,3.0,1.0,0.0,4.0,False,0.0
+ENTX,Entera Bio Ltd.,Healthcare,Biotechnology,2.15,98593072.0,3.0,1.0,0.0,4.0,False,0.0
+MIRA,"MIRA Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - General,1.46,61139092.0,3.0,1.0,0.0,4.0,False,0.0
+ARAY,Accuray Incorporated,Healthcare,Medical Devices,0.9855,111697688.0,3.0,1.0,0.0,4.0,False,0.0
+TNON,"Tenon Medical, Inc.",Healthcare,Medical Devices,1.11,12014245.0,3.0,1.0,0.0,4.0,False,0.0
+TNXP,Tonix Pharmaceuticals Holding Corp.,Healthcare,Biotechnology,19.64,231291280.0,3.0,1.0,0.0,4.0,False,0.0
+TNYA,"Tenaya Therapeutics, Inc.",Healthcare,Biotechnology,1.41,234773296.0,3.0,1.0,0.0,4.0,False,0.0
+KTTA,Pasithea Therapeutics Corp.,Healthcare,Biotechnology,1.13,25310780.0,3.0,1.0,0.0,4.0,False,0.0
+KPRX,"Kiora Pharmaceuticals, Inc.",Healthcare,Biotechnology,2.03,7466208.0,3.0,1.0,0.0,4.0,False,0.0
+KRMD,"KORU Medical Systems, Inc.",Healthcare,Medical Instruments & Supplies,5.57,258017200.0,3.0,1.0,0.0,4.0,False,0.0
+STSS,"Sharps Technology, Inc.",Healthcare,Medical Instruments & Supplies,2.46,69436336.0,3.0,1.0,0.0,4.0,False,0.0
+STTK,"Shattuck Labs, Inc.",Healthcare,Biotechnology,3.1,196167504.0,3.0,1.0,0.0,4.0,False,0.0
+PYXS,"Pyxis Oncology, Inc.",Healthcare,Biotechnology,4.22,262754976.0,3.0,1.0,0.0,4.0,False,0.0
+SYBX,"Synlogic, Inc.",Healthcare,Biotechnology,1.03,12049886.0,3.0,1.0,0.0,4.0,False,0.0
+MGRX,"Mangoceuticals, Inc.",Healthcare,Health Information Services,1.1,15297227.0,3.0,1.0,0.0,4.0,False,0.0
+MGX,"Metagenomi, Inc.",Healthcare,Biotechnology,1.78,66833216.0,3.0,1.0,0.0,4.0,False,0.0
+KYTX,"Kyverna Therapeutics, Inc.",Healthcare,Biotechnology,7.8,341610112.0,3.0,1.0,0.0,4.0,False,0.0
+KZR,"Kezar Life Sciences, Inc.",Healthcare,Biotechnology,6.25,45769724.0,3.0,1.0,0.0,4.0,False,0.0
+CING,Cingulate Inc.,Healthcare,Biotechnology,3.99,26960710.0,3.0,1.0,0.0,4.0,False,0.0
+MGNX,"MacroGenics, Inc.",Healthcare,Biotechnology,1.37,86664192.0,3.0,1.0,0.0,4.0,False,0.0
+TMCI,"Treace Medical Concepts, Inc.",Healthcare,Medical Devices,2.74,174587520.0,3.0,1.0,0.0,4.0,False,0.0
+LAB,Standard BioTools Inc.,Healthcare,Medical Devices,1.43,549928512.0,3.0,1.0,0.0,4.0,False,0.0
+ENVB,"Enveric Biosciences, Inc.",Healthcare,Biotechnology,6.79,4053480.0,3.0,1.0,0.0,4.0,False,0.0
+XRTX,XORTX Therapeutics Inc.,Healthcare,Biotechnology,0.6309,4392463.0,3.0,1.0,0.0,4.0,False,0.0
+BEAT,"HeartBeam, Inc.",Healthcare,Health Information Services,0.73,25143802.0,3.0,1.0,0.0,4.0,False,0.0
+PTHS,Pelthos Therapeutics Inc.,Healthcare,Biotechnology,26.57,82013112.0,3.0,1.0,0.0,4.0,False,0.0
+PTN,PTN,Healthcare,Biotechnology,23.0,39161524.0,3.0,1.0,0.0,4.0,False,0.0
+PULM,"Pulmatrix, Inc.",Healthcare,Biotechnology,4.08,14901327.0,3.0,1.0,0.0,4.0,False,0.0
+BDRX,Biodexa Pharmaceuticals Plc,Healthcare,Biotechnology,5.04,3122396.0,3.0,1.0,0.0,4.0,False,0.0
+RLMD,"Relmada Therapeutics, Inc.",Healthcare,Biotechnology,4.24,310934560.0,3.0,1.0,0.0,4.0,False,0.0
+PYPD,PolyPid Ltd.,Healthcare,Biotechnology,3.97,66040116.0,3.0,1.0,0.0,4.0,False,0.0
+TALK,"Talkspace, Inc.",Healthcare,Health Information Services,3.08,515798720.0,3.0,1.0,0.0,4.0,False,0.0
+APRE,"Aprea Therapeutics, Inc.",Healthcare,Biotechnology,1.06,6689314.0,3.0,1.0,0.0,4.0,False,0.0
+ANAB,"AnaptysBio, Inc.",Healthcare,Biotechnology,44.35,1240602368.0,2.5,1.5,0.0,4.0,False,0.0
+ANEB,"Anebulo Pharmaceuticals, Inc.",Healthcare,Biotechnology,2.26,92851496.0,3.0,1.0,0.0,4.0,False,0.0
+ANGO,"AngioDynamics, Inc.",Healthcare,Medical Instruments & Supplies,13.47,554961920.0,3.0,1.0,0.0,4.0,False,0.0
+APUS,"Apimeds Pharmaceuticals US, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,2.14,26912604.0,3.0,1.0,0.0,4.0,False,0.0
+APVO,Aptevo Therapeutics Inc.,Healthcare,Biotechnology,1.35,22748168.0,3.0,1.0,0.0,4.0,False,0.0
+CLDI,"Calidi Biotherapeutics, Inc.",Healthcare,Biotechnology,1.46,10464873.0,3.0,1.0,0.0,4.0,False,0.0
+MENS,Jyong Biotech Ltd.,Healthcare,Biotechnology,29.2,2220007936.0,2.5,1.5,0.0,4.0,False,0.0
+AMWL,American Well Corporation,Healthcare,Health Information Services,4.01,65648700.0,3.0,1.0,0.0,4.0,False,0.0
+XTLB,XTL Biopharmaceuticals Ltd.,Healthcare,Biotechnology,0.85,7676294.0,3.0,1.0,0.0,4.0,False,0.0
+XTNT,"Xtant Medical Holdings, Inc.",Healthcare,Medical Devices,0.616,86242608.0,3.0,1.0,0.0,4.0,False,0.0
+EPRX,Eupraxia Pharmaceuticals Inc.,Healthcare,Biotechnology,6.28,321768512.0,3.0,1.0,0.0,4.0,False,0.0
+BCYC,Bicycle Therapeutics plc,Healthcare,Biotechnology,7.07,490431040.0,3.0,1.0,0.0,4.0,False,0.0
+FBIO,"Fortress Biotech, Inc.",Healthcare,Biotechnology,2.83,87837360.0,3.0,1.0,0.0,4.0,False,0.0
+FBLG,"FibroBiologics, Inc.",Healthcare,Biotechnology,0.2637,16162819.0,3.0,1.0,0.0,4.0,False,0.0
+LBRX,LB Pharmaceuticals Inc,Healthcare,Biotechnology,19.5,493332480.0,3.0,1.0,0.0,4.0,False,0.0
+MDGL,"Madrigal Pharmaceuticals, Inc.",Healthcare,Biotechnology,577.3,13111302144.0,3.0,1.0,0.0,4.0,False,0.0
+MDWD,MediWound Ltd.,Healthcare,Biotechnology,17.68,226682944.0,3.0,1.0,0.0,4.0,False,0.0
+CODX,"Co-Diagnostics, Inc.",Healthcare,Medical Devices,0.3745,22804274.0,3.0,1.0,0.0,4.0,False,0.0
+COEP,"Coeptis Therapeutics Holdings, Inc.",Healthcare,Biotechnology,15.7,83839744.0,3.0,1.0,0.0,4.0,False,0.0
+LENZ,"LENZ Therapeutics, Inc.",Healthcare,Biotechnology,26.72,836067904.0,3.0,1.0,0.0,4.0,False,0.0
+LEXX,Lexaria Bioscience Corp.,Healthcare,Biotechnology,1.06,23559398.0,3.0,1.0,0.0,4.0,False,0.0
+LCTX,"Lineage Cell Therapeutics, Inc.",Healthcare,Biotechnology,1.72,396163360.0,3.0,1.0,0.0,4.0,False,0.0
+TARA,"Protara Therapeutics, Inc.",Healthcare,Biotechnology,5.58,215316912.0,3.0,1.0,0.0,4.0,False,0.0
+CLGN,CollPlant Biotechnologies Ltd.,Healthcare,Biotechnology,2.01,25680534.0,3.0,1.0,0.0,4.0,False,0.0
+CLLS,Cellectis S.A.,Healthcare,Biotechnology,4.74,492051200.0,3.0,1.0,0.0,4.0,False,0.0
+TKNO,"Alpha Teknova, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,4.8,256940048.0,3.0,1.0,0.0,4.0,False,0.0
+TLPH,"Talphera, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,1.23,57329832.0,3.0,1.0,0.0,4.0,False,0.0
+TLRY,"Tilray Brands, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,7.35,852600000.0,3.0,1.0,0.0,4.0,False,0.0
+TLSA,Tiziana Life Sciences Ltd,Healthcare,Biotechnology,1.74,206753776.0,3.0,1.0,0.0,4.0,False,0.0
+MCRB,"Seres Therapeutics, Inc.",Healthcare,Biotechnology,16.66,150715008.0,3.0,1.0,0.0,4.0,False,0.0
+FBRX,"Forte Biosciences, Inc.",Healthcare,Biotechnology,19.93,249661824.0,3.0,1.0,0.0,4.0,False,0.0
+YCBD,"cbdMD, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,0.61,5440840.0,3.0,1.0,0.0,4.0,False,0.0
+YDES,YD Bio Ltd,Healthcare,Biotechnology,13.905,980599488.0,3.0,1.0,0.0,4.0,False,0.0
+QIPT,Quipt Home Medical Corp.,Healthcare,Medical Distribution,2.43,106099376.0,3.0,1.0,0.0,4.0,False,0.0
+QNCX,"Quince Therapeutics, Inc.",Healthcare,Biotechnology,4.01,223282784.0,3.0,1.0,0.0,4.0,False,0.0
+QNTM,Quantum BioPharma Ltd.,Healthcare,Biotechnology,10.04,38432760.0,3.0,1.0,0.0,4.0,False,0.0
+QSI,Quantum-Si incorporated,Healthcare,Medical Devices,1.44,310305120.0,3.0,1.0,0.0,4.0,False,0.0
+RIGL,"Rigel Pharmaceuticals, Inc.",Healthcare,Biotechnology,48.92,887963712.0,3.0,1.0,0.0,4.0,False,0.0
+ABOS,"Acumen Pharmaceuticals, Inc.",Healthcare,Biotechnology,1.86,112666568.0,3.0,1.0,0.0,4.0,False,0.0
+TIVC,"Tivic Health Systems, Inc.",Healthcare,Medical Devices,2.0,3531904.0,3.0,1.0,0.0,4.0,False,0.0
+COCP,"Cocrystal Pharma, Inc.",Healthcare,Biotechnology,1.02,14059747.0,3.0,1.0,0.0,4.0,False,0.0
+MAIA,"MAIA Biotechnology, Inc.",Healthcare,Biotechnology,1.2,44438772.0,3.0,1.0,0.0,4.0,False,0.0
+LFCR,"Lifecore Biomedical, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,7.63,285868256.0,3.0,1.0,0.0,4.0,False,0.0
+LFMD,"LifeMD, Inc.",Healthcare,Health Information Services,3.5,168475600.0,3.0,1.0,0.0,4.0,False,0.0
+CLYM,"Climb Bio, Inc.",Healthcare,Biotechnology,1.72,117277224.0,3.0,1.0,0.0,4.0,False,0.0
+MBIO,"Mustang Bio, Inc.",Healthcare,Biotechnology,1.25,9123859.0,3.0,1.0,0.0,4.0,False,0.0
+MBOT,Microbot Medical Inc.,Healthcare,Medical Instruments & Supplies,2.37,159164560.0,3.0,1.0,0.0,4.0,False,0.0
+LFWD,Lifeward Ltd.,Healthcare,Medical Devices,0.7304,13361774.0,3.0,1.0,0.0,4.0,False,0.0
+EQ,"Equillium, Inc.",Healthcare,Biotechnology,0.8524,51905436.0,3.0,1.0,0.0,4.0,False,0.0
+ERAS,"Erasca, Inc.",Healthcare,Biotechnology,3.27,927737600.0,3.0,1.0,0.0,4.0,False,0.0
+ABSI,Absci Corporation,Healthcare,Biotechnology,3.58,538330112.0,3.0,1.0,0.0,4.0,False,0.0
+QTRX,Quanterix Corporation,Healthcare,Medical Devices,7.63,356403392.0,3.0,1.0,0.0,4.0,False,0.0
+BCTX,BriaCell Therapeutics Corp.,Healthcare,Biotechnology,11.39,21507190.0,3.0,1.0,0.0,4.0,False,0.0
+RGNX,REGENXBIO Inc.,Healthcare,Biotechnology,13.16,666199808.0,3.0,1.0,0.0,4.0,False,0.0
+RADX,Radiopharm Theranostics Limited,Healthcare,Biotechnology,4.75,37445032.0,3.0,1.0,0.0,4.0,False,0.0
+BCDA,"BioCardia, Inc.",Healthcare,Biotechnology,1.37,14539446.0,3.0,1.0,0.0,4.0,False,0.0
+CLPT,"ClearPoint Neuro, Inc.",Healthcare,Medical Devices,13.54,402792096.0,3.0,1.0,0.0,4.0,False,0.0
+CLRB,"Cellectar Biosciences, Inc.",Healthcare,Biotechnology,3.77,15985305.0,3.0,1.0,0.0,4.0,False,0.0
+THAR,"Tharimmune, Inc.",Healthcare,Biotechnology,2.39,83757104.0,3.0,1.0,0.0,4.0,False,0.0
+CNSP,"CNS Pharmaceuticals, Inc.",Healthcare,Biotechnology,6.6,4093914.0,3.0,1.0,0.0,4.0,False,0.0
+CNTB,Connect Biopharma Holdings Limited,Healthcare,Biotechnology,2.4,134168432.0,3.0,1.0,0.0,4.0,False,0.0
+CNTX,Context Therapeutics Inc.,Healthcare,Biotechnology,1.05,96473128.0,3.0,1.0,0.0,4.0,False,0.0
+LFMDP,"LifeMD, Inc.",Healthcare,Health Information Services,22.9118,0.0,3.0,1.0,0.0,4.0,False,9.68
+LITS,"Lite Strategy, Inc.",Healthcare,Biotechnology,1.67,61431608.0,3.0,1.0,0.0,4.0,False,0.0
+LIXT,"Lixte Biotechnology Holdings, Inc.",Healthcare,Biotechnology,4.05,25395688.0,3.0,1.0,0.0,4.0,False,0.0
+LGVN,Longeveron Inc.,Healthcare,Biotechnology,0.615,13119721.0,3.0,1.0,0.0,4.0,False,0.0
+TIL,"Instil Bio, Inc.",Healthcare,Biotechnology,10.92,74059176.0,3.0,1.0,0.0,4.0,False,0.0
+ANTX,"AN2 Therapeutics, Inc.",Healthcare,Biotechnology,1.1,30142228.0,3.0,1.0,0.0,4.0,False,0.0
+MASS,908 Devices Inc.,Healthcare,Medical Devices,6.57,237787856.0,3.0,1.0,0.0,4.0,False,0.0
+TBPH,"Theravance Biopharma, Inc.",Healthcare,Biotechnology,18.55,939973568.0,3.0,1.0,0.0,4.0,False,0.0
+BCRX,"BioCryst Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,7.59,1598023168.0,2.5,1.5,0.0,4.0,False,0.0
+ABUS,Arbutus Biopharma Corporation,Healthcare,Biotechnology,4.42,850072192.0,3.0,1.0,0.0,4.0,False,0.0
+ABVC,"ABVC BioPharma, Inc.",Healthcare,Biotechnology,2.41,58565624.0,3.0,1.0,0.0,4.0,False,0.0
+ABVX,ABIVAX Société Anonyme,Healthcare,Biotechnology,114.51,8920709120.0,2.5,1.5,0.0,4.0,False,0.0
+EXOZ,"eXoZymes, Inc.",Healthcare,Biotechnology,14.7247,123499736.0,3.0,1.0,0.0,4.0,False,0.0
+RBOT,Vicarious Surgical Inc.,Healthcare,Medical Devices,2.98,19513826.0,3.0,1.0,0.0,4.0,False,0.0
+APLM,"Apollomics, Inc.",Healthcare,Biotechnology,16.27,34872272.0,3.0,1.0,0.0,4.0,False,0.0
+EXAS,Exact Sciences Corporation,Healthcare,Diagnostics & Research,101.06,19177734144.0,3.0,1.0,0.0,4.0,False,0.0
+ERNA,Ernexa Therapeutics Inc.,Healthcare,Biotechnology,1.32,10360535.0,3.0,1.0,0.0,4.0,False,0.0
+REPL,"Replimune Group, Inc.",Healthcare,Biotechnology,10.61,832283776.0,3.0,1.0,0.0,4.0,False,0.0
+REVB,"Revelation Biosciences, Inc.",Healthcare,Biotechnology,1.035,6131481.0,3.0,1.0,0.0,4.0,False,0.0
+RCKT,"Rocket Pharmaceuticals, Inc.",Healthcare,Biotechnology,3.32,359297792.0,3.0,1.0,0.0,4.0,False,0.0
+CMMB,Chemomab Therapeutics Ltd.,Healthcare,Biotechnology,2.48,15264690.0,3.0,1.0,0.0,4.0,False,0.0
+CMND,Clearmind Medicine Inc.,Healthcare,Biotechnology,0.1291,5679348.0,3.0,1.0,0.0,4.0,False,0.0
+ANNX,"Annexon, Inc.",Healthcare,Biotechnology,4.61,687147584.0,3.0,1.0,0.0,4.0,False,0.0
+ANRO,ANRO,Healthcare,Biotechnology,13.43,417220896.0,3.0,1.0,0.0,4.0,False,0.0
+CMPS,COMPASS Pathways plc,Healthcare,Medical Care Facilities,5.82,558819200.0,3.0,1.0,0.0,4.0,False,0.0
+CMPX,"Compass Therapeutics, Inc.",Healthcare,Biotechnology,5.53,983577408.0,3.0,1.0,0.0,4.0,False,0.0
+ANVS,"Annovis Bio, Inc.",Healthcare,Biotechnology,4.55,120588144.0,3.0,1.0,0.0,4.0,False,0.0
+LXEO,"Lexeo Therapeutics, Inc.",Healthcare,Biotechnology,9.35,682431552.0,3.0,1.0,0.0,4.0,False,0.0
+LXRX,"Lexicon Pharmaceuticals, Inc.",Healthcare,Biotechnology,1.4,508758368.0,3.0,1.0,0.0,4.0,False,0.0
+LYEL,"Lyell Immunopharma, Inc.",Healthcare,Biotechnology,25.25,535759968.0,3.0,1.0,0.0,4.0,False,0.0
+TCMD,"Tactile Systems Technology, Inc.",Healthcare,Medical Devices,27.91,623386112.0,3.0,1.0,0.0,4.0,False,0.0
+TCRT,"Alaunos Therapeutics, Inc.",Healthcare,Biotechnology,3.61,8056902.0,3.0,1.0,0.0,4.0,False,0.0
+TCRX,"TScan Therapeutics, Inc.",Healthcare,Biotechnology,1.08,61287832.0,3.0,1.0,0.0,4.0,False,0.0
+ANIK,"Anika Therapeutics, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,9.6,138443712.0,3.0,1.0,0.0,4.0,False,0.0
+APM,Aptorum Group Limited,Healthcare,Biotechnology,1.32,10749761.0,3.0,1.0,0.0,4.0,False,0.0
+BCAX,Bicara Therapeutics Inc.,Healthcare,Biotechnology,18.2,997031552.0,3.0,1.0,0.0,4.0,False,0.0
+ZVRA,"Zevra Therapeutics, Inc.",Healthcare,Biotechnology,8.71,490351552.0,3.0,1.0,0.0,4.0,False,0.0
+EVGN,Evogene Ltd.,Healthcare,Biotechnology,1.11,10106784.0,3.0,1.0,0.0,4.0,False,0.0
+ZURA,Zura Bio Limited,Healthcare,Biotechnology,3.74,243187168.0,3.0,1.0,0.0,4.0,False,0.0
+EVAX,Evaxion A/S,Healthcare,Biotechnology,5.25,43786128.0,3.0,1.0,0.0,4.0,False,0.0
+ABEO,Abeona Therapeutics Inc.,Healthcare,Biotechnology,4.87,263911920.0,3.0,1.0,0.0,4.0,False,0.0
+ANIX,"Anixa Biosciences, Inc.",Healthcare,Biotechnology,4.79,157672032.0,3.0,1.0,0.0,4.0,False,0.0
+ANL,Adlai Nortye Ltd.,Healthcare,Biotechnology,1.01,37269272.0,3.0,1.0,0.0,4.0,False,0.0
+CNC,Centene Corporation,Healthcare,Healthcare Plans,38.34,18844801024.0,3.0,1.0,0.0,4.0,False,0.0
+OSTX,OS Therapies Incorporated,Healthcare,Biotechnology,1.92,67611552.0,3.0,1.0,0.0,4.0,False,0.0
+OSUR,"OraSure Technologies, Inc.",Healthcare,Medical Instruments & Supplies,2.49,182111088.0,3.0,1.0,0.0,4.0,False,0.0
+ETHZ,ETHZilla Corporation,Healthcare,Biotechnology,10.51,209531904.0,3.0,1.0,0.0,4.0,False,0.0
+ETON,"Eton Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,16.26,436053152.0,3.0,1.0,0.0,4.0,False,0.0
+BBLG,Bone Biologics Corporation,Healthcare,Medical Devices,1.93,3464851.0,3.0,1.0,0.0,4.0,False,0.0
+LUNG,Pulmonx Corporation,Healthcare,Medical Devices,2.01,82906536.0,3.0,1.0,0.0,4.0,False,0.0
+ZTEK,Zentek Ltd.,Healthcare,Medical Instruments & Supplies,0.716,76831456.0,3.0,1.0,0.0,4.0,False,0.0
+ZYXI,"Zynex, Inc.",Healthcare,Medical Distribution,0.89,27045886.0,2.5,1.0,0.0,3.5,False,0.0
+ZLAB,Zai Lab Limited,Healthcare,Biotechnology,19.5,2160338432.0,3.0,1.5,-1.0,3.5,False,0.0
+AAPG,AAPG,Healthcare,Biotechnology,32.88,3075934208.0,3.0,1.5,-1.0,3.5,False,0.0
+REVBW,"Revelation Biosciences, Inc.",Healthcare,Biotechnology,0.01,0.0,2.5,1.0,0.0,3.5,False,0.0
+ESPR,"Esperion Therapeutics, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,3.73,884268224.0,2.5,1.0,0.0,3.5,False,0.0
+BBLGW,Bone Biologics Corporation,Healthcare,Medical Devices,21.7,0.0,2.5,1.0,0.0,3.5,False,0.0
+BBIO,"BridgeBio Pharma, Inc.",Healthcare,Biotechnology,73.64,14191077376.0,2.5,1.0,0.0,3.5,False,0.0
+ESLA,"Estrella Immunopharma, Inc.",Healthcare,Biotechnology,1.99,75153520.0,2.5,1.0,0.0,3.5,False,0.0
+EVMN,EVMN,Healthcare,Biotechnology,21.9,658698560.0,2.5,1.0,0.0,3.5,False,0.0
+RCEL,"AVITA Medical, Inc.",Healthcare,Medical Devices,3.5,106725888.0,2.5,1.0,0.0,3.5,False,0.0
+LNSR,"LENSAR, Inc.",Healthcare,Medical Devices,11.2,133778912.0,2.5,1.0,0.0,3.5,False,0.0
+LNAI,Lunai Bioworks Inc.,Healthcare,Biotechnology,1.25,29290490.0,2.5,1.0,0.0,3.5,False,0.0
+RGC,Regencell Bioscience Holdings Limited,Healthcare,Drug Manufacturers - Specialty & Generic,16.24,8030499328.0,3.0,1.5,-1.0,3.5,False,0.0
+RANI,"Rani Therapeutics Holdings, Inc.",Healthcare,Biotechnology,1.59,194990880.0,2.5,1.0,0.0,3.5,False,0.0
+LYRA,"Lyra Therapeutics, Inc.",Healthcare,Biotechnology,4.27,7578746.0,2.5,1.0,0.0,3.5,False,0.0
+ABP,Abpro Corporation,Healthcare,Biotechnology,5.81,15781575.0,2.5,1.0,0.0,3.5,False,0.0
+YDESW,YD Bio Limited,Healthcare,Biotechnology,1.41,0.0,2.5,1.0,0.0,3.5,False,0.0
+QTTB,Q32 Bio Inc.,Healthcare,Biotechnology,3.32,40850448.0,2.5,1.0,0.0,3.5,False,0.0
+BCTXZ,BriaCell Therapeutics Corp.,Healthcare,Biotechnology,0.41,0.0,2.5,1.0,0.0,3.5,False,0.0
+BCTXW,BriaCell Therapeutics Corp.,Healthcare,Biotechnology,0.0461,0.0,2.5,1.0,0.0,3.5,False,0.0
+LEXXW,Lexaria Bioscience Corp.,Healthcare,Biotechnology,0.0301,0.0,2.5,1.0,0.0,3.5,False,0.0
+LIMN,"Liminatus Pharma, Inc.",Healthcare,Biotechnology,0.839,22707226.0,2.5,1.0,0.0,3.5,False,0.0
+APLT,"Applied Therapeutics, Inc.",Healthcare,Biotechnology,0.2166,31255526.0,2.5,1.0,0.0,3.5,False,0.0
+QSIAW,Quantum-Si incorporated,Healthcare,Medical Devices,0.2799,0.0,2.5,1.0,0.0,3.5,False,0.0
+QNRX,"Quoin Pharmaceuticals, Ltd.",Healthcare,Biotechnology,12.09,10143232.0,2.5,1.0,0.0,3.5,False,0.0
+EOLS,"Evolus, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,6.85,444015520.0,2.5,1.0,0.0,3.5,False,0.0
+XWEL,"XWELL, Inc.",Healthcare,Diagnostics & Research,0.791,4561462.0,2.5,1.0,0.0,3.5,False,0.0
+BDSX,"Biodesix, Inc.",Healthcare,Diagnostics & Research,7.675,61400000.0,2.5,1.0,0.0,3.5,False,0.0
+PTIX,"Protagenic Therapeutics, Inc.",Healthcare,Biotechnology,1.67,3219589.0,2.5,1.0,0.0,3.5,False,0.0
+RNAC,"Cartesian Therapeutics, Inc.",Healthcare,Biotechnology,6.88,178904816.0,2.5,1.0,0.0,3.5,False,0.0
+MBAI,Check-Cap Ltd.,Healthcare,Diagnostics & Research,1.663,9730284.0,2.5,1.0,0.0,3.5,False,0.0
+ENGNW,enGene Holdings Inc.,Healthcare,Biotechnology,2.43,0.0,2.5,1.0,0.0,3.5,False,0.0
+FENC,Fennec Pharmaceuticals Inc.,Healthcare,Biotechnology,7.55,257858896.0,2.5,1.0,0.0,3.5,False,0.0
+FGEN,"FibroGen, Inc.",Healthcare,Biotechnology,8.42,34062648.0,2.5,1.0,0.0,3.5,False,0.0
+COCH,"Envoy Medical, Inc.",Healthcare,Medical Devices,0.8419,24235364.0,2.5,1.0,0.0,3.5,False,0.0
+FHTX,Foghorn Therapeutics Inc.,Healthcare,Biotechnology,4.36,246563616.0,2.5,1.0,0.0,3.5,False,0.0
+XLO,"Xilio Therapeutics, Inc.",Healthcare,Biotechnology,0.7302,38335740.0,2.5,1.0,0.0,3.5,False,0.0
+MDXH,MDxHealth SA,Healthcare,Diagnostics & Research,3.6,178190400.0,2.5,1.0,0.0,3.5,False,0.0
+MDCX,Medicus Pharma Ltd.,Healthcare,Drug Manufacturers - General,2.05,45159744.0,2.5,1.0,0.0,3.5,False,0.0
+MBRX,"Moleculin Biotech, Inc.",Healthcare,Biotechnology,7.24,14986800.0,2.5,1.0,0.0,3.5,False,0.0
+ELUT,Elutia Inc.,Healthcare,Medical Devices,0.6938,29626080.0,2.5,1.0,0.0,3.5,False,0.0
+PROK,ProKidney Corp.,Healthcare,Biotechnology,2.34,703952384.0,2.5,1.0,0.0,3.5,False,0.0
+TLSI,"TriSalus Life Sciences, Inc.",Healthcare,Medical Devices,7.06,352748032.0,2.5,1.0,0.0,3.5,False,0.0
+MDAI,"Spectral AI, Inc.",Healthcare,Medical Devices,1.65,50636676.0,2.5,1.0,0.0,3.5,False,0.0
+BFRI,Biofrontera Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,0.8356,9733339.0,2.5,1.0,0.0,3.5,False,0.0
+RVPHW,"Reviva Pharmaceuticals Holdings, Inc.",Healthcare,Biotechnology,0.0094,0.0,2.5,1.0,0.0,3.5,False,0.0
+RVMDW,"Revolution Medicines, Inc.",Healthcare,Biotechnology,0.8011,0.0,2.5,1.0,0.0,3.5,False,0.0
+POAS,POAS,Healthcare,Medical Devices,3.7,49216480.0,2.5,1.0,0.0,3.5,False,0.0
+POAI,Predictive Oncology Inc.,Healthcare,Health Information Services,4.26,14456383.0,2.5,1.0,0.0,3.5,False,0.0
+SXTP,"60 Degrees Pharmaceuticals, Inc.",Healthcare,Biotechnology,0.9734,4117918.0,2.5,1.0,0.0,3.5,False,0.0
+ACONW,"Aclarion, Inc.",Healthcare,Health Information Services,0.045,0.0,2.5,1.0,0.0,3.5,False,0.0
+BGM,BGM Group Ltd.,Healthcare,Drug Manufacturers - Specialty & Generic,7.0,1404363520.0,3.0,1.5,-1.0,3.5,False,0.0
+CINGW,Cingulate Inc.,Healthcare,Biotechnology,0.0385,0.0,2.5,1.0,0.0,3.5,False,0.0
+KZIA,Kazia Therapeutics Limited,Healthcare,Biotechnology,15.05,161520896.0,2.5,1.0,0.0,3.5,False,0.0
+PLUR,Pluri Inc.,Healthcare,Biotechnology,3.28,30352782.0,2.5,1.0,0.0,3.5,False,0.0
+KTTAW,Pasithea Therapeutics Corp.,Healthcare,Biotechnology,0.0368,0.0,2.5,1.0,0.0,3.5,False,0.0
+TOI,"The Oncology Institute, Inc.",Healthcare,Medical Care Facilities,3.03,298095456.0,2.5,1.0,0.0,3.5,False,0.0
+ECOR,"electroCore, Inc.",Healthcare,Medical Devices,4.82,38540252.0,2.5,1.0,0.0,3.5,False,0.0
+SABSW,"SAB Biotherapeutics, Inc.",Healthcare,Biotechnology,0.0233,0.0,2.5,1.0,0.0,3.5,False,0.0
+MGTX,MeiraGTx Holdings plc,Healthcare,Biotechnology,8.65,696246144.0,2.5,1.0,0.0,3.5,False,0.0
+KPTI,Karyopharm Therapeutics Inc.,Healthcare,Biotechnology,5.75,98042536.0,2.5,1.0,0.0,3.5,False,0.0
+ADGM,"Adagio Medical Holdings, Inc.",Healthcare,Medical Devices,0.926,19612342.0,2.5,1.0,0.0,3.5,False,0.0
+ADCT,ADC Therapeutics SA,Healthcare,Biotechnology,3.29,407555680.0,2.5,1.0,0.0,3.5,False,0.0
+PHGE,BiomX Inc.,Healthcare,Biotechnology,5.17,7892729.0,2.5,1.0,0.0,3.5,False,0.0
+PFSA,"Profusa, Inc.",Healthcare,Medical Devices,0.177,11625530.0,2.5,1.0,0.0,3.5,False,0.0
+MLECW,Moolec Science SA,Healthcare,Biotechnology,0.0113,0.0,2.5,1.0,0.0,3.5,False,0.0
+AQST,"Aquestive Therapeutics, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,6.38,778379840.0,2.5,1.0,0.0,3.5,False,0.0
+BIAFW,"bioAffinity Technologies, Inc.",Healthcare,Diagnostics & Research,0.2201,0.0,2.5,1.0,0.0,3.5,False,0.0
+GALT,Galectin Therapeutics Inc.,Healthcare,Biotechnology,5.74,370110624.0,2.5,1.0,0.0,3.5,False,0.0
+STSSW,"Sharps Technology, Inc.",Healthcare,Medical Instruments & Supplies,0.0429,0.0,2.5,1.0,0.0,3.5,False,0.0
+SBFMW,"Sunshine Biopharma, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,0.197,0.0,2.5,1.0,0.0,3.5,False,0.0
+BIVIW,BioVie Inc.,Healthcare,Biotechnology,0.345,0.0,2.5,1.0,0.0,3.5,False,0.0
+ADVM,"Adverum Biotechnologies, Inc.",Healthcare,Biotechnology,4.26,94050016.0,2.5,1.0,0.0,3.5,False,0.0
+ADTX,"Aditxt, Inc.",Healthcare,Biotechnology,3.08,1723087.0,2.5,1.0,0.0,3.5,False,0.0
+STRO,"Sutro Biopharma, Inc.",Healthcare,Biotechnology,8.66,73777936.0,2.5,1.0,0.0,3.5,False,0.0
+KLTOW,"Klotho Neurosciences, Inc.",Healthcare,Biotechnology,0.1492,0.0,2.5,1.0,0.0,3.5,False,0.0
+WGSWW,GeneDx Holdings Corp.,Healthcare,Diagnostics & Research,0.0505,0.0,2.5,1.0,0.0,3.5,False,0.0
+SCLX,Scilex Holding Company,Healthcare,Drug Manufacturers - General,19.15,117335552.0,2.5,1.0,0.0,3.5,False,0.0
+GH,"Guardant Health, Inc.",Healthcare,Diagnostics & Research,102.02,13249787904.0,2.5,1.0,0.0,3.5,False,0.0
+DWTX,"Dogwood Therapeutics, Inc.",Healthcare,Biotechnology,6.01,178664480.0,2.5,1.0,0.0,3.5,False,0.0
+ATRA,"Atara Biotherapeutics, Inc.",Healthcare,Biotechnology,14.33,103322664.0,2.5,1.0,0.0,3.5,False,0.0
+PBMWW,Psyence Biomedical Ltd.,Healthcare,Biotechnology,0.0249,0.0,2.5,1.0,0.0,3.5,False,0.0
+SENS,"Senseonics Holdings, Inc.",Healthcare,Medical Devices,6.62,270483008.0,2.5,1.0,0.0,3.5,False,0.0
+AEON,"AEON Biopharma, Inc.",Healthcare,Biotechnology,0.6719,7954252.0,2.5,1.0,0.0,3.5,False,0.0
+MPLT,"MapLight Therapeutics, Inc.",Healthcare,Biotechnology,18.49,806929920.0,2.5,1.0,0.0,3.5,False,0.0
+MRSN,"Mersana Therapeutics, Inc.",Healthcare,Biotechnology,27.775,138840272.0,2.5,1.0,0.0,3.5,False,0.0
+MOVE,Movano Inc.,Healthcare,Medical Devices,8.72,7279953.0,2.5,1.0,0.0,3.5,False,0.0
+ARMP,"Armata Pharmaceuticals, Inc.",Healthcare,Biotechnology,5.63,204970880.0,2.5,1.0,0.0,3.5,False,0.0
+PARK,"Park Dental Partners, Inc. Common Stock",Healthcare,Medical Care Facilities,13.3,55279988.0,2.5,1.0,0.0,3.5,False,0.0
+SER,"Serina Therapeutics, Inc.",Healthcare,Biotechnology,3.25,34658208.0,2.5,1.0,0.0,3.5,False,0.0
+OWLT,"Owlet, Inc.",Healthcare,Medical Devices,13.97,385765088.0,2.5,1.0,0.0,3.5,False,0.0
+KALA,"KALA BIO, Inc.",Healthcare,Biotechnology,0.9,7388752.0,2.5,1.0,0.0,3.5,False,0.0
+CRIS,"Curis, Inc.",Healthcare,Biotechnology,1.35,17453952.0,2.5,1.0,0.0,3.5,False,0.0
+OTLK,"Outlook Therapeutics, Inc.",Healthcare,Biotechnology,2.05,91060032.0,2.5,1.0,0.0,3.5,False,0.0
+VSTM,"Verastem, Inc.",Healthcare,Biotechnology,10.36,780313088.0,2.5,1.0,0.0,3.5,False,0.0
+GOSS,"Gossamer Bio, Inc.",Healthcare,Biotechnology,3.33,770749248.0,2.5,1.0,0.0,3.5,False,0.0
+MSPR,MSPR,Healthcare,Health Information Services,0.32,4567807.0,2.5,1.0,0.0,3.5,False,0.0
+JSPRW,"Jasper Therapeutics, Inc.",Healthcare,Biotechnology,0.125,0.0,2.5,1.0,0.0,3.5,False,0.0
+VSEE,"VSee Health, Inc.",Healthcare,Health Information Services,0.5489,17723844.0,2.5,1.0,0.0,3.5,False,0.0
+OSRHW,"OSR Holdings, Inc.",Healthcare,Biotechnology,0.0596,0.0,2.5,1.0,0.0,3.5,False,0.0
+VRCA,Verrica Pharmaceuticals Inc.,Healthcare,Biotechnology,8.81,83607216.0,2.5,1.0,0.0,3.5,False,0.0
+DRTSW,Alpha Tau Medical Ltd.,Healthcare,Biotechnology,0.338,0.0,2.5,1.0,0.0,3.5,False,0.0
+DRMAW,"Dermata Therapeutics, Inc.",Healthcare,Biotechnology,0.0215,0.0,2.5,1.0,0.0,3.5,False,0.0
+GRDX,GridAI Technologies Corp.,Healthcare,Biotechnology,2.4,8068567.0,2.5,1.0,0.0,3.5,False,0.0
+SRXH,SRx Health Solutions Inc.,Healthcare,Medical Care Facilities,0.44,10996718.0,2.5,1.0,0.0,3.5,False,0.0
+SRTAW,"Strata Critical Medical, Inc.",Healthcare,Medical Care Facilities,0.1413,0.0,2.5,1.0,0.0,3.5,False,0.0
+CELU,Celularity Inc.,Healthcare,Biotechnology,1.98,56091184.0,2.5,1.0,0.0,3.5,False,0.0
+ARTL,"Artelo Biosciences, Inc.",Healthcare,Biotechnology,1.84,3714492.0,2.5,1.0,0.0,3.5,False,0.0
+SRZN,"Surrozen, Inc.",Healthcare,Biotechnology,20.46,175371264.0,2.5,1.0,0.0,3.5,False,0.0
+AGEN,Agenus Inc.,Healthcare,Biotechnology,3.93,133652808.0,2.5,1.0,0.0,3.5,False,0.0
+VOR,Vor Biopharma Inc.,Healthcare,Biotechnology,8.18,179228976.0,2.5,1.0,0.0,3.5,False,0.0
+VNRX,VolitionRx Limited,Healthcare,Medical Devices,0.2997,36803628.0,2.5,1.0,0.0,3.5,False,0.0
+IVF,"INVO Fertility, Inc.",Healthcare,Medical Devices,1.54,23300634.0,2.5,1.0,0.0,3.5,False,0.0
+IVA,Inventiva S.A.,Healthcare,Biotechnology,4.13,796635520.0,2.5,1.0,0.0,3.5,False,0.0
+ITRM,Iterum Therapeutics plc,Healthcare,Biotechnology,0.472,24915786.0,2.5,1.0,0.0,3.5,False,0.0
+CDTTW,CDT Equity Inc.,Healthcare,Biotechnology,0.0104,0.0,2.5,1.0,0.0,3.5,False,0.0
+ONMD,OneMedNet Corporation,Healthcare,Health Information Services,1.77,90548008.0,2.5,1.0,0.0,3.5,False,0.0
+OMER,Omeros Corporation,Healthcare,Biotechnology,10.85,769269952.0,2.5,1.0,0.0,3.5,False,0.0
+OKYO,OKYO Pharma Limited,Healthcare,Biotechnology,1.91,71836392.0,2.5,1.0,0.0,3.5,False,0.0
+GUTS,"Fractyl Health, Inc.",Healthcare,Biotechnology,2.04,279570656.0,2.5,1.0,0.0,3.5,False,0.0
+IRWD,"Ironwood Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,3.48,566121664.0,2.5,1.0,0.0,3.5,False,0.0
+CTEV,CTEV,Healthcare,Health Information Services,33.95,561045632.0,2.5,1.0,0.0,3.5,False,0.0
+ALUR,Allurion Technologies Inc.,Healthcare,Medical Devices,1.7,20836218.0,2.5,1.0,0.0,3.5,False,0.0
+BTMD,biote Corp.,Healthcare,Medical Care Facilities,2.55,122020824.0,2.5,1.0,0.0,3.5,False,0.0
+BTAI,"BioXcel Therapeutics, Inc.",Healthcare,Biotechnology,2.07,45269848.0,2.5,1.0,0.0,3.5,False,0.0
+TVGN,Tevogen Bio Holdings Inc.,Healthcare,Biotechnology,0.4006,79595176.0,2.5,1.0,0.0,3.5,False,0.0
+OABIW,"OmniAb, Inc.",Healthcare,Biotechnology,0.1111,0.0,2.5,1.0,0.0,3.5,False,0.0
+NAMSW,NewAmsterdam Pharma Company N.V.,Healthcare,Biotechnology,25.745,0.0,2.5,1.0,0.0,3.5,False,0.0
+IRIX,IRIDEX Corporation,Healthcare,Medical Devices,0.9403,16163738.0,2.5,1.0,0.0,3.5,False,0.0
+AIM,AIM,Healthcare,Biotechnology,1.38,3937297.0,2.5,1.0,0.0,3.5,False,0.0
+HCWB,HCW Biologics Inc.,Healthcare,Biotechnology,1.98,5349182.0,2.5,1.0,0.0,3.5,False,0.0
+HCM,HUTCHMED (China) Limited,Healthcare,Drug Manufacturers - Specialty & Generic,14.22,2490854912.0,3.0,1.5,-1.0,3.5,False,0.0
+NXGLW,"NEXGEL, Inc.",Healthcare,Medical Instruments & Supplies,0.1633,0.0,2.5,1.0,0.0,3.5,False,0.0
+NCEL,NewcelX Ltd.,Healthcare,Biotechnology,3.64,16592500.0,2.5,1.0,0.0,3.5,False,0.0
+NBY,"NovaBay Pharmaceuticals, Inc.",Healthcare,Biotechnology,1.21,152473008.0,2.5,1.0,0.0,3.5,False,0.0
+CDIOW,"Cardio Diagnostics Holdings, Inc.",Healthcare,Biotechnology,0.021,0.0,2.5,1.0,0.0,3.5,False,0.0
+BYSI,BeyondSpring Inc.,Healthcare,Biotechnology,1.99,81833416.0,2.5,1.0,0.0,3.5,False,0.0
+CUPR,Cuprina Holdings (Cayman) Limited,Healthcare,Medical Instruments & Supplies,0.6465,13867425.0,2.5,1.0,0.0,3.5,False,0.0
+INO,"Inovio Pharmaceuticals, Inc.",Healthcare,Biotechnology,2.07,142215984.0,2.5,1.0,0.0,3.5,False,0.0
+ASND,Ascendis Pharma A/S,Healthcare,Biotechnology,205.44,12552005632.0,2.5,1.0,0.0,3.5,False,0.0
+INKT,"MiNK Therapeutics, Inc.",Healthcare,Biotechnology,11.5,53982784.0,2.5,1.0,0.0,3.5,False,0.0
+NTRBW,Nutriband Inc.,Healthcare,Biotechnology,1.33,0.0,2.5,1.0,0.0,3.5,False,0.0
+HSCSW,HeartSciences Inc.,Healthcare,Medical Devices,0.035,0.0,2.5,1.0,0.0,3.5,False,0.0
+NTHI,"NeOnc Technologies Holdings, Inc.",Healthcare,Biotechnology,9.17,178579376.0,2.5,1.0,0.0,3.5,False,0.0
+NSRX,Nasus Pharma Ltd.,Healthcare,Drug Manufacturers - General,6.8,61605520.0,2.5,1.0,0.0,3.5,False,0.0
+SLXNW,Silexion Therapeutics Corp,Healthcare,Biotechnology,0.033,0.0,2.5,1.0,0.0,3.5,False,0.0
+NRXP,"NRx Pharmaceuticals, Inc.",Healthcare,Biotechnology,2.36,66310400.0,2.5,1.0,0.0,3.5,False,0.0
+NRSN,NeuroSense Therapeutics Ltd.,Healthcare,Biotechnology,1.17,34748204.0,2.5,1.0,0.0,3.5,False,0.0
+ASBP,"Aspire Biopharma Holdings, Inc.",Healthcare,Biotechnology,0.0915,12667818.0,2.5,1.0,0.0,3.5,False,0.0
+CALC,"CalciMedica, Inc.",Healthcare,Biotechnology,4.37,62969212.0,2.5,1.0,0.0,3.5,False,0.0
+IMDX,Insight Molecular Diagnostics Inc.,Healthcare,Diagnostics & Research,5.24,150201632.0,2.5,1.0,0.0,3.5,False,0.0
+IINNW,Inspira Technologies Oxy B.H.N. Ltd.,Healthcare,Medical Devices,0.3084,0.0,2.5,1.0,0.0,3.5,False,0.0
+NERV,"Minerva Neurosciences, Inc.",Healthcare,Biotechnology,3.84,26854682.0,2.5,1.0,0.0,3.5,False,0.0
+NIVFW,NewGenIvf Group Limited,Healthcare,Medical Care Facilities,0.0224,0.0,2.5,1.0,0.0,3.5,False,0.0
+HUMA,"Humacyte, Inc.",Healthcare,Biotechnology,1.23,230343744.0,2.5,1.0,0.0,3.5,False,0.0
+IBO,Impact BioMedical Inc.,Healthcare,Biotechnology,0.458,47916524.0,2.5,1.0,0.0,3.5,False,0.0
+ICUCW,SeaStar Medical Holding Corporation,Healthcare,Biotechnology,0.0143,0.0,2.5,1.0,0.0,3.5,False,0.0
+SNYR,Synergy CHC Corp.,Healthcare,Medical Distribution,1.835,20647152.0,2.5,1.0,0.0,3.5,False,0.0
+SNWV,"SANUWAVE Health, Inc.",Healthcare,Medical Devices,32.695,280397664.0,2.5,1.0,0.0,3.5,False,0.0
+CYH,"Community Health Systems, Inc.",Healthcare,Medical Care Facilities,3.57,500225248.0,2.5,1.0,0.0,3.5,False,0.0
+LUCYW,"Lucyd, Inc",Healthcare,Medical Instruments & Supplies,0.0499,0.0,2.5,1.0,0.0,3.5,False,0.0
+LUCD,Lucid Diagnostics Inc.,Healthcare,Medical Devices,1.03,135031712.0,2.5,1.0,0.0,3.5,False,0.0
+RDHL,RedHill Biopharma Ltd.,Healthcare,Drug Manufacturers - Specialty & Generic,1.2,3995828.0,2.5,1.0,0.0,3.5,False,0.0
+BCAB,"BioAtla, Inc.",Healthcare,Biotechnology,0.8238,48432924.0,2.5,1.0,0.0,3.5,False,0.0
+ESLAW,"Estrella Immunopharma, Inc.",Healthcare,Biotechnology,0.0986,0.0,2.0,1.0,0.0,3.0,False,0.0
+UPC,Universe Pharmaceuticals INC,Healthcare,Drug Manufacturers - Specialty & Generic,4.18,2354752.0,3.0,1.0,-1.0,3.0,False,0.0
+HUMAW,"Humacyte, Inc.",Healthcare,Biotechnology,0.13,0.0,2.0,1.0,0.0,3.0,False,0.0
+ASBPW,"Aspire Biopharma Holdings, Inc.",Healthcare,Biotechnology,0.0299,0.0,2.0,1.0,0.0,3.0,False,0.0
+NRXPW,"NRx Pharmaceuticals, Inc.",Healthcare,Biotechnology,0.087,0.0,2.0,1.0,0.0,3.0,False,0.0
+NRSNW,NeuroSense Therapeutics Ltd.,Healthcare,Biotechnology,0.3446,0.0,2.0,1.0,0.0,3.0,False,0.0
+HKPD,Hong Kong Pharma Digital Technology Holdings Limited,Healthcare,Pharmaceutical Retailers,0.7801,8581100.0,3.0,1.0,-1.0,3.0,False,0.0
+TVGNW,Tevogen Bio Holdings Inc.,Healthcare,Biotechnology,0.0444,0.0,2.0,1.0,0.0,3.0,False,0.0
+ALVOW,Alvotech,Healthcare,Drug Manufacturers - Specialty & Generic,0.65,0.0,2.0,1.0,0.0,3.0,False,0.0
+AHG,Akso Health Group,Healthcare,Medical Distribution,1.39,763389248.0,3.0,1.0,-1.0,3.0,False,0.0
+ONMDW,OneMedNet Corporation,Healthcare,Health Information Services,0.1838,0.0,2.0,1.0,0.0,3.0,False,0.0
+SRZNW,"Surrozen, Inc.",Healthcare,Biotechnology,0.019,0.0,2.0,1.0,0.0,3.0,False,0.0
+VSEEW,"VSee Health, Inc.",Healthcare,Health Information Services,0.109,0.0,2.0,1.0,0.0,3.0,False,0.0
+CELUW,Celularity Inc.,Healthcare,Biotechnology,0.021,0.0,2.0,1.0,0.0,3.0,False,0.0
+MSPRZ,MSPRZ,Healthcare,Health Information Services,0.02,0.0,2.0,1.0,0.0,3.0,False,0.0
+MSPRW,MSPRW,Healthcare,Health Information Services,0.0023,0.0,2.0,1.0,0.0,3.0,False,0.0
+BNR,Burning Rock Biotech Limited,Healthcare,Diagnostics & Research,20.0,215331920.0,3.0,1.0,-1.0,3.0,False,0.0
+SCLXW,Scilex Holding Company,Healthcare,Drug Manufacturers - General,0.2,0.0,2.0,1.0,0.0,3.0,False,0.0
+CPHI,"China Pharma Holdings, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,1.7,8537404.0,3.0,1.0,-1.0,3.0,False,0.0
+MHUA,"Meihua International Medical Technologies Co., Ltd.",Healthcare,Medical Instruments & Supplies,14.02,783780672.0,3.0,1.0,-1.0,3.0,False,0.0
+WOK,WORK Medical Technology Group LTD,Healthcare,Medical Devices,5.23,5815038.0,3.0,1.0,-1.0,3.0,False,0.0
+PIIIW,P3 Health Partners Inc.,Healthcare,Medical Care Facilities,0.0089,0.0,2.0,1.0,0.0,3.0,False,0.0
+TOIIW,"The Oncology Institute, Inc.",Healthcare,Medical Care Facilities,0.1392,0.0,2.0,1.0,0.0,3.0,False,0.0
+ADAG,Adagene Inc.,Healthcare,Biotechnology,1.99,93791232.0,3.0,1.0,-1.0,3.0,False,0.0
+SXTC,"China SXT Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,1.41,163599136.0,3.0,1.0,-1.0,3.0,False,0.0
+SY,So-Young International Inc.,Healthcare,Health Information Services,3.12,310870240.0,3.0,1.0,-1.0,3.0,False,0.0
+TLSIW,"TriSalus Life Sciences, Inc.",Healthcare,Medical Devices,1.26,0.0,2.0,1.0,0.0,3.0,False,0.0
+BFRIW,Biofrontera Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,0.0804,0.0,2.0,1.0,0.0,3.0,False,0.0
+PRE,Prenetics Global Limited,Healthcare,Diagnostics & Research,13.99,235429840.0,3.0,1.0,-1.0,3.0,False,0.0
+MCTA,Charming Medical Limited,Healthcare,Medical Care Facilities,29.355,497214976.0,3.0,1.0,-1.0,3.0,False,0.0
+MDCXW,Medicus Pharma Ltd.,Healthcare,Drug Manufacturers - General,0.9271,0.0,2.0,1.0,0.0,3.0,False,0.0
+MDAIW,"Spectral AI, Inc.",Healthcare,Medical Devices,0.4605,0.0,2.0,1.0,0.0,3.0,False,0.0
+COCHW,"Envoy Medical, Inc.",Healthcare,Medical Devices,0.0501,0.0,2.0,1.0,0.0,3.0,False,0.0
+PTIXW,"Protagenic Therapeutics, Inc.",Healthcare,Biotechnology,0.0168,0.0,2.0,1.0,0.0,3.0,False,0.0
+PTHL,Pheton Holdings Ltd,Healthcare,Medical Devices,0.569,14064542.0,3.0,1.0,-1.0,3.0,False,0.0
+LIMNW,"Liminatus Pharma, Inc.",Healthcare,Biotechnology,0.1,0.0,2.0,1.0,0.0,3.0,False,0.0
+BDMD,Baird Medical Investment Holdings Limited,Healthcare,Medical Devices,1.63,60335916.0,3.0,1.0,-1.0,3.0,False,0.0
+ABPWW,Abpro Holdings Inc,Healthcare,Biotechnology,0.0157,0.0,2.0,1.0,0.0,3.0,False,0.0
+RGNT,Regentis Biomaterials Ltd.,Healthcare,Medical Instruments & Supplies,7.49,36921040.0,2.0,1.0,0.0,3.0,False,0.0
+ZYBT,Zhengye Biotechnology Holding Limited,Healthcare,Drug Manufacturers - Specialty & Generic,2.145,101654504.0,3.0,1.0,-1.0,3.0,False,0.0
+ZJYL,Jin Medical International Ltd.,Healthcare,Medical Instruments & Supplies,0.2377,37211248.0,3.0,1.0,-1.0,3.0,False,0.0
+RDGT,"Ridgetech, Inc.",Healthcare,Pharmaceutical Retailers,4.07,42877488.0,3.0,1.0,-1.0,3.0,False,0.0
+ZCMD,Zhongchao Inc.,Healthcare,Health Information Services,0.6588,20260668.0,3.0,1.0,-1.0,3.0,False,0.0
+BDMDW,Baird Medical Investment Holdings Limited,Healthcare,Medical Devices,0.06,0.0,2.5,1.0,-1.0,2.5,False,0.0
+PRENW,Prenetics Global Limited,Healthcare,Diagnostics & Research,0.022,0.0,2.5,1.0,-1.0,2.5,False,0.0
+POM,Pomdoctor Limited,Healthcare,Pharmaceutical Retailers,5.45,649610304.0,2.5,1.0,-1.0,2.5,False,0.0
+CCM,Concord Medical Services Holdings Limited,Healthcare,Medical Care Facilities,3.99,17323474.0,2.5,1.0,-1.0,2.5,False,0.0
+CASI,"CASI Pharmaceuticals, Inc.",Healthcare,Biotechnology,0.9601,19728396.0,2.5,1.0,-1.0,2.5,False,0.0
+YI,"111, Inc.",Healthcare,Medical Distribution,3.76,32589560.0,2.5,1.0,-1.0,2.5,False,0.0

@@ -1,0 +1,257 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+WMB,"The Williams Companies, Inc.",Energy,Oil & Gas Midstream,62.81,76704751616.0,4.0,2.5,0.0,6.5,False,3.18
+CNQ,Canadian Natural Resources Limited,Energy,Oil & Gas E&P,34.66,72250531840.0,4.0,2.5,0.0,6.5,False,4.81
+PBR,Petróleo Brasileiro S.A. - Petrobras,Energy,Oil & Gas Integrated,12.13,78170161152.0,4.0,2.5,0.0,6.5,False,13.87
+EOG,"EOG Resources, Inc.",Energy,Oil & Gas E&P,112.17,61244080128.0,4.0,2.5,0.0,6.5,False,3.64
+TRP,TC Energy Corporation,Energy,Oil & Gas Midstream,54.59,56901005312.0,4.0,2.5,0.0,6.5,False,4.42
+MPLX,MPLX LP,Energy,Oil & Gas Midstream,55.86,56925024256.0,4.0,2.5,0.0,6.5,False,7.71
+KMI,"Kinder Morgan, Inc.",Energy,Oil & Gas Midstream,27.77,61781594112.0,4.0,2.5,0.0,6.5,False,4.21
+CQP,"Cheniere Energy Partners, L.P.",Energy,Oil & Gas Midstream,55.82,27019816960.0,4.0,2.0,0.0,6.0,False,5.89
+WDS,Woodside Energy Group Ltd,Energy,Oil & Gas E&P,16.58,31520239616.0,4.0,2.0,0.0,6.0,False,6.39
+DVN,Devon Energy Corporation,Energy,Oil & Gas E&P,37.47,23785957376.0,4.0,2.0,0.0,6.0,False,2.56
+WES,"Western Midstream Partners, LP",Energy,Oil & Gas Midstream,39.99,16315749376.0,4.0,2.0,0.0,6.0,False,9.1
+TS,Tenaris S.A.,Energy,Oil & Gas Equipment & Services,40.88,21199616000.0,4.0,2.0,0.0,6.0,False,4.16
+PBA,Pembina Pipeline Corporation,Energy,Oil & Gas Midstream,39.56,22981668864.0,4.0,2.0,0.0,6.0,False,5.09
+TPL,Texas Pacific Land Corporation,Energy,Oil & Gas E&P,925.08,21257795584.0,4.0,2.0,0.0,6.0,False,0.69
+FANG,"Diamondback Energy, Inc.",Energy,Oil & Gas E&P,158.6,45912498176.0,4.0,2.0,0.0,6.0,False,2.52
+EQT,EQT Corporation,Energy,Oil & Gas E&P,60.68,37868384256.0,4.0,2.0,0.0,6.0,False,1.09
+CTRA,Coterra Energy Inc.,Energy,Oil & Gas E&P,27.39,20902404096.0,4.0,2.0,0.0,6.0,False,3.21
+VNOM,"Viper Energy, Inc.",Energy,Oil & Gas Midstream,40.65,13260259328.0,4.0,2.0,0.0,6.0,False,5.12
+CCJ,Cameco Corporation,Energy,Uranium,91.27,39853228032.0,4.0,2.0,0.0,6.0,False,0.19
+ET,Energy Transfer LP,Energy,Oil & Gas Midstream,16.8,57680896000.0,4.0,1.5,0.0,5.5,False,7.92
+DEC,Diversified Energy Company,Energy,Oil & Gas Integrated,15.84,1252563968.0,4.0,1.5,0.0,5.5,False,7.32
+HP,"Helmerich & Payne, Inc.",Energy,Oil & Gas Drilling,29.88,2971262208.0,4.0,1.5,0.0,5.5,False,3.35
+RES,"RPC, Inc.",Energy,Oil & Gas Equipment & Services,5.84,1288402560.0,4.0,1.5,0.0,5.5,False,2.74
+DHT,"DHT Holdings, Inc.",Energy,Oil & Gas Midstream,12.76,2051800448.0,4.0,1.5,0.0,5.5,False,5.64
+DKL,"Delek Logistics Partners, LP",Energy,Oil & Gas Refining & Marketing,45.82,2450471936.0,4.0,1.5,0.0,5.5,False,9.78
+DK,"Delek US Holdings, Inc.",Energy,Oil & Gas Refining & Marketing,36.41,2190149120.0,4.0,1.5,0.0,5.5,False,2.8
+DINO,HF Sinclair Corporation,Energy,Oil & Gas Refining & Marketing,50.07,9367123968.0,4.0,1.5,0.0,5.5,False,3.99
+HESM,Hess Midstream LP,Energy,Oil & Gas Midstream,34.22,7188382720.0,4.0,1.5,0.0,5.5,False,8.48
+CVX,Chevron Corporation,Energy,Oil & Gas Integrated,150.0,302223360000.0,4.0,1.5,0.0,5.5,False,4.56
+RRC,Range Resources Corporation,Energy,Oil & Gas E&P,39.6,9432367104.0,4.0,1.5,0.0,5.5,False,0.91
+IEP,Icahn Enterprises L.P.,Energy,Oil & Gas Refining & Marketing,7.9,4741647360.0,4.0,1.5,0.0,5.5,False,25.32
+SBR,Sabine Royalty Trust,Energy,Oil & Gas Midstream,71.93,1048692288.0,4.0,1.5,0.0,5.5,False,7.18
+CVI,"CVR Energy, Inc.",Energy,Oil & Gas Refining & Marketing,33.54,3371796480.0,4.0,1.5,0.0,5.5,False,7.73
+DMLP,"Dorchester Minerals, L.P.",Energy,Oil & Gas E&P,22.99,1109392768.0,4.0,1.5,0.0,5.5,False,12.07
+INSW,"International Seaways, Inc.",Energy,Oil & Gas Midstream,51.13,2525542400.0,4.0,1.5,0.0,5.5,False,5.73
+PBF,PBF Energy Inc.,Energy,Oil & Gas Refining & Marketing,33.4,3869306368.0,4.0,1.5,0.0,5.5,False,3.29
+SHEL,Shell plc,Energy,Oil & Gas Integrated,73.01,208633069568.0,4.0,1.5,0.0,5.5,False,3.92
+SM,SM Energy Company,Energy,Oil & Gas E&P,20.12,2312873984.0,4.0,1.5,0.0,5.5,False,3.98
+SEI,"Solaris Energy Infrastructure, Inc.",Energy,Oil & Gas Equipment & Services,55.36,3973825536.0,4.0,1.5,0.0,5.5,False,0.87
+SLB,SLB N.V.,Energy,Oil & Gas Equipment & Services,38.46,57456300032.0,4.0,1.5,0.0,5.5,False,2.96
+PAGP,"Plains GP Holdings, L.P.",Energy,Oil & Gas Midstream,18.89,4401377792.0,4.0,1.5,0.0,5.5,False,8.05
+GLNG,Golar LNG Limited,Energy,Oil & Gas Midstream,38.27,3918388736.0,4.0,1.5,0.0,5.5,False,2.61
+BP,BP p.l.c.,Energy,Oil & Gas Integrated,35.83,91451105280.0,4.0,1.5,0.0,5.5,False,5.57
+AROC,"Archrock, Inc.",Energy,Oil & Gas Equipment & Services,24.93,4371965440.0,4.0,1.5,0.0,5.5,False,3.37
+ARLP,"Alliance Resource Partners, L.P.",Energy,Thermal Coal,24.25,3114379520.0,4.0,1.5,0.0,5.5,False,10.72
+GLP,Global Partners LP,Energy,Oil & Gas Midstream,44.84,1520121600.0,4.0,1.5,0.0,5.5,False,6.74
+SU,Suncor Energy Inc.,Energy,Oil & Gas Integrated,44.25,53866004480.0,4.0,1.5,0.0,5.5,False,3.89
+BSM,"Black Stone Minerals, L.P.",Energy,Oil & Gas E&P,14.73,3120733184.0,4.0,1.5,0.0,5.5,False,8.15
+STNG,Scorpio Tankers Inc.,Energy,Oil & Gas Midstream,55.89,2893022464.0,4.0,1.5,0.0,5.5,False,3.01
+E,Eni S.p.A.,Energy,Oil & Gas Integrated,37.21,55364775936.0,4.0,1.5,0.0,5.5,False,6.19
+BTE,Baytex Energy Corp.,Energy,Oil & Gas E&P,3.25,2501052416.0,4.0,1.5,0.0,5.5,False,1.99
+APA,APA Corporation,Energy,Oil & Gas E&P,27.1,9696013312.0,4.0,1.5,0.0,5.5,False,3.69
+TGS,Transportadora de Gas del Sur S.A.,Energy,Oil & Gas Integrated,31.32,5341185024.0,4.0,1.5,0.0,5.5,False,3.03
+TNK,Teekay Tankers Ltd.,Energy,Oil & Gas Midstream,55.21,1906896128.0,4.0,1.5,0.0,5.5,False,1.81
+FRO,Frontline plc,Energy,Oil & Gas Midstream,23.38,5204922880.0,4.0,1.5,0.0,5.5,False,3.98
+NRP,Natural Resource Partners L.P.,Energy,Thermal Coal,104.69,1375427456.0,4.0,1.5,0.0,5.5,False,2.87
+KRP,"Kimbell Royalty Partners, LP",Energy,Oil & Gas E&P,12.83,1384203392.0,4.0,1.5,0.0,5.5,False,12.47
+COP,ConocoPhillips,Energy,Oil & Gas E&P,93.69,117013413888.0,4.0,1.5,0.0,5.5,False,3.59
+TTE,TotalEnergies SE,Energy,Oil & Gas Integrated,64.82,140278448128.0,4.0,1.5,0.0,5.5,False,5.92
+NOV,NOV Inc.,Energy,Oil & Gas Equipment & Services,16.17,6004967936.0,4.0,1.5,0.0,5.5,False,1.86
+AM,Antero Midstream Corporation,Energy,Oil & Gas Midstream,18.47,8836250624.0,4.0,1.5,0.0,5.5,False,4.87
+UGP,Ultrapar Participações S.A.,Energy,Oil & Gas Refining & Marketing,3.99,4277500416.0,4.0,1.5,0.0,5.5,False,8.02
+NFG,National Fuel Gas Company,Energy,Oil & Gas Integrated,81.79,7392709120.0,4.0,1.5,0.0,5.5,False,2.62
+FLNG,FLEX LNG Ltd.,Energy,Oil & Gas Midstream,25.29,1367879680.0,4.0,1.5,0.0,5.5,False,11.86
+VET,Vermilion Energy Inc.,Energy,Oil & Gas E&P,9.04,1390603264.0,4.0,1.5,0.0,5.5,False,4.08
+VLO,Valero Energy Corporation,Energy,Oil & Gas Refining & Marketing,174.14,54096896000.0,4.0,1.5,0.0,5.5,False,2.6
+MUR,Murphy Oil Corporation,Energy,Oil & Gas E&P,32.75,4674696192.0,4.0,1.5,0.0,5.5,False,3.97
+CMBT,Cmb.Tech NV,Energy,Oil & Gas Midstream,10.81,3205506560.0,4.0,1.5,0.0,5.5,False,0.93
+ENB,Enbridge Inc.,Energy,Oil & Gas Midstream,48.09,104980471808.0,4.0,1.5,0.0,5.5,False,5.76
+MPC,Marathon Petroleum Corporation,Energy,Oil & Gas Refining & Marketing,190.53,57924993024.0,4.0,1.5,0.0,5.5,False,2.1
+EPD,Enterprise Products Partners L.P.,Energy,Oil & Gas Midstream,32.61,70608723968.0,4.0,1.5,0.0,5.5,False,6.69
+WHD,"Cactus, Inc.",Energy,Oil & Gas Equipment & Services,46.02,3168022784.0,4.0,1.5,0.0,5.5,False,1.22
+EQNR,Equinor ASA,Energy,Oil & Gas Integrated,22.99,57709674496.0,4.0,1.5,0.0,5.5,False,6.44
+WKC,World Kinect Corporation,Energy,Oil & Gas Refining & Marketing,24.21,1345077760.0,4.0,1.5,0.0,5.5,False,3.18
+XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated,116.54,496838836224.0,4.0,1.5,0.0,5.5,False,3.54
+PTEN,"Patterson-UTI Energy, Inc.",Energy,Oil & Gas Drilling,6.32,2434258688.0,4.0,1.5,0.0,5.5,False,5.06
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,139.36,56318754816.0,4.0,1.5,0.0,5.5,False,3.44
+CLB,Core Laboratories Inc.,Energy,Oil & Gas Equipment & Services,16.83,789223296.0,4.0,1.0,0.0,5.0,False,0.24
+MARPS,Marine Petroleum Trust,Energy,Oil & Gas Midstream,4.45,8900000.0,4.0,1.0,0.0,5.0,False,6.86
+MTR,Mesa Royalty Trust,Energy,Oil & Gas E&P,4.6,8572518.0,4.0,1.0,0.0,5.0,False,5.15
+NAT,Nordic American Tankers Limited,Energy,Oil & Gas Midstream,3.74,791947456.0,4.0,1.0,0.0,5.0,False,9.63
+MVO,MV Oil Trust,Energy,Oil & Gas E&P,1.46,16790000.0,4.0,1.0,0.0,5.0,False,61.99
+NC,"NACCO Industries, Inc.",Energy,Thermal Coal,48.36,360763424.0,4.0,1.0,0.0,5.0,False,2.09
+NFE,New Fortress Energy Inc.,Energy,Oil & Gas Midstream,1.57,446747904.0,4.0,1.0,0.0,5.0,False,30.53
+NRT,North European Oil Royalty Trust,Energy,Oil & Gas E&P,6.42,59003588.0,4.0,1.0,0.0,5.0,False,12.62
+NOA,North American Construction Group Ltd.,Energy,Oil & Gas Equipment & Services,14.08,409369536.0,4.0,1.0,0.0,5.0,False,2.42
+KNOP,KNOT Offshore Partners LP,Energy,Oil & Gas Midstream,10.72,374532832.0,4.0,1.0,0.0,5.0,False,0.97
+BRY,Berry Corporation,Energy,Oil & Gas E&P,3.43,266192352.0,4.0,1.0,0.0,5.0,False,3.5
+CRT,Cross Timbers Royalty Trust,Energy,Oil & Gas E&P,8.61,51659996.0,4.0,1.0,0.0,5.0,False,8.08
+OKE,"ONEOK, Inc.",Energy,Oil & Gas Midstream,76.34,48075567104.0,4.0,1.0,0.0,5.0,False,5.4
+OXY,Occidental Petroleum Corporation,Energy,Oil & Gas E&P,42.43,41802477568.0,4.0,1.0,0.0,5.0,False,2.26
+PAA,"Plains All American Pipeline, L.P.",Energy,Oil & Gas Midstream,17.73,12508475392.0,4.0,1.0,0.0,5.0,False,8.57
+OVV,Ovintiv Inc.,Energy,Oil & Gas E&P,42.28,10867537920.0,4.0,1.0,0.0,5.0,False,2.84
+PBT,Permian Basin Royalty Trust,Energy,Oil & Gas Midstream,18.67,870186240.0,4.0,1.0,0.0,5.0,False,1.69
+BKR,Baker Hughes Company,Energy,Oil & Gas Equipment & Services,49.2,48549277696.0,4.0,1.0,0.0,5.0,False,1.87
+IMO,Imperial Oil Limited,Energy,Oil & Gas Integrated,92.4,46999482368.0,4.0,1.0,0.0,5.0,False,2.23
+CVE,Cenovus Energy Inc.,Energy,Oil & Gas Integrated,18.31,34540032000.0,4.0,1.0,0.0,5.0,False,3.12
+PRT,PermRock Royalty Trust,Energy,Oil & Gas E&P,3.88,47203044.0,4.0,1.0,0.0,5.0,False,10.86
+PVL,Permianville Royalty Trust,Energy,Oil & Gas E&P,1.87,61710000.0,4.0,1.0,0.0,5.0,False,6.6
+DLNG,Dynagas LNG Partners LP,Energy,Oil & Gas Midstream,3.75,136432544.0,4.0,1.0,0.0,5.0,False,5.25
+HAL,Halliburton Company,Energy,Oil & Gas Equipment & Services,28.45,24256530432.0,4.0,1.0,0.0,5.0,False,2.39
+SGU,"Star Group, L.P.",Energy,Oil & Gas Refining & Marketing,11.79,407532864.0,4.0,1.0,0.0,5.0,False,6.28
+GPRK,GeoPark Limited,Energy,Oil & Gas E&P,8.25,426227904.0,4.0,1.0,0.0,5.0,False,1.45
+GEL,"Genesis Energy, L.P.",Energy,Oil & Gas Midstream,16.11,1972900224.0,3.5,1.5,0.0,5.0,False,4.1
+SUN,Sunoco LP,Energy,Oil & Gas Refining & Marketing,54.43,10239929344.0,4.0,1.0,0.0,5.0,False,6.76
+EC,Ecopetrol S.A.,Energy,Oil & Gas Integrated,9.89,21217323008.0,4.0,1.0,0.0,5.0,False,24.18
+TEN,Tsakos Energy Navigation Limited,Energy,Oil & Gas Midstream,24.74,745356928.0,4.0,1.0,0.0,5.0,False,4.04
+TRGP,Targa Resources Corp.,Energy,Oil & Gas Midstream,180.74,38893776896.0,4.0,1.0,0.0,5.0,False,2.21
+USAC,"USA Compression Partners, LP",Energy,Oil & Gas Equipment & Services,24.27,2977576448.0,3.5,1.5,0.0,5.0,False,8.65
+VOC,VOC Energy Trust,Energy,Oil & Gas E&P,2.93,49810000.0,4.0,1.0,0.0,5.0,False,14.85
+EPM,Evolution Petroleum Corporation,Energy,Oil & Gas E&P,4.21,146094272.0,4.0,1.0,0.0,5.0,False,11.4
+LNG,"Cheniere Energy, Inc.",Energy,Oil & Gas Midstream,205.69,45204099072.0,3.5,1.0,0.0,4.5,False,1.08
+CNX,CNX Resources Corporation,Energy,Oil & Gas E&P,40.9,5784019456.0,3.0,1.5,0.0,4.5,False,0.0
+LEU,Centrus Energy Corp.,Energy,Uranium,266.23,4848589312.0,3.0,1.5,0.0,4.5,False,0.0
+MMLP,Martin Midstream Partners L.P.,Energy,Oil & Gas Midstream,2.55,99590472.0,3.5,1.0,0.0,4.5,False,0.78
+PR,Permian Resources Corporation,Energy,Oil & Gas E&P,14.92,12571915264.0,3.5,1.0,0.0,4.5,False,4.02
+WTI,"W&T Offshore, Inc.",Energy,Oil & Gas E&P,1.85,275237856.0,3.5,1.0,0.0,4.5,False,2.16
+CAPL,CrossAmerica Partners LP,Energy,Oil & Gas Refining & Marketing,20.5,781469824.0,3.5,1.0,0.0,4.5,False,10.24
+VG,VG,Energy,Oil & Gas Midstream,6.82,16696114176.0,3.5,1.0,0.0,4.5,False,1.0
+OII,"Oceaneering International, Inc.",Energy,Oil & Gas Equipment & Services,26.94,2699592704.0,3.0,1.5,0.0,4.5,False,0.0
+DTM,"DT Midstream, Inc.",Energy,Oil & Gas Midstream,121.56,12359482368.0,3.5,1.0,0.0,4.5,False,2.7
+LPG,Dorian LPG Ltd.,Energy,Oil & Gas Midstream,24.96,1069239232.0,3.5,0.5,0.0,4.0,False,9.82
+SJT,San Juan Basin Royalty Trust,Energy,Oil & Gas E&P,5.99,279186688.0,3.0,1.0,0.0,4.0,False,0.0
+BRN,"Barnwell Industries, Inc.",Energy,Oil & Gas E&P,1.11,11181623.0,3.0,1.0,0.0,4.0,False,0.0
+AESI,Atlas Energy Solutions Inc.,Energy,Oil & Gas Equipment & Services,9.95,1654091520.0,3.5,0.5,0.0,4.0,False,10.05
+OBE,Obsidian Energy Ltd.,Energy,Oil & Gas E&P,6.25,419476416.0,3.0,1.0,0.0,4.0,False,0.0
+BTU,Peabody Energy Corporation,Energy,Thermal Coal,29.02,3528832000.0,3.5,0.5,0.0,4.0,False,1.03
+WFRD,Weatherford International plc,Energy,Oil & Gas Equipment & Services,76.43,5490349056.0,3.5,0.5,0.0,4.0,False,1.31
+HNRG,Hallador Energy Company,Energy,Thermal Coal,19.95,874308928.0,3.0,1.0,0.0,4.0,False,0.0
+NVGS,Navigator Holdings Ltd.,Energy,Oil & Gas Midstream,17.76,1190196224.0,3.5,0.5,0.0,4.0,False,1.58
+SMC,Summit Midstream Corporation,Energy,Oil & Gas Midstream,26.35,323102496.0,3.0,1.0,0.0,4.0,False,0.0
+NOG,"Northern Oil and Gas, Inc.",Energy,Oil & Gas E&P,24.85,2425434112.0,3.5,0.5,0.0,4.0,False,7.24
+SOBO,South Bow Corporation,Energy,Oil & Gas Midstream,27.74,5777947136.0,3.5,0.5,0.0,4.0,False,7.21
+NGL,NGL Energy Partners LP,Energy,Oil & Gas Midstream,9.77,1249069440.0,2.5,1.5,0.0,4.0,False,0.0
+EE,"Excelerate Energy, Inc.",Energy,Oil & Gas Midstream,28.67,3269267968.0,3.5,0.5,0.0,4.0,False,1.12
+NE,Noble Corporation plc,Energy,Oil & Gas Drilling,32.81,5211761152.0,3.5,0.5,0.0,4.0,False,6.1
+NBR,Nabors Industries Ltd.,Energy,Oil & Gas Drilling,58.42,851510528.0,3.0,1.0,0.0,4.0,False,0.0
+EFXT,Enerflex Ltd.,Energy,Oil & Gas Equipment & Services,14.43,1768665600.0,3.5,0.5,0.0,4.0,False,0.84
+WTTR,"Select Water Solutions, Inc.",Energy,Oil & Gas Equipment & Services,11.2,1358178688.0,3.5,0.5,0.0,4.0,False,2.5
+MTDR,Matador Resources Company,Energy,Oil & Gas E&P,45.22,5629638144.0,3.5,0.5,0.0,4.0,False,3.32
+CSAN,Cosan S.A.,Energy,Oil & Gas Refining & Marketing,4.93,7113646592.0,3.5,0.5,0.0,4.0,False,6.06
+FLOC,FLOC,Energy,Oil & Gas Equipment & Services,18.0,1675561472.0,3.5,0.5,0.0,4.0,False,1.78
+CRGY,Crescent Energy Company,Energy,Oil & Gas E&P,9.98,2541223168.0,3.5,0.5,0.0,4.0,False,4.81
+TRMD,TORM plc,Energy,Oil & Gas Midstream,21.24,2152306688.0,3.5,0.5,0.0,4.0,False,9.51
+MNR,MNR,Energy,Oil & Gas E&P,12.49,2103600896.0,3.5,0.5,0.0,4.0,False,15.53
+CHRD,Chord Energy Corporation,Energy,Oil & Gas E&P,97.65,5591254016.0,3.5,0.5,0.0,4.0,False,5.33
+CRC,California Resources Corporation,Energy,Oil & Gas E&P,47.64,3988036096.0,3.5,0.5,0.0,4.0,False,3.4
+KGS,"Kodiak Gas Services, Inc.",Energy,Oil & Gas Equipment & Services,36.75,3148881664.0,3.5,0.5,0.0,4.0,False,4.9
+MGY,Magnolia Oil & Gas Corporation,Energy,Oil & Gas E&P,23.59,4501315584.0,3.5,0.5,0.0,4.0,False,2.54
+CIVI,"Civitas Resources, Inc.",Energy,Oil & Gas E&P,30.39,2592363776.0,3.5,0.5,0.0,4.0,False,6.58
+CKX,"CKX Lands, Inc.",Energy,Oil & Gas E&P,9.7,19915350.0,3.0,1.0,0.0,4.0,False,0.0
+LB,LandBridge Company LLC,Energy,Oil & Gas Equipment & Services,59.58,4741919232.0,3.5,0.5,0.0,4.0,False,0.67
+LBRT,Liberty Energy Inc.,Energy,Oil & Gas Equipment & Services,19.5,3158355456.0,3.5,0.5,0.0,4.0,False,1.85
+TK,Teekay Corporation Ltd.,Energy,Oil & Gas Midstream,9.39,800676224.0,3.0,1.0,0.0,4.0,False,0.0
+CNR,"Core Natural Resources, Inc.",Energy,Thermal Coal,83.27,4286033408.0,3.5,0.5,0.0,4.0,False,0.48
+YPF,YPF Sociedad Anónima,Energy,Oil & Gas Integrated,35.79,15217214464.0,3.0,1.0,0.0,4.0,False,0.0
+BORR,Borr Drilling Limited,Energy,Oil & Gas Drilling,4.05,1159210752.0,3.5,0.5,0.0,4.0,False,5.93
+TDW,Tidewater Inc.,Energy,Oil & Gas Equipment & Services,57.63,2856324608.0,3.0,0.5,0.0,3.5,False,0.0
+REPX,"Riley Exploration Permian, Inc.",Energy,Oil & Gas E&P,27.8,612774336.0,3.5,0.0,0.0,3.5,False,5.76
+EXE,Expand Energy Corporation,Energy,Oil & Gas E&P,122.86,29261529088.0,3.5,0.0,0.0,3.5,False,2.6
+EPSN,Epsilon Energy Ltd.,Energy,Oil & Gas E&P,4.95,137356080.0,3.5,0.0,0.0,3.5,False,5.05
+RIG,Transocean Ltd.,Energy,Oil & Gas Drilling,4.44,4890398720.0,3.0,0.5,0.0,3.5,False,0.0
+PUMP,ProPetro Holding Corp.,Energy,Oil & Gas Equipment & Services,10.91,1134445568.0,3.0,0.5,0.0,3.5,False,0.0
+XPRO,Expro Group Holdings N.V.,Energy,Oil & Gas Equipment & Services,14.87,1718871040.0,3.0,0.5,0.0,3.5,False,0.0
+RNGR,"Ranger Energy Services, Inc.",Energy,Oil & Gas Equipment & Services,13.96,329624736.0,3.5,0.0,0.0,3.5,False,1.72
+CLCO,Cool Company Ltd.,Energy,Oil & Gas Midstream,9.77,517211168.0,3.5,0.0,0.0,3.5,False,6.18
+TALO,Talos Energy Inc.,Energy,Oil & Gas E&P,11.85,2069697536.0,3.0,0.5,0.0,3.5,False,0.0
+EGY,"VAALCO Energy, Inc.",Energy,Oil & Gas E&P,3.55,370116800.0,3.5,0.0,0.0,3.5,False,7.04
+FTI,TechnipFMC plc,Energy,Oil & Gas Equipment & Services,46.02,18914977792.0,3.5,0.0,0.0,3.5,False,0.43
+SUNC,SunocoCorp LLC,Energy,Oil & Gas Midstream,51.24,2638860032.0,3.0,0.5,0.0,3.5,False,0.0
+KNTK,Kinetik Holdings Inc.,Energy,Oil & Gas Midstream,36.89,2361972224.0,3.0,0.5,0.0,3.5,False,8.46
+BKV,BKV Corporation,Energy,Oil & Gas E&P,29.0,2809232384.0,3.0,0.5,0.0,3.5,False,0.0
+SD,"SandRidge Energy, Inc.",Energy,Oil & Gas E&P,15.22,559696384.0,3.5,0.0,0.0,3.5,False,3.15
+SDRL,Seadrill Limited,Energy,Oil & Gas Drilling,32.0,1995973504.0,3.0,0.5,0.0,3.5,False,0.0
+PARR,"Par Pacific Holdings, Inc.",Energy,Oil & Gas Refining & Marketing,43.7,2220601856.0,3.0,0.5,0.0,3.5,False,0.0
+VTS,"Vitesse Energy, Inc.",Energy,Oil & Gas E&P,21.53,832643328.0,3.5,0.0,0.0,3.5,False,10.45
+CRK,"Comstock Resources, Inc.",Energy,Oil & Gas E&P,27.37,8021238784.0,3.0,0.5,0.0,3.5,False,0.0
+VTOL,Bristow Group Inc.,Energy,Oil & Gas Equipment & Services,36.64,1059628800.0,3.0,0.5,0.0,3.5,False,0.0
+GPOR,Gulfport Energy Corporation,Energy,Oil & Gas E&P,216.57,4183443968.0,3.0,0.5,0.0,3.5,False,0.0
+GRNT,"Granite Ridge Resources, Inc.",Energy,Oil & Gas E&P,5.42,711381952.0,3.5,0.0,0.0,3.5,False,8.12
+VIST,"Vista Energy, S.A.B. de C.V.",Energy,Oil & Gas E&P,50.88,5304566784.0,3.0,0.5,0.0,3.5,False,0.0
+MXC,Mexco Energy Corporation,Energy,Oil & Gas E&P,9.1537,18728470.0,3.5,0.0,0.0,3.5,False,1.09
+DNN,Denison Mines Corp.,Energy,Uranium,2.74,2458576128.0,3.0,0.5,0.0,3.5,False,0.0
+NXE,NexGen Energy Ltd.,Energy,Uranium,9.41,6159419904.0,3.0,0.5,0.0,3.5,False,0.0
+INVX,"Innovex International, Inc.",Energy,Oil & Gas Equipment & Services,23.44,1615667456.0,3.0,0.5,0.0,3.5,False,0.0
+UUUU,Energy Fuels Inc.,Energy,Uranium,15.61,3704046336.0,3.0,0.5,0.0,3.5,False,0.0
+TXO,"TXO Partners, L.P.",Energy,Oil & Gas E&P,12.49,684255808.0,3.5,0.0,0.0,3.5,False,16.17
+HLX,"Helix Energy Solutions Group, Inc.",Energy,Oil & Gas Equipment & Services,7.33,1078103040.0,3.0,0.5,0.0,3.5,False,0.0
+VAL,Valaris Limited,Energy,Oil & Gas Equipment & Services,59.93,4267822848.0,3.0,0.5,0.0,3.5,False,0.0
+HPK,"HighPeak Energy, Inc.",Energy,Oil & Gas E&P,5.77,727783296.0,3.5,0.0,0.0,3.5,False,2.77
+NEXT,NextDecade Corporation,Energy,Oil & Gas Equipment & Services,6.15,1628528640.0,3.0,0.5,0.0,3.5,False,0.0
+NPKI,NPK International Inc.,Energy,Oil & Gas Equipment & Services,12.8,1081532160.0,3.0,0.5,0.0,3.5,False,0.0
+NESR,National Energy Services Reunited Corp.,Energy,Oil & Gas Equipment & Services,14.87,1498565248.0,3.0,0.5,0.0,3.5,False,0.0
+NGS,"Natural Gas Services Group, Inc.",Energy,Oil & Gas Equipment & Services,32.18,404467744.0,3.5,0.0,0.0,3.5,False,1.24
+UEC,Uranium Energy Corp.,Energy,Uranium,13.76,6648958976.0,3.0,0.5,0.0,3.5,False,0.0
+EU,enCore Energy Corp.,Energy,Uranium,2.85,533754912.0,3.0,0.0,0.0,3.0,False,0.0
+SND,"Smart Sand, Inc.",Energy,Oil & Gas Equipment & Services,3.89,154538912.0,3.0,0.0,0.0,3.0,False,0.0
+SOC,Sable Offshore Corp.,Energy,Oil & Gas Drilling,5.64,817584512.0,3.0,0.0,0.0,3.0,False,0.0
+URG,Ur-Energy Inc.,Energy,Uranium,1.38,519174816.0,3.0,0.0,0.0,3.0,False,0.0
+HUSA,Houston American Energy Corp.,Energy,Oil & Gas E&P,2.16,79743488.0,3.0,0.0,0.0,3.0,False,0.0
+IMPPP,Imperial Petroleum Inc.,Energy,Oil & Gas Midstream,25.789,0.0,3.0,0.0,0.0,3.0,False,8.48
+IMPP,Imperial Petroleum Inc.,Energy,Oil & Gas Midstream,4.57,165547504.0,3.0,0.0,0.0,3.0,False,0.0
+UROY,Uranium Royalty Corp.,Energy,Uranium,3.91,522525056.0,3.0,0.0,0.0,3.0,False,0.0
+USEG,U.S. Energy Corp.,Energy,Oil & Gas E&P,1.06,37983852.0,3.0,0.0,0.0,3.0,False,0.0
+INDO,Indonesia Energy Corporation Limited,Energy,Oil & Gas E&P,3.0,44962424.0,3.0,0.0,0.0,3.0,False,0.0
+INR,"Infinity Natural Resources, Inc.",Energy,Oil & Gas E&P,14.82,231631456.0,3.0,0.0,0.0,3.0,False,0.0
+NCSM,"NCS Multistage Holdings, Inc.",Energy,Oil & Gas Equipment & Services,39.28,99807336.0,3.0,0.0,0.0,3.0,False,0.0
+SLNG,"Stabilis Solutions, Inc.",Energy,Oil & Gas Integrated,4.96,92237656.0,3.0,0.0,0.0,3.0,False,0.0
+DLXY,Delixy Holdings Limited,Energy,Oil & Gas Refining & Marketing,0.9882,16157070.0,3.0,0.0,0.0,3.0,False,0.0
+SKYQ,SKYQ,Energy,Oil & Gas Integrated,0.389,9638012.0,3.0,0.0,0.0,3.0,False,0.0
+ISOU,IsoEnergy Ltd.,Energy,Uranium,9.58,526576512.0,3.0,0.0,0.0,3.0,False,0.0
+OIS,"Oil States International, Inc.",Energy,Oil & Gas Equipment & Services,6.8,412030048.0,3.0,0.0,0.0,3.0,False,0.0
+OMSE,OMSE,Energy,Oil & Gas Equipment & Services,4.8,203753792.0,3.0,0.0,0.0,3.0,False,0.0
+GTE,Gran Tierra Energy Inc.,Energy,Oil & Gas E&P,4.71,166242992.0,3.0,0.0,0.0,3.0,False,0.0
+VIVK,"Vivakor, Inc.",Energy,Oil & Gas Integrated,0.1,16410175.0,3.0,0.0,0.0,3.0,False,0.0
+VTLE,"Vital Energy, Inc.",Energy,Oil & Gas E&P,18.97,734074496.0,3.0,0.0,0.0,3.0,False,0.0
+DTI,Drilling Tools International Corporation,Energy,Oil & Gas Equipment & Services,2.42,85181048.0,3.0,0.0,0.0,3.0,False,0.0
+AMPY,Amplify Energy Corp.,Energy,Oil & Gas E&P,5.56,225046528.0,3.0,0.0,0.0,3.0,False,0.0
+WBI,WaterBridge Infrastructure LLC,Energy,Oil & Gas Equipment & Services,22.72,982977408.0,3.0,0.0,0.0,3.0,False,0.0
+AEC,Anfield Energy Inc.,Energy,Uranium,6.47,102952264.0,3.0,0.0,0.0,3.0,False,0.0
+GEOS,Geospace Technologies Corporation,Energy,Oil & Gas Equipment & Services,14.76,189233584.0,3.0,0.0,0.0,3.0,False,0.0
+DWSN,Dawson Geophysical Company,Energy,Oil & Gas Equipment & Services,1.96,60853688.0,3.0,0.0,0.0,3.0,False,0.0
+PED,PEDEVCO Corp.,Energy,Oil & Gas E&P,0.564,53872916.0,3.0,0.0,0.0,3.0,False,0.0
+GFR,Greenfire Resources Ltd.,Energy,Oil & Gas E&P,5.11,404128896.0,3.0,0.0,0.0,3.0,False,0.0
+KGEI,Kolibri Global Energy Inc.,Energy,Oil & Gas E&P,4.02,142495120.0,3.0,0.0,0.0,3.0,False,0.0
+PDS,Precision Drilling Corporation,Energy,Oil & Gas Drilling,68.26,899221632.0,3.0,0.0,0.0,3.0,False,0.0
+KOS,Kosmos Energy Ltd.,Energy,Oil & Gas E&P,1.15,550075968.0,3.0,0.0,0.0,3.0,False,0.0
+TPET,Trio Petroleum Corp.,Energy,Oil & Gas E&P,0.9128,7704807.0,3.0,0.0,0.0,3.0,False,0.0
+AR,Antero Resources Corporation,Energy,Oil & Gas E&P,36.75,11353214976.0,3.0,0.0,0.0,3.0,False,0.0
+TORO,Toro Corp.,Energy,Oil & Gas Midstream,5.8,124546352.0,3.0,0.0,0.0,3.0,False,0.0
+TOPS,Top Ships Inc.,Energy,Oil & Gas Midstream,6.0,27757188.0,3.0,0.0,0.0,3.0,False,0.0
+FTK,"Flotek Industries, Inc.",Energy,Oil & Gas Equipment & Services,16.38,492347136.0,3.0,0.0,0.0,3.0,False,0.0
+TMDE,TMD Energy Limited,Energy,Oil & Gas Midstream,0.7796,18371274.0,3.0,0.0,0.0,3.0,False,0.0
+PNRG,PrimeEnergy Resources Corporation,Energy,Oil & Gas E&P,190.0,313310016.0,3.0,0.0,0.0,3.0,False,0.0
+PROP,Prairie Operating Co.,Energy,Oil & Gas E&P,1.79,106767424.0,3.0,0.0,0.0,3.0,False,0.0
+ACDC,ProFrac Holding Corp.,Energy,Oil & Gas Equipment & Services,4.24,766893760.0,3.0,0.0,0.0,3.0,False,0.0
+CLNE,Clean Energy Fuels Corp.,Energy,Oil & Gas Refining & Marketing,2.29,502199264.0,3.0,0.0,0.0,3.0,False,0.0
+FET,"Forum Energy Technologies, Inc.",Energy,Oil & Gas Equipment & Services,35.24,419471488.0,3.0,0.0,0.0,3.0,False,0.0
+EONR,EON Resources Inc.,Energy,Oil & Gas E&P,0.468,23385184.0,3.0,0.0,0.0,3.0,False,0.0
+EP,Empire Petroleum Corporation,Energy,Oil & Gas E&P,3.14,109447216.0,3.0,0.0,0.0,3.0,False,0.0
+PXS,Pyxis Tankers Inc.,Energy,Oil & Gas Midstream,2.9,30409010.0,3.0,0.0,0.0,3.0,False,0.0
+BANL,CBL International Limited,Energy,Oil & Gas Midstream,0.446,12241876.0,3.0,0.0,0.0,3.0,False,0.0
+TBN,Tamboran Resources Corporation,Energy,Oil & Gas E&P,26.16,550188352.0,3.0,0.0,0.0,3.0,False,0.0
+ANNA,"AleAnna, Inc.",Energy,Oil & Gas E&P,3.39,137836992.0,3.0,0.0,0.0,3.0,False,0.0
+REI,"Ring Energy, Inc.",Energy,Oil & Gas E&P,0.9406,194914128.0,3.0,0.0,0.0,3.0,False,0.0
+RBNE,Robin Energy Ltd.,Energy,Oil & Gas Midstream,0.8595,12057694.0,2.5,0.0,0.0,2.5,False,0.0
+BATL,Battalion Oil Corporation,Energy,Oil & Gas E&P,1.2,19747876.0,2.5,0.0,0.0,2.5,False,0.0
+KLXE,"KLX Energy Services Holdings, Inc.",Energy,Oil & Gas Equipment & Services,1.66,29615156.0,2.5,0.0,0.0,2.5,False,0.0
+ANNAW,"AleAnna, Inc.",Energy,Oil & Gas E&P,0.2096,0.0,2.5,0.0,0.0,2.5,False,0.0
+EXEEW,Expand Energy Corporation,Energy,Oil & Gas E&P,110.0,0.0,2.5,0.0,0.0,2.5,False,0.0
+EXEEZ,Expand Energy Corporation,Energy,Oil & Gas E&P,107.24,0.0,2.5,0.0,0.0,2.5,False,0.0
+NINE,"Nine Energy Service, Inc.",Energy,Oil & Gas Equipment & Services,0.485,21030250.0,2.5,0.0,0.0,2.5,False,0.0
+EXEEL,Expand Energy Corporation,Energy,Oil & Gas E&P,117.61,0.0,2.5,0.0,0.0,2.5,False,0.0
+RCON,"Recon Technology, Ltd.",Energy,Oil & Gas Equipment & Services,1.3,39815656.0,3.0,0.0,-1.0,2.0,False,0.0
+STAK,STAK Inc.,Energy,Oil & Gas Equipment & Services,0.471,6222074.0,3.0,0.0,-1.0,2.0,False,0.0
+LSE,"Leishen Energy Holding Co., Ltd.",Energy,Oil & Gas Equipment & Services,5.24,89211000.0,3.0,0.0,-1.0,2.0,False,0.0

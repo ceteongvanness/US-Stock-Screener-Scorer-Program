@@ -1,0 +1,139 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+INTU,Intuit Inc.,Technology,Software - Application,673.63,187538587648.0,4.0,4.5,0.0,8.5,True,0.67
+SAP,SAP SE,Technology,Software - Application,247.26,288501563392.0,4.0,4.5,0.0,8.5,True,1.03
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,217.58,620275499008.0,4.0,4.5,0.0,8.5,True,0.92
+ADP,"Automatic Data Processing, Inc.",Technology,Software - Application,261.63,105983565824.0,4.0,4.5,0.0,8.5,True,2.6
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,483.16,3591408713728.0,4.0,4.5,0.0,8.5,True,0.75
+PAYX,"Paychex, Inc.",Technology,Software - Application,112.06,40329736192.0,4.0,4.0,0.0,8.0,True,3.86
+ROP,"Roper Technologies, Inc.",Technology,Software - Application,447.56,48174206976.0,4.0,4.0,0.0,8.0,True,0.81
+PEGA,Pegasystems Inc.,Technology,Software - Application,60.11,10283659264.0,4.0,4.0,0.0,8.0,True,0.2
+NTAP,"NetApp, Inc.",Technology,Software - Infrastructure,117.27,23409246208.0,4.0,4.0,0.0,8.0,True,1.77
+BSY,"Bentley Systems, Incorporated",Technology,Software - Application,43.19,13113820160.0,4.0,4.0,0.0,8.0,True,0.65
+MFC,Manulife Financial Corporation,Financial Services,Insurance - Life,35.29,59438215168.0,4.0,3.5,0.0,7.5,True,3.55
+HSBC,HSBC Holdings plc,Financial Services,Banks - Diversified,71.0,243756269568.0,4.0,3.5,0.0,7.5,True,2.82
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",Financial Services,Banks - Diversified,16.28,185069060096.0,4.0,3.5,0.0,7.5,True,3.31
+AFL,Aflac Incorporated,Financial Services,Insurance - Life,109.28,58446385152.0,4.0,3.5,0.0,7.5,True,2.23
+CB,Chubb Limited,Financial Services,Insurance - Property & Casualty,295.0,117613641728.0,4.0,3.5,0.0,7.5,True,1.32
+NGG,National Grid plc,Utilities,Utilities - Regulated Electric,75.41,74830028800.0,4.0,3.5,0.0,7.5,True,4.14
+AMGN,Amgen Inc.,Healthcare,Drug Manufacturers - General,329.89,177639391232.0,4.0,3.5,0.0,7.5,True,2.89
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",Financial Services,Banks - Diversified,21.8,124716752896.0,4.0,3.5,0.0,7.5,True,3.82
+DB,Deutsche Bank Aktiengesellschaft,Financial Services,Banks - Regional,36.26,69842296832.0,4.0,3.5,0.0,7.5,True,2.14
+ZTS,Zoetis Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,118.65,52583723008.0,4.0,3.5,0.0,7.5,True,1.69
+MMC,"Marsh & McLennan Companies, Inc.",Financial Services,Insurance Brokers,181.82,89387081728.0,4.0,3.5,0.0,7.5,True,1.98
+RY,Royal Bank of Canada,Financial Services,Banks - Diversified,162.48,228274126848.0,4.0,3.5,0.0,7.5,True,2.88
+PFE,Pfizer Inc.,Healthcare,Drug Manufacturers - General,26.03,147998982144.0,4.0,3.5,0.0,7.5,True,6.61
+BK,The Bank of New York Mellon Corporation,Financial Services,Banks - Diversified,114.02,80411557888.0,4.0,3.5,0.0,7.5,True,1.86
+ADEA,Adeia Inc.,Technology,Software - Application,12.51,1369972480.0,4.0,3.5,0.0,7.5,True,1.6
+BCS,Barclays PLC,Financial Services,Banks - Diversified,23.22,80590520320.0,4.0,3.5,0.0,7.5,True,1.92
+ING,ING Groep N.V.,Financial Services,Banks - Diversified,26.28,76276932608.0,4.0,3.5,0.0,7.5,True,4.46
+OTEX,Open Text Corporation,Technology,Software - Application,33.52,8554564096.0,4.0,3.5,0.0,7.5,True,3.21
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",Financial Services,Banks - Diversified,18.96,121327722496.0,4.0,3.5,0.0,7.5,True,2.9
+SO,The Southern Company,Utilities,Utilities - Regulated Electric,86.28,95003328512.0,4.0,3.5,0.0,7.5,True,3.43
+SRE,Sempra,Utilities,Utilities - Diversified,90.66,59172110336.0,4.0,3.5,0.0,7.5,True,2.85
+CSGS,"CSG Systems International, Inc.",Technology,Software - Infrastructure,77.01,2196338688.0,4.0,3.5,0.0,7.5,True,1.66
+ITUB,Itaú Unibanco Holding S.A.,Financial Services,Banks - Regional,7.55,80828022784.0,4.0,3.5,0.0,7.5,True,7.64
+ADBE,Adobe Inc.,Technology,Software - Application,346.26,146883493888.0,3.0,4.5,0.0,7.5,True,0.0
+INFY,Infosys Limited,Technology,Information Technology Services,18.07,75928961024.0,4.0,3.5,0.0,7.5,True,2.87
+BMO,Bank of Montreal,Financial Services,Banks - Diversified,128.85,93182435328.0,4.0,3.5,0.0,7.5,True,3.72
+DOX,Amdocs Limited,Technology,Software - Infrastructure,77.07,8477083648.0,4.0,3.5,0.0,7.5,True,2.74
+BNS,The Bank of Nova Scotia,Financial Services,Banks - Diversified,71.7,89342861312.0,4.0,3.5,0.0,7.5,True,4.39
+HDB,HDFC Bank Limited,Financial Services,Banks - Regional,35.72,183153967104.0,4.0,3.5,0.0,7.5,True,1.05
+BAC,Bank of America Corporation,Financial Services,Banks - Diversified,53.95,399604809728.0,4.0,3.5,0.0,7.5,True,2.08
+AZN,AstraZeneca PLC,Healthcare,Drug Manufacturers - General,90.18,279609147392.0,4.0,3.5,0.0,7.5,True,1.74
+IBN,ICICI Bank Limited,Financial Services,Banks - Regional,30.69,109859569664.0,4.0,3.5,0.0,7.5,True,0.84
+ADSK,"Autodesk, Inc.",Technology,Software - Application,306.74,65335619584.0,3.0,4.5,0.0,7.5,True,0.0
+DUK,Duke Energy Corporation,Utilities,Utilities - Regulated Electric,116.52,90613088256.0,4.0,3.5,0.0,7.5,True,3.66
+CM,Canadian Imperial Bank of Commerce,Financial Services,Banks - Diversified,91.16,84987068416.0,4.0,3.5,0.0,7.5,True,3.36
+SNY,Sanofi,Healthcare,Drug Manufacturers - General,49.53,120898920448.0,4.0,3.5,0.0,7.5,True,4.43
+WFC,Wells Fargo & Company,Financial Services,Banks - Diversified,89.83,287765135360.0,4.0,3.5,0.0,7.5,True,2.0
+CSCO,"Cisco Systems, Inc.",Technology,Communication Equipment,77.97,308066844672.0,4.0,3.5,0.0,7.5,True,2.1
+GILD,"Gilead Sciences, Inc.",Healthcare,Drug Manufacturers - General,121.22,150410608640.0,4.0,3.5,0.0,7.5,True,2.61
+UPBD,"Upbound Group, Inc.",Technology,Software - Application,18.86,1092102144.0,4.0,3.5,0.0,7.5,True,8.27
+USB,U.S. Bancorp,Financial Services,Banks - Regional,51.26,79770271744.0,4.0,3.5,0.0,7.5,True,4.06
+ABT,Abbott Laboratories,Healthcare,Medical Devices,125.08,217696616448.0,4.0,3.5,0.0,7.5,True,1.89
+MFG,"Mizuho Financial Group, Inc.",Financial Services,Banks - Regional,7.35,91125841920.0,4.0,3.5,0.0,7.5,True,2.58
+EVTC,"EVERTEC, Inc.",Technology,Software - Infrastructure,29.59,1893281792.0,4.0,3.5,0.0,7.5,True,0.68
+LYG,Lloyds Banking Group plc,Financial Services,Banks - Regional,5.13,75388878848.0,4.0,3.5,0.0,7.5,True,3.29
+MSI,"Motorola Solutions, Inc.",Technology,Communication Equipment,374.39,62374830080.0,4.0,3.5,0.0,7.5,True,1.29
+MRK,"Merck & Co., Inc.",Healthcare,Drug Manufacturers - General,99.72,249078956032.0,4.0,3.5,0.0,7.5,True,3.41
+AEP,"American Electric Power Company, Inc.",Utilities,Utilities - Regulated Electric,117.54,62915121152.0,4.0,3.5,0.0,7.5,True,3.23
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,201.93,486508953600.0,4.0,3.5,0.0,7.5,True,2.58
+TMO,Thermo Fisher Scientific Inc.,Healthcare,Diagnostics & Research,572.77,215194320896.0,4.0,3.5,0.0,7.5,True,0.3
+APH,Amphenol Corporation,Technology,Electronic Components,139.36,170584375296.0,4.0,3.5,0.0,7.5,True,0.72
+AON,Aon plc,Financial Services,Insurance Brokers,345.2,74434306048.0,4.0,3.5,0.0,7.5,True,0.86
+TFC,Truist Financial Corporation,Financial Services,Banks - Regional,47.53,61286850560.0,4.0,3.5,0.0,7.5,True,4.38
+NVS,Novartis AG,Healthcare,Drug Manufacturers - General,132.16,253587570688.0,4.0,3.5,0.0,7.5,True,3.02
+TD,The Toronto-Dominion Bank,Financial Services,Banks - Diversified,88.32,151204839424.0,4.0,3.5,0.0,7.5,True,3.51
+NVO,Novo Nordisk A/S,Healthcare,Drug Manufacturers - General,47.86,212664926208.0,4.0,3.5,0.0,7.5,True,3.61
+SPNS,Sapiens International Corporation N.V.,Technology,Software - Application,43.32,2421615616.0,4.0,3.5,0.0,7.5,True,1.39
+CRM,"Salesforce, Inc.",Technology,Software - Application,260.57,249104924672.0,3.5,4.0,0.0,7.5,True,0.64
+C,Citigroup Inc.,Financial Services,Banks - Diversified,108.88,200436957184.0,4.0,3.5,0.0,7.5,True,2.2
+JPM,JPMorgan Chase & Co.,Financial Services,Banks - Diversified,315.04,866282504192.0,4.0,3.5,0.0,7.5,True,1.9
+GSK,GSK plc,Healthcare,Drug Manufacturers - General,48.41,97718542336.0,4.0,3.5,0.0,7.5,True,3.49
+IDCC,"InterDigital, Inc.",Technology,Software - Application,355.18,9164481536.0,4.0,3.5,0.0,7.5,True,0.79
+PNC,"The PNC Financial Services Group, Inc.",Financial Services,Banks - Regional,197.86,77746511872.0,4.0,3.5,0.0,7.5,True,3.44
+SAN,"Banco Santander, S.A.",Financial Services,Banks - Diversified,10.97,161565917184.0,4.0,3.5,0.0,7.5,True,2.34
+LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,1010.31,905699262464.0,4.0,3.5,0.0,7.5,True,0.59
+NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,83.13,173127335936.0,4.0,3.5,0.0,7.5,True,2.73
+UBS,UBS Group AG,Financial Services,Banks - Diversified,40.64,128064790528.0,4.0,3.5,0.0,7.5,True,2.21
+WDC,Western Digital Corporation,Technology,Computer Hardware,168.89,57894735872.0,4.0,3.5,0.0,7.5,True,0.3
+CIB,Grupo Cibest S.A.,Financial Services,Banks - Regional,62.41,16269693952.0,4.0,3.0,0.0,7.0,True,24.43
+ACGLO,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,21.0588,12279154688.0,4.0,3.0,0.0,7.0,True,6.47
+A,"Agilent Technologies, Inc.",Healthcare,Diagnostics & Research,145.49,41246478336.0,4.0,3.0,0.0,7.0,True,0.7
+EWBC,"East West Bancorp, Inc.",Financial Services,Banks - Regional,110.33,15205874688.0,4.0,3.0,0.0,7.0,True,2.18
+RACE,Ferrari N.V.,Consumer Cyclical,Auto Manufacturers,393.21,70097616896.0,4.0,3.0,0.0,7.0,True,0.86
+RCL,Royal Caribbean Cruises Ltd.,Consumer Cyclical,Travel Services,257.66,70267224064.0,4.0,3.0,0.0,7.0,True,1.55
+ERIE,Erie Indemnity Company,Financial Services,Insurance Brokers,296.46,15501853696.0,4.0,3.0,0.0,7.0,True,1.84
+GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,203.59,39189843968.0,4.0,3.0,0.0,7.0,True,1.77
+WBS,Webster Financial Corporation,Financial Services,Banks - Regional,62.49,10385129472.0,4.0,3.0,0.0,7.0,True,2.56
+FCNCA,"First Citizens BancShares, Inc.",Financial Services,Banks - Regional,1971.82,25246969856.0,4.0,3.0,0.0,7.0,True,0.43
+MNDO,MIND C.T.I. Ltd,Technology,Software - Application,1.23,25050582.0,4.0,3.0,0.0,7.0,True,17.89
+SHG,"Shinhan Financial Group Co., Ltd.",Financial Services,Banks - Regional,54.25,26533083136.0,4.0,3.0,0.0,7.0,True,2.93
+RMD,ResMed Inc.,Healthcare,Medical Instruments & Supplies,256.55,37447651328.0,4.0,3.0,0.0,7.0,True,0.94
+PLTR,Palantir Technologies Inc.,Technology,Software - Infrastructure,181.76,433213374464.0,3.0,4.0,0.0,7.0,True,0.0
+BBD,Banco Bradesco S.A.,Financial Services,Banks - Regional,3.31,35009908736.0,4.0,3.0,0.0,7.0,True,5.45
+BBDO,Banco Bradesco S.A.,Financial Services,Banks - Regional,2.98,33817833472.0,4.0,3.0,0.0,7.0,True,4.04
+RF,Regions Financial Corporation,Financial Services,Banks - Regional,26.28,23449864192.0,4.0,3.0,0.0,7.0,True,4.03
+BAP,Credicorp Ltd.,Financial Services,Banks - Regional,272.3,21611448320.0,4.0,3.0,0.0,7.0,True,4.04
+RDY,Dr. Reddy's Laboratories Limited,Healthcare,Drug Manufacturers - Specialty & Generic,14.19,11868736512.0,4.0,3.0,0.0,7.0,True,0.64
+D,"Dominion Energy, Inc.",Utilities,Utilities - Regulated Electric,58.49,49945391104.0,4.0,3.0,0.0,7.0,True,4.56
+BCH,Banco de Chile,Financial Services,Banks - Regional,37.1,18738667520.0,4.0,3.0,0.0,7.0,True,5.67
+AWK,"American Water Works Company, Inc.",Utilities,Utilities - Regulated Water,129.5,25268502528.0,4.0,3.0,0.0,7.0,True,2.56
+PG,The Procter & Gamble Company,Consumer Defensive,Household & Personal Products,143.45,335742631936.0,4.0,3.0,0.0,7.0,True,2.95
+RPRX,Royalty Pharma plc,Healthcare,Biotechnology,39.73,23169513472.0,4.0,3.0,0.0,7.0,True,2.21
+PEG,Public Service Enterprise Group Incorporated,Utilities,Utilities - Regulated Electric,79.57,39717683200.0,4.0,3.0,0.0,7.0,True,3.17
+WIT,Wipro Limited,Technology,Information Technology Services,2.85,30726928384.0,4.0,3.0,0.0,7.0,True,4.42
+HBAN,Huntington Bancshares Incorporated,Financial Services,Banks - Regional,16.9,26614173696.0,4.0,3.0,0.0,7.0,True,3.67
+SBS,Companhia de Saneamento Básico do Estado de São Paulo - SABESP,Utilities,Utilities - Regulated Water,25.06,17116014592.0,4.0,3.0,0.0,7.0,True,2.62
+CMA,Comerica Incorporated,Financial Services,Banks - Regional,84.12,10750042112.0,4.0,3.0,0.0,7.0,True,3.38
+GL,Globe Life Inc.,Financial Services,Insurance - Life,131.37,10641434624.0,4.0,3.0,0.0,7.0,True,0.82
+SHOP,Shopify Inc.,Technology,Software - Application,161.08,209700864000.0,3.0,4.0,0.0,7.0,True,0.0
+ATO,Atmos Energy Corporation,Utilities,Utilities - Regulated Gas,171.29,27696451584.0,4.0,3.0,0.0,7.0,True,2.34
+BSBR,Banco Santander (Brasil) S.A.,Financial Services,Banks - Regional,6.1,45573459968.0,4.0,3.0,0.0,7.0,True,5.39
+SSNC,"SS&C Technologies Holdings, Inc.",Technology,Software - Application,88.32,21569566720.0,4.0,3.0,0.0,7.0,True,1.22
+T,AT&T Inc.,Communication Services,Telecom Services,25.28,180761755648.0,4.0,3.0,0.0,7.0,True,4.39
+BSAC,Banco Santander-Chile,Financial Services,Banks - Regional,29.72,14001547264.0,4.0,3.0,0.0,7.0,True,4.54
+STX,Seagate Technology Holdings plc,Technology,Computer Hardware,278.79,60740550656.0,3.5,3.5,0.0,7.0,True,1.06
+BRO,"Brown & Brown, Inc.",Financial Services,Insurance Brokers,78.37,26757148672.0,4.0,3.0,0.0,7.0,True,0.84
+WEC,"WEC Energy Group, Inc.",Utilities,Utilities - Regulated Electric,105.71,34386853888.0,4.0,3.0,0.0,7.0,True,3.6
+EBAY,eBay Inc.,Consumer Cyclical,Internet Retail,82.47,37688791040.0,4.0,3.0,0.0,7.0,True,1.41
+KEY,KeyCorp,Financial Services,Banks - Regional,19.26,21118896128.0,4.0,3.0,0.0,7.0,True,4.26
+KB,KB Financial Group Inc.,Financial Services,Banks - Regional,87.81,32187535360.0,4.0,3.0,0.0,7.0,True,2.86
+JKHY,"Jack Henry & Associates, Inc.",Technology,Information Technology Services,181.71,13203993600.0,4.0,3.0,0.0,7.0,True,1.28
+GEN,Gen Digital Inc.,Technology,Software - Infrastructure,27.09,16706839552.0,4.0,3.0,0.0,7.0,True,1.85
+AEE,Ameren Corporation,Utilities,Utilities - Regulated Electric,99.86,27011622912.0,4.0,3.0,0.0,7.0,True,2.84
+CFG,"Citizens Financial Group, Inc.",Financial Services,Banks - Regional,55.46,23922614272.0,4.0,3.0,0.0,7.0,True,3.32
+EIX,Edison International,Utilities,Utilities - Regulated Electric,58.09,22355007488.0,4.0,3.0,0.0,7.0,True,5.7
+FITBI,Fifth Third Bancorp,Financial Services,Banks - Regional,25.735,18002636800.0,4.0,3.0,0.0,7.0,True,9.23
+UBER,"Uber Technologies, Inc.",Technology,Software - Application,91.32,190440423424.0,3.0,4.0,0.0,7.0,True,0.0
+KO,The Coca-Cola Company,Consumer Defensive,Beverages - Non-Alcoholic,70.0,301256704000.0,4.0,3.0,0.0,7.0,True,2.91
+UI,Ubiquiti Inc.,Technology,Communication Equipment,577.92,34963959808.0,4.0,3.0,0.0,7.0,True,0.55
+FITB,Fifth Third Bancorp,Financial Services,Banks - Regional,45.42,30024652800.0,4.0,3.0,0.0,7.0,True,3.52
+LNT,Alliant Energy Corporation,Utilities,Utilities - Regulated Electric,65.5,16837017600.0,4.0,3.0,0.0,7.0,True,3.1
+CMCSA,Comcast Corporation,Communication Services,Telecom Services,27.31,100834156544.0,4.0,3.0,0.0,7.0,True,4.83
+FHN,First Horizon Corporation,Financial Services,Banks - Regional,22.76,11556335616.0,4.0,3.0,0.0,7.0,True,2.64
+MTB,M&T Bank Corporation,Financial Services,Banks - Regional,195.11,30489702400.0,4.0,3.0,0.0,7.0,True,3.08
+WTRG,"Essential Utilities, Inc.",Utilities,Utilities - Regulated Water,38.0,10753070080.0,4.0,3.0,0.0,7.0,True,3.61
+WST,"West Pharmaceutical Services, Inc.",Healthcare,Medical Instruments & Supplies,280.23,20160702464.0,4.0,3.0,0.0,7.0,True,0.31
+WTW,Willis Towers Watson Public Limited Company,Financial Services,Insurance Brokers,320.7,31283642368.0,4.0,3.0,0.0,7.0,True,1.15
+CINF,Cincinnati Financial Corporation,Financial Services,Insurance - Property & Casualty,162.3,25379893248.0,4.0,3.0,0.0,7.0,True,2.14

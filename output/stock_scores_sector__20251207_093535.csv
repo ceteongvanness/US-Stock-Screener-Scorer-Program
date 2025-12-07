@@ -1,0 +1,96 @@
+ticker,company_name,sector,industry,current_price,market_cap,financial_score,moat_score,risk_deduction,total_score,passing,dividend_yield
+RZB,"Reinsurance Group of America, Incorporated",,,24.85,8734750720.0,2.5,0.5,0.0,3.0,False,0.0
+FGMCR,FG Merger II Corp.,,,0.3749,0.0,2.5,0.0,0.0,2.5,False,0.0
+XELLL,Xcel Energy Inc.,,,24.995,0.0,2.5,0.0,0.0,2.5,False,0.0
+RANGR,Range Capital Acquisition Corp.,,,0.45,0.0,2.5,0.0,0.0,2.5,False,0.0
+RIBBR,Ribbon Acquisition Corp.,,,0.24,1252800.0,2.5,0.0,0.0,2.5,False,0.0
+FSSL,FS Specialty Lending Fund,,,13.49,0.0,2.5,0.0,0.0,2.5,False,0.0
+FSHPR,Flag Ship Acquisition Corporation,,,0.18,0.0,2.5,0.0,0.0,2.5,False,0.0
+ADAMH,"Adamas Trust, Inc.",,,25.77,0.0,2.5,0.0,0.0,2.5,False,0.0
+GAINI,Gladstone Investment Corporation,,,25.64,0.0,2.5,0.0,0.0,2.5,False,0.0
+ADAMG,"Adamas Trust, Inc.",,,25.3099,0.0,2.5,0.0,0.0,2.5,False,0.0
+GENVR,Gen Digital Inc.,,,5.2,0.0,2.5,0.0,0.0,2.5,False,0.0
+GLIBR,"GCI Liberty, Inc.",,,3.75,0.0,2.5,0.0,0.0,2.5,False,0.0
+FCRX,"Crescent Capital BDC, Inc.",,,25.0501,0.0,2.5,0.0,0.0,2.5,False,0.0
+UYSCR,UY Scuti Acquisition Corp.,,,0.25,0.0,2.5,0.0,0.0,2.5,False,0.0
+DCOMG,"Dime Community Bancshares, Inc.",,,25.9996,0.0,2.5,0.0,0.0,2.5,False,0.0
+HTFB,Horizon Technology Finance Corporation,,,25.15,0.0,2.5,0.0,0.0,2.5,False,0.0
+PRHIZ,"Presurance Holdings, Inc.",,,19.58,0.0,2.5,0.0,0.0,2.5,False,0.0
+IBACR,IB Acquisition Corp.,,,0.0625,0.0,2.5,0.0,0.0,2.5,False,0.0
+ALISR,Calisa Acquisition Corp,,,0.246,0.0,2.5,0.0,0.0,2.5,False,0.0
+RWTP,"Redwood Trust, Inc.",,,24.48,0.0,2.5,0.0,0.0,2.5,False,0.0
+RWTQ,"Redwood Trust, Inc.",,,25.23,0.0,2.5,0.0,0.0,2.5,False,0.0
+TWOD,Two Harbors Investment Corp.,,,25.6399,0.0,2.5,0.0,0.0,2.5,False,0.0
+PMTW,PennyMac Mortgage Investment Trust,,,25.3,0.0,2.5,0.0,0.0,2.5,False,0.0
+COLAR,Columbus Acquisition Corp,,,0.4299,0.0,2.5,0.0,0.0,2.5,False,0.0
+PELIR,Pelican Acquisition Corporation,,,0.3,0.0,2.5,0.0,0.0,2.5,False,0.0
+SDHIR,Siddhi Acquisition Corp.,,,0.29,0.0,2.5,0.0,0.0,2.5,False,0.0
+CITR,"General Enterprise Ventures, Inc.",,,7.83,0.0,2.5,0.0,0.0,2.5,False,0.0
+METCI,"Ramaco Resources, Inc.",,,25.16,0.0,2.5,0.0,0.0,2.5,False,0.0
+METCZ,"Ramaco Resources, Inc.",,,25.35,0.0,2.5,0.0,0.0,2.5,False,0.0
+CIMO,Chimera Investment Corporation,,,25.3399,0.0,2.5,0.0,0.0,2.5,False,0.0
+CICB,CION Investment Corporation,,,25.63,0.0,2.5,0.0,0.0,2.5,False,0.0
+OXSQH,Oxford Square Capital Corp.,,,25.1399,0.0,2.5,0.0,0.0,2.5,False,0.0
+OXLCI,Oxford Lane Capital Corp.,,,25.77,0.0,2.5,0.0,0.0,2.5,False,0.0
+OXLCG,Oxford Lane Capital Corp. 7.95% Notes due 2032,,,25.305,0.0,2.5,0.0,0.0,2.5,False,0.0
+SSEAR,Starry Sea Acquisition Corp,,,0.21,0.0,2.5,0.0,0.0,2.5,False,0.0
+SPMC,"Sound Point Meridian Capital, Inc.",,,14.01,283465728.0,2.5,0.0,0.0,2.5,False,0.0
+OFSSO,OFS Capital Corporation,,,25.87,0.0,2.5,0.0,0.0,2.5,False,0.0
+NEWTH,"NewtekOne, Inc.",,,25.31,0.0,2.5,0.0,0.0,2.5,False,0.0
+ZTR,Virtus Global Dividend & Income Fund Inc.,,,6.36,300474400.0,2.5,0.0,0.0,2.5,False,0.0
+CAPNR,Cayson Acquisition Corp,,,0.19,0.0,2.0,0.0,0.0,2.0,False,0.0
+NOEMR,CO2 Energy Transition Corp.,,,0.2167,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATMCR,AlphaTime Acquisition Corp,,,0.1936,0.0,2.0,0.0,0.0,2.0,False,0.0
+CFND,C1 Fund Inc.,,,5.36,36269352.0,2.0,0.0,0.0,2.0,False,0.0
+CHACR,Crane Harbor Acquisition Corp.,,,0.98,0.0,2.0,0.0,0.0,2.0,False,0.0
+MLACR,Mountain Lake Acquisition Corp.,,,0.28,7932400.0,2.0,0.0,0.0,2.0,False,0.0
+CHARR,Charlton Aria Acquisition Corporation,,,0.18,0.0,2.0,0.0,0.0,2.0,False,0.0
+CHPGR,ChampionsGate Acquisition Corporation,,,0.1797,0.0,2.0,0.0,0.0,2.0,False,0.0
+MKLYR,McKinley Acquisition Corporation,,,0.15,0.0,2.0,0.0,0.0,2.0,False,0.0
+OYSER,Oyster Enterprises II Acquisition Corp,,,0.1579,0.0,2.0,0.0,0.0,2.0,False,0.0
+MFICL,MidCap Financial Investment Corporation,,,25.2203,0.0,2.0,0.0,0.0,2.0,False,0.0
+SZZLR,Sizzle Acquisition Corp. II,,,0.21,0.0,2.0,0.0,0.0,2.0,False,0.0
+ATMVR,AlphaVest Acquisition Corp,,,0.6645,0.0,2.0,0.0,0.0,2.0,False,0.0
+TAVIR,Tavia Acquisition Corp.,,,0.2251,0.0,2.0,0.0,0.0,2.0,False,0.0
+APACR,StoneBridge Acquisition II Corporation,,,0.1401,0.0,2.0,0.0,0.0,2.0,False,0.0
+LKSPR,Lake Superior Acquisition Corp.,,,1.74,0.0,2.0,0.0,0.0,2.0,False,0.0
+BKHAR,Black Hawk Acquisition Corporation,,,0.86,1186800.0,2.0,0.0,0.0,2.0,False,0.0
+PGACR,Pantages Capital Acquisition Corporation.,,,0.31,0.0,2.0,0.0,0.0,2.0,False,0.0
+LCCCR,Lakeshore Acquisition III Corp.,,,0.2368,0.0,2.0,0.0,0.0,2.0,False,0.0
+LAFAR,LaFayette Acquisition Corp.,,,0.17,0.0,2.0,0.0,0.0,2.0,False,0.0
+KFIIR,K&F Growth Acquisition Corp. II,,,0.2,0.0,2.0,0.0,0.0,2.0,False,0.0
+AXINR,Axiom Intelligence Acquisition Corp 1,,,0.24,0.0,2.0,0.0,0.0,2.0,False,0.0
+TVAIR,Thayer Ventures Acquisition Corporation II,,,0.21,0.0,2.0,0.0,0.0,2.0,False,0.0
+TVC,Tennessee Valley Authority,,,24.16,12684000.0,2.0,0.0,0.0,2.0,False,0.0
+IPEXR,Inflection Point Acquisition Corp. V,,,0.96,0.0,2.0,0.0,0.0,2.0,False,0.0
+IPCXR,Inflection Point Acquisition Corp. III,,,0.3779,0.0,2.0,0.0,0.0,2.0,False,0.0
+INACR,Indigo Acquisition Corp.,,,0.15,0.0,2.0,0.0,0.0,2.0,False,0.0
+HVIIR,Hennessy Capital Investment Corp. VII,,,0.27,408936.0,2.0,0.0,0.0,2.0,False,0.0
+HSPOR,Horizon Space Acquisition I Corp.,,,0.0914,0.0,2.0,0.0,0.0,2.0,False,0.0
+HSPTR,Horizon Space Acquisition II Corp.,,,0.1501,0.0,2.0,0.0,0.0,2.0,False,0.0
+DMIIR,Drugs Made In America Acquisition II Corp. Right,,,0.15,0.0,2.0,0.0,0.0,2.0,False,0.0
+DMAAR,Drugs Made In America Acquisition Corp.,,,0.195,3977999.0,2.0,0.0,0.0,2.0,False,0.0
+GTERR,Globa Terra Acquisition Corporation,,,0.17,0.0,2.0,0.0,0.0,2.0,False,0.0
+BACCR,Blue Acquisition Corp.,,,0.33,0.0,2.0,0.0,0.0,2.0,False,0.0
+BEAGR,Bold Eagle Acquisition Corp.,,,0.37,0.0,2.0,0.0,0.0,2.0,False,0.0
+GSRFR,GSR IV Acquisition Corp.,,,2.5,0.0,2.0,0.0,0.0,2.0,False,0.0
+QSEAR,Quartzsea Acquisition Corporation,,,0.29,0.0,2.0,0.0,0.0,2.0,False,0.0
+AFJKR,"Aimei Health Technology Co., Ltd",,,0.3495,0.0,2.0,0.0,0.0,2.0,False,0.0
+DTSQR,DT Cloud Star Acquisition Corporation,,,0.1501,0.0,2.0,0.0,0.0,2.0,False,0.0
+QETAR,Quetta Acquisition Corporation,,,1.575,0.0,2.0,0.0,0.0,2.0,False,0.0
+BACQR,Inflection Point Acquisition Corp. IV,,,0.85,0.0,2.0,0.0,0.0,2.0,False,0.0
+QUMSR,Quantumsphere Acquisition Corporation,,,0.23,0.0,2.0,0.0,0.0,2.0,False,0.0
+WHLRL,"Wheeler Real Estate Investment Trust, Inc.",,,93.88,0.0,2.0,0.0,0.0,2.0,False,0.0
+EGHAR,EGH Acquisition Corp.,,,0.25,0.0,2.0,0.0,0.0,2.0,False,0.0
+BAYAR,Bayview Acquisition Corp,,,0.1441,0.0,2.0,0.0,0.0,2.0,False,0.0
+RFAIR,RF Acquisition Corp II,,,0.12,0.0,2.0,0.0,0.0,2.0,False,0.0
+FERAR,Fifth Era Acquisition Corp I,,,0.35,0.0,2.0,0.0,0.0,2.0,False,0.0
+AACBR,Artius II Acquisition Inc.,,,0.36,0.0,2.0,0.0,0.0,2.0,False,0.0
+EURKR,Eureka Acquisition Corp,,,0.5,0.0,2.5,0.0,-1.0,1.5,False,0.0
+WTGUR,Wintergreen Acquisition Corp.,,,0.215,0.0,2.5,0.0,-1.0,1.5,False,0.0
+FVNNR,Future Vision II Acquisition Corp.,,,0.15,0.0,2.5,0.0,-1.0,1.5,False,0.0
+APADR,A Paradise Acquisition Corp.,,,0.2609,0.0,2.5,0.0,-1.0,1.5,False,0.0
+ASPCR,A SPAC III Acquisition Corp.,,,0.19,0.0,2.5,0.0,-1.0,1.5,False,0.0
+BSAAR,BEST SPAC I Acquisition Corp.,,,0.1402,0.0,2.5,0.0,-1.0,1.5,False,0.0
+YHNAR,YHN Acquisition I Limited,,,0.145,0.0,2.0,0.0,-1.0,1.0,False,0.0
+RDACR,Rising Dragon Acquisition Corp.,,,0.1801,0.0,2.0,0.0,-1.0,1.0,False,0.0
